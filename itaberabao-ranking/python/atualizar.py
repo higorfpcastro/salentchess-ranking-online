@@ -24,7 +24,7 @@ import requests
 # CONFIGURAÇÃO
 # ============================================================
 
-TEAM_ID = "itaberabao"
+TEAM_ID = "salentchess"
 START_TIMESTAMP_MS = 1755563400000  # 18/08/2025 00:00 UTC aproximadamente
 EXCLUDED_TOURNAMENTS = {"WOE0IJur"}
 NAME_PATTERN = re.compile(r"ITABERAB|Embaixador", re.IGNORECASE)
