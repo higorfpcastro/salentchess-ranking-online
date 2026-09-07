@@ -5,6 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ranking Itaberabão</title>
   <link rel="stylesheet" href="style.css">
+  <!-- Fonte Noto Sans para combinar com o estilo Lichess -->
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
   <header class="hero">
@@ -110,9 +112,9 @@
   </footer>
 
   <!-- Modal de detalhes do jogador -->
-  <div id="player-modal" class="modal hidden">
+  <div id="player-modal" class="modal hidden" aria-hidden="true">
     <div class="modal-content">
-      <button id="close-modal" class="close">×</button>
+      <button id="close-modal" class="close" aria-label="Fechar">×</button>
       <div id="player-details"></div>
     </div>
   </div>
