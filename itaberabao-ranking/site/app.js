@@ -1,0 +1,134 @@
+const DATA = "../data/";
+
+let ranking = [];
+let winners = [];
+let categories = [];
+let tournaments = [];
+let status = {};
+
+async function loadJSON(file) {
+  const response = await fetch(DATA + file);
+  if (!response.ok) throw new Error(`Falha ao carregar ${file}`);
+  return response.json();
+}
+
+function fmt(value, digits = 0) {
+  if (value === null || value === undefined || Number.isNaN(Number(value))) {
+    return "—";
+  }
+  return Number(value).toLocaleString("pt-BR", {
+    maximumFractionDigits: digits,
+    minimumFractionDigits: digits
+  });
+}
+
+function dateFmt(value) {
+  if (!value) return "—";
+  return new Intl.DateTimeFormat("pt-BR", {
+    dateStyle: "short",
+    timeStyle: "short"
+  }).format(new Date(value));
+}
+
+function renderCards() {
+  const cards = [
+    ["Jogadores", status.players ?? ranking.length],
+    ["Torneios", status.tournaments ?? tournaments.length],
+    ["Participações", status.participations ?? "—"],
+    ["Atualizado", status.updated_at ? dateFmt(status.updated_at) : "—"]
+  ];
+
+  document.querySelector("#cards").innerHTML = cards.map(([label, value]) => `
+    <div class="card">
+      <span class="card-label">${label}</span>
+      <strong class="card-value">${value}</strong>
+    </div>
+  `).join("");
+}
+
+function renderRanking(filter = "") {
+  const query = filter.trim().toLowerCase();
+  const rows = ranking.filter(p => (p.Nick || "").toLowerCase().includes(query));
+
+  document.querySelector("#ranking tbody").innerHTML = rows.map((p, i) => `
+    <tr>
+      <td class="rank">${i + 1}</td>
+      <td class="player">${p.Nick ?? "—"}</td>
+      <td><strong>${fmt(p.Pontos)}</strong></td>
+      <td>${fmt(p.Desempenho_Medio)}</td>
+      <td>${fmt(p.podio_primeiro)}</td>
+      <td>${fmt(p.podio_segundo)}</td>
+      <td>${fmt(p.podio_terceiro)}</td>
+      <td>${fmt(p.Rating_Medio)}</td>
+      <td>${fmt(p.Participacoes)}</td>
+    </tr>
+  `).join("");
+}
+
+function renderWinners() {
+  document.querySelector("#winners tbody").innerHTML = winners.slice(0, 20).map((p, i) => `
+    <tr>
+      <td class="rank">${i + 1}</td>
+      <td class="player">${p.vencedores ?? "—"}</td>
+      <td>${fmt(p.vitorias)}</td>
+      <td>${fmt(p.Pontos)}</td>
+    </tr>
+  `).join("");
+}
+
+function renderCategories() {
+  document.querySelector("#categories tbody").innerHTML = categories.map(p => `
+    <tr>
+      <td>${p.Categoria ?? "—"}</td>
+      <td class="player">${p.Nick ?? "—"}</td>
+      <td>${fmt(p.Rating_Medio)}</td>
+      <td>${fmt(p.Pontos)}</td>
+    </tr>
+  `).join("");
+}
+
+function renderTournaments() {
+  const recent = [...tournaments].reverse().slice(0, 30);
+
+  document.querySelector("#tournaments tbody").innerHTML = recent.map(t => `
+    <tr>
+      <td>${dateFmt(t.startsAt)}</td>
+      <td>${t.name ?? "—"}</td>
+      <td class="player">${t.winner ?? "—"}</td>
+      <td><a href="${t.url}" target="_blank" rel="noopener">Lichess ↗</a></td>
+    </tr>
+  `).join("");
+}
+
+async function init() {
+  try {
+    [ranking, winners, categories, tournaments, status] = await Promise.all([
+      loadJSON("jogadores.json"),
+      loadJSON("vencedores.json"),
+      loadJSON("categorias.json"),
+      loadJSON("torneios.json"),
+      loadJSON("status.json")
+    ]);
+
+    renderCards();
+    renderRanking();
+    renderWinners();
+    renderCategories();
+    renderTournaments();
+
+    document.querySelector("#status").textContent =
+      status.updated_at
+        ? `Última atualização: ${dateFmt(status.updated_at)}`
+        : "Aguardando a primeira atualização automática.";
+  } catch (error) {
+    document.querySelector("#status").textContent =
+      "Não foi possível carregar os dados. Execute o workflow de atualização.";
+    console.error(error);
+  }
+}
+
+document.querySelector("#search").addEventListener("input", e => {
+  renderRanking(e.target.value);
+});
+
+init();
