@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-07T17:19:25.326709+00:00",
-  "duration_seconds": 100.45,
+  "updated_at": "2026-09-07T17:56:15.007599+00:00",
+  "duration_seconds": 180.15,
   "team": "salentchess",
-  "tournaments": 0,
-  "players": 0,
-  "participations": 0,
+  "tournaments": 273,
+  "players": 383,
+  "participations": 5384,
   "success": true
 }

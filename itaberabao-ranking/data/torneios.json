@@ -1,1 +1,1913 @@
-[]
+[
+  {
+    "id": "GpIbe1Vn",
+    "name": "1458º SLT JUDIT POLGÁR Arena",
+    "winner": "buscapato33",
+    "startsAt": "2025-08-19T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/GpIbe1Vn"
+  },
+  {
+    "id": "O2bBvJI6",
+    "name": "1459º SLT JUDIT POLGÁR Arena",
+    "winner": "MATEMATICO",
+    "startsAt": "2025-08-20T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/O2bBvJI6"
+  },
+  {
+    "id": "iCSe0Q9l",
+    "name": "1460º SLT JUDIT POLGÁR Arena",
+    "winner": "fumecador",
+    "startsAt": "2025-08-21T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/iCSe0Q9l"
+  },
+  {
+    "id": "eh8cmNgo",
+    "name": "1461º SLT JUDIT POLGÁR Arena",
+    "winner": "carlosmaia",
+    "startsAt": "2025-08-22T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/eh8cmNgo"
+  },
+  {
+    "id": "vKZh7DPV",
+    "name": "1464º SLT JUDIT POLGÁR Arena",
+    "winner": "Gilbertooliveira78",
+    "startsAt": "2025-08-25T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/vKZh7DPV"
+  },
+  {
+    "id": "Gq5JnkZg",
+    "name": "1465º SLT JUDIT POLGÁR Arena",
+    "winner": "OXXENTE",
+    "startsAt": "2025-08-26T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/Gq5JnkZg"
+  },
+  {
+    "id": "r4PQvuxE",
+    "name": "1466º SLT JUDIT POLGÁR Arena",
+    "winner": "fumecador",
+    "startsAt": "2025-08-27T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/r4PQvuxE"
+  },
+  {
+    "id": "fKZGGfyP",
+    "name": "1467º SLT JUDIT POLGÁR Arena",
+    "winner": "windsonmama25",
+    "startsAt": "2025-08-28T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/fKZGGfyP"
+  },
+  {
+    "id": "7zvxBpo2",
+    "name": "1468º SLT JUDIT POLGÁR Arena",
+    "winner": "Charllos",
+    "startsAt": "2025-08-29T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/7zvxBpo2"
+  },
+  {
+    "id": "DNUwu5QZ",
+    "name": "1471º SLT JUDIT POLGÁR Arena",
+    "winner": "Gilbertooliveira78",
+    "startsAt": "2025-09-01T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/DNUwu5QZ"
+  },
+  {
+    "id": "jbd4UYQ9",
+    "name": "1472º SLT JUDIT POLGÁR Arena",
+    "winner": "imnotcarlsen",
+    "startsAt": "2025-09-02T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/jbd4UYQ9"
+  },
+  {
+    "id": "vWvlGVp1",
+    "name": "1473º SLT JUDIT POLGÁR Arena",
+    "winner": "imnotcarlsen",
+    "startsAt": "2025-09-03T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/vWvlGVp1"
+  },
+  {
+    "id": "n9ceJayd",
+    "name": "1474º SLT JUDIT POLGÁR Arena",
+    "winner": "D4P4z",
+    "startsAt": "2025-09-04T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/n9ceJayd"
+  },
+  {
+    "id": "WYlTYyzn",
+    "name": "1475º SLT JUDIT POLGÁR Arena",
+    "winner": "Farofa_de_Bacon",
+    "startsAt": "2025-09-05T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/WYlTYyzn"
+  },
+  {
+    "id": "kCVow8Dt",
+    "name": "1478º SLT JUDIT POLGÁR Arena",
+    "winner": "Luzardo1Braga2Ramos3",
+    "startsAt": "2025-09-08T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/kCVow8Dt"
+  },
+  {
+    "id": "ycDRlurM",
+    "name": "1479º SLT JUDIT POLGÁR Arena",
+    "winner": "Thunder2021",
+    "startsAt": "2025-09-09T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/ycDRlurM"
+  },
+  {
+    "id": "ATiwpSjV",
+    "name": "1480º SLT JUDIT POLGÁR Arena",
+    "winner": "Stormy-ChessWorld",
+    "startsAt": "2025-09-10T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/ATiwpSjV"
+  },
+  {
+    "id": "D2MuJTFH",
+    "name": "1481º SLT JUDIT POLGÁR Arena",
+    "winner": "EdsonFaustino",
+    "startsAt": "2025-09-11T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/D2MuJTFH"
+  },
+  {
+    "id": "khhtENsP",
+    "name": "1482º SLT JUDIT POLGÁR Arena",
+    "winner": "rolandobrazil",
+    "startsAt": "2025-09-12T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/khhtENsP"
+  },
+  {
+    "id": "CFwVRaLU",
+    "name": "1485º SLT JUDIT POLGÁR Arena",
+    "winner": "Numsei01",
+    "startsAt": "2025-09-15T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/CFwVRaLU"
+  },
+  {
+    "id": "Umwugydp",
+    "name": "1486º SLT JUDIT POLGÁR Arena",
+    "winner": "ELEFANTE19",
+    "startsAt": "2025-09-16T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/Umwugydp"
+  },
+  {
+    "id": "XZPrRNA3",
+    "name": "1487º SLT JUDIT POLGÁR Arena",
+    "winner": "ELEFANTE19",
+    "startsAt": "2025-09-17T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/XZPrRNA3"
+  },
+  {
+    "id": "IozpGZoB",
+    "name": "1488º SLT JUDIT POLGÁR Arena",
+    "winner": "ELEFANTE19",
+    "startsAt": "2025-09-18T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/IozpGZoB"
+  },
+  {
+    "id": "bSYrnLg3",
+    "name": "1489º SLT JUDIT POLGÁR Arena",
+    "winner": "LevyRodrigues",
+    "startsAt": "2025-09-19T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/bSYrnLg3"
+  },
+  {
+    "id": "CtEPT5ST",
+    "name": "1492º SLT JUDIT POLGÁR Arena",
+    "winner": "Thunder2021",
+    "startsAt": "2025-09-22T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/CtEPT5ST"
+  },
+  {
+    "id": "ql5MZ2eE",
+    "name": "1 4 9 3 º   JUDIT  POLGAR Arena",
+    "winner": "Entrenador3talentos",
+    "startsAt": "2025-09-23T21:05:00+00:00",
+    "url": "https://lichess.org/tournament/ql5MZ2eE"
+  },
+  {
+    "id": "AMlnFg9V",
+    "name": "1494º SLT JUDIT POLGÁR Arena",
+    "winner": "RodrigoBonora",
+    "startsAt": "2025-09-24T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/AMlnFg9V"
+  },
+  {
+    "id": "ubgy5sAR",
+    "name": "1495º SLT JUDIT POLGÁR Arena",
+    "winner": "Numsei01",
+    "startsAt": "2025-09-25T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/ubgy5sAR"
+  },
+  {
+    "id": "dCaZQQpG",
+    "name": "1496º SLT JUDIT POLGÁR Arena",
+    "winner": "Stormy-ChessWorld",
+    "startsAt": "2025-09-26T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/dCaZQQpG"
+  },
+  {
+    "id": "nfOJMS3N",
+    "name": "1499º SLT JUDIT POLGÁR Arena",
+    "winner": "Gilbertooliveira78",
+    "startsAt": "2025-09-29T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/nfOJMS3N"
+  },
+  {
+    "id": "Yb3ETOcs",
+    "name": "1500º SLT JUDIT POLGÁR Arena",
+    "winner": "Grillito",
+    "startsAt": "2025-09-30T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/Yb3ETOcs"
+  },
+  {
+    "id": "KRn0bWP9",
+    "name": "1501º SLT JUDIT POLGÁR Arena",
+    "winner": "Canal_Chessveja",
+    "startsAt": "2025-10-01T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/KRn0bWP9"
+  },
+  {
+    "id": "uFwMaGlK",
+    "name": "1502º SLT JUDIT POLGÁR Arena",
+    "winner": "D4P4z",
+    "startsAt": "2025-10-02T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/uFwMaGlK"
+  },
+  {
+    "id": "2lLEZKX6",
+    "name": "1503º SLT JUDIT POLGÁR Arena",
+    "winner": "Gilbertooliveira78",
+    "startsAt": "2025-10-03T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/2lLEZKX6"
+  },
+  {
+    "id": "hkKruPR3",
+    "name": "1506º SLT JUDIT POLGÁR Arena",
+    "winner": "Farofa_de_Bacon",
+    "startsAt": "2025-10-06T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/hkKruPR3"
+  },
+  {
+    "id": "fp8ZpJZc",
+    "name": "1507º SLT JUDIT POLGÁR Arena",
+    "winner": "reidapatolandia",
+    "startsAt": "2025-10-07T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/fp8ZpJZc"
+  },
+  {
+    "id": "gGtwehay",
+    "name": "1508º SLT JUDIT POLGÁR Arena",
+    "winner": "Farofa_de_Bacon",
+    "startsAt": "2025-10-08T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/gGtwehay"
+  },
+  {
+    "id": "SO06pCya",
+    "name": "1509º SLT JUDIT POLGÁR Arena",
+    "winner": "ELEFANTE19",
+    "startsAt": "2025-10-09T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/SO06pCya"
+  },
+  {
+    "id": "Ydcy4Z08",
+    "name": "1510º SLT JUDIT POLGÁR Arena",
+    "winner": "j_erry",
+    "startsAt": "2025-10-10T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/Ydcy4Z08"
+  },
+  {
+    "id": "lPb1LmAA",
+    "name": "1513º SLT JUDIT POLGÁR Arena",
+    "winner": "Entrenador3talentos",
+    "startsAt": "2025-10-13T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/lPb1LmAA"
+  },
+  {
+    "id": "yMg6ofmp",
+    "name": "1514º SLT JUDIT POLGÁR Arena",
+    "winner": "Stormy-ChessWorld",
+    "startsAt": "2025-10-14T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/yMg6ofmp"
+  },
+  {
+    "id": "CRErrPWh",
+    "name": "1515º SLT JUDIT POLGÁR Arena",
+    "winner": "OXXENTE",
+    "startsAt": "2025-10-15T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/CRErrPWh"
+  },
+  {
+    "id": "sno0mD0J",
+    "name": "1516º SLT JUDIT POLGÁR Arena",
+    "winner": "GESSE_GZN",
+    "startsAt": "2025-10-16T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/sno0mD0J"
+  },
+  {
+    "id": "O0QJPjcg",
+    "name": "1517º SLT JUDIT POLGÁR Arena",
+    "winner": "Numsei01",
+    "startsAt": "2025-10-17T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/O0QJPjcg"
+  },
+  {
+    "id": "mRBfkqZl",
+    "name": "1520º SLT JUDIT POLGÁR Arena",
+    "winner": "Tonystar111",
+    "startsAt": "2025-10-20T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/mRBfkqZl"
+  },
+  {
+    "id": "Pf7YKef8",
+    "name": "1521º SLT JUDIT POLGÁR Arena",
+    "winner": "Tonystar111",
+    "startsAt": "2025-10-21T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/Pf7YKef8"
+  },
+  {
+    "id": "FsDNuASI",
+    "name": "1522º SLT JUDIT POLGÁR Arena",
+    "winner": "Tonystar111",
+    "startsAt": "2025-10-22T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/FsDNuASI"
+  },
+  {
+    "id": "bufv0a4T",
+    "name": "1523º SLT JUDIT POLGÁR Arena",
+    "winner": "buscapato33",
+    "startsAt": "2025-10-23T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/bufv0a4T"
+  },
+  {
+    "id": "ntRJDiV6",
+    "name": "1524º SLT JUDIT POLGÁR Arena",
+    "winner": "GESSE_GZN",
+    "startsAt": "2025-10-24T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/ntRJDiV6"
+  },
+  {
+    "id": "MDYFoeB8",
+    "name": "1527º SLT JUDIT POLGÁR Arena",
+    "winner": "Farofa_de_Bacon",
+    "startsAt": "2025-10-27T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/MDYFoeB8"
+  },
+  {
+    "id": "oHqIngnR",
+    "name": "1528º SLT JUDIT POLGÁR Arena",
+    "winner": "vitorkalangoo",
+    "startsAt": "2025-10-28T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/oHqIngnR"
+  },
+  {
+    "id": "spCO1Tq1",
+    "name": "1529º SLT JUDIT POLGÁR Arena",
+    "winner": "buscapato33",
+    "startsAt": "2025-10-29T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/spCO1Tq1"
+  },
+  {
+    "id": "5vDcTXuO",
+    "name": "1530º SLT JUDIT POLGÁR Arena",
+    "winner": "GESSE_GZN",
+    "startsAt": "2025-10-30T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/5vDcTXuO"
+  },
+  {
+    "id": "r6eLJPsg",
+    "name": "1531º SLT JUDIT POLGÁR Arena",
+    "winner": "Marquinhosantonio",
+    "startsAt": "2025-10-31T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/r6eLJPsg"
+  },
+  {
+    "id": "BrFtwm3i",
+    "name": "1534º SLT JUDIT POLGÁR Arena",
+    "winner": "GESSE_GZN",
+    "startsAt": "2025-11-03T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/BrFtwm3i"
+  },
+  {
+    "id": "ca2zPeSG",
+    "name": "1535º SLT JUDIT POLGÁR Arena",
+    "winner": "zenildosilva",
+    "startsAt": "2025-11-04T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/ca2zPeSG"
+  },
+  {
+    "id": "jUvtKmlS",
+    "name": "1536º SLT JUDIT POLGÁR Arena",
+    "winner": "Tonystar111",
+    "startsAt": "2025-11-05T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/jUvtKmlS"
+  },
+  {
+    "id": "HssYGIrX",
+    "name": "1537º SLT JUDIT POLGÁR Arena",
+    "winner": "Farofa_de_Bacon",
+    "startsAt": "2025-11-06T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/HssYGIrX"
+  },
+  {
+    "id": "8Ivciih0",
+    "name": "1538º SLT JUDIT POLGÁR Arena",
+    "winner": "GESSE_GZN",
+    "startsAt": "2025-11-07T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/8Ivciih0"
+  },
+  {
+    "id": "jpENKMvP",
+    "name": "1541º SLT JUDIT POLGÁR Arena",
+    "winner": "GESSE_GZN",
+    "startsAt": "2025-11-10T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/jpENKMvP"
+  },
+  {
+    "id": "d7Q5AL2p",
+    "name": "1542º SLT JUDIT POLGÁR Arena",
+    "winner": "Chessmachin3",
+    "startsAt": "2025-11-11T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/d7Q5AL2p"
+  },
+  {
+    "id": "B3HD5YQp",
+    "name": "1543º SLT JUDIT POLGÁR Arena",
+    "winner": "Leonilson",
+    "startsAt": "2025-11-12T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/B3HD5YQp"
+  },
+  {
+    "id": "3de3xX1x",
+    "name": "1544º SLT JUDIT POLGÁR Arena",
+    "winner": "Canal_Chessveja",
+    "startsAt": "2025-11-13T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/3de3xX1x"
+  },
+  {
+    "id": "aSgvNK7F",
+    "name": "1545º SLT JUDIT POLGÁR Arena",
+    "winner": "HALion_222",
+    "startsAt": "2025-11-14T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/aSgvNK7F"
+  },
+  {
+    "id": "z6FmCbqU",
+    "name": "1548º SLT JUDIT POLGÁR Arena",
+    "winner": "GESSE_GZN",
+    "startsAt": "2025-11-17T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/z6FmCbqU"
+  },
+  {
+    "id": "j0wE7OFE",
+    "name": "1549º SLT JUDIT POLGÁR Arena",
+    "winner": "Balzabouth",
+    "startsAt": "2025-11-18T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/j0wE7OFE"
+  },
+  {
+    "id": "WQaSFhJo",
+    "name": "1550º SLT JUDIT POLGÁR Arena",
+    "winner": "reidapatolandia",
+    "startsAt": "2025-11-19T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/WQaSFhJo"
+  },
+  {
+    "id": "7LY6j9lA",
+    "name": "1551º SLT JUDIT POLGÁR Arena",
+    "winner": "Marquinhosantonio",
+    "startsAt": "2025-11-20T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/7LY6j9lA"
+  },
+  {
+    "id": "wNylQoB2",
+    "name": "1552º SLT JUDIT POLGÁR Arena",
+    "winner": "buscapato33",
+    "startsAt": "2025-11-21T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/wNylQoB2"
+  },
+  {
+    "id": "pxLgjbQK",
+    "name": "1555º SLT JUDIT POLGÁR Arena",
+    "winner": "EduVasco",
+    "startsAt": "2025-11-24T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/pxLgjbQK"
+  },
+  {
+    "id": "VTavXatb",
+    "name": "1556º SLT JUDIT POLGÁR Arena",
+    "winner": "j_erry",
+    "startsAt": "2025-11-25T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/VTavXatb"
+  },
+  {
+    "id": "IYQa4rXh",
+    "name": "1557º SLT JUDIT POLGÁR Arena",
+    "winner": "buscapato33",
+    "startsAt": "2025-11-26T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/IYQa4rXh"
+  },
+  {
+    "id": "5O0LEX0O",
+    "name": "1558º SLT JUDIT POLGÁR Arena",
+    "winner": "Balzabouth",
+    "startsAt": "2025-11-27T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/5O0LEX0O"
+  },
+  {
+    "id": "LA6wQSj2",
+    "name": "1559º SLT JUDIT POLGÁR Arena",
+    "winner": "Charllos",
+    "startsAt": "2025-11-28T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/LA6wQSj2"
+  },
+  {
+    "id": "FM4xC7nj",
+    "name": "1562º SLT JUDIT POLGÁR Arena",
+    "winner": "BonoraChess",
+    "startsAt": "2025-12-01T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/FM4xC7nj"
+  },
+  {
+    "id": "U6MQiLzM",
+    "name": "1563º SLT JUDIT POLGÁR Arena",
+    "winner": "buscapato33",
+    "startsAt": "2025-12-02T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/U6MQiLzM"
+  },
+  {
+    "id": "hGyfpU5l",
+    "name": "1564º SLT JUDIT POLGÁR Arena",
+    "winner": "OXXENTE",
+    "startsAt": "2025-12-03T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/hGyfpU5l"
+  },
+  {
+    "id": "bTffhudd",
+    "name": "1565º SLT JUDIT POLGÁR Arena",
+    "winner": "j_erry",
+    "startsAt": "2025-12-04T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/bTffhudd"
+  },
+  {
+    "id": "QY6v7zMz",
+    "name": "1566º SLT JUDIT POLGÁR Arena",
+    "winner": "windsonmama25",
+    "startsAt": "2025-12-05T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/QY6v7zMz"
+  },
+  {
+    "id": "dXU4rE40",
+    "name": "1569º SLT JUDIT POLGÁR Arena",
+    "winner": "OXXENTE",
+    "startsAt": "2025-12-08T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/dXU4rE40"
+  },
+  {
+    "id": "B1pFhdbr",
+    "name": "1570º SLT JUDIT POLGÁR Arena",
+    "winner": "buscapato33",
+    "startsAt": "2025-12-09T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/B1pFhdbr"
+  },
+  {
+    "id": "56nInI4o",
+    "name": "1571º SLT JUDIT POLGÁR Arena",
+    "winner": "Gilbertooliveira78",
+    "startsAt": "2025-12-10T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/56nInI4o"
+  },
+  {
+    "id": "oh2lo1vz",
+    "name": "1572º SLT JUDIT POLGÁR Arena",
+    "winner": "Canal_Chessveja",
+    "startsAt": "2025-12-11T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/oh2lo1vz"
+  },
+  {
+    "id": "QcALMK6O",
+    "name": "1573º SLT JUDIT POLGÁR Arena",
+    "winner": "Raffa29",
+    "startsAt": "2025-12-12T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/QcALMK6O"
+  },
+  {
+    "id": "VkuQeiZI",
+    "name": "1576º SLT JUDIT POLGÁR Arena",
+    "winner": "Canal_Chessveja",
+    "startsAt": "2025-12-15T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/VkuQeiZI"
+  },
+  {
+    "id": "Gx1WXcSy",
+    "name": "1577º SLT JUDIT POLGÁR Arena",
+    "winner": "LevyRodrigues",
+    "startsAt": "2025-12-16T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/Gx1WXcSy"
+  },
+  {
+    "id": "8PDREnXf",
+    "name": "1578º SLT JUDIT POLGÁR Arena",
+    "winner": "buscapato33",
+    "startsAt": "2025-12-17T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/8PDREnXf"
+  },
+  {
+    "id": "iaOxyQBV",
+    "name": "1579º SLT JUDIT POLGÁR Arena",
+    "winner": "Numsei01",
+    "startsAt": "2025-12-18T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/iaOxyQBV"
+  },
+  {
+    "id": "CFgZEBxi",
+    "name": "1580º SLT JUDIT POLGÁR Arena",
+    "winner": "buscapato33",
+    "startsAt": "2025-12-19T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/CFgZEBxi"
+  },
+  {
+    "id": "I8tiBheT",
+    "name": "1583º SLT JUDIT POLGÁR Arena",
+    "winner": "buscapato33",
+    "startsAt": "2025-12-22T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/I8tiBheT"
+  },
+  {
+    "id": "1PFzAFwW",
+    "name": "1584º SLT JUDIT POLGÁR Arena",
+    "winner": "buscapato33",
+    "startsAt": "2025-12-23T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/1PFzAFwW"
+  },
+  {
+    "id": "PInCoGUs",
+    "name": "1585º SLT JUDIT POLGÁR Arena",
+    "winner": "MorphyAgain",
+    "startsAt": "2025-12-24T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/PInCoGUs"
+  },
+  {
+    "id": "YpaICBF9",
+    "name": "1586º SLT JUDIT POLGÁR Arena",
+    "winner": "Marquinhosantonio",
+    "startsAt": "2025-12-25T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/YpaICBF9"
+  },
+  {
+    "id": "Lh8N2cKA",
+    "name": "1587º SLT JUDIT POLGÁR Arena",
+    "winner": "Braziljr1",
+    "startsAt": "2025-12-26T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/Lh8N2cKA"
+  },
+  {
+    "id": "YhHBYIqe",
+    "name": "1590º SLT JUDIT POLGÁR Arena",
+    "winner": "j_erry",
+    "startsAt": "2025-12-29T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/YhHBYIqe"
+  },
+  {
+    "id": "i1D9WeWB",
+    "name": "1591º SLT JUDIT POLGÁR Arena",
+    "winner": "RicardoLLopes",
+    "startsAt": "2025-12-30T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/i1D9WeWB"
+  },
+  {
+    "id": "xGzdXsdM",
+    "name": "1592º SLT JUDIT POLGÁR Arena",
+    "winner": "P3rsa",
+    "startsAt": "2025-12-31T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/xGzdXsdM"
+  },
+  {
+    "id": "JfWGz99n",
+    "name": "1593º SLT JUDIT POLGÁR Arena",
+    "winner": "buscapato33",
+    "startsAt": "2026-01-01T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/JfWGz99n"
+  },
+  {
+    "id": "dV5jhJ9A",
+    "name": "1594º SLT JUDIT POLGÁR Arena",
+    "winner": "reidapatolandia",
+    "startsAt": "2026-01-02T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/dV5jhJ9A"
+  },
+  {
+    "id": "LPlDnyDd",
+    "name": "1597º SLT JUDIT POLGÁR Arena",
+    "winner": "EdsonFaustino",
+    "startsAt": "2026-01-05T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/LPlDnyDd"
+  },
+  {
+    "id": "bT4HKFEM",
+    "name": "1598º SLT JUDIT POLGÁR Arena",
+    "winner": "buscapato33",
+    "startsAt": "2026-01-06T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/bT4HKFEM"
+  },
+  {
+    "id": "Ngt1VxsU",
+    "name": "1599º SLT JUDIT POLGÁR Arena",
+    "winner": "buscapato33",
+    "startsAt": "2026-01-07T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/Ngt1VxsU"
+  },
+  {
+    "id": "vpcfMAqa",
+    "name": "1600º SLT JUDIT POLGÁR Arena",
+    "winner": "schettert",
+    "startsAt": "2026-01-08T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/vpcfMAqa"
+  },
+  {
+    "id": "NZl9NDdd",
+    "name": "1601º SLT JUDIT POLGÁR Arena",
+    "winner": "buscapato33",
+    "startsAt": "2026-01-09T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/NZl9NDdd"
+  },
+  {
+    "id": "Fg3u60Qm",
+    "name": "1604º SLT JUDIT POLGÁR Arena",
+    "winner": "buscapato33",
+    "startsAt": "2026-01-12T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/Fg3u60Qm"
+  },
+  {
+    "id": "ZVKGUjEa",
+    "name": "1605º SLT JUDIT POLGÁR Arena",
+    "winner": "schettert",
+    "startsAt": "2026-01-13T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/ZVKGUjEa"
+  },
+  {
+    "id": "RFYTWKBD",
+    "name": "1606º SLT JUDIT POLGÁR Arena",
+    "winner": "Entrenador3talentos",
+    "startsAt": "2026-01-14T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/RFYTWKBD"
+  },
+  {
+    "id": "XHv3utI6",
+    "name": "1607º SLT JUDIT POLGÁR Arena",
+    "winner": "Ceara_mn",
+    "startsAt": "2026-01-15T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/XHv3utI6"
+  },
+  {
+    "id": "GFL3HMfA",
+    "name": "1608º SLT JUDIT POLGÁR Arena",
+    "winner": "buscapato33",
+    "startsAt": "2026-01-16T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/GFL3HMfA"
+  },
+  {
+    "id": "BkZZjkVL",
+    "name": "1611º SLT JUDIT POLGÁR Arena",
+    "winner": "Braziljr1",
+    "startsAt": "2026-01-19T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/BkZZjkVL"
+  },
+  {
+    "id": "7l6UYJiM",
+    "name": "1612º SLT JUDIT POLGÁR Arena",
+    "winner": "Numsei01",
+    "startsAt": "2026-01-20T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/7l6UYJiM"
+  },
+  {
+    "id": "wL8dNFRR",
+    "name": "1613º SLT JUDIT POLGÁR Arena",
+    "winner": "schettert",
+    "startsAt": "2026-01-21T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/wL8dNFRR"
+  },
+  {
+    "id": "iI11GuE9",
+    "name": "1614º SLT JUDIT POLGÁR Arena",
+    "winner": "UNCHIA",
+    "startsAt": "2026-01-22T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/iI11GuE9"
+  },
+  {
+    "id": "zi8Q4KXe",
+    "name": "1615º SLT JUDIT POLGÁR Arena",
+    "winner": "DiscipuloDoNekinho38",
+    "startsAt": "2026-01-23T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/zi8Q4KXe"
+  },
+  {
+    "id": "gJ0ROb32",
+    "name": "1618º SLT JUDIT POLGÁR Arena",
+    "winner": "malonepracinha",
+    "startsAt": "2026-01-26T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/gJ0ROb32"
+  },
+  {
+    "id": "Xe3JkkAU",
+    "name": "1619º SLT JUDIT POLGÁR Arena",
+    "winner": "ELEFANTE19",
+    "startsAt": "2026-01-27T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/Xe3JkkAU"
+  },
+  {
+    "id": "CQyOaTII",
+    "name": "1620º SLT JUDIT POLGÁR Arena",
+    "winner": "LevyRodrigues",
+    "startsAt": "2026-01-28T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/CQyOaTII"
+  },
+  {
+    "id": "9aboshiR",
+    "name": "1621º SLT JUDIT POLGÁR Arena",
+    "winner": "buscapato33",
+    "startsAt": "2026-01-29T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/9aboshiR"
+  },
+  {
+    "id": "zbIav9vL",
+    "name": "1622º SLT JUDIT POLGÁR Arena",
+    "winner": "buscapato33",
+    "startsAt": "2026-01-30T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/zbIav9vL"
+  },
+  {
+    "id": "oAKAVrOy",
+    "name": "1625º SLT JUDIT POLGÁR Arena",
+    "winner": "filhosdavelha",
+    "startsAt": "2026-02-02T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/oAKAVrOy"
+  },
+  {
+    "id": "5lD02BPP",
+    "name": "1626º SLT JUDIT POLGÁR Arena",
+    "winner": "Ceara_mn",
+    "startsAt": "2026-02-03T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/5lD02BPP"
+  },
+  {
+    "id": "EatslMSL",
+    "name": "1627º SLT JUDIT POLGÁR Arena",
+    "winner": "Gilbertooliveira78",
+    "startsAt": "2026-02-04T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/EatslMSL"
+  },
+  {
+    "id": "ecV3qpdE",
+    "name": "1628º SLT JUDIT POLGÁR Arena",
+    "winner": "Ceara_mn",
+    "startsAt": "2026-02-05T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/ecV3qpdE"
+  },
+  {
+    "id": "chE6AJbk",
+    "name": "1629º SLT JUDIT POLGÁR Arena",
+    "winner": "SAINT_GESSE_GOMEZ",
+    "startsAt": "2026-02-06T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/chE6AJbk"
+  },
+  {
+    "id": "T0Po6zVW",
+    "name": "1632º SLT JUDIT POLGÁR Arena",
+    "winner": "buscapato33",
+    "startsAt": "2026-02-09T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/T0Po6zVW"
+  },
+  {
+    "id": "FS1CwIIK",
+    "name": "1633º SLT JUDIT POLGÁR Arena",
+    "winner": "windsonmama25",
+    "startsAt": "2026-02-10T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/FS1CwIIK"
+  },
+  {
+    "id": "j1xBDhIL",
+    "name": "1634º SLT JUDIT POLGÁR Arena",
+    "winner": "buscapato33",
+    "startsAt": "2026-02-11T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/j1xBDhIL"
+  },
+  {
+    "id": "RsPA7xgM",
+    "name": "1635º SLT JUDIT POLGÁR Arena",
+    "winner": "Ceara_mn",
+    "startsAt": "2026-02-12T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/RsPA7xgM"
+  },
+  {
+    "id": "pBNVZ6iz",
+    "name": "1636º SLT JUDIT POLGÁR Arena",
+    "winner": "MATEMATICO",
+    "startsAt": "2026-02-13T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/pBNVZ6iz"
+  },
+  {
+    "id": "rQ9E87rd",
+    "name": "1639º SLT JUDIT POLGÁR Arena",
+    "winner": "OmiCapivara",
+    "startsAt": "2026-02-16T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/rQ9E87rd"
+  },
+  {
+    "id": "UL6qc8pP",
+    "name": "1640º SLT JUDIT POLGÁR Arena",
+    "winner": "OmiCapivara",
+    "startsAt": "2026-02-17T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/UL6qc8pP"
+  },
+  {
+    "id": "bFSat6mf",
+    "name": "1641º SLT JUDIT POLGÁR Arena",
+    "winner": "ProfessorCHESSVEJA",
+    "startsAt": "2026-02-18T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/bFSat6mf"
+  },
+  {
+    "id": "nnvusq58",
+    "name": "1642º SLT JUDIT POLGÁR Arena",
+    "winner": "MoorSoldaten",
+    "startsAt": "2026-02-19T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/nnvusq58"
+  },
+  {
+    "id": "Ok7T4z1O",
+    "name": "1643º SLT JUDIT POLGÁR Arena",
+    "winner": "schettert",
+    "startsAt": "2026-02-20T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/Ok7T4z1O"
+  },
+  {
+    "id": "Z9WHh8ds",
+    "name": "1646º SLT JUDIT POLGÁR Arena",
+    "winner": "Stormy-ChessWorld",
+    "startsAt": "2026-02-23T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/Z9WHh8ds"
+  },
+  {
+    "id": "ckLEBboU",
+    "name": "1647º SLT JUDIT POLGÁR Arena",
+    "winner": "filhosdavelha",
+    "startsAt": "2026-02-24T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/ckLEBboU"
+  },
+  {
+    "id": "0nHKiyhd",
+    "name": "1648º SLT JUDIT POLGÁR Arena",
+    "winner": "filhosdavelha",
+    "startsAt": "2026-02-25T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/0nHKiyhd"
+  },
+  {
+    "id": "seGWxBdX",
+    "name": "1649º SLT JUDIT POLGÁR Arena",
+    "winner": "Thunder2021",
+    "startsAt": "2026-02-26T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/seGWxBdX"
+  },
+  {
+    "id": "lXZCjO0E",
+    "name": "1650º SLT JUDIT POLGÁR Arena",
+    "winner": "Numsei01",
+    "startsAt": "2026-02-27T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/lXZCjO0E"
+  },
+  {
+    "id": "2ZtPsZfz",
+    "name": "1653º SLT JUDIT POLGÁR Arena",
+    "winner": "batolsai",
+    "startsAt": "2026-03-02T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/2ZtPsZfz"
+  },
+  {
+    "id": "bbfjG2Cd",
+    "name": "1654º SLT JUDIT POLGÁR Arena",
+    "winner": "ELEFANTE19",
+    "startsAt": "2026-03-03T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/bbfjG2Cd"
+  },
+  {
+    "id": "XQq2zSqn",
+    "name": "1655º SLT JUDIT POLGÁR Arena",
+    "winner": "filhosdavelha",
+    "startsAt": "2026-03-04T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/XQq2zSqn"
+  },
+  {
+    "id": "A1Y5xepu",
+    "name": "1656º SLT JUDIT POLGÁR Arena",
+    "winner": "ELEFANTE19",
+    "startsAt": "2026-03-05T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/A1Y5xepu"
+  },
+  {
+    "id": "dfAH2jlD",
+    "name": "1657º SLT JUDIT POLGÁR Arena",
+    "winner": "buscapato33",
+    "startsAt": "2026-03-06T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/dfAH2jlD"
+  },
+  {
+    "id": "0MFjN2hM",
+    "name": "1660º SLT JUDIT POLGÁR Arena",
+    "winner": "Bali16",
+    "startsAt": "2026-03-09T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/0MFjN2hM"
+  },
+  {
+    "id": "LvSLyk0B",
+    "name": "1661º SLT JUDIT POLGÁR Arena",
+    "winner": "Entrenador3talentos",
+    "startsAt": "2026-03-10T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/LvSLyk0B"
+  },
+  {
+    "id": "H8lrZw1O",
+    "name": "1662º SLT JUDIT POLGÁR Arena",
+    "winner": "Dionisius",
+    "startsAt": "2026-03-11T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/H8lrZw1O"
+  },
+  {
+    "id": "jOEV5cpp",
+    "name": "1663º SLT JUDIT POLGÁR Arena",
+    "winner": "LevyRodrigues",
+    "startsAt": "2026-03-12T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/jOEV5cpp"
+  },
+  {
+    "id": "W0Ot6rAm",
+    "name": "1664º SLT JUDIT POLGÁR Arena",
+    "winner": "Thunder2021",
+    "startsAt": "2026-03-13T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/W0Ot6rAm"
+  },
+  {
+    "id": "rIqVqs4G",
+    "name": "1667º SLT JUDIT POLGÁR Arena",
+    "winner": "ELEFANTE19",
+    "startsAt": "2026-03-16T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/rIqVqs4G"
+  },
+  {
+    "id": "ThXVUHBU",
+    "name": "1668º SLT JUDIT POLGÁR Arena",
+    "winner": "Bali16",
+    "startsAt": "2026-03-17T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/ThXVUHBU"
+  },
+  {
+    "id": "eHaLqyVB",
+    "name": "1669º SLT JUDIT POLGÁR Arena",
+    "winner": "RicardovskyBR",
+    "startsAt": "2026-03-18T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/eHaLqyVB"
+  },
+  {
+    "id": "42bGJ8aP",
+    "name": "1670º SLT JUDIT POLGÁR Arena",
+    "winner": "schettert",
+    "startsAt": "2026-03-19T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/42bGJ8aP"
+  },
+  {
+    "id": "dJTnrlxh",
+    "name": "1671º SLT JUDIT POLGÁR Arena",
+    "winner": "j_erry",
+    "startsAt": "2026-03-20T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/dJTnrlxh"
+  },
+  {
+    "id": "EWCT20fa",
+    "name": "1674º SLT JUDIT POLGÁR Arena",
+    "winner": "Deepsky1",
+    "startsAt": "2026-03-23T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/EWCT20fa"
+  },
+  {
+    "id": "cWva5F38",
+    "name": "1675º SLT JUDIT POLGÁR Arena",
+    "winner": "solanabitcoin",
+    "startsAt": "2026-03-24T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/cWva5F38"
+  },
+  {
+    "id": "uIJgGZ3F",
+    "name": "1676º SLT JUDIT POLGÁR Arena",
+    "winner": "Bali16",
+    "startsAt": "2026-03-25T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/uIJgGZ3F"
+  },
+  {
+    "id": "WMFNLg9s",
+    "name": "1677º SLT JUDIT POLGÁR Arena",
+    "winner": "Deepsky1",
+    "startsAt": "2026-03-26T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/WMFNLg9s"
+  },
+  {
+    "id": "pD7yE5mV",
+    "name": "1678º SLT JUDIT POLGÁR Arena",
+    "winner": "Bali16",
+    "startsAt": "2026-03-27T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/pD7yE5mV"
+  },
+  {
+    "id": "WRyHMHCz",
+    "name": "1681º SLT JUDIT POLGÁR Arena",
+    "winner": "Joao_Moreira52",
+    "startsAt": "2026-03-30T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/WRyHMHCz"
+  },
+  {
+    "id": "thuCxUXX",
+    "name": "1682º SLT JUDIT POLGÁR Arena",
+    "winner": "Entrenador3talentos",
+    "startsAt": "2026-03-31T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/thuCxUXX"
+  },
+  {
+    "id": "0mgjeyek",
+    "name": "1683º SLT JUDIT POLGÁR Arena",
+    "winner": "j_erry",
+    "startsAt": "2026-04-01T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/0mgjeyek"
+  },
+  {
+    "id": "LqIKS84n",
+    "name": "1684º SLT JUDIT POLGÁR Arena",
+    "winner": "Phernando39",
+    "startsAt": "2026-04-02T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/LqIKS84n"
+  },
+  {
+    "id": "Tog4ZDsf",
+    "name": "1685º SLT JUDIT POLGÁR Arena",
+    "winner": "Ricardo_75",
+    "startsAt": "2026-04-03T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/Tog4ZDsf"
+  },
+  {
+    "id": "lRUjOBls",
+    "name": "1688º SLT JUDIT POLGÁR Arena",
+    "winner": "EspancadordeMoises",
+    "startsAt": "2026-04-06T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/lRUjOBls"
+  },
+  {
+    "id": "IOFEgAK5",
+    "name": "1689º SLT JUDIT POLGÁR Arena",
+    "winner": "Joao_Moreira52",
+    "startsAt": "2026-04-07T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/IOFEgAK5"
+  },
+  {
+    "id": "Vc13jjMx",
+    "name": "1690º SLT JUDIT POLGÁR Arena",
+    "winner": "EspancadordeMoises",
+    "startsAt": "2026-04-08T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/Vc13jjMx"
+  },
+  {
+    "id": "zJYZmTe9",
+    "name": "1691º SLT JUDIT POLGÁR Arena",
+    "winner": "schettert",
+    "startsAt": "2026-04-09T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/zJYZmTe9"
+  },
+  {
+    "id": "3ny25POu",
+    "name": "1692º SLT JUDIT POLGÁR Arena",
+    "winner": "Marquinhosantonio",
+    "startsAt": "2026-04-10T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/3ny25POu"
+  },
+  {
+    "id": "FlADmfsi",
+    "name": "1695º SLT JUDIT POLGÁR Arena",
+    "winner": "Thunder2021",
+    "startsAt": "2026-04-13T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/FlADmfsi"
+  },
+  {
+    "id": "c7NDvINB",
+    "name": "1696º SLT JUDIT POLGÁR Arena",
+    "winner": "GESSE_GMZ",
+    "startsAt": "2026-04-14T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/c7NDvINB"
+  },
+  {
+    "id": "sYtsma9A",
+    "name": "1697º SLT JUDIT POLGÁR Arena",
+    "winner": "Joao_Moreira52",
+    "startsAt": "2026-04-15T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/sYtsma9A"
+  },
+  {
+    "id": "Y1dprJH6",
+    "name": "1698º SLT JUDIT POLGÁR Arena",
+    "winner": "Ceara_mn",
+    "startsAt": "2026-04-16T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/Y1dprJH6"
+  },
+  {
+    "id": "1wSndVqi",
+    "name": "1699º SLT JUDIT POLGÁR Arena",
+    "winner": "F4bioSo4res",
+    "startsAt": "2026-04-17T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/1wSndVqi"
+  },
+  {
+    "id": "Cq8yYpvq",
+    "name": "1702º SLT JUDIT POLGÁR Arena",
+    "winner": "rolandobrazil",
+    "startsAt": "2026-04-20T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/Cq8yYpvq"
+  },
+  {
+    "id": "0Bwe2EIO",
+    "name": "1703º SLT JUDIT POLGÁR Arena",
+    "winner": "filhosdavelha",
+    "startsAt": "2026-04-21T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/0Bwe2EIO"
+  },
+  {
+    "id": "bqqaGibA",
+    "name": "1704º SLT JUDIT POLGÁR Arena",
+    "winner": "Entrenador3talentos",
+    "startsAt": "2026-04-22T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/bqqaGibA"
+  },
+  {
+    "id": "sbEL58Ay",
+    "name": "1705º SLT JUDIT POLGÁR Arena",
+    "winner": "birigicatabamba",
+    "startsAt": "2026-04-23T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/sbEL58Ay"
+  },
+  {
+    "id": "JozOkPax",
+    "name": "1706º SLT JUDIT POLGÁR Arena",
+    "winner": "MoorSoldaten",
+    "startsAt": "2026-04-24T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/JozOkPax"
+  },
+  {
+    "id": "sB3HmvUm",
+    "name": "1709º SLT JUDIT POLGÁR Arena",
+    "winner": "Stormy-ChessWorld",
+    "startsAt": "2026-04-27T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/sB3HmvUm"
+  },
+  {
+    "id": "L5NuXJbu",
+    "name": "1710º SLT JUDIT POLGÁR Arena",
+    "winner": "Numsei01",
+    "startsAt": "2026-04-28T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/L5NuXJbu"
+  },
+  {
+    "id": "6JNF47cq",
+    "name": "1711º SLT JUDIT POLGÁR Arena",
+    "winner": "fumecador",
+    "startsAt": "2026-04-29T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/6JNF47cq"
+  },
+  {
+    "id": "93VaUxxL",
+    "name": "1712º SLT JUDIT POLGÁR Arena",
+    "winner": "P3rsa",
+    "startsAt": "2026-04-30T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/93VaUxxL"
+  },
+  {
+    "id": "9qTMPXAF",
+    "name": "1713º SLT JUDIT POLGÁR Arena",
+    "winner": "Thunder2021",
+    "startsAt": "2026-05-01T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/9qTMPXAF"
+  },
+  {
+    "id": "IG2gvgUe",
+    "name": "1716º SLT JUDIT POLGÁR Arena",
+    "winner": "LEOBENGO",
+    "startsAt": "2026-05-04T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/IG2gvgUe"
+  },
+  {
+    "id": "M8KWY3WX",
+    "name": "1717º SLT JUDIT POLGÁR Arena",
+    "winner": "Leonilson",
+    "startsAt": "2026-05-05T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/M8KWY3WX"
+  },
+  {
+    "id": "Mnv6yE0Y",
+    "name": "1718º SLT JUDIT POLGÁR Arena",
+    "winner": "Joao_Moreira52",
+    "startsAt": "2026-05-06T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/Mnv6yE0Y"
+  },
+  {
+    "id": "qojS3gR0",
+    "name": "1719º SLT JUDIT POLGÁR Arena",
+    "winner": "ELEFANTE19",
+    "startsAt": "2026-05-07T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/qojS3gR0"
+  },
+  {
+    "id": "DD9sDucX",
+    "name": "1720º SLT JUDIT POLGÁR Arena",
+    "winner": "LevyRodrigues",
+    "startsAt": "2026-05-08T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/DD9sDucX"
+  },
+  {
+    "id": "EtRLBe12",
+    "name": "1723º SLT JUDIT POLGÁR Arena",
+    "winner": "Hou_yfan",
+    "startsAt": "2026-05-11T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/EtRLBe12"
+  },
+  {
+    "id": "KP3q1BGB",
+    "name": "1724º SLT JUDIT POLGÁR Arena",
+    "winner": "Deepsky1",
+    "startsAt": "2026-05-12T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/KP3q1BGB"
+  },
+  {
+    "id": "Fnhc12Bs",
+    "name": "1725º SLT JUDIT POLGÁR Arena",
+    "winner": "liki",
+    "startsAt": "2026-05-13T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/Fnhc12Bs"
+  },
+  {
+    "id": "WnLlMjNB",
+    "name": "1726º SLT JUDIT POLGÁR Arena",
+    "winner": "wandoitz",
+    "startsAt": "2026-05-14T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/WnLlMjNB"
+  },
+  {
+    "id": "nFFcbGvy",
+    "name": "1727º SLT JUDIT POLGÁR Arena",
+    "winner": "Leonilson",
+    "startsAt": "2026-05-15T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/nFFcbGvy"
+  },
+  {
+    "id": "DTlJxogB",
+    "name": "1730º SLT JUDIT POLGÁR Arena",
+    "winner": "P3rsa",
+    "startsAt": "2026-05-18T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/DTlJxogB"
+  },
+  {
+    "id": "i4ZiEKqM",
+    "name": "1731º SLT JUDIT POLGÁR Arena",
+    "winner": "Entrenador3talentos",
+    "startsAt": "2026-05-19T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/i4ZiEKqM"
+  },
+  {
+    "id": "GOCy2DQR",
+    "name": "1732º SLT JUDIT POLGÁR Arena",
+    "winner": "P3rsa",
+    "startsAt": "2026-05-20T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/GOCy2DQR"
+  },
+  {
+    "id": "6d2Kp87t",
+    "name": "1733º SLT JUDIT POLGÁR Arena",
+    "winner": "schettert",
+    "startsAt": "2026-05-21T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/6d2Kp87t"
+  },
+  {
+    "id": "5yVNN8jU",
+    "name": "1734º SLT JUDIT POLGÁR Arena",
+    "winner": "rolandobrazil",
+    "startsAt": "2026-05-22T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/5yVNN8jU"
+  },
+  {
+    "id": "RaTyHaIe",
+    "name": "1737º SLT JUDIT POLGÁR Arena",
+    "winner": "Stormy-ChessWorld",
+    "startsAt": "2026-05-25T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/RaTyHaIe"
+  },
+  {
+    "id": "KPceVTyZ",
+    "name": "1738º SLT JUDIT POLGÁR Arena",
+    "winner": "P3rsa",
+    "startsAt": "2026-05-26T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/KPceVTyZ"
+  },
+  {
+    "id": "JDo0AN2L",
+    "name": "1739º SLT JUDIT POLGÁR Arena",
+    "winner": "ProfessorCHESSVEJA",
+    "startsAt": "2026-05-27T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/JDo0AN2L"
+  },
+  {
+    "id": "JefsI99J",
+    "name": "1740º SLT JUDIT POLGÁR Arena",
+    "winner": "Stormy-ChessWorld",
+    "startsAt": "2026-05-28T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/JefsI99J"
+  },
+  {
+    "id": "n5XTlzIM",
+    "name": "1741º SLT JUDIT POLGÁR Arena",
+    "winner": "windsonmama25",
+    "startsAt": "2026-05-29T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/n5XTlzIM"
+  },
+  {
+    "id": "LtlFoTov",
+    "name": "1744º SLT JUDIT POLGÁR Arena",
+    "winner": "douglas27",
+    "startsAt": "2026-06-01T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/LtlFoTov"
+  },
+  {
+    "id": "JrKgYTZT",
+    "name": "1745º SLT JUDIT POLGÁR Arena",
+    "winner": "buscapato33",
+    "startsAt": "2026-06-02T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/JrKgYTZT"
+  },
+  {
+    "id": "rnchggkP",
+    "name": "1746º SLT JUDIT POLGÁR Arena",
+    "winner": "Joao_Moreira52",
+    "startsAt": "2026-06-03T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/rnchggkP"
+  },
+  {
+    "id": "53duIS9D",
+    "name": "1747º SLT JUDIT POLGÁR Arena",
+    "winner": "filhosdavelha",
+    "startsAt": "2026-06-04T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/53duIS9D"
+  },
+  {
+    "id": "XeTIiFks",
+    "name": "1748º SLT JUDIT POLGÁR Arena",
+    "winner": "StockNekinho",
+    "startsAt": "2026-06-05T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/XeTIiFks"
+  },
+  {
+    "id": "f6T8Irsc",
+    "name": "1751º SLT JUDIT POLGÁR Arena",
+    "winner": "Entrenador3talentos",
+    "startsAt": "2026-06-08T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/f6T8Irsc"
+  },
+  {
+    "id": "veYLCrls",
+    "name": "1752º SLT JUDIT POLGÁR Arena",
+    "winner": "Causas1",
+    "startsAt": "2026-06-09T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/veYLCrls"
+  },
+  {
+    "id": "QVKtApLD",
+    "name": "1753º SLT JUDIT POLGÁR Arena",
+    "winner": "buscapato33",
+    "startsAt": "2026-06-10T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/QVKtApLD"
+  },
+  {
+    "id": "UWRoja18",
+    "name": "1754º SLT JUDIT POLGÁR Arena",
+    "winner": "windsonmama25",
+    "startsAt": "2026-06-11T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/UWRoja18"
+  },
+  {
+    "id": "z6m0K5Ql",
+    "name": "1755º SLT JUDIT POLGÁR Arena",
+    "winner": "Bali16",
+    "startsAt": "2026-06-12T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/z6m0K5Ql"
+  },
+  {
+    "id": "IX34lMSx",
+    "name": "1758º SLT JUDIT POLGÁR Arena",
+    "winner": "imnotcarlsen",
+    "startsAt": "2026-06-15T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/IX34lMSx"
+  },
+  {
+    "id": "lqC9sg0E",
+    "name": "1759º SLT JUDIT POLGÁR Arena",
+    "winner": "buscapato33",
+    "startsAt": "2026-06-16T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/lqC9sg0E"
+  },
+  {
+    "id": "tc9kyE6N",
+    "name": "1760º SLT JUDIT POLGÁR Arena",
+    "winner": "imnotcarlsen",
+    "startsAt": "2026-06-17T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/tc9kyE6N"
+  },
+  {
+    "id": "kTlRvyzI",
+    "name": "1761º SLT JUDIT POLGÁR Arena",
+    "winner": "j_erry",
+    "startsAt": "2026-06-18T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/kTlRvyzI"
+  },
+  {
+    "id": "ir1KM6yZ",
+    "name": "1762º SLT JUDIT POLGÁR Arena",
+    "winner": "Stormy-ChessWorld",
+    "startsAt": "2026-06-19T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/ir1KM6yZ"
+  },
+  {
+    "id": "VhCpVuhO",
+    "name": "1765º SLT JUDIT POLGÁR Arena",
+    "winner": "Bali16",
+    "startsAt": "2026-06-22T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/VhCpVuhO"
+  },
+  {
+    "id": "9i4305EJ",
+    "name": "1766º SLT JUDIT POLGÁR Arena",
+    "winner": "MATEMATICO",
+    "startsAt": "2026-06-23T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/9i4305EJ"
+  },
+  {
+    "id": "ismfOXE0",
+    "name": "1767º SLT JUDIT POLGÁR Arena",
+    "winner": "Deepsky1",
+    "startsAt": "2026-06-24T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/ismfOXE0"
+  },
+  {
+    "id": "F3Gk6J9I",
+    "name": "1768º SLT JUDIT POLGÁR Arena",
+    "winner": "j_erry",
+    "startsAt": "2026-06-25T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/F3Gk6J9I"
+  },
+  {
+    "id": "unqMGvac",
+    "name": "1769º SLT JUDIT POLGÁR Arena",
+    "winner": "VicenTeChes",
+    "startsAt": "2026-06-26T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/unqMGvac"
+  },
+  {
+    "id": "ephN0Mfs",
+    "name": "1772º SLT JUDIT POLGÁR Arena",
+    "winner": "MATEMATICO",
+    "startsAt": "2026-06-29T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/ephN0Mfs"
+  },
+  {
+    "id": "GNNMsZ6r",
+    "name": "1773º SLT JUDIT POLGÁR Arena",
+    "winner": "buscapato33",
+    "startsAt": "2026-06-30T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/GNNMsZ6r"
+  },
+  {
+    "id": "yFjwzkDH",
+    "name": "1774º SLT JUDIT POLGÁR Arena",
+    "winner": "j_erry",
+    "startsAt": "2026-07-01T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/yFjwzkDH"
+  },
+  {
+    "id": "XUPoh9Xz",
+    "name": "1775º SLT JUDIT POLGÁR Arena",
+    "winner": "LevyRodrigues",
+    "startsAt": "2026-07-02T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/XUPoh9Xz"
+  },
+  {
+    "id": "8ZL034Ac",
+    "name": "1778º SLT JUDIT POLGÁR Arena",
+    "winner": "ThiagoLiberato",
+    "startsAt": "2026-07-06T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/8ZL034Ac"
+  },
+  {
+    "id": "s8dCeDWo",
+    "name": "1779º SLT JUDIT POLGÁR Arena",
+    "winner": "Stormy-ChessWorld",
+    "startsAt": "2026-07-07T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/s8dCeDWo"
+  },
+  {
+    "id": "4wafDFK7",
+    "name": "1780º SLT JUDIT POLGÁR Arena",
+    "winner": "joseRkasparov",
+    "startsAt": "2026-07-08T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/4wafDFK7"
+  },
+  {
+    "id": "ajRuIqVh",
+    "name": "1781º SLT JUDIT POLGÁR Arena",
+    "winner": "StockNekinho",
+    "startsAt": "2026-07-09T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/ajRuIqVh"
+  },
+  {
+    "id": "GvUUQNWd",
+    "name": "1782º SLT JUDIT POLGÁR Arena",
+    "winner": "Joao_Moreira52",
+    "startsAt": "2026-07-10T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/GvUUQNWd"
+  },
+  {
+    "id": "B5wOSFAI",
+    "name": "1785º SLT JUDIT POLGÁR Arena",
+    "winner": "StockNekinho",
+    "startsAt": "2026-07-13T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/B5wOSFAI"
+  },
+  {
+    "id": "LaWRe2uz",
+    "name": "1786º SLT JUDIT POLGÁR Arena",
+    "winner": "DiscipuloDoNekinho38",
+    "startsAt": "2026-07-14T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/LaWRe2uz"
+  },
+  {
+    "id": "0UYC4vgN",
+    "name": "1787º SLT JUDIT POLGÁR Arena",
+    "winner": "DiscipuloDoNekinho38",
+    "startsAt": "2026-07-15T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/0UYC4vgN"
+  },
+  {
+    "id": "R2vIhhLy",
+    "name": "1788º SLT JUDIT POLGÁR Arena",
+    "winner": "ELEFANTE19",
+    "startsAt": "2026-07-16T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/R2vIhhLy"
+  },
+  {
+    "id": "BZwiHxo5",
+    "name": "1789º SLT JUDIT POLGÁR Arena",
+    "winner": "fumecador",
+    "startsAt": "2026-07-17T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/BZwiHxo5"
+  },
+  {
+    "id": "V3YQ30Em",
+    "name": "1792º SLT JUDIT POLGÁR Arena",
+    "winner": "OmiCapivara",
+    "startsAt": "2026-07-20T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/V3YQ30Em"
+  },
+  {
+    "id": "HHqlN3nL",
+    "name": "1793º SLT JUDIT POLGÁR Arena",
+    "winner": "Stormy-ChessWorld",
+    "startsAt": "2026-07-21T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/HHqlN3nL"
+  },
+  {
+    "id": "uj5ta8Lc",
+    "name": "1794º SLT JUDIT POLGÁR Arena",
+    "winner": "buscapato33",
+    "startsAt": "2026-07-22T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/uj5ta8Lc"
+  },
+  {
+    "id": "6aFfuW0W",
+    "name": "1795º SLT JUDIT POLGÁR Arena",
+    "winner": "Cassaco0800",
+    "startsAt": "2026-07-23T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/6aFfuW0W"
+  },
+  {
+    "id": "RAUQJa8A",
+    "name": "1796º SLT JUDIT POLGÁR Arena",
+    "winner": "Vitor_Hugo_moreira",
+    "startsAt": "2026-07-24T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/RAUQJa8A"
+  },
+  {
+    "id": "KodFOT70",
+    "name": "1799º SLT JUDIT POLGÁR Arena",
+    "winner": "nibrchess",
+    "startsAt": "2026-07-27T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/KodFOT70"
+  },
+  {
+    "id": "uQADmBj3",
+    "name": "1800º SLT JUDIT POLGÁR Arena",
+    "winner": "Stormy-ChessWorld",
+    "startsAt": "2026-07-28T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/uQADmBj3"
+  },
+  {
+    "id": "meet3o0s",
+    "name": "1801º SLT JUDIT POLGÁR Arena",
+    "winner": "buscapato33",
+    "startsAt": "2026-07-29T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/meet3o0s"
+  },
+  {
+    "id": "OtfEczO1",
+    "name": "1802º SLT JUDIT POLGÁR Arena",
+    "winner": "ST0RMY",
+    "startsAt": "2026-07-30T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/OtfEczO1"
+  },
+  {
+    "id": "NKQonrVK",
+    "name": "1803º SLT JUDIT POLGÁR Arena",
+    "winner": "LevyRodrigues",
+    "startsAt": "2026-07-31T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/NKQonrVK"
+  },
+  {
+    "id": "8nnoCUJN",
+    "name": "1806º SLT JUDIT POLGÁR Arena",
+    "winner": "rolandobrazil",
+    "startsAt": "2026-08-03T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/8nnoCUJN"
+  },
+  {
+    "id": "Kz6stiIV",
+    "name": "1807º SLT JUDIT POLGÁR Arena",
+    "winner": "monstercofee",
+    "startsAt": "2026-08-04T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/Kz6stiIV"
+  },
+  {
+    "id": "HeRIiTlG",
+    "name": "1808º SLT JUDIT POLGÁR Arena",
+    "winner": "Stormy-ChessWorld",
+    "startsAt": "2026-08-05T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/HeRIiTlG"
+  },
+  {
+    "id": "xNX3vb2X",
+    "name": "1809º SLT JUDIT POLGÁR Arena",
+    "winner": "NBmacovi",
+    "startsAt": "2026-08-06T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/xNX3vb2X"
+  },
+  {
+    "id": "UihUStZ7",
+    "name": "1810º SLT JUDIT POLGÁR Arena",
+    "winner": "LevyRodrigues",
+    "startsAt": "2026-08-07T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/UihUStZ7"
+  },
+  {
+    "id": "b9cGWVMs",
+    "name": "1813º SLT JUDIT POLGÁR Arena",
+    "winner": "Erickchess10",
+    "startsAt": "2026-08-10T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/b9cGWVMs"
+  },
+  {
+    "id": "rP6XR3iB",
+    "name": "1814º SLT JUDIT POLGÁR Arena",
+    "winner": "liki",
+    "startsAt": "2026-08-11T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/rP6XR3iB"
+  },
+  {
+    "id": "ALMI00ok",
+    "name": "1815º SLT JUDIT POLGÁR Arena",
+    "winner": "Stormy-ChessWorld",
+    "startsAt": "2026-08-12T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/ALMI00ok"
+  },
+  {
+    "id": "yKjnHA2A",
+    "name": "1816º SLT JUDIT POLGÁR Arena",
+    "winner": "LevyRodrigues",
+    "startsAt": "2026-08-13T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/yKjnHA2A"
+  },
+  {
+    "id": "HPMI2Zxm",
+    "name": "1817º SLT JUDIT POLGÁR Arena",
+    "winner": "douglas27",
+    "startsAt": "2026-08-14T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/HPMI2Zxm"
+  },
+  {
+    "id": "OJNYUvd6",
+    "name": "1820º SLT JUDIT POLGÁR Arena",
+    "winner": "j_erry",
+    "startsAt": "2026-08-17T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/OJNYUvd6"
+  },
+  {
+    "id": "ig7wCKbF",
+    "name": "1821º SLT JUDIT POLGÁR Arena",
+    "winner": "capapreta999",
+    "startsAt": "2026-08-18T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/ig7wCKbF"
+  },
+  {
+    "id": "YLHKtqkF",
+    "name": "1822º SLT JUDIT POLGÁR Arena",
+    "winner": "ST0RMY",
+    "startsAt": "2026-08-19T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/YLHKtqkF"
+  },
+  {
+    "id": "plDAdvPm",
+    "name": "1823º SLT JUDIT POLGÁR Arena",
+    "winner": "Jeronimo81",
+    "startsAt": "2026-08-20T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/plDAdvPm"
+  },
+  {
+    "id": "k2nGafm5",
+    "name": "1824º SLT JUDIT POLGÁR Arena",
+    "winner": "Entrenador3talentos",
+    "startsAt": "2026-08-21T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/k2nGafm5"
+  },
+  {
+    "id": "cFAsnfE6",
+    "name": "1827º SLT JUDIT POLGÁR Arena",
+    "winner": "Braziljr1",
+    "startsAt": "2026-08-24T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/cFAsnfE6"
+  },
+  {
+    "id": "GIKZ7dkF",
+    "name": "1828º SLT JUDIT POLGÁR Arena",
+    "winner": "j_erry",
+    "startsAt": "2026-08-25T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/GIKZ7dkF"
+  },
+  {
+    "id": "0V947Cdl",
+    "name": "1829º SLT JUDIT POLGÁR Arena",
+    "winner": "ELEFANTE19",
+    "startsAt": "2026-08-26T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/0V947Cdl"
+  },
+  {
+    "id": "ndptG8sl",
+    "name": "1830º SLT JUDIT POLGÁR Arena",
+    "winner": "j_erry",
+    "startsAt": "2026-08-27T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/ndptG8sl"
+  },
+  {
+    "id": "BvSKb2eE",
+    "name": "1831º SLT JUDIT POLGÁR Arena",
+    "winner": "XadrezDinelly",
+    "startsAt": "2026-08-28T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/BvSKb2eE"
+  },
+  {
+    "id": "UXO9sFI5",
+    "name": "1834º SLT JUDIT POLGÁR Arena",
+    "winner": "ELEFANTE19",
+    "startsAt": "2026-08-31T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/UXO9sFI5"
+  },
+  {
+    "id": "4k07IGRs",
+    "name": "1835º SLT JUDIT POLGÁR Arena",
+    "winner": "ELEFANTE19",
+    "startsAt": "2026-09-01T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/4k07IGRs"
+  },
+  {
+    "id": "xPg8iArt",
+    "name": "1836º SLT JUDIT POLGÁR Arena",
+    "winner": "Peixinho38",
+    "startsAt": "2026-09-02T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/xPg8iArt"
+  },
+  {
+    "id": "DNKp8kb0",
+    "name": "1837º SLT JUDIT POLGÁR Arena",
+    "winner": "capapreta999",
+    "startsAt": "2026-09-03T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/DNKp8kb0"
+  },
+  {
+    "id": "oTR7jCDt",
+    "name": "1838º SLT JUDIT POLGÁR Arena",
+    "winner": "buscapato33",
+    "startsAt": "2026-09-04T21:05:00.214000+00:00",
+    "url": "https://lichess.org/tournament/oTR7jCDt"
+  }
+]
