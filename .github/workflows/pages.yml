@@ -21,10 +21,13 @@ jobs:
       - name: Configurar Pages
         uses: actions/configure-pages@v4
 
+      - name: Copiar dados para site
+        run: cp -r itaberabao-ranking/data itaberabao-ranking/site/
+
       - name: Upload artefatos
         uses: actions/upload-pages-artifact@v3
         with:
-          path: itaberabao-ranking   # inclui site/ e data/
+          path: itaberabao-ranking/site   # publica index.html na raiz + data/
 
       - name: Publicar no GitHub Pages
         uses: actions/deploy-pages@v4
