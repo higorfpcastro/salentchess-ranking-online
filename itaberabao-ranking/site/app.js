@@ -1,4 +1,4 @@
-const DATA = "../data/";
+const DATA = "data/";
 
 let ranking = [];
 let winners = [];
