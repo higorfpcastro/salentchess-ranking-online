@@ -360,584 +360,564 @@
     "startsAt": 1755723900214
   },
   {
-    "username": "Gilbertooliveira78",
-    "rating": 1986,
-    "score": 17,
-    "performance": 2249.0,
+    "username": "carlosmaia",
+    "rating": 1950,
+    "score": 16,
+    "performance": 2195.0,
     "rank": 1,
-    "tournament_id": "vKZh7DPV",
-    "tournament_name": "1464º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756155900214
+    "tournament_id": "eh8cmNgo",
+    "tournament_name": "1461º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1755896700214
+  },
+  {
+    "username": "Gilbertooliveira78",
+    "rating": 1924,
+    "score": 13,
+    "performance": 2145.0,
+    "rank": 2,
+    "tournament_id": "eh8cmNgo",
+    "tournament_name": "1461º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1755896700214
+  },
+  {
+    "username": "OXXENTE",
+    "rating": 1937,
+    "score": 13,
+    "performance": 2125.0,
+    "rank": 3,
+    "tournament_id": "eh8cmNgo",
+    "tournament_name": "1461º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1755896700214
   },
   {
     "username": "buscapato33",
-    "rating": 2101,
-    "score": 15,
-    "performance": 1938.0,
-    "rank": 2,
-    "tournament_id": "vKZh7DPV",
-    "tournament_name": "1464º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756155900214
-  },
-  {
-    "username": "fumecador",
-    "rating": 1988,
+    "rating": 2081,
     "score": 12,
-    "performance": 2174.0,
-    "rank": 3,
-    "tournament_id": "vKZh7DPV",
-    "tournament_name": "1464º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756155900214
-  },
-  {
-    "username": "Thunder2021",
-    "rating": 1856,
-    "score": 10,
-    "performance": 2261.0,
-    "rank": 4,
-    "tournament_id": "vKZh7DPV",
-    "tournament_name": "1464º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756155900214
-  },
-  {
-    "username": "Entrenador3talentos",
-    "rating": 2188,
-    "score": 8,
-    "performance": 2445.0,
-    "rank": 5,
-    "tournament_id": "vKZh7DPV",
-    "tournament_name": "1464º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756155900214
-  },
-  {
-    "username": "ELEFANTE19",
-    "rating": 1826,
-    "score": 8,
-    "performance": 1822.0,
-    "rank": 6,
-    "tournament_id": "vKZh7DPV",
-    "tournament_name": "1464º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756155900214
-  },
-  {
-    "username": "OXXENTE",
-    "rating": 1918,
-    "score": 6,
-    "performance": 1998.0,
-    "rank": 7,
-    "tournament_id": "vKZh7DPV",
-    "tournament_name": "1464º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756155900214
-  },
-  {
-    "username": "MATEMATICO",
-    "rating": 1951,
-    "score": 4,
-    "performance": 1871.0,
-    "rank": 8,
-    "tournament_id": "vKZh7DPV",
-    "tournament_name": "1464º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756155900214
-  },
-  {
-    "username": "zenildosilva",
-    "rating": 1991,
-    "score": 3,
-    "performance": 2333.0,
-    "rank": 9,
-    "tournament_id": "vKZh7DPV",
-    "tournament_name": "1464º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756155900214
-  },
-  {
-    "username": "Numsei01",
-    "rating": 1831,
-    "score": 3,
-    "performance": 1640.0,
-    "rank": 10,
-    "tournament_id": "vKZh7DPV",
-    "tournament_name": "1464º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756155900214
-  },
-  {
-    "username": "gunnarkj",
-    "rating": 1906,
-    "score": 2,
-    "performance": 2423.0,
-    "rank": 11,
-    "tournament_id": "vKZh7DPV",
-    "tournament_name": "1464º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756155900214
-  },
-  {
-    "username": "birigicatabamba",
-    "rating": 2030,
-    "score": 2,
-    "performance": 1842.0,
-    "rank": 12,
-    "tournament_id": "vKZh7DPV",
-    "tournament_name": "1464º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756155900214
-  },
-  {
-    "username": "j_erry",
-    "rating": 1924,
-    "score": 1,
-    "performance": 1609.0,
-    "rank": 13,
-    "tournament_id": "vKZh7DPV",
-    "tournament_name": "1464º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756155900214
-  },
-  {
-    "username": "Gualter_Xpga",
-    "rating": 2049,
-    "score": 0,
-    "performance": 1475.0,
-    "rank": 14,
-    "tournament_id": "vKZh7DPV",
-    "tournament_name": "1464º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756155900214
-  },
-  {
-    "username": "rolandobrazil",
-    "rating": 1749,
-    "score": 0,
-    "performance": 1470.0,
-    "rank": 15,
-    "tournament_id": "vKZh7DPV",
-    "tournament_name": "1464º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756155900214
-  },
-  {
-    "username": "VicenTeChes",
-    "rating": 1718,
-    "score": 0,
-    "performance": 1433.0,
-    "rank": 16,
-    "tournament_id": "vKZh7DPV",
-    "tournament_name": "1464º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756155900214
-  },
-  {
-    "username": "aprendizscuto",
-    "rating": 1575,
-    "score": 0,
-    "performance": 1413.0,
-    "rank": 17,
-    "tournament_id": "vKZh7DPV",
-    "tournament_name": "1464º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756155900214
-  },
-  {
-    "username": "Botvinik1961",
-    "rating": 1643,
-    "score": 0,
-    "performance": 1332.0,
-    "rank": 18,
-    "tournament_id": "vKZh7DPV",
-    "tournament_name": "1464º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756155900214
-  },
-  {
-    "username": "imnotcarlsen",
-    "rating": 2151,
-    "score": 22,
-    "performance": 2405.0,
-    "rank": 1,
-    "tournament_id": "jbd4UYQ9",
-    "tournament_name": "1472º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756847100214
-  },
-  {
-    "username": "fumecador",
-    "rating": 1932,
-    "score": 12,
-    "performance": 2056.0,
-    "rank": 2,
-    "tournament_id": "jbd4UYQ9",
-    "tournament_name": "1472º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756847100214
-  },
-  {
-    "username": "Farofa_de_Bacon",
-    "rating": 1938,
-    "score": 10,
-    "performance": 2151.0,
-    "rank": 3,
-    "tournament_id": "jbd4UYQ9",
-    "tournament_name": "1472º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756847100214
-  },
-  {
-    "username": "aprendizscuto",
-    "rating": 1629,
-    "score": 10,
-    "performance": 2038.0,
-    "rank": 4,
-    "tournament_id": "jbd4UYQ9",
-    "tournament_name": "1472º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756847100214
-  },
-  {
-    "username": "Joilson15",
-    "rating": 1950,
-    "score": 7,
     "performance": 2018.0,
-    "rank": 5,
-    "tournament_id": "jbd4UYQ9",
-    "tournament_name": "1472º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756847100214
-  },
-  {
-    "username": "OXXENTE",
-    "rating": 2001,
-    "score": 6,
-    "performance": 2230.0,
-    "rank": 6,
-    "tournament_id": "jbd4UYQ9",
-    "tournament_name": "1472º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756847100214
-  },
-  {
-    "username": "tablasnomasbusco",
-    "rating": 1867,
-    "score": 6,
-    "performance": 2015.0,
-    "rank": 7,
-    "tournament_id": "jbd4UYQ9",
-    "tournament_name": "1472º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756847100214
-  },
-  {
-    "username": "carlosmaia",
-    "rating": 1919,
-    "score": 6,
-    "performance": 1913.0,
-    "rank": 8,
-    "tournament_id": "jbd4UYQ9",
-    "tournament_name": "1472º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756847100214
+    "rank": 4,
+    "tournament_id": "eh8cmNgo",
+    "tournament_name": "1461º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1755896700214
   },
   {
     "username": "LevyRodrigues",
-    "rating": 1821,
-    "score": 5,
-    "performance": 1884.0,
-    "rank": 9,
-    "tournament_id": "jbd4UYQ9",
-    "tournament_name": "1472º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756847100214
+    "rating": 1860,
+    "score": 7,
+    "performance": 2030.0,
+    "rank": 5,
+    "tournament_id": "eh8cmNgo",
+    "tournament_name": "1461º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1755896700214
   },
   {
-    "username": "Numsei01",
-    "rating": 1883,
-    "score": 5,
-    "performance": 1787.0,
-    "rank": 10,
-    "tournament_id": "jbd4UYQ9",
-    "tournament_name": "1472º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756847100214
-  },
-  {
-    "username": "Brasil5hero",
-    "rating": 1866,
-    "score": 5,
-    "performance": 1712.0,
-    "rank": 11,
-    "tournament_id": "jbd4UYQ9",
-    "tournament_name": "1472º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756847100214
-  },
-  {
-    "username": "MATEMATICO",
-    "rating": 1946,
-    "score": 4,
-    "performance": 1951.0,
-    "rank": 12,
-    "tournament_id": "jbd4UYQ9",
-    "tournament_name": "1472º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756847100214
-  },
-  {
-    "username": "Alexandre_Santos_007",
-    "rating": 1830,
-    "score": 4,
+    "username": "ELEFANTE19",
+    "rating": 1822,
+    "score": 6,
     "performance": 1892.0,
-    "rank": 13,
-    "tournament_id": "jbd4UYQ9",
-    "tournament_name": "1472º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756847100214
-  },
-  {
-    "username": "EdsonFaustino",
-    "rating": 1904,
-    "score": 2,
-    "performance": 1692.0,
-    "rank": 14,
-    "tournament_id": "jbd4UYQ9",
-    "tournament_name": "1472º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756847100214
-  },
-  {
-    "username": "j_erry",
-    "rating": 1947,
-    "score": 2,
-    "performance": 1668.0,
-    "rank": 15,
-    "tournament_id": "jbd4UYQ9",
-    "tournament_name": "1472º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756847100214
-  },
-  {
-    "username": "rolandobrazil",
-    "rating": 1844,
-    "score": 2,
-    "performance": 1632.0,
-    "rank": 16,
-    "tournament_id": "jbd4UYQ9",
-    "tournament_name": "1472º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756847100214
+    "rank": 6,
+    "tournament_id": "eh8cmNgo",
+    "tournament_name": "1461º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1755896700214
   },
   {
     "username": "F4bioSo4res",
-    "rating": 2012,
-    "score": 2,
-    "performance": 1628.0,
-    "rank": 17,
-    "tournament_id": "jbd4UYQ9",
-    "tournament_name": "1472º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756847100214
-  },
-  {
-    "username": "Gilbertooliveira78",
-    "rating": 1851,
-    "score": 0,
-    "performance": 1313.0,
-    "rank": 18,
-    "tournament_id": "jbd4UYQ9",
-    "tournament_name": "1472º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756847100214
-  },
-  {
-    "username": "VicenTeChes",
-    "rating": 1703,
-    "score": 0,
-    "performance": 1282.0,
-    "rank": 19,
-    "tournament_id": "jbd4UYQ9",
-    "tournament_name": "1472º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756847100214
-  },
-  {
-    "username": "imnotcarlsen",
-    "rating": 2166,
-    "score": 21,
-    "performance": 2391.0,
-    "rank": 1,
-    "tournament_id": "vWvlGVp1",
-    "tournament_name": "1473º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756933500214
-  },
-  {
-    "username": "D4P4z",
-    "rating": 2079,
-    "score": 16,
-    "performance": 2165.0,
-    "rank": 2,
-    "tournament_id": "vWvlGVp1",
-    "tournament_name": "1473º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756933500214
-  },
-  {
-    "username": "j_erry",
-    "rating": 1954,
-    "score": 11,
-    "performance": 2040.0,
-    "rank": 3,
-    "tournament_id": "vWvlGVp1",
-    "tournament_name": "1473º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756933500214
-  },
-  {
-    "username": "Numsei01",
-    "rating": 1859,
-    "score": 8,
-    "performance": 2118.0,
-    "rank": 4,
-    "tournament_id": "vWvlGVp1",
-    "tournament_name": "1473º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756933500214
-  },
-  {
-    "username": "MATEMATICO",
-    "rating": 1955,
-    "score": 7,
-    "performance": 2104.0,
-    "rank": 5,
-    "tournament_id": "vWvlGVp1",
-    "tournament_name": "1473º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756933500214
-  },
-  {
-    "username": "LevyRodrigues",
-    "rating": 1817,
-    "score": 7,
-    "performance": 1797.0,
-    "rank": 6,
-    "tournament_id": "vWvlGVp1",
-    "tournament_name": "1473º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756933500214
-  },
-  {
-    "username": "Gilbertooliveira78",
-    "rating": 1863,
-    "score": 6,
-    "performance": 1968.0,
-    "rank": 7,
-    "tournament_id": "vWvlGVp1",
-    "tournament_name": "1473º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756933500214
-  },
-  {
-    "username": "ELEFANTE19",
-    "rating": 1820,
-    "score": 6,
-    "performance": 1846.0,
-    "rank": 8,
-    "tournament_id": "vWvlGVp1",
-    "tournament_name": "1473º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756933500214
-  },
-  {
-    "username": "VicenTeChes",
-    "rating": 1699,
+    "rating": 2026,
     "score": 4,
-    "performance": 1889.0,
-    "rank": 9,
-    "tournament_id": "vWvlGVp1",
-    "tournament_name": "1473º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756933500214
-  },
-  {
-    "username": "gunnarkj",
-    "rating": 1885,
-    "score": 3,
-    "performance": 2173.0,
-    "rank": 10,
-    "tournament_id": "vWvlGVp1",
-    "tournament_name": "1473º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756933500214
-  },
-  {
-    "username": "zenildosilva",
-    "rating": 1986,
-    "score": 3,
-    "performance": 1998.0,
-    "rank": 11,
-    "tournament_id": "vWvlGVp1",
-    "tournament_name": "1473º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756933500214
-  },
-  {
-    "username": "fumecador",
-    "rating": 1884,
-    "score": 3,
-    "performance": 1585.0,
-    "rank": 12,
-    "tournament_id": "vWvlGVp1",
-    "tournament_name": "1473º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756933500214
-  },
-  {
-    "username": "wllndr",
-    "rating": 1547,
-    "score": 2,
-    "performance": 2317.0,
-    "rank": 13,
-    "tournament_id": "vWvlGVp1",
-    "tournament_name": "1473º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756933500214
-  },
-  {
-    "username": "aprendizscuto",
-    "rating": 1652,
-    "score": 2,
-    "performance": 1941.0,
-    "rank": 14,
-    "tournament_id": "vWvlGVp1",
-    "tournament_name": "1473º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756933500214
+    "performance": 1867.0,
+    "rank": 7,
+    "tournament_id": "eh8cmNgo",
+    "tournament_name": "1461º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1755896700214
   },
   {
     "username": "Balzabouth",
-    "rating": 1708,
-    "score": 1,
-    "performance": 1471.0,
-    "rank": 15,
-    "tournament_id": "vWvlGVp1",
-    "tournament_name": "1473º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756933500214
-  },
-  {
-    "username": "Farofa_de_Bacon",
-    "rating": 1936,
-    "score": 0,
-    "performance": null,
-    "rank": 16,
-    "tournament_id": "vWvlGVp1",
-    "tournament_name": "1473º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756933500214
-  },
-  {
-    "username": "GutoXL",
-    "rating": 1591,
-    "score": 0,
-    "performance": null,
-    "rank": 17,
-    "tournament_id": "vWvlGVp1",
-    "tournament_name": "1473º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756933500214
-  },
-  {
-    "username": "EdsonFaustino",
-    "rating": 1899,
-    "score": 0,
-    "performance": 1441.0,
-    "rank": 18,
-    "tournament_id": "vWvlGVp1",
-    "tournament_name": "1473º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756933500214
+    "rating": 1711,
+    "score": 4,
+    "performance": 1787.0,
+    "rank": 8,
+    "tournament_id": "eh8cmNgo",
+    "tournament_name": "1461º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1755896700214
   },
   {
     "username": "rolandobrazil",
-    "rating": 1833,
+    "rating": 1797,
+    "score": 4,
+    "performance": 1731.0,
+    "rank": 9,
+    "tournament_id": "eh8cmNgo",
+    "tournament_name": "1461º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1755896700214
+  },
+  {
+    "username": "Numsei01",
+    "rating": 1862,
+    "score": 4,
+    "performance": 1695.0,
+    "rank": 10,
+    "tournament_id": "eh8cmNgo",
+    "tournament_name": "1461º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1755896700214
+  },
+  {
+    "username": "vouperdertodas",
+    "rating": 1794,
+    "score": 2,
+    "performance": 2348.0,
+    "rank": 11,
+    "tournament_id": "eh8cmNgo",
+    "tournament_name": "1461º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1755896700214
+  },
+  {
+    "username": "Phernando39",
+    "rating": 1784,
+    "score": 2,
+    "performance": 1888.0,
+    "rank": 12,
+    "tournament_id": "eh8cmNgo",
+    "tournament_name": "1461º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1755896700214
+  },
+  {
+    "username": "ccaso10",
+    "rating": 1809,
+    "score": 2,
+    "performance": 1669.0,
+    "rank": 13,
+    "tournament_id": "eh8cmNgo",
+    "tournament_name": "1461º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1755896700214
+  },
+  {
+    "username": "VicenTeChes",
+    "rating": 1737,
+    "score": 2,
+    "performance": 1448.0,
+    "rank": 14,
+    "tournament_id": "eh8cmNgo",
+    "tournament_name": "1461º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1755896700214
+  },
+  {
+    "username": "Echo79",
+    "rating": 1930,
     "score": 0,
-    "performance": 1417.0,
+    "performance": null,
+    "rank": 15,
+    "tournament_id": "eh8cmNgo",
+    "tournament_name": "1461º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1755896700214
+  },
+  {
+    "username": "FLTomm",
+    "rating": 1751,
+    "score": 0,
+    "performance": 1531.0,
+    "rank": 16,
+    "tournament_id": "eh8cmNgo",
+    "tournament_name": "1461º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1755896700214
+  },
+  {
+    "username": "j_erry",
+    "rating": 1988,
+    "score": 0,
+    "performance": 1508.0,
+    "rank": 17,
+    "tournament_id": "eh8cmNgo",
+    "tournament_name": "1461º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1755896700214
+  },
+  {
+    "username": "birigicatabamba",
+    "rating": 2036,
+    "score": 0,
+    "performance": 1321.0,
+    "rank": 18,
+    "tournament_id": "eh8cmNgo",
+    "tournament_name": "1461º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1755896700214
+  },
+  {
+    "username": "aprendizscuto",
+    "rating": 1601,
+    "score": 0,
+    "performance": 1227.0,
     "rank": 19,
-    "tournament_id": "vWvlGVp1",
-    "tournament_name": "1473º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756933500214
+    "tournament_id": "eh8cmNgo",
+    "tournament_name": "1461º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1755896700214
+  },
+  {
+    "username": "windsonmama25",
+    "rating": 2098,
+    "score": 18,
+    "performance": 2337.0,
+    "rank": 1,
+    "tournament_id": "fKZGGfyP",
+    "tournament_name": "1467º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756415100214
+  },
+  {
+    "username": "W_09",
+    "rating": 1857,
+    "score": 12,
+    "performance": 2410.0,
+    "rank": 2,
+    "tournament_id": "fKZGGfyP",
+    "tournament_name": "1467º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756415100214
+  },
+  {
+    "username": "rolandobrazil",
+    "rating": 1818,
+    "score": 10,
+    "performance": 2164.0,
+    "rank": 3,
+    "tournament_id": "fKZGGfyP",
+    "tournament_name": "1467º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756415100214
+  },
+  {
+    "username": "ELEFANTE19",
+    "rating": 1817,
+    "score": 9,
+    "performance": 1886.0,
+    "rank": 4,
+    "tournament_id": "fKZGGfyP",
+    "tournament_name": "1467º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756415100214
+  },
+  {
+    "username": "Numsei01",
+    "rating": 1875,
+    "score": 7,
+    "performance": 1997.0,
+    "rank": 5,
+    "tournament_id": "fKZGGfyP",
+    "tournament_name": "1467º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756415100214
+  },
+  {
+    "username": "MATEMATICO",
+    "rating": 1981,
+    "score": 6,
+    "performance": 2053.0,
+    "rank": 6,
+    "tournament_id": "fKZGGfyP",
+    "tournament_name": "1467º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756415100214
+  },
+  {
+    "username": "Darth_Vader_LMX",
+    "rating": 1851,
+    "score": 6,
+    "performance": 1745.0,
+    "rank": 7,
+    "tournament_id": "fKZGGfyP",
+    "tournament_name": "1467º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756415100214
+  },
+  {
+    "username": "LevyRodrigues",
+    "rating": 1835,
+    "score": 5,
+    "performance": 1819.0,
+    "rank": 8,
+    "tournament_id": "fKZGGfyP",
+    "tournament_name": "1467º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756415100214
+  },
+  {
+    "username": "j_erry",
+    "rating": 1934,
+    "score": 5,
+    "performance": 1767.0,
+    "rank": 9,
+    "tournament_id": "fKZGGfyP",
+    "tournament_name": "1467º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756415100214
   },
   {
     "username": "tablasnomasbusco",
-    "rating": 1858,
+    "rating": 1870,
+    "score": 4,
+    "performance": 2424.0,
+    "rank": 10,
+    "tournament_id": "fKZGGfyP",
+    "tournament_name": "1467º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756415100214
+  },
+  {
+    "username": "Phernando39",
+    "rating": 1844,
+    "score": 4,
+    "performance": 2413.0,
+    "rank": 11,
+    "tournament_id": "fKZGGfyP",
+    "tournament_name": "1467º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756415100214
+  },
+  {
+    "username": "fumecador",
+    "rating": 1976,
+    "score": 2,
+    "performance": 1588.0,
+    "rank": 12,
+    "tournament_id": "fKZGGfyP",
+    "tournament_name": "1467º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756415100214
+  },
+  {
+    "username": "Gilbertooliveira78",
+    "rating": 1961,
+    "score": 2,
+    "performance": 1560.0,
+    "rank": 13,
+    "tournament_id": "fKZGGfyP",
+    "tournament_name": "1467º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756415100214
+  },
+  {
+    "username": "Dan2016",
+    "rating": 1613,
     "score": 0,
-    "performance": 1417.0,
-    "rank": 20,
-    "tournament_id": "vWvlGVp1",
-    "tournament_name": "1473º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756933500214
+    "performance": null,
+    "rank": 14,
+    "tournament_id": "fKZGGfyP",
+    "tournament_name": "1467º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756415100214
+  },
+  {
+    "username": "Macaco-loco-XBA",
+    "rating": 1953,
+    "score": 0,
+    "performance": 1597.0,
+    "rank": 15,
+    "tournament_id": "fKZGGfyP",
+    "tournament_name": "1467º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756415100214
+  },
+  {
+    "username": "wllndr",
+    "rating": 1537,
+    "score": 0,
+    "performance": null,
+    "rank": 16,
+    "tournament_id": "fKZGGfyP",
+    "tournament_name": "1467º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756415100214
+  },
+  {
+    "username": "EdsonFaustino",
+    "rating": 1919,
+    "score": 0,
+    "performance": 1474.0,
+    "rank": 17,
+    "tournament_id": "fKZGGfyP",
+    "tournament_name": "1467º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756415100214
+  },
+  {
+    "username": "VicenTeChes",
+    "rating": 1695,
+    "score": 0,
+    "performance": 1425.0,
+    "rank": 18,
+    "tournament_id": "fKZGGfyP",
+    "tournament_name": "1467º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756415100214
   },
   {
     "username": "F4bioSo4res",
-    "rating": 1994,
+    "rating": 1966,
     "score": 0,
-    "performance": 1248.0,
-    "rank": 21,
-    "tournament_id": "vWvlGVp1",
-    "tournament_name": "1473º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1756933500214
+    "performance": 1314.0,
+    "rank": 19,
+    "tournament_id": "fKZGGfyP",
+    "tournament_name": "1467º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756415100214
+  },
+  {
+    "username": "Charllos",
+    "rating": 1840,
+    "score": 23,
+    "performance": 2085.0,
+    "rank": 1,
+    "tournament_id": "7zvxBpo2",
+    "tournament_name": "1468º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756501500214
+  },
+  {
+    "username": "OXXENTE",
+    "rating": 2002,
+    "score": 10,
+    "performance": 2257.0,
+    "rank": 2,
+    "tournament_id": "7zvxBpo2",
+    "tournament_name": "1468º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756501500214
+  },
+  {
+    "username": "LevyRodrigues",
+    "rating": 1847,
+    "score": 10,
+    "performance": 2007.0,
+    "rank": 3,
+    "tournament_id": "7zvxBpo2",
+    "tournament_name": "1468º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756501500214
+  },
+  {
+    "username": "fumecador",
+    "rating": 2010,
+    "score": 8,
+    "performance": 2398.0,
+    "rank": 4,
+    "tournament_id": "7zvxBpo2",
+    "tournament_name": "1468º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756501500214
+  },
+  {
+    "username": "buscapato33",
+    "rating": 2074,
+    "score": 6,
+    "performance": 2087.0,
+    "rank": 5,
+    "tournament_id": "7zvxBpo2",
+    "tournament_name": "1468º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756501500214
+  },
+  {
+    "username": "tablasnomasbusco",
+    "rating": 1881,
+    "score": 4,
+    "performance": 1890.0,
+    "rank": 6,
+    "tournament_id": "7zvxBpo2",
+    "tournament_name": "1468º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756501500214
+  },
+  {
+    "username": "Numsei01",
+    "rating": 1869,
+    "score": 4,
+    "performance": 1840.0,
+    "rank": 7,
+    "tournament_id": "7zvxBpo2",
+    "tournament_name": "1468º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756501500214
+  },
+  {
+    "username": "zenildosilva",
+    "rating": 1994,
+    "score": 3,
+    "performance": 1885.0,
+    "rank": 8,
+    "tournament_id": "7zvxBpo2",
+    "tournament_name": "1468º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756501500214
+  },
+  {
+    "username": "Braziljr1",
+    "rating": 1955,
+    "score": 3,
+    "performance": 1806.0,
+    "rank": 9,
+    "tournament_id": "7zvxBpo2",
+    "tournament_name": "1468º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756501500214
+  },
+  {
+    "username": "j_erry",
+    "rating": 1925,
+    "score": 3,
+    "performance": 1742.0,
+    "rank": 10,
+    "tournament_id": "7zvxBpo2",
+    "tournament_name": "1468º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756501500214
+  },
+  {
+    "username": "Gilbertooliveira78",
+    "rating": 1912,
+    "score": 3,
+    "performance": 1626.0,
+    "rank": 11,
+    "tournament_id": "7zvxBpo2",
+    "tournament_name": "1468º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756501500214
+  },
+  {
+    "username": "VicenTeChes",
+    "rating": 1687,
+    "score": 2,
+    "performance": 2421.0,
+    "rank": 12,
+    "tournament_id": "7zvxBpo2",
+    "tournament_name": "1468º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756501500214
+  },
+  {
+    "username": "kemerovsky",
+    "rating": 1700,
+    "score": 0,
+    "performance": null,
+    "rank": 13,
+    "tournament_id": "7zvxBpo2",
+    "tournament_name": "1468º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756501500214
+  },
+  {
+    "username": "EdsonFaustino",
+    "rating": 1915,
+    "score": 0,
+    "performance": 1492.0,
+    "rank": 14,
+    "tournament_id": "7zvxBpo2",
+    "tournament_name": "1468º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756501500214
+  },
+  {
+    "username": "Gualter_Xpga",
+    "rating": 1959,
+    "score": 0,
+    "performance": 1469.0,
+    "rank": 15,
+    "tournament_id": "7zvxBpo2",
+    "tournament_name": "1468º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756501500214
+  },
+  {
+    "username": "ccaso10",
+    "rating": 1791,
+    "score": 0,
+    "performance": 1381.0,
+    "rank": 16,
+    "tournament_id": "7zvxBpo2",
+    "tournament_name": "1468º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756501500214
+  },
+  {
+    "username": "Phernando39",
+    "rating": 1832,
+    "score": 0,
+    "performance": 1341.0,
+    "rank": 17,
+    "tournament_id": "7zvxBpo2",
+    "tournament_name": "1468º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756501500214
+  },
+  {
+    "username": "Botvinik1961",
+    "rating": 1664,
+    "score": 0,
+    "performance": 1335.0,
+    "rank": 18,
+    "tournament_id": "7zvxBpo2",
+    "tournament_name": "1468º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1756501500214
   },
   {
     "username": "Farofa_de_Bacon",
@@ -15240,6 +15220,146 @@
     "startsAt": 1765314300214
   },
   {
+    "username": "Gilbertooliveira78",
+    "rating": 1815,
+    "score": 14,
+    "performance": 2093.0,
+    "rank": 1,
+    "tournament_id": "56nInI4o",
+    "tournament_name": "1571º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1765400700214
+  },
+  {
+    "username": "EdsonFaustino",
+    "rating": 1917,
+    "score": 7,
+    "performance": 2252.0,
+    "rank": 2,
+    "tournament_id": "56nInI4o",
+    "tournament_name": "1571º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1765400700214
+  },
+  {
+    "username": "Darth_Vader_LMX",
+    "rating": 1882,
+    "score": 6,
+    "performance": 1854.0,
+    "rank": 3,
+    "tournament_id": "56nInI4o",
+    "tournament_name": "1571º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1765400700214
+  },
+  {
+    "username": "fumecador",
+    "rating": 1883,
+    "score": 4,
+    "performance": 1677.0,
+    "rank": 4,
+    "tournament_id": "56nInI4o",
+    "tournament_name": "1571º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1765400700214
+  },
+  {
+    "username": "j_erry",
+    "rating": 1972,
+    "score": 2,
+    "performance": 2360.0,
+    "rank": 5,
+    "tournament_id": "56nInI4o",
+    "tournament_name": "1571º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1765400700214
+  },
+  {
+    "username": "OXXENTE",
+    "rating": 2031,
+    "score": 2,
+    "performance": 1887.0,
+    "rank": 6,
+    "tournament_id": "56nInI4o",
+    "tournament_name": "1571º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1765400700214
+  },
+  {
+    "username": "VicenTeChes",
+    "rating": 1627,
+    "score": 2,
+    "performance": 1667.0,
+    "rank": 7,
+    "tournament_id": "56nInI4o",
+    "tournament_name": "1571º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1765400700214
+  },
+  {
+    "username": "One_Capi",
+    "rating": 2115,
+    "score": 0,
+    "performance": null,
+    "rank": 8,
+    "tournament_id": "56nInI4o",
+    "tournament_name": "1571º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1765400700214
+  },
+  {
+    "username": "lucena2007",
+    "rating": 1909,
+    "score": 0,
+    "performance": null,
+    "rank": 9,
+    "tournament_id": "56nInI4o",
+    "tournament_name": "1571º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1765400700214
+  },
+  {
+    "username": "Numsei01",
+    "rating": 1856,
+    "score": 0,
+    "performance": 1468.0,
+    "rank": 10,
+    "tournament_id": "56nInI4o",
+    "tournament_name": "1571º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1765400700214
+  },
+  {
+    "username": "tablasnomasbusco",
+    "rating": 1910,
+    "score": 0,
+    "performance": 1404.0,
+    "rank": 11,
+    "tournament_id": "56nInI4o",
+    "tournament_name": "1571º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1765400700214
+  },
+  {
+    "username": "rolandobrazil",
+    "rating": 1833,
+    "score": 0,
+    "performance": 1399.0,
+    "rank": 12,
+    "tournament_id": "56nInI4o",
+    "tournament_name": "1571º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1765400700214
+  },
+  {
+    "username": "liki",
+    "rating": 1672,
+    "score": 0,
+    "performance": 1385.0,
+    "rank": 13,
+    "tournament_id": "56nInI4o",
+    "tournament_name": "1571º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1765400700214
+  },
+  {
+    "username": "Phernando39",
+    "rating": 1795,
+    "score": 0,
+    "performance": 1287.0,
+    "rank": 14,
+    "tournament_id": "56nInI4o",
+    "tournament_name": "1571º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1765400700214
+  },
+  {
     "username": "Canal_Chessveja",
     "rating": 1999,
     "score": 20,
@@ -17770,186 +17890,6 @@
     "startsAt": 1766783100214
   },
   {
-    "username": "j_erry",
-    "rating": 1926,
-    "score": 13,
-    "performance": 2114.0,
-    "rank": 1,
-    "tournament_id": "YhHBYIqe",
-    "tournament_name": "1590º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1767042300214
-  },
-  {
-    "username": "MATEMATICO",
-    "rating": 1926,
-    "score": 12,
-    "performance": 2226.0,
-    "rank": 2,
-    "tournament_id": "YhHBYIqe",
-    "tournament_name": "1590º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1767042300214
-  },
-  {
-    "username": "ProfessorCHESSVEJA",
-    "rating": 2022,
-    "score": 10,
-    "performance": 2302.0,
-    "rank": 3,
-    "tournament_id": "YhHBYIqe",
-    "tournament_name": "1590º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1767042300214
-  },
-  {
-    "username": "adrianojosepereira3",
-    "rating": 1968,
-    "score": 10,
-    "performance": 2011.0,
-    "rank": 4,
-    "tournament_id": "YhHBYIqe",
-    "tournament_name": "1590º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1767042300214
-  },
-  {
-    "username": "Thunder2021",
-    "rating": 1920,
-    "score": 10,
-    "performance": 1978.0,
-    "rank": 5,
-    "tournament_id": "YhHBYIqe",
-    "tournament_name": "1590º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1767042300214
-  },
-  {
-    "username": "VicenTeChes",
-    "rating": 1720,
-    "score": 8,
-    "performance": 2136.0,
-    "rank": 6,
-    "tournament_id": "YhHBYIqe",
-    "tournament_name": "1590º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1767042300214
-  },
-  {
-    "username": "fumecador",
-    "rating": 1825,
-    "score": 8,
-    "performance": 1799.0,
-    "rank": 7,
-    "tournament_id": "YhHBYIqe",
-    "tournament_name": "1590º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1767042300214
-  },
-  {
-    "username": "Gilbertooliveira78",
-    "rating": 1769,
-    "score": 6,
-    "performance": 1742.0,
-    "rank": 8,
-    "tournament_id": "YhHBYIqe",
-    "tournament_name": "1590º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1767042300214
-  },
-  {
-    "username": "Numsei01",
-    "rating": 1840,
-    "score": 6,
-    "performance": 1602.0,
-    "rank": 9,
-    "tournament_id": "YhHBYIqe",
-    "tournament_name": "1590º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1767042300214
-  },
-  {
-    "username": "Balzabouth",
-    "rating": 1859,
-    "score": 4,
-    "performance": 1712.0,
-    "rank": 10,
-    "tournament_id": "YhHBYIqe",
-    "tournament_name": "1590º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1767042300214
-  },
-  {
-    "username": "malonepracinha",
-    "rating": 1791,
-    "score": 4,
-    "performance": 1505.0,
-    "rank": 11,
-    "tournament_id": "YhHBYIqe",
-    "tournament_name": "1590º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1767042300214
-  },
-  {
-    "username": "gilbertomenegatti",
-    "rating": 1672,
-    "score": 2,
-    "performance": 1679.0,
-    "rank": 12,
-    "tournament_id": "YhHBYIqe",
-    "tournament_name": "1590º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1767042300214
-  },
-  {
-    "username": "TinoBeto",
-    "rating": 993,
-    "score": 2,
-    "performance": 1639.0,
-    "rank": 13,
-    "tournament_id": "YhHBYIqe",
-    "tournament_name": "1590º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1767042300214
-  },
-  {
-    "username": "LevyRodrigues",
-    "rating": 1831,
-    "score": 2,
-    "performance": 1597.0,
-    "rank": 14,
-    "tournament_id": "YhHBYIqe",
-    "tournament_name": "1590º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1767042300214
-  },
-  {
-    "username": "P3rsa",
-    "rating": 1975,
-    "score": 1,
-    "performance": 1515.0,
-    "rank": 15,
-    "tournament_id": "YhHBYIqe",
-    "tournament_name": "1590º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1767042300214
-  },
-  {
-    "username": "aprendizscuto",
-    "rating": 1618,
-    "score": 0,
-    "performance": 1404.0,
-    "rank": 16,
-    "tournament_id": "YhHBYIqe",
-    "tournament_name": "1590º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1767042300214
-  },
-  {
-    "username": "EdsonFaustino",
-    "rating": 1926,
-    "score": 0,
-    "performance": 1264.0,
-    "rank": 17,
-    "tournament_id": "YhHBYIqe",
-    "tournament_name": "1590º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1767042300214
-  },
-  {
-    "username": "OXXENTE",
-    "rating": 2003,
-    "score": 0,
-    "performance": 1192.0,
-    "rank": 18,
-    "tournament_id": "YhHBYIqe",
-    "tournament_name": "1590º SLT JUDIT POLGÁR Arena",
-    "startsAt": 1767042300214
-  },
-  {
     "username": "RicardoLLopes",
     "rating": 2012,
     "score": 16,
@@ -18448,6 +18388,226 @@
     "tournament_id": "xGzdXsdM",
     "tournament_name": "1592º SLT JUDIT POLGÁR Arena",
     "startsAt": 1767215100214
+  },
+  {
+    "username": "buscapato33",
+    "rating": 2051,
+    "score": 20,
+    "performance": 2201.0,
+    "rank": 1,
+    "tournament_id": "JfWGz99n",
+    "tournament_name": "1593º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1767301500214
+  },
+  {
+    "username": "P3rsa",
+    "rating": 1984,
+    "score": 16,
+    "performance": 1992.0,
+    "rank": 2,
+    "tournament_id": "JfWGz99n",
+    "tournament_name": "1593º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1767301500214
+  },
+  {
+    "username": "LevyRodrigues",
+    "rating": 1860,
+    "score": 15,
+    "performance": 2033.0,
+    "rank": 3,
+    "tournament_id": "JfWGz99n",
+    "tournament_name": "1593º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1767301500214
+  },
+  {
+    "username": "jpessoa409",
+    "rating": 1962,
+    "score": 14,
+    "performance": 1850.0,
+    "rank": 4,
+    "tournament_id": "JfWGz99n",
+    "tournament_name": "1593º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1767301500214
+  },
+  {
+    "username": "malonepracinha",
+    "rating": 1781,
+    "score": 10,
+    "performance": 1999.0,
+    "rank": 5,
+    "tournament_id": "JfWGz99n",
+    "tournament_name": "1593º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1767301500214
+  },
+  {
+    "username": "wandoitz",
+    "rating": 1833,
+    "score": 10,
+    "performance": 1759.0,
+    "rank": 6,
+    "tournament_id": "JfWGz99n",
+    "tournament_name": "1593º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1767301500214
+  },
+  {
+    "username": "Ceara_mn",
+    "rating": 2204,
+    "score": 9,
+    "performance": 1982.0,
+    "rank": 7,
+    "tournament_id": "JfWGz99n",
+    "tournament_name": "1593º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1767301500214
+  },
+  {
+    "username": "adrianojosepereira3",
+    "rating": 1959,
+    "score": 9,
+    "performance": 1920.0,
+    "rank": 8,
+    "tournament_id": "JfWGz99n",
+    "tournament_name": "1593º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1767301500214
+  },
+  {
+    "username": "OXXENTE",
+    "rating": 1972,
+    "score": 8,
+    "performance": 2173.0,
+    "rank": 9,
+    "tournament_id": "JfWGz99n",
+    "tournament_name": "1593º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1767301500214
+  },
+  {
+    "username": "Gilbertooliveira78",
+    "rating": 1822,
+    "score": 6,
+    "performance": 1931.0,
+    "rank": 10,
+    "tournament_id": "JfWGz99n",
+    "tournament_name": "1593º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1767301500214
+  },
+  {
+    "username": "MATEMATICO",
+    "rating": 1898,
+    "score": 6,
+    "performance": 1817.0,
+    "rank": 11,
+    "tournament_id": "JfWGz99n",
+    "tournament_name": "1593º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1767301500214
+  },
+  {
+    "username": "Alexandre_Santos_007",
+    "rating": 1773,
+    "score": 6,
+    "performance": 1646.0,
+    "rank": 12,
+    "tournament_id": "JfWGz99n",
+    "tournament_name": "1593º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1767301500214
+  },
+  {
+    "username": "j_erry",
+    "rating": 1931,
+    "score": 5,
+    "performance": 2152.0,
+    "rank": 13,
+    "tournament_id": "JfWGz99n",
+    "tournament_name": "1593º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1767301500214
+  },
+  {
+    "username": "Maluco_do_natal",
+    "rating": 2079,
+    "score": 2,
+    "performance": 2401.0,
+    "rank": 14,
+    "tournament_id": "JfWGz99n",
+    "tournament_name": "1593º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1767301500214
+  },
+  {
+    "username": "fraquinhoprachuchu",
+    "rating": 1814,
+    "score": 2,
+    "performance": 1988.0,
+    "rank": 15,
+    "tournament_id": "JfWGz99n",
+    "tournament_name": "1593º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1767301500214
+  },
+  {
+    "username": "Vitor_Hugo_moreira",
+    "rating": 1816,
+    "score": 2,
+    "performance": 1675.0,
+    "rank": 16,
+    "tournament_id": "JfWGz99n",
+    "tournament_name": "1593º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1767301500214
+  },
+  {
+    "username": "VicenTeChes",
+    "rating": 1664,
+    "score": 2,
+    "performance": 1584.0,
+    "rank": 17,
+    "tournament_id": "JfWGz99n",
+    "tournament_name": "1593º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1767301500214
+  },
+  {
+    "username": "Dan2016",
+    "rating": 1479,
+    "score": 2,
+    "performance": 1471.0,
+    "rank": 18,
+    "tournament_id": "JfWGz99n",
+    "tournament_name": "1593º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1767301500214
+  },
+  {
+    "username": "adrianosampaioBR",
+    "rating": 1578,
+    "score": 0,
+    "performance": 1703.0,
+    "rank": 19,
+    "tournament_id": "JfWGz99n",
+    "tournament_name": "1593º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1767301500214
+  },
+  {
+    "username": "hugo2006ofc",
+    "rating": 1503,
+    "score": 0,
+    "performance": 1478.0,
+    "rank": 20,
+    "tournament_id": "JfWGz99n",
+    "tournament_name": "1593º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1767301500214
+  },
+  {
+    "username": "scalzibrunoinstagram",
+    "rating": 1478,
+    "score": 0,
+    "performance": null,
+    "rank": 21,
+    "tournament_id": "JfWGz99n",
+    "tournament_name": "1593º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1767301500214
+  },
+  {
+    "username": "EdsonFaustino",
+    "rating": 1906,
+    "score": 0,
+    "performance": 977.0,
+    "rank": 22,
+    "tournament_id": "JfWGz99n",
+    "tournament_name": "1593º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1767301500214
   },
   {
     "username": "reidapatolandia",
@@ -53958,6 +54118,226 @@
     "tournament_id": "plDAdvPm",
     "tournament_name": "1823º SLT JUDIT POLGÁR Arena",
     "startsAt": 1787259900214
+  },
+  {
+    "username": "Entrenador3talentos",
+    "rating": 2123,
+    "score": 18,
+    "performance": 2388.0,
+    "rank": 1,
+    "tournament_id": "k2nGafm5",
+    "tournament_name": "1824º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1787346300214
+  },
+  {
+    "username": "Thunder2021",
+    "rating": 1930,
+    "score": 12,
+    "performance": 2091.0,
+    "rank": 2,
+    "tournament_id": "k2nGafm5",
+    "tournament_name": "1824º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1787346300214
+  },
+  {
+    "username": "F4bioSo4res",
+    "rating": 1959,
+    "score": 12,
+    "performance": 2087.0,
+    "rank": 3,
+    "tournament_id": "k2nGafm5",
+    "tournament_name": "1824º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1787346300214
+  },
+  {
+    "username": "douglas27",
+    "rating": 1862,
+    "score": 10,
+    "performance": 2015.0,
+    "rank": 4,
+    "tournament_id": "k2nGafm5",
+    "tournament_name": "1824º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1787346300214
+  },
+  {
+    "username": "fumecador",
+    "rating": 1840,
+    "score": 10,
+    "performance": 1883.0,
+    "rank": 5,
+    "tournament_id": "k2nGafm5",
+    "tournament_name": "1824º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1787346300214
+  },
+  {
+    "username": "monstercofee",
+    "rating": 1734,
+    "score": 8,
+    "performance": 1822.0,
+    "rank": 6,
+    "tournament_id": "k2nGafm5",
+    "tournament_name": "1824º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1787346300214
+  },
+  {
+    "username": "Ambroagem",
+    "rating": 1748,
+    "score": 6,
+    "performance": 1893.0,
+    "rank": 7,
+    "tournament_id": "k2nGafm5",
+    "tournament_name": "1824º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1787346300214
+  },
+  {
+    "username": "malonepracinha",
+    "rating": 1821,
+    "score": 5,
+    "performance": 1766.0,
+    "rank": 8,
+    "tournament_id": "k2nGafm5",
+    "tournament_name": "1824º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1787346300214
+  },
+  {
+    "username": "EduVasco",
+    "rating": 1879,
+    "score": 4,
+    "performance": 2447.0,
+    "rank": 9,
+    "tournament_id": "k2nGafm5",
+    "tournament_name": "1824º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1787346300214
+  },
+  {
+    "username": "filhosdavelha",
+    "rating": 1965,
+    "score": 4,
+    "performance": 1838.0,
+    "rank": 10,
+    "tournament_id": "k2nGafm5",
+    "tournament_name": "1824º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1787346300214
+  },
+  {
+    "username": "capapreta999",
+    "rating": 1915,
+    "score": 4,
+    "performance": 1801.0,
+    "rank": 11,
+    "tournament_id": "k2nGafm5",
+    "tournament_name": "1824º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1787346300214
+  },
+  {
+    "username": "MATEMATICO",
+    "rating": 1869,
+    "score": 4,
+    "performance": 1751.0,
+    "rank": 12,
+    "tournament_id": "k2nGafm5",
+    "tournament_name": "1824º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1787346300214
+  },
+  {
+    "username": "neycaetano_ubatuba1",
+    "rating": 1655,
+    "score": 4,
+    "performance": 1584.0,
+    "rank": 13,
+    "tournament_id": "k2nGafm5",
+    "tournament_name": "1824º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1787346300214
+  },
+  {
+    "username": "j_erry",
+    "rating": 1992,
+    "score": 3,
+    "performance": 1638.0,
+    "rank": 14,
+    "tournament_id": "k2nGafm5",
+    "tournament_name": "1824º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1787346300214
+  },
+  {
+    "username": "Leonilson",
+    "rating": 1897,
+    "score": 2,
+    "performance": 2310.0,
+    "rank": 15,
+    "tournament_id": "k2nGafm5",
+    "tournament_name": "1824º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1787346300214
+  },
+  {
+    "username": "nelsonlopes",
+    "rating": 1833,
+    "score": 2,
+    "performance": 2306.0,
+    "rank": 16,
+    "tournament_id": "k2nGafm5",
+    "tournament_name": "1824º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1787346300214
+  },
+  {
+    "username": "rolandobrazil",
+    "rating": 1801,
+    "score": 2,
+    "performance": 1647.0,
+    "rank": 17,
+    "tournament_id": "k2nGafm5",
+    "tournament_name": "1824º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1787346300214
+  },
+  {
+    "username": "buscapato33",
+    "rating": 2027,
+    "score": 2,
+    "performance": 1620.0,
+    "rank": 18,
+    "tournament_id": "k2nGafm5",
+    "tournament_name": "1824º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1787346300214
+  },
+  {
+    "username": "moleti65",
+    "rating": 1668,
+    "score": 2,
+    "performance": 1417.0,
+    "rank": 19,
+    "tournament_id": "k2nGafm5",
+    "tournament_name": "1824º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1787346300214
+  },
+  {
+    "username": "XadrezDinelly",
+    "rating": 2164,
+    "score": 1,
+    "performance": 1814.0,
+    "rank": 20,
+    "tournament_id": "k2nGafm5",
+    "tournament_name": "1824º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1787346300214
+  },
+  {
+    "username": "CamposJE",
+    "rating": 1820,
+    "score": 0,
+    "performance": null,
+    "rank": 21,
+    "tournament_id": "k2nGafm5",
+    "tournament_name": "1824º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1787346300214
+  },
+  {
+    "username": "VicenTeChes",
+    "rating": 1698,
+    "score": 0,
+    "performance": 1359.0,
+    "rank": 22,
+    "tournament_id": "k2nGafm5",
+    "tournament_name": "1824º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1787346300214
   },
   {
     "username": "Braziljr1",
