@@ -3,28 +3,28 @@ name: Publicar GitHub Pages
 on:
   push:
     branches:
-      - main           # publica sempre que houver push na branch main
-  workflow_dispatch:   # ainda permite rodar manualmente
+      - main
+  workflow_dispatch:
 
 permissions:
-  contents: read       # precisa ler os arquivos do repositório
-  pages: write         # precisa escrever no GitHub Pages
-  id-token: write      # necessário para autenticação
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repositório
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4   # atualizado
 
       - name: Configurar Pages
-        uses: actions/configure-pages@v3
+        uses: actions/configure-pages@v4   # atualizado
 
       - name: Upload artefatos
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3   # atualizado
         with:
-          path: site   # pasta onde está o conteúdo do site
+          path: site
 
       - name: Publicar no GitHub Pages
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4   # atualizado
