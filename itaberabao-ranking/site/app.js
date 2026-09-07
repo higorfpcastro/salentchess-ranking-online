@@ -51,7 +51,7 @@ function renderRanking(filter = "") {
   const rows = ranking.filter(p => (p.Nick || "").toLowerCase().includes(query));
 
   document.querySelector("#ranking tbody").innerHTML = rows.map((p, i) => `
-    <tr>
+    <tr onclick="showPlayerDetails(ranking[${i}])">
       <td class="rank">${i + 1}</td>
       <td class="player">${p.Nick ?? "—"}</td>
       <td><strong>${fmt(p.Pontos)}</strong></td>
@@ -99,6 +99,32 @@ function renderTournaments() {
     </tr>
   `).join("");
 }
+
+// 🔹 Função para abrir o modal com detalhes do jogador
+function showPlayerDetails(player) {
+  const modal = document.getElementById("player-modal");
+  const details = document.getElementById("player-details");
+
+  details.innerHTML = `
+    <h2>#${ranking.indexOf(player) + 1} ${player.Nick}</h2>
+    <p><strong>${fmt(player.Pontos)}</strong> pontos</p>
+    <hr>
+    <p><strong>Torneios:</strong> ${fmt(player.Participacoes)}</p>
+    <p><strong>Desempenho médio:</strong> ${fmt(player.Desempenho_Medio)}</p>
+    <p><strong>Rating médio:</strong> ${fmt(player.Rating_Medio)}</p>
+    <p><strong>1º lugares:</strong> ${fmt(player.podio_primeiro)}</p>
+    <p><strong>2º lugares:</strong> ${fmt(player.podio_segundo)}</p>
+    <p><strong>3º lugares:</strong> ${fmt(player.podio_terceiro)}</p>
+    <p><strong>Pontos por torneio:</strong> ${fmt(player.Pontos_por_Torneio)}</p>
+  `;
+
+  modal.classList.remove("hidden");
+}
+
+// 🔹 Botão para fechar o modal
+document.getElementById("close-modal").addEventListener("click", () => {
+  document.getElementById("player-modal").classList.add("hidden");
+});
 
 async function init() {
   try {
