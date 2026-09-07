@@ -257,3 +257,13 @@ footer .container {
   color: var(--muted);
   cursor: pointer;
 }
+
+/* 🔹 Gráfico de desempenho no modal */
+#performance-chart {
+  max-width: 100%;
+  margin-top: 1rem;
+}
+
+.muted {
+  color: var(--muted);
+}
