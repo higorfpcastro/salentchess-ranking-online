@@ -1,0 +1,25 @@
+name: Publicar GitHub Pages
+
+on:
+  workflow_dispatch:   # permite rodar manualmente
+  push:
+    branches:
+      - main           # publica sempre que houver push na branch main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repositório
+        uses: actions/checkout@v3
+
+      - name: Configurar Pages
+        uses: actions/configure-pages@v3
+
+      - name: Upload artefatos
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: site
+
+      - name: Publicar no GitHub Pages
+        uses: actions/deploy-pages@v2
