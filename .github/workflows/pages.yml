@@ -27,7 +27,7 @@ jobs:
       - name: Upload artefatos
         uses: actions/upload-pages-artifact@v3
         with:
-          path: itaberabao-ranking/site   # publica index.html na raiz + data/
+          path: itaberabao-ranking/site   # publica index.html + data/
 
       - name: Publicar no GitHub Pages
         uses: actions/deploy-pages@v4
