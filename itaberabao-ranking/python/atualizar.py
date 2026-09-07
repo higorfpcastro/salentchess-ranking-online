@@ -74,7 +74,7 @@ RATING_LIMITS = [
     (2600, math.inf, "2600+"),
 ]
 
-OUTPUT = Path(__file__).resolve().parents[1] / "data"
+OUTPUT = Path(__file__).resolve().parents[1] / "site" #a priori os dados estavam sendo salvos em /data
 OUTPUT.mkdir(parents=True, exist_ok=True)
 
 SESSION = requests.Session()
