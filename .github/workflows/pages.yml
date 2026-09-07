@@ -3,28 +3,28 @@ name: Publicar GitHub Pages
 on:
   push:
     branches:
-      - main
-  workflow_dispatch:
+      - main           # publica sempre que houver commit na branch main
+  workflow_dispatch:   # ainda permite rodar manualmente
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: read       # precisa ler os arquivos do repositório
+  pages: write         # precisa escrever no GitHub Pages
+  id-token: write      # necessário para autenticação
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repositório
-        uses: actions/checkout@v4   # atualizado
+        uses: actions/checkout@v4   # versão mais nova
 
       - name: Configurar Pages
-        uses: actions/configure-pages@v4   # atualizado
+        uses: actions/configure-pages@v4   # versão mais nova
 
       - name: Upload artefatos
-        uses: actions/upload-pages-artifact@v3   # atualizado
+        uses: actions/upload-pages-artifact@v3   # versão mais nova
         with:
-          path: site
+          path: itaberabao-ranking/site   # caminho correto da pasta do site
 
       - name: Publicar no GitHub Pages
-        uses: actions/deploy-pages@v4   # atualizado
+        uses: actions/deploy-pages@v4   # versão mais nova
