@@ -109,7 +109,7 @@ function renderTournaments() {
   `).join("");
 }
 
-// 🔹 Função para abrir o modal com detalhes do jogador
+// 🔹 Função para abrir o modal com detalhes do jogador + gráfico
 function showPlayerDetails(player) {
   const modal = document.getElementById("player-modal");
   const details = document.getElementById("player-details");
@@ -127,18 +127,49 @@ function showPlayerDetails(player) {
     <p><strong>Pontos por torneio:</strong> ${fmt(player.Pontos_por_Torneio)}</p>
   `.replace(/—/g, '<span class="muted">—</span>');
 
+  // 🔹 Renderizar gráfico Chart.js
+  const ctx = document.getElementById("performance-chart").getContext("2d");
+  if (window.performanceChart) {
+    window.performanceChart.destroy(); // destruir gráfico anterior
+  }
+  window.performanceChart = new Chart(ctx, {
+    type: "bar",
+    data: {
+      labels: ["Pontos", "Desempenho", "Rating", "Pontos/Torneio"],
+      datasets: [{
+        label: "Desempenho",
+        data: [
+          player.Pontos,
+          player.Desempenho_Medio,
+          player.Rating_Medio,
+          player.Pontos_por_Torneio
+        ],
+        backgroundColor: ["#d4af37", "#9a9a9a", "#e0e0e0", "#444"]
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: { legend: { display: false } }
+    }
+  });
+
   modal.classList.remove("hidden");
+  modal.setAttribute("aria-hidden", "false");
 }
 
 // 🔹 Botão para fechar o modal
 document.getElementById("close-modal").addEventListener("click", () => {
-  document.getElementById("player-modal").classList.add("hidden");
+  const modal = document.getElementById("player-modal");
+  modal.classList.add("hidden");
+  modal.setAttribute("aria-hidden", "true");
 });
 
 // 🔹 Fechar modal com tecla Esc
 document.addEventListener("keydown", e => {
   if (e.key === "Escape") {
-    document.getElementById("player-modal").classList.add("hidden");
+    const modal = document.getElementById("player-modal");
+    modal.classList.add("hidden");
+    modal.setAttribute("aria-hidden", "true");
   }
 });
 
