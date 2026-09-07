@@ -50,8 +50,9 @@ function renderRanking(filter = "") {
   const query = filter.trim().toLowerCase();
   const rows = ranking.filter(p => (p.Nick || "").toLowerCase().includes(query));
 
-  document.querySelector("#ranking tbody").innerHTML = rows.map((p, i) => `
-    <tr onclick="showPlayerDetails(ranking[${i}])">
+  const tbody = document.querySelector("#ranking tbody");
+  tbody.innerHTML = rows.map((p, i) => `
+    <tr data-index="${i}">
       <td class="rank">${i + 1}</td>
       <td class="player">${p.Nick ?? "—"}</td>
       <td><strong>${fmt(p.Pontos)}</strong></td>
@@ -63,6 +64,14 @@ function renderRanking(filter = "") {
       <td>${fmt(p.Participacoes)}</td>
     </tr>
   `).join("");
+
+  // 🔹 Adiciona evento de clique via JS
+  tbody.querySelectorAll("tr").forEach(tr => {
+    tr.addEventListener("click", () => {
+      const index = tr.dataset.index;
+      showPlayerDetails(ranking[index]);
+    });
+  });
 }
 
 function renderWinners() {
@@ -106,7 +115,7 @@ function showPlayerDetails(player) {
   const details = document.getElementById("player-details");
 
   details.innerHTML = `
-    <h2>#${ranking.indexOf(player) + 1} ${player.Nick}</h2>
+    <h2 style="color: var(--accent)">#${ranking.indexOf(player) + 1} ${player.Nick}</h2>
     <p><strong>${fmt(player.Pontos)}</strong> pontos</p>
     <hr>
     <p><strong>Torneios:</strong> ${fmt(player.Participacoes)}</p>
@@ -116,7 +125,7 @@ function showPlayerDetails(player) {
     <p><strong>2º lugares:</strong> ${fmt(player.podio_segundo)}</p>
     <p><strong>3º lugares:</strong> ${fmt(player.podio_terceiro)}</p>
     <p><strong>Pontos por torneio:</strong> ${fmt(player.Pontos_por_Torneio)}</p>
-  `;
+  `.replace(/—/g, '<span class="muted">—</span>');
 
   modal.classList.remove("hidden");
 }
@@ -124,6 +133,13 @@ function showPlayerDetails(player) {
 // 🔹 Botão para fechar o modal
 document.getElementById("close-modal").addEventListener("click", () => {
   document.getElementById("player-modal").classList.add("hidden");
+});
+
+// 🔹 Fechar modal com tecla Esc
+document.addEventListener("keydown", e => {
+  if (e.key === "Escape") {
+    document.getElementById("player-modal").classList.add("hidden");
+  }
 });
 
 async function init() {
