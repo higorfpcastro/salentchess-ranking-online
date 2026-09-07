@@ -65,11 +65,10 @@ function renderRanking(filter = "") {
     </tr>
   `).join("");
 
-  // 🔹 Adiciona evento de clique via JS
-  tbody.querySelectorAll("tr").forEach(tr => {
+  // 🔹 Agora usa rows[i] para abrir o jogador correto
+  tbody.querySelectorAll("tr").forEach((tr, i) => {
     tr.addEventListener("click", () => {
-      const index = tr.dataset.index;
-      showPlayerDetails(ranking[index]);
+      showPlayerDetails(rows[i]);
     });
   });
 }
@@ -205,3 +204,24 @@ document.querySelector("#search").addEventListener("input", e => {
 });
 
 init();
+
+// 🔹 Atualização automática às 19h
+function scheduleUpdate(hour, minute) {
+  const now = new Date();
+  const next = new Date();
+
+  next.setHours(hour, minute, 0, 0);
+
+  if (next <= now) {
+    next.setDate(next.getDate() + 1);
+  }
+
+  const delay = next.getTime() - now.getTime();
+
+  setTimeout(() => {
+    init(); // atualiza os dados
+    scheduleUpdate(hour, minute); // agenda novamente para o próximo dia
+  }, delay);
+}
+
+scheduleUpdate(19, 0);
