@@ -7,6 +7,8 @@
   <link rel="stylesheet" href="style.css">
   <!-- Fonte Noto Sans para combinar com o estilo Lichess -->
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet">
+  <!-- Biblioteca Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
   <header class="hero">
@@ -116,6 +118,8 @@
     <div class="modal-content">
       <button id="close-modal" class="close" aria-label="Fechar">×</button>
       <div id="player-details"></div>
+      <!-- Canvas para o gráfico -->
+      <canvas id="performance-chart"></canvas>
     </div>
   </div>
 
