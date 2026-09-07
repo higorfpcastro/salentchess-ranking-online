@@ -1,10 +1,15 @@
 name: Publicar GitHub Pages
 
 on:
-  workflow_dispatch:   # permite rodar manualmente
   push:
     branches:
       - main           # publica sempre que houver push na branch main
+  workflow_dispatch:   # ainda permite rodar manualmente
+
+permissions:
+  contents: read       # precisa ler os arquivos do repositório
+  pages: write         # precisa escrever no GitHub Pages
+  id-token: write      # necessário para autenticação
 
 jobs:
   deploy:
@@ -19,7 +24,7 @@ jobs:
       - name: Upload artefatos
         uses: actions/upload-pages-artifact@v2
         with:
-          path: site
+          path: site   # pasta onde está o conteúdo do site
 
       - name: Publicar no GitHub Pages
         uses: actions/deploy-pages@v2
