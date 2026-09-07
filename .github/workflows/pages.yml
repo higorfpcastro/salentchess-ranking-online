@@ -22,7 +22,9 @@ jobs:
         uses: actions/configure-pages@v4
 
       - name: Copiar dados para site
-        run: cp -r itaberabao-ranking/data itaberabao-ranking/site/
+        run: |
+          mkdir -p itaberabao-ranking/site/data
+          cp -r itaberabao-ranking/data/* itaberabao-ranking/site/data/
 
       - name: Upload artefatos
         uses: actions/upload-pages-artifact@v3
