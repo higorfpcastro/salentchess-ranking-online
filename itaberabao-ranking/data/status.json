@@ -1,4 +1,9 @@
 {
-  "success": false,
-  "message": "Aguardando a primeira execução do GitHub Actions."
+  "updated_at": "2026-09-07T15:52:55.645614+00:00",
+  "duration_seconds": 181.16,
+  "team": "itaberabao",
+  "tournaments": 277,
+  "players": 596,
+  "participations": 7014,
+  "success": true
 }
