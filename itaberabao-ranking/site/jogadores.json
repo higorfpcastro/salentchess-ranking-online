@@ -1,25 +1,25 @@
 [
   {
     "Nick": "fumecador",
-    "Pontos": 1688,
-    "Desempenho_Medio": 1843.0,
-    "podio_primeiro": 3,
-    "podio_segundo": 9,
-    "podio_terceiro": 23,
-    "Rating_Medio": 1869.0,
+    "Pontos": 1681,
+    "Desempenho_Medio": 1841.0,
+    "podio_primeiro": 2,
+    "podio_segundo": 10,
+    "podio_terceiro": 25,
+    "Rating_Medio": 1868.0,
     "Pontos_por_Torneio": 7.0,
-    "Maior_Pontuacao": 20,
+    "Maior_Pontuacao": 18,
     "Menor_Ranking": 1,
-    "Participacoes": 244
+    "Participacoes": 243
   },
   {
     "Nick": "LevyRodrigues",
-    "Pontos": 1522,
-    "Desempenho_Medio": 1786.0,
-    "podio_primeiro": 9,
+    "Pontos": 1540,
+    "Desempenho_Medio": 1785.0,
+    "podio_primeiro": 10,
     "podio_segundo": 23,
-    "podio_terceiro": 19,
-    "Rating_Medio": 1854.0,
+    "podio_terceiro": 17,
+    "Rating_Medio": 1853.0,
     "Pontos_por_Torneio": 8.0,
     "Maior_Pontuacao": 30,
     "Menor_Ranking": 1,
@@ -27,281 +27,268 @@
   },
   {
     "Nick": "j_erry",
-    "Pontos": 1385,
-    "Desempenho_Medio": 1896.0,
+    "Pontos": 1365,
+    "Desempenho_Medio": 1898.0,
     "podio_primeiro": 13,
     "podio_segundo": 16,
     "podio_terceiro": 18,
-    "Rating_Medio": 1957.0,
+    "Rating_Medio": 1955.0,
     "Pontos_por_Torneio": 8.0,
     "Maior_Pontuacao": 31,
     "Menor_Ranking": 1,
-    "Participacoes": 179
+    "Participacoes": 178
   },
   {
     "Nick": "Gilbertooliveira78",
-    "Pontos": 1234,
-    "Desempenho_Medio": 1810.0,
-    "podio_primeiro": 4,
+    "Pontos": 1249,
+    "Desempenho_Medio": 1818.0,
+    "podio_primeiro": 6,
     "podio_segundo": 11,
     "podio_terceiro": 8,
-    "Rating_Medio": 1813.0,
+    "Rating_Medio": 1812.0,
     "Pontos_por_Torneio": 6.0,
     "Maior_Pontuacao": 24,
     "Menor_Ranking": 1,
-    "Participacoes": 200
-  },
-  {
-    "Nick": "buscapato33",
-    "Pontos": 1222,
-    "Desempenho_Medio": 1990.0,
-    "podio_primeiro": 29,
-    "podio_segundo": 11,
-    "podio_terceiro": 7,
-    "Rating_Medio": 2060.0,
-    "Pontos_por_Torneio": 11.0,
-    "Maior_Pontuacao": 34,
-    "Menor_Ranking": 1,
-    "Participacoes": 116
+    "Participacoes": 197
   },
   {
     "Nick": "Numsei01",
-    "Pontos": 1216,
-    "Desempenho_Medio": 1780.0,
+    "Pontos": 1198,
+    "Desempenho_Medio": 1781.0,
     "podio_primeiro": 7,
     "podio_segundo": 8,
     "podio_terceiro": 7,
-    "Rating_Medio": 1854.0,
+    "Rating_Medio": 1855.0,
     "Pontos_por_Torneio": 5.0,
     "Maior_Pontuacao": 22,
     "Menor_Ranking": 1,
-    "Participacoes": 235
+    "Participacoes": 228
   },
   {
-    "Nick": "ELEFANTE19",
-    "Pontos": 1094,
-    "Desempenho_Medio": 1826.0,
-    "podio_primeiro": 11,
-    "podio_segundo": 13,
+    "Nick": "buscapato33",
+    "Pontos": 1151,
+    "Desempenho_Medio": 1980.0,
+    "podio_primeiro": 26,
+    "podio_segundo": 12,
     "podio_terceiro": 7,
-    "Rating_Medio": 1844.0,
+    "Rating_Medio": 2059.0,
     "Pontos_por_Torneio": 10.0,
-    "Maior_Pontuacao": 23,
+    "Maior_Pontuacao": 33,
     "Menor_Ranking": 1,
     "Participacoes": 112
   },
   {
+    "Nick": "ELEFANTE19",
+    "Pontos": 1106,
+    "Desempenho_Medio": 1826.0,
+    "podio_primeiro": 14,
+    "podio_segundo": 11,
+    "podio_terceiro": 6,
+    "Rating_Medio": 1844.0,
+    "Pontos_por_Torneio": 10.0,
+    "Maior_Pontuacao": 29,
+    "Menor_Ranking": 1,
+    "Participacoes": 111
+  },
+  {
     "Nick": "MATEMATICO",
-    "Pontos": 887,
-    "Desempenho_Medio": 1897.0,
+    "Pontos": 901,
+    "Desempenho_Medio": 1899.0,
     "podio_primeiro": 4,
     "podio_segundo": 7,
     "podio_terceiro": 7,
-    "Rating_Medio": 1882.0,
-    "Pontos_por_Torneio": 7.0,
+    "Rating_Medio": 1883.0,
+    "Pontos_por_Torneio": 6.0,
     "Maior_Pontuacao": 20,
     "Menor_Ranking": 1,
-    "Participacoes": 136
+    "Participacoes": 140
   },
   {
     "Nick": "VicenTeChes",
-    "Pontos": 757,
-    "Desempenho_Medio": 1724.0,
+    "Pontos": 724,
+    "Desempenho_Medio": 1708.0,
     "podio_primeiro": 1,
     "podio_segundo": 0,
     "podio_terceiro": 4,
-    "Rating_Medio": 1689.0,
+    "Rating_Medio": 1687.0,
     "Pontos_por_Torneio": 3.0,
     "Maior_Pontuacao": 12,
     "Menor_Ranking": 1,
-    "Participacoes": 218
+    "Participacoes": 215
+  },
+  {
+    "Nick": "F4bioSo4res",
+    "Pontos": 645,
+    "Desempenho_Medio": 1963.0,
+    "podio_primeiro": 1,
+    "podio_segundo": 6,
+    "podio_terceiro": 9,
+    "Rating_Medio": 1977.0,
+    "Pontos_por_Torneio": 7.0,
+    "Maior_Pontuacao": 22,
+    "Menor_Ranking": 1,
+    "Participacoes": 99
   },
   {
     "Nick": "rolandobrazil",
-    "Pontos": 634,
-    "Desempenho_Medio": 1784.0,
+    "Pontos": 626,
+    "Desempenho_Medio": 1781.0,
     "podio_primeiro": 4,
-    "podio_segundo": 6,
-    "podio_terceiro": 5,
-    "Rating_Medio": 1814.0,
+    "podio_segundo": 5,
+    "podio_terceiro": 4,
+    "Rating_Medio": 1815.0,
     "Pontos_por_Torneio": 5.0,
     "Maior_Pontuacao": 20,
     "Menor_Ranking": 1,
     "Participacoes": 132
   },
   {
-    "Nick": "F4bioSo4res",
-    "Pontos": 621,
-    "Desempenho_Medio": 1969.0,
-    "podio_primeiro": 1,
-    "podio_segundo": 6,
-    "podio_terceiro": 9,
-    "Rating_Medio": 1975.0,
-    "Pontos_por_Torneio": 6.0,
-    "Maior_Pontuacao": 22,
-    "Menor_Ranking": 1,
-    "Participacoes": 96
-  },
-  {
-    "Nick": "Leonilson",
-    "Pontos": 617,
-    "Desempenho_Medio": 1833.0,
-    "podio_primeiro": 3,
-    "podio_segundo": 3,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1872.0,
-    "Pontos_por_Torneio": 5.0,
-    "Maior_Pontuacao": 25,
-    "Menor_Ranking": 1,
-    "Participacoes": 129
-  },
-  {
-    "Nick": "P3rsa",
-    "Pontos": 575,
-    "Desempenho_Medio": 1936.0,
-    "podio_primeiro": 5,
-    "podio_segundo": 9,
-    "podio_terceiro": 9,
-    "Rating_Medio": 2000.0,
-    "Pontos_por_Torneio": 10.0,
-    "Maior_Pontuacao": 28,
-    "Menor_Ranking": 1,
-    "Participacoes": 56
-  },
-  {
-    "Nick": "Stormy-ChessWorld",
-    "Pontos": 551,
-    "Desempenho_Medio": 2006.0,
-    "podio_primeiro": 13,
-    "podio_segundo": 6,
-    "podio_terceiro": 5,
-    "Rating_Medio": 2012.0,
-    "Pontos_por_Torneio": 14.0,
-    "Maior_Pontuacao": 27,
-    "Menor_Ranking": 1,
-    "Participacoes": 39
-  },
-  {
     "Nick": "Thunder2021",
-    "Pontos": 549,
-    "Desempenho_Medio": 1986.0,
+    "Pontos": 616,
+    "Desempenho_Medio": 1989.0,
     "podio_primeiro": 6,
-    "podio_segundo": 5,
+    "podio_segundo": 8,
     "podio_terceiro": 4,
-    "Rating_Medio": 1942.0,
+    "Rating_Medio": 1938.0,
     "Pontos_por_Torneio": 9.0,
     "Maior_Pontuacao": 24,
     "Menor_Ranking": 1,
-    "Participacoes": 58
+    "Participacoes": 65
+  },
+  {
+    "Nick": "Leonilson",
+    "Pontos": 588,
+    "Desempenho_Medio": 1829.0,
+    "podio_primeiro": 3,
+    "podio_segundo": 3,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1874.0,
+    "Pontos_por_Torneio": 5.0,
+    "Maior_Pontuacao": 25,
+    "Menor_Ranking": 1,
+    "Participacoes": 126
   },
   {
     "Nick": "filhosdavelha",
-    "Pontos": 535,
-    "Desempenho_Medio": 2062.0,
-    "podio_primeiro": 6,
+    "Pontos": 521,
+    "Desempenho_Medio": 2057.0,
+    "podio_primeiro": 5,
     "podio_segundo": 7,
-    "podio_terceiro": 6,
-    "Rating_Medio": 2003.0,
+    "podio_terceiro": 5,
+    "Rating_Medio": 2001.0,
     "Pontos_por_Torneio": 7.0,
     "Maior_Pontuacao": 24,
     "Menor_Ranking": 1,
-    "Participacoes": 77
+    "Participacoes": 76
+  },
+  {
+    "Nick": "P3rsa",
+    "Pontos": 521,
+    "Desempenho_Medio": 1927.0,
+    "podio_primeiro": 4,
+    "podio_segundo": 8,
+    "podio_terceiro": 9,
+    "Rating_Medio": 1999.0,
+    "Pontos_por_Torneio": 10.0,
+    "Maior_Pontuacao": 22,
+    "Menor_Ranking": 1,
+    "Participacoes": 52
+  },
+  {
+    "Nick": "Stormy-ChessWorld",
+    "Pontos": 495,
+    "Desempenho_Medio": 1999.0,
+    "podio_primeiro": 11,
+    "podio_segundo": 5,
+    "podio_terceiro": 6,
+    "Rating_Medio": 2012.0,
+    "Pontos_por_Torneio": 13.0,
+    "Maior_Pontuacao": 26,
+    "Menor_Ranking": 1,
+    "Participacoes": 37
   },
   {
     "Nick": "liki",
-    "Pontos": 497,
-    "Desempenho_Medio": 1606.0,
+    "Pontos": 491,
+    "Desempenho_Medio": 1597.0,
     "podio_primeiro": 2,
     "podio_segundo": 1,
     "podio_terceiro": 8,
-    "Rating_Medio": 1689.0,
+    "Rating_Medio": 1690.0,
     "Pontos_por_Torneio": 4.0,
     "Maior_Pontuacao": 19,
     "Menor_Ranking": 1,
-    "Participacoes": 130
+    "Participacoes": 128
   },
   {
     "Nick": "schettert",
-    "Pontos": 470,
-    "Desempenho_Medio": 1857.0,
+    "Pontos": 462,
+    "Desempenho_Medio": 1855.0,
     "podio_primeiro": 7,
     "podio_segundo": 5,
     "podio_terceiro": 4,
-    "Rating_Medio": 1904.0,
+    "Rating_Medio": 1905.0,
     "Pontos_por_Torneio": 7.0,
     "Maior_Pontuacao": 24,
     "Menor_Ranking": 1,
-    "Participacoes": 70
+    "Participacoes": 67
   },
   {
     "Nick": "Entrenador3talentos",
-    "Pontos": 425,
-    "Desempenho_Medio": 2185.0,
-    "podio_primeiro": 9,
+    "Pontos": 408,
+    "Desempenho_Medio": 2189.0,
+    "podio_primeiro": 8,
     "podio_segundo": 6,
     "podio_terceiro": 4,
     "Rating_Medio": 2156.0,
-    "Pontos_por_Torneio": 11.0,
+    "Pontos_por_Torneio": 10.0,
     "Maior_Pontuacao": 29,
     "Menor_Ranking": 1,
     "Participacoes": 40
   },
   {
     "Nick": "Phernando39",
-    "Pontos": 422,
-    "Desempenho_Medio": 1796.0,
+    "Pontos": 397,
+    "Desempenho_Medio": 1787.0,
     "podio_primeiro": 1,
     "podio_segundo": 0,
     "podio_terceiro": 2,
-    "Rating_Medio": 1808.0,
+    "Rating_Medio": 1806.0,
     "Pontos_por_Torneio": 4.0,
     "Maior_Pontuacao": 16,
     "Menor_Ranking": 1,
-    "Participacoes": 114
+    "Participacoes": 110
   },
   {
     "Nick": "douglas27",
-    "Pontos": 421,
-    "Desempenho_Medio": 1834.0,
+    "Pontos": 376,
+    "Desempenho_Medio": 1809.0,
     "podio_primeiro": 2,
     "podio_segundo": 1,
-    "podio_terceiro": 5,
-    "Rating_Medio": 1871.0,
-    "Pontos_por_Torneio": 6.0,
+    "podio_terceiro": 4,
+    "Rating_Medio": 1868.0,
+    "Pontos_por_Torneio": 5.0,
     "Maior_Pontuacao": 16,
     "Menor_Ranking": 1,
-    "Participacoes": 75
+    "Participacoes": 70
   },
   {
     "Nick": "OXXENTE",
-    "Pontos": 331,
-    "Desempenho_Medio": 2018.0,
+    "Pontos": 342,
+    "Desempenho_Medio": 2024.0,
     "podio_primeiro": 3,
-    "podio_segundo": 4,
+    "podio_segundo": 3,
     "podio_terceiro": 4,
-    "Rating_Medio": 1981.0,
+    "Rating_Medio": 1979.0,
     "Pontos_por_Torneio": 6.0,
     "Maior_Pontuacao": 20,
     "Menor_Ranking": 1,
-    "Participacoes": 58
-  },
-  {
-    "Nick": "Braziljr1",
-    "Pontos": 324,
-    "Desempenho_Medio": 1846.0,
-    "podio_primeiro": 3,
-    "podio_segundo": 2,
-    "podio_terceiro": 4,
-    "Rating_Medio": 1913.0,
-    "Pontos_por_Torneio": 10.0,
-    "Maior_Pontuacao": 27,
-    "Menor_Ranking": 1,
-    "Participacoes": 34
+    "Participacoes": 60
   },
   {
     "Nick": "Canal_Chessveja",
-    "Pontos": 313,
-    "Desempenho_Medio": 2073.0,
+    "Pontos": 319,
+    "Desempenho_Medio": 2081.0,
     "podio_primeiro": 4,
     "podio_segundo": 5,
     "podio_terceiro": 3,
@@ -314,20 +301,33 @@
   {
     "Nick": "Dan2016",
     "Pontos": 307,
-    "Desempenho_Medio": 1615.0,
+    "Desempenho_Medio": 1609.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 2,
-    "Rating_Medio": 1578.0,
+    "Rating_Medio": 1577.0,
     "Pontos_por_Torneio": 4.0,
     "Maior_Pontuacao": 13,
     "Menor_Ranking": 3,
     "Participacoes": 82
   },
   {
-    "Nick": "wandoitz",
+    "Nick": "Braziljr1",
     "Pontos": 304,
-    "Desempenho_Medio": 1744.0,
+    "Desempenho_Medio": 1848.0,
+    "podio_primeiro": 3,
+    "podio_segundo": 2,
+    "podio_terceiro": 3,
+    "Rating_Medio": 1910.0,
+    "Pontos_por_Torneio": 10.0,
+    "Maior_Pontuacao": 27,
+    "Menor_Ranking": 1,
+    "Participacoes": 31
+  },
+  {
+    "Nick": "wandoitz",
+    "Pontos": 295,
+    "Desempenho_Medio": 1742.0,
     "podio_primeiro": 1,
     "podio_segundo": 3,
     "podio_terceiro": 3,
@@ -335,33 +335,7 @@
     "Pontos_por_Torneio": 5.0,
     "Maior_Pontuacao": 23,
     "Menor_Ranking": 1,
-    "Participacoes": 58
-  },
-  {
-    "Nick": "Bali16",
-    "Pontos": 301,
-    "Desempenho_Medio": 1868.0,
-    "podio_primeiro": 6,
-    "podio_segundo": 2,
-    "podio_terceiro": 3,
-    "Rating_Medio": 1964.0,
-    "Pontos_por_Torneio": 8.0,
-    "Maior_Pontuacao": 28,
-    "Menor_Ranking": 1,
-    "Participacoes": 37
-  },
-  {
-    "Nick": "Joao_Moreira52",
-    "Pontos": 291,
-    "Desempenho_Medio": 1975.0,
-    "podio_primeiro": 6,
-    "podio_segundo": 3,
-    "podio_terceiro": 4,
-    "Rating_Medio": 2028.0,
-    "Pontos_por_Torneio": 8.0,
-    "Maior_Pontuacao": 24,
-    "Menor_Ranking": 1,
-    "Participacoes": 36
+    "Participacoes": 55
   },
   {
     "Nick": "Tonystar111",
@@ -377,82 +351,95 @@
     "Participacoes": 17
   },
   {
-    "Nick": "Deepsky1",
-    "Pontos": 282,
-    "Desempenho_Medio": 2025.0,
-    "podio_primeiro": 4,
-    "podio_segundo": 1,
-    "podio_terceiro": 5,
-    "Rating_Medio": 1972.0,
-    "Pontos_por_Torneio": 9.0,
-    "Maior_Pontuacao": 20,
+    "Nick": "Joao_Moreira52",
+    "Pontos": 285,
+    "Desempenho_Medio": 1992.0,
+    "podio_primeiro": 6,
+    "podio_segundo": 3,
+    "podio_terceiro": 4,
+    "Rating_Medio": 2030.0,
+    "Pontos_por_Torneio": 8.0,
+    "Maior_Pontuacao": 24,
     "Menor_Ranking": 1,
-    "Participacoes": 33
+    "Participacoes": 34
   },
   {
     "Nick": "Balzabouth",
-    "Pontos": 280,
-    "Desempenho_Medio": 1844.0,
+    "Pontos": 281,
+    "Desempenho_Medio": 1837.0,
     "podio_primeiro": 2,
     "podio_segundo": 1,
     "podio_terceiro": 2,
-    "Rating_Medio": 1829.0,
+    "Rating_Medio": 1827.0,
     "Pontos_por_Torneio": 5.0,
     "Maior_Pontuacao": 25,
     "Menor_Ranking": 1,
-    "Participacoes": 56
+    "Participacoes": 57
+  },
+  {
+    "Nick": "Deepsky1",
+    "Pontos": 262,
+    "Desempenho_Medio": 2013.0,
+    "podio_primeiro": 4,
+    "podio_segundo": 1,
+    "podio_terceiro": 4,
+    "Rating_Medio": 1971.0,
+    "Pontos_por_Torneio": 8.0,
+    "Maior_Pontuacao": 20,
+    "Menor_Ranking": 1,
+    "Participacoes": 31
   },
   {
     "Nick": "birigicatabamba",
-    "Pontos": 278,
-    "Desempenho_Medio": 1886.0,
+    "Pontos": 260,
+    "Desempenho_Medio": 1879.0,
     "podio_primeiro": 1,
-    "podio_segundo": 3,
+    "podio_segundo": 2,
     "podio_terceiro": 2,
-    "Rating_Medio": 2002.0,
+    "Rating_Medio": 2003.0,
     "Pontos_por_Torneio": 4.0,
     "Maior_Pontuacao": 24,
     "Menor_Ranking": 1,
-    "Participacoes": 62
+    "Participacoes": 61
+  },
+  {
+    "Nick": "Bali16",
+    "Pontos": 259,
+    "Desempenho_Medio": 1856.0,
+    "podio_primeiro": 4,
+    "podio_segundo": 2,
+    "podio_terceiro": 3,
+    "Rating_Medio": 1967.0,
+    "Pontos_por_Torneio": 8.0,
+    "Maior_Pontuacao": 28,
+    "Menor_Ranking": 1,
+    "Participacoes": 34
   },
   {
     "Nick": "EdsonFaustino",
-    "Pontos": 258,
-    "Desempenho_Medio": 1812.0,
+    "Pontos": 257,
+    "Desempenho_Medio": 1813.0,
     "podio_primeiro": 2,
     "podio_segundo": 2,
     "podio_terceiro": 4,
-    "Rating_Medio": 1914.0,
+    "Rating_Medio": 1912.0,
     "Pontos_por_Torneio": 3.0,
     "Maior_Pontuacao": 17,
     "Menor_Ranking": 1,
-    "Participacoes": 80
+    "Participacoes": 79
   },
   {
-    "Nick": "windsonmama25",
+    "Nick": "monstercofee",
     "Pontos": 251,
-    "Desempenho_Medio": 2101.0,
-    "podio_primeiro": 5,
-    "podio_segundo": 3,
-    "podio_terceiro": 4,
-    "Rating_Medio": 1994.0,
-    "Pontos_por_Torneio": 11.0,
-    "Maior_Pontuacao": 22,
-    "Menor_Ranking": 1,
-    "Participacoes": 23
-  },
-  {
-    "Nick": "aprendizscuto",
-    "Pontos": 240,
-    "Desempenho_Medio": 1558.0,
-    "podio_primeiro": 0,
+    "Desempenho_Medio": 1761.0,
+    "podio_primeiro": 1,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1624.0,
-    "Pontos_por_Torneio": 2.0,
-    "Maior_Pontuacao": 12,
-    "Menor_Ranking": 5,
-    "Participacoes": 124
+    "Rating_Medio": 1707.0,
+    "Pontos_por_Torneio": 6.0,
+    "Maior_Pontuacao": 20,
+    "Menor_Ranking": 1,
+    "Participacoes": 40
   },
   {
     "Nick": "Ceara_mn",
@@ -468,43 +455,69 @@
     "Participacoes": 27
   },
   {
+    "Nick": "capapreta999",
+    "Pontos": 235,
+    "Desempenho_Medio": 1987.0,
+    "podio_primeiro": 2,
+    "podio_segundo": 2,
+    "podio_terceiro": 3,
+    "Rating_Medio": 1914.0,
+    "Pontos_por_Torneio": 8.0,
+    "Maior_Pontuacao": 20,
+    "Menor_Ranking": 1,
+    "Participacoes": 29
+  },
+  {
+    "Nick": "aprendizscuto",
+    "Pontos": 234,
+    "Desempenho_Medio": 1559.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1625.0,
+    "Pontos_por_Torneio": 2.0,
+    "Maior_Pontuacao": 12,
+    "Menor_Ranking": 5,
+    "Participacoes": 121
+  },
+  {
+    "Nick": "windsonmama25",
+    "Pontos": 218,
+    "Desempenho_Medio": 2108.0,
+    "podio_primeiro": 4,
+    "podio_segundo": 3,
+    "podio_terceiro": 4,
+    "Rating_Medio": 1997.0,
+    "Pontos_por_Torneio": 11.0,
+    "Maior_Pontuacao": 22,
+    "Menor_Ranking": 1,
+    "Participacoes": 20
+  },
+  {
     "Nick": "tablasnomasbusco",
-    "Pontos": 231,
-    "Desempenho_Medio": 1937.0,
+    "Pontos": 212,
+    "Desempenho_Medio": 1915.0,
     "podio_primeiro": 0,
     "podio_segundo": 3,
     "podio_terceiro": 1,
-    "Rating_Medio": 1909.0,
-    "Pontos_por_Torneio": 5.0,
+    "Rating_Medio": 1910.0,
+    "Pontos_por_Torneio": 4.0,
     "Maior_Pontuacao": 14,
     "Menor_Ranking": 2,
-    "Participacoes": 51
+    "Participacoes": 50
   },
   {
-    "Nick": "Ricardo_75",
-    "Pontos": 218,
-    "Desempenho_Medio": 1917.0,
-    "podio_primeiro": 1,
-    "podio_segundo": 2,
-    "podio_terceiro": 1,
-    "Rating_Medio": 1871.0,
-    "Pontos_por_Torneio": 6.0,
-    "Maior_Pontuacao": 19,
-    "Menor_Ranking": 1,
-    "Participacoes": 37
-  },
-  {
-    "Nick": "monstercofee",
-    "Pontos": 215,
-    "Desempenho_Medio": 1768.0,
+    "Nick": "Vitor_Hugo_moreira",
+    "Pontos": 210,
+    "Desempenho_Medio": 1798.0,
     "podio_primeiro": 1,
     "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1707.0,
+    "podio_terceiro": 3,
+    "Rating_Medio": 1785.0,
     "Pontos_por_Torneio": 6.0,
-    "Maior_Pontuacao": 20,
+    "Maior_Pontuacao": 18,
     "Menor_Ranking": 1,
-    "Participacoes": 34
+    "Participacoes": 36
   },
   {
     "Nick": "GESSE_GZN",
@@ -520,43 +533,30 @@
     "Participacoes": 15
   },
   {
-    "Nick": "Vitor_Hugo_moreira",
-    "Pontos": 207,
-    "Desempenho_Medio": 1797.0,
-    "podio_primeiro": 1,
-    "podio_segundo": 0,
-    "podio_terceiro": 3,
-    "Rating_Medio": 1786.0,
-    "Pontos_por_Torneio": 6.0,
-    "Maior_Pontuacao": 18,
-    "Menor_Ranking": 1,
-    "Participacoes": 36
-  },
-  {
-    "Nick": "capapreta999",
-    "Pontos": 204,
-    "Desempenho_Medio": 1973.0,
+    "Nick": "Ricardo_75",
+    "Pontos": 208,
+    "Desempenho_Medio": 1899.0,
     "podio_primeiro": 1,
     "podio_segundo": 2,
-    "podio_terceiro": 3,
-    "Rating_Medio": 1914.0,
-    "Pontos_por_Torneio": 8.0,
+    "podio_terceiro": 1,
+    "Rating_Medio": 1869.0,
+    "Pontos_por_Torneio": 6.0,
+    "Maior_Pontuacao": 19,
+    "Menor_Ranking": 1,
+    "Participacoes": 35
+  },
+  {
+    "Nick": "EduVasco",
+    "Pontos": 204,
+    "Desempenho_Medio": 1989.0,
+    "podio_primeiro": 1,
+    "podio_segundo": 3,
+    "podio_terceiro": 2,
+    "Rating_Medio": 1900.0,
+    "Pontos_por_Torneio": 7.0,
     "Maior_Pontuacao": 20,
     "Menor_Ranking": 1,
-    "Participacoes": 26
-  },
-  {
-    "Nick": "Marquinhosantonio",
-    "Pontos": 200,
-    "Desempenho_Medio": 1851.0,
-    "podio_primeiro": 4,
-    "podio_segundo": 2,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1964.0,
-    "Pontos_por_Torneio": 7.0,
-    "Maior_Pontuacao": 22,
-    "Menor_Ranking": 1,
-    "Participacoes": 28
+    "Participacoes": 30
   },
   {
     "Nick": "Farofa_de_Bacon",
@@ -565,63 +565,89 @@
     "podio_primeiro": 5,
     "podio_segundo": 2,
     "podio_terceiro": 1,
-    "Rating_Medio": 2014.0,
-    "Pontos_por_Torneio": 12.0,
+    "Rating_Medio": 2010.0,
+    "Pontos_por_Torneio": 11.0,
     "Maior_Pontuacao": 22,
     "Menor_Ranking": 1,
-    "Participacoes": 17
-  },
-  {
-    "Nick": "EduVasco",
-    "Pontos": 198,
-    "Desempenho_Medio": 1978.0,
-    "podio_primeiro": 1,
-    "podio_segundo": 3,
-    "podio_terceiro": 1,
-    "Rating_Medio": 1901.0,
-    "Pontos_por_Torneio": 6.0,
-    "Maior_Pontuacao": 20,
-    "Menor_Ranking": 1,
-    "Participacoes": 31
-  },
-  {
-    "Nick": "Charllos",
-    "Pontos": 196,
-    "Desempenho_Medio": 1616.0,
-    "podio_primeiro": 2,
-    "podio_segundo": 2,
-    "podio_terceiro": 3,
-    "Rating_Medio": 1797.0,
-    "Pontos_por_Torneio": 4.0,
-    "Maior_Pontuacao": 23,
-    "Menor_Ranking": 1,
-    "Participacoes": 50
-  },
-  {
-    "Nick": "adrianojosepereira3",
-    "Pontos": 190,
-    "Desempenho_Medio": 1926.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 3,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1937.0,
-    "Pontos_por_Torneio": 9.0,
-    "Maior_Pontuacao": 20,
-    "Menor_Ranking": 2,
-    "Participacoes": 22
+    "Participacoes": 18
   },
   {
     "Nick": "Jeronimo81",
-    "Pontos": 160,
-    "Desempenho_Medio": 1775.0,
+    "Pontos": 197,
+    "Desempenho_Medio": 1772.0,
     "podio_primeiro": 1,
     "podio_segundo": 2,
     "podio_terceiro": 1,
-    "Rating_Medio": 1876.0,
-    "Pontos_por_Torneio": 7.0,
-    "Maior_Pontuacao": 14,
+    "Rating_Medio": 1865.0,
+    "Pontos_por_Torneio": 8.0,
+    "Maior_Pontuacao": 25,
     "Menor_Ranking": 1,
-    "Participacoes": 22
+    "Participacoes": 25
+  },
+  {
+    "Nick": "Marquinhosantonio",
+    "Pontos": 196,
+    "Desempenho_Medio": 1853.0,
+    "podio_primeiro": 4,
+    "podio_segundo": 2,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1962.0,
+    "Pontos_por_Torneio": 8.0,
+    "Maior_Pontuacao": 22,
+    "Menor_Ranking": 1,
+    "Participacoes": 26
+  },
+  {
+    "Nick": "adrianojosepereira3",
+    "Pontos": 172,
+    "Desempenho_Medio": 1909.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 2,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1930.0,
+    "Pontos_por_Torneio": 8.0,
+    "Maior_Pontuacao": 20,
+    "Menor_Ranking": 2,
+    "Participacoes": 21
+  },
+  {
+    "Nick": "Charllos",
+    "Pontos": 172,
+    "Desempenho_Medio": 1621.0,
+    "podio_primeiro": 1,
+    "podio_segundo": 2,
+    "podio_terceiro": 3,
+    "Rating_Medio": 1795.0,
+    "Pontos_por_Torneio": 4.0,
+    "Maior_Pontuacao": 20,
+    "Menor_Ranking": 1,
+    "Participacoes": 46
+  },
+  {
+    "Nick": "joseRkasparov",
+    "Pontos": 160,
+    "Desempenho_Medio": 1976.0,
+    "podio_primeiro": 1,
+    "podio_segundo": 2,
+    "podio_terceiro": 2,
+    "Rating_Medio": 1957.0,
+    "Pontos_por_Torneio": 10.0,
+    "Maior_Pontuacao": 20,
+    "Menor_Ranking": 1,
+    "Participacoes": 16
+  },
+  {
+    "Nick": "carlosmaia",
+    "Pontos": 160,
+    "Desempenho_Medio": 1947.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 2,
+    "podio_terceiro": 2,
+    "Rating_Medio": 1959.0,
+    "Pontos_por_Torneio": 6.0,
+    "Maior_Pontuacao": 15,
+    "Menor_Ranking": 2,
+    "Participacoes": 27
   },
   {
     "Nick": "reidapatolandia",
@@ -637,43 +663,30 @@
     "Participacoes": 11
   },
   {
-    "Nick": "carlosmaia",
-    "Pontos": 158,
-    "Desempenho_Medio": 1957.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 2,
-    "podio_terceiro": 2,
-    "Rating_Medio": 1959.0,
-    "Pontos_por_Torneio": 6.0,
-    "Maior_Pontuacao": 15,
-    "Menor_Ranking": 2,
-    "Participacoes": 26
-  },
-  {
-    "Nick": "ProfessorCHESSVEJA",
-    "Pontos": 148,
-    "Desempenho_Medio": 2035.0,
-    "podio_primeiro": 2,
-    "podio_segundo": 2,
-    "podio_terceiro": 3,
-    "Rating_Medio": 2006.0,
-    "Pontos_por_Torneio": 12.0,
-    "Maior_Pontuacao": 31,
-    "Menor_Ranking": 1,
-    "Participacoes": 12
-  },
-  {
-    "Nick": "joseRkasparov",
-    "Pontos": 148,
-    "Desempenho_Medio": 1972.0,
-    "podio_primeiro": 1,
+    "Nick": "imnotcarlsen",
+    "Pontos": 147,
+    "Desempenho_Medio": 2220.0,
+    "podio_primeiro": 3,
     "podio_segundo": 1,
-    "podio_terceiro": 2,
-    "Rating_Medio": 1956.0,
-    "Pontos_por_Torneio": 9.0,
-    "Maior_Pontuacao": 20,
+    "podio_terceiro": 3,
+    "Rating_Medio": 2164.0,
+    "Pontos_por_Torneio": 15.0,
+    "Maior_Pontuacao": 23,
     "Menor_Ranking": 1,
-    "Participacoes": 16
+    "Participacoes": 10
+  },
+  {
+    "Nick": "Ambroagem",
+    "Pontos": 145,
+    "Desempenho_Medio": 1790.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 1,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1723.0,
+    "Pontos_por_Torneio": 4.0,
+    "Maior_Pontuacao": 12,
+    "Menor_Ranking": 2,
+    "Participacoes": 33
   },
   {
     "Nick": "rodbon",
@@ -689,69 +702,17 @@
     "Participacoes": 18
   },
   {
-    "Nick": "imnotcarlsen",
-    "Pontos": 142,
-    "Desempenho_Medio": 2208.0,
-    "podio_primeiro": 2,
-    "podio_segundo": 2,
-    "podio_terceiro": 3,
-    "Rating_Medio": 2167.0,
-    "Pontos_por_Torneio": 14.0,
-    "Maior_Pontuacao": 23,
-    "Menor_Ranking": 1,
-    "Participacoes": 10
-  },
-  {
     "Nick": "Alexandre_Santos_007",
     "Pontos": 135,
     "Desempenho_Medio": 1694.0,
     "podio_primeiro": 0,
     "podio_segundo": 1,
     "podio_terceiro": 2,
-    "Rating_Medio": 1817.0,
-    "Pontos_por_Torneio": 4.0,
+    "Rating_Medio": 1815.0,
+    "Pontos_por_Torneio": 5.0,
     "Maior_Pontuacao": 13,
     "Menor_Ranking": 2,
-    "Participacoes": 30
-  },
-  {
-    "Nick": "Fabio-castaneda",
-    "Pontos": 133,
-    "Desempenho_Medio": 2057.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 3,
-    "podio_terceiro": 2,
-    "Rating_Medio": 2112.0,
-    "Pontos_por_Torneio": 7.0,
-    "Maior_Pontuacao": 16,
-    "Menor_Ranking": 2,
-    "Participacoes": 20
-  },
-  {
-    "Nick": "W_09",
-    "Pontos": 129,
-    "Desempenho_Medio": 1839.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 1,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1837.0,
-    "Pontos_por_Torneio": 4.0,
-    "Maior_Pontuacao": 12,
-    "Menor_Ranking": 2,
-    "Participacoes": 32
-  },
-  {
-    "Nick": "Causas1",
-    "Pontos": 127,
-    "Desempenho_Medio": 1680.0,
-    "podio_primeiro": 1,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1828.0,
-    "Pontos_por_Torneio": 2.0,
-    "Maior_Pontuacao": 20,
-    "Menor_Ranking": 1,
-    "Participacoes": 67
+    "Participacoes": 29
   },
   {
     "Nick": "BonoraChess",
@@ -767,17 +728,17 @@
     "Participacoes": 17
   },
   {
-    "Nick": "Ambroagem",
+    "Nick": "Causas1",
     "Pontos": 125,
-    "Desempenho_Medio": 1791.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 1,
+    "Desempenho_Medio": 1688.0,
+    "podio_primeiro": 1,
+    "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1724.0,
-    "Pontos_por_Torneio": 4.0,
-    "Maior_Pontuacao": 12,
-    "Menor_Ranking": 2,
-    "Participacoes": 29
+    "Rating_Medio": 1826.0,
+    "Pontos_por_Torneio": 2.0,
+    "Maior_Pontuacao": 20,
+    "Menor_Ranking": 1,
+    "Participacoes": 64
   },
   {
     "Nick": "fraquinhoprachuchu",
@@ -793,6 +754,45 @@
     "Participacoes": 79
   },
   {
+    "Nick": "Fabio-castaneda",
+    "Pontos": 121,
+    "Desempenho_Medio": 2053.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 3,
+    "podio_terceiro": 1,
+    "Rating_Medio": 2113.0,
+    "Pontos_por_Torneio": 6.0,
+    "Maior_Pontuacao": 16,
+    "Menor_Ranking": 2,
+    "Participacoes": 19
+  },
+  {
+    "Nick": "ProfessorCHESSVEJA",
+    "Pontos": 119,
+    "Desempenho_Medio": 2037.0,
+    "podio_primeiro": 2,
+    "podio_segundo": 1,
+    "podio_terceiro": 2,
+    "Rating_Medio": 1991.0,
+    "Pontos_por_Torneio": 12.0,
+    "Maior_Pontuacao": 31,
+    "Menor_Ranking": 1,
+    "Participacoes": 10
+  },
+  {
+    "Nick": "W_09",
+    "Pontos": 117,
+    "Desempenho_Medio": 1819.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1837.0,
+    "Pontos_por_Torneio": 4.0,
+    "Maior_Pontuacao": 10,
+    "Menor_Ranking": 4,
+    "Participacoes": 31
+  },
+  {
     "Nick": "OmiCapivara",
     "Pontos": 116,
     "Desempenho_Medio": 2069.0,
@@ -806,17 +806,17 @@
     "Participacoes": 6
   },
   {
-    "Nick": "MorphyAgain",
-    "Pontos": 110,
-    "Desempenho_Medio": 2007.0,
-    "podio_primeiro": 1,
+    "Nick": "MoorSoldaten",
+    "Pontos": 111,
+    "Desempenho_Medio": 2321.0,
+    "podio_primeiro": 2,
     "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1895.0,
-    "Pontos_por_Torneio": 4.0,
-    "Maior_Pontuacao": 13,
+    "podio_terceiro": 1,
+    "Rating_Medio": 2350.0,
+    "Pontos_por_Torneio": 5.0,
+    "Maior_Pontuacao": 23,
     "Menor_Ranking": 1,
-    "Participacoes": 27
+    "Participacoes": 22
   },
   {
     "Nick": "VultoSSA",
@@ -832,22 +832,35 @@
     "Participacoes": 27
   },
   {
-    "Nick": "StockNekinho",
+    "Nick": "HALion_222",
     "Pontos": 109,
-    "Desempenho_Medio": 2090.0,
-    "podio_primeiro": 3,
-    "podio_segundo": 0,
+    "Desempenho_Medio": 2020.0,
+    "podio_primeiro": 1,
+    "podio_segundo": 2,
     "podio_terceiro": 1,
-    "Rating_Medio": 1995.0,
-    "Pontos_por_Torneio": 18.0,
-    "Maior_Pontuacao": 27,
+    "Rating_Medio": 1957.0,
+    "Pontos_por_Torneio": 8.0,
+    "Maior_Pontuacao": 17,
     "Menor_Ranking": 1,
-    "Participacoes": 6
+    "Participacoes": 13
+  },
+  {
+    "Nick": "XadrezDinelly",
+    "Pontos": 108,
+    "Desempenho_Medio": 1916.0,
+    "podio_primeiro": 1,
+    "podio_segundo": 0,
+    "podio_terceiro": 2,
+    "Rating_Medio": 2109.0,
+    "Pontos_por_Torneio": 6.0,
+    "Maior_Pontuacao": 20,
+    "Menor_Ranking": 1,
+    "Participacoes": 18
   },
   {
     "Nick": "RicardoLLopes",
-    "Pontos": 106,
-    "Desempenho_Medio": 1722.0,
+    "Pontos": 100,
+    "Desempenho_Medio": 1704.0,
     "podio_primeiro": 1,
     "podio_segundo": 0,
     "podio_terceiro": 0,
@@ -858,69 +871,95 @@
     "Participacoes": 27
   },
   {
-    "Nick": "MoorSoldaten",
+    "Nick": "carevchess",
     "Pontos": 99,
-    "Desempenho_Medio": 2314.0,
-    "podio_primeiro": 2,
-    "podio_segundo": 0,
-    "podio_terceiro": 1,
-    "Rating_Medio": 2349.0,
-    "Pontos_por_Torneio": 5.0,
-    "Maior_Pontuacao": 23,
-    "Menor_Ranking": 1,
-    "Participacoes": 21
-  },
-  {
-    "Nick": "Minino_Do_Mate25",
-    "Pontos": 89,
-    "Desempenho_Medio": 1598.0,
+    "Desempenho_Medio": 1853.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1646.0,
-    "Pontos_por_Torneio": 2.0,
-    "Maior_Pontuacao": 10,
-    "Menor_Ranking": 6,
-    "Participacoes": 40
+    "Rating_Medio": 1886.0,
+    "Pontos_por_Torneio": 7.0,
+    "Maior_Pontuacao": 12,
+    "Menor_Ranking": 4,
+    "Participacoes": 14
   },
   {
-    "Nick": "HALion_222",
-    "Pontos": 84,
-    "Desempenho_Medio": 2030.0,
+    "Nick": "MorphyAgain",
+    "Pontos": 96,
+    "Desempenho_Medio": 1996.0,
     "podio_primeiro": 1,
-    "podio_segundo": 2,
+    "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1951.0,
+    "Rating_Medio": 1896.0,
+    "Pontos_por_Torneio": 4.0,
+    "Maior_Pontuacao": 13,
+    "Menor_Ranking": 1,
+    "Participacoes": 25
+  },
+  {
+    "Nick": "Cassaco0800",
+    "Pontos": 92,
+    "Desempenho_Medio": 1750.0,
+    "podio_primeiro": 2,
+    "podio_segundo": 1,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1859.0,
     "Pontos_por_Torneio": 8.0,
-    "Maior_Pontuacao": 17,
+    "Maior_Pontuacao": 22,
     "Menor_Ranking": 1,
     "Participacoes": 11
   },
   {
-    "Nick": "carevchess",
-    "Pontos": 83,
-    "Desempenho_Medio": 1818.0,
+    "Nick": "ThiagoLiberato",
+    "Pontos": 84,
+    "Desempenho_Medio": 2088.0,
+    "podio_primeiro": 1,
+    "podio_segundo": 0,
+    "podio_terceiro": 1,
+    "Rating_Medio": 1946.0,
+    "Pontos_por_Torneio": 10.0,
+    "Maior_Pontuacao": 21,
+    "Menor_Ranking": 1,
+    "Participacoes": 8
+  },
+  {
+    "Nick": "Luzardo1Braga2Ramos3",
+    "Pontos": 82,
+    "Desempenho_Medio": 1899.0,
+    "podio_primeiro": 1,
+    "podio_segundo": 2,
+    "podio_terceiro": 0,
+    "Rating_Medio": 2018.0,
+    "Pontos_por_Torneio": 9.0,
+    "Maior_Pontuacao": 21,
+    "Menor_Ranking": 1,
+    "Participacoes": 9
+  },
+  {
+    "Nick": "Gabrimes13",
+    "Pontos": 81,
+    "Desempenho_Medio": 1605.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 2,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1696.0,
+    "Pontos_por_Torneio": 3.0,
+    "Maior_Pontuacao": 13,
+    "Menor_Ranking": 2,
+    "Participacoes": 28
+  },
+  {
+    "Nick": "Minino_Do_Mate25",
+    "Pontos": 81,
+    "Desempenho_Medio": 1597.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1888.0,
-    "Pontos_por_Torneio": 7.0,
-    "Maior_Pontuacao": 12,
-    "Menor_Ranking": 4,
-    "Participacoes": 12
-  },
-  {
-    "Nick": "XadrezDinelly",
-    "Pontos": 80,
-    "Desempenho_Medio": 1928.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 2,
-    "Rating_Medio": 2111.0,
-    "Pontos_por_Torneio": 6.0,
-    "Maior_Pontuacao": 17,
-    "Menor_Ranking": 3,
-    "Participacoes": 14
+    "Rating_Medio": 1644.0,
+    "Pontos_por_Torneio": 2.0,
+    "Maior_Pontuacao": 10,
+    "Menor_Ranking": 6,
+    "Participacoes": 36
   },
   {
     "Nick": "engenheirochess",
@@ -936,32 +975,6 @@
     "Participacoes": 24
   },
   {
-    "Nick": "malonepracinha",
-    "Pontos": 79,
-    "Desempenho_Medio": 1786.0,
-    "podio_primeiro": 1,
-    "podio_segundo": 1,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1814.0,
-    "Pontos_por_Torneio": 7.0,
-    "Maior_Pontuacao": 16,
-    "Menor_Ranking": 1,
-    "Participacoes": 11
-  },
-  {
-    "Nick": "Cassaco0800",
-    "Pontos": 79,
-    "Desempenho_Medio": 1734.0,
-    "podio_primeiro": 1,
-    "podio_segundo": 1,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1854.0,
-    "Pontos_por_Torneio": 8.0,
-    "Maior_Pontuacao": 22,
-    "Menor_Ranking": 1,
-    "Participacoes": 10
-  },
-  {
     "Nick": "DiscipuloDoNekinho38",
     "Pontos": 77,
     "Desempenho_Medio": 1977.0,
@@ -973,6 +986,19 @@
     "Maior_Pontuacao": 27,
     "Menor_Ranking": 1,
     "Participacoes": 4
+  },
+  {
+    "Nick": "EspancadordeMoises",
+    "Pontos": 74,
+    "Desempenho_Medio": 1927.0,
+    "podio_primeiro": 2,
+    "podio_segundo": 0,
+    "podio_terceiro": 1,
+    "Rating_Medio": 1991.0,
+    "Pontos_por_Torneio": 9.0,
+    "Maior_Pontuacao": 16,
+    "Menor_Ranking": 1,
+    "Participacoes": 8
   },
   {
     "Nick": "ST0RMY",
@@ -988,30 +1014,43 @@
     "Participacoes": 4
   },
   {
-    "Nick": "Gabrimes13",
+    "Nick": "malonepracinha",
     "Pontos": 73,
-    "Desempenho_Medio": 1603.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 2,
+    "Desempenho_Medio": 1794.0,
+    "podio_primeiro": 1,
+    "podio_segundo": 1,
     "podio_terceiro": 0,
-    "Rating_Medio": 1696.0,
-    "Pontos_por_Torneio": 3.0,
-    "Maior_Pontuacao": 13,
-    "Menor_Ranking": 2,
-    "Participacoes": 26
+    "Rating_Medio": 1813.0,
+    "Pontos_por_Torneio": 7.0,
+    "Maior_Pontuacao": 16,
+    "Menor_Ranking": 1,
+    "Participacoes": 10
   },
   {
-    "Nick": "KaueJr",
-    "Pontos": 71,
-    "Desempenho_Medio": 1749.0,
+    "Nick": "moleti65",
+    "Pontos": 72,
+    "Desempenho_Medio": 1621.0,
     "podio_primeiro": 0,
-    "podio_segundo": 2,
-    "podio_terceiro": 1,
-    "Rating_Medio": 1756.0,
-    "Pontos_por_Torneio": 4.0,
-    "Maior_Pontuacao": 18,
-    "Menor_Ranking": 2,
-    "Participacoes": 16
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1632.0,
+    "Pontos_por_Torneio": 6.0,
+    "Maior_Pontuacao": 12,
+    "Menor_Ranking": 4,
+    "Participacoes": 13
+  },
+  {
+    "Nick": "zenildosilva",
+    "Pontos": 70,
+    "Desempenho_Medio": 1937.0,
+    "podio_primeiro": 1,
+    "podio_segundo": 1,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1976.0,
+    "Pontos_por_Torneio": 5.0,
+    "Maior_Pontuacao": 21,
+    "Menor_Ranking": 1,
+    "Participacoes": 15
   },
   {
     "Nick": "risoca",
@@ -1029,7 +1068,7 @@
   {
     "Nick": "Botvinik1961",
     "Pontos": 69,
-    "Desempenho_Medio": 1499.0,
+    "Desempenho_Medio": 1504.0,
     "podio_primeiro": 0,
     "podio_segundo": 1,
     "podio_terceiro": 0,
@@ -1037,7 +1076,7 @@
     "Pontos_por_Torneio": 2.0,
     "Maior_Pontuacao": 14,
     "Menor_Ranking": 2,
-    "Participacoes": 40
+    "Participacoes": 39
   },
   {
     "Nick": "RicardovskyBR",
@@ -1053,43 +1092,30 @@
     "Participacoes": 6
   },
   {
-    "Nick": "Luzardo1Braga2Ramos3",
+    "Nick": "KaueJr",
     "Pontos": 66,
-    "Desempenho_Medio": 1863.0,
+    "Desempenho_Medio": 1744.0,
     "podio_primeiro": 0,
     "podio_segundo": 2,
-    "podio_terceiro": 0,
-    "Rating_Medio": 2013.0,
-    "Pontos_por_Torneio": 8.0,
-    "Maior_Pontuacao": 21,
+    "podio_terceiro": 1,
+    "Rating_Medio": 1753.0,
+    "Pontos_por_Torneio": 4.0,
+    "Maior_Pontuacao": 18,
     "Menor_Ranking": 2,
-    "Participacoes": 8
+    "Participacoes": 15
   },
   {
-    "Nick": "ideias",
-    "Pontos": 63,
-    "Desempenho_Medio": 2159.0,
+    "Nick": "gleidsoncbm",
+    "Pontos": 60,
+    "Desempenho_Medio": 1807.0,
     "podio_primeiro": 0,
-    "podio_segundo": 2,
+    "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 2019.0,
-    "Pontos_por_Torneio": 13.0,
-    "Maior_Pontuacao": 20,
-    "Menor_Ranking": 2,
-    "Participacoes": 5
-  },
-  {
-    "Nick": "zenildosilva",
-    "Pontos": 62,
-    "Desempenho_Medio": 1884.0,
-    "podio_primeiro": 1,
-    "podio_segundo": 1,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1975.0,
-    "Pontos_por_Torneio": 5.0,
-    "Maior_Pontuacao": 21,
-    "Menor_Ranking": 1,
-    "Participacoes": 13
+    "Rating_Medio": 1870.0,
+    "Pontos_por_Torneio": 7.0,
+    "Maior_Pontuacao": 12,
+    "Menor_Ranking": 4,
+    "Participacoes": 9
   },
   {
     "Nick": "oNekinho38",
@@ -1118,30 +1144,17 @@
     "Participacoes": 17
   },
   {
-    "Nick": "Darth_Vader_LMX",
-    "Pontos": 56,
-    "Desempenho_Medio": 1646.0,
+    "Nick": "ideias",
+    "Pontos": 53,
+    "Desempenho_Medio": 2115.0,
     "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 2,
-    "Rating_Medio": 1864.0,
-    "Pontos_por_Torneio": 4.0,
-    "Maior_Pontuacao": 11,
-    "Menor_Ranking": 3,
-    "Participacoes": 16
-  },
-  {
-    "Nick": "EspancadordeMoises",
-    "Pontos": 55,
-    "Desempenho_Medio": 1846.0,
-    "podio_primeiro": 2,
-    "podio_segundo": 0,
+    "podio_segundo": 2,
     "podio_terceiro": 0,
-    "Rating_Medio": 1997.0,
-    "Pontos_por_Torneio": 9.0,
-    "Maior_Pontuacao": 16,
-    "Menor_Ranking": 1,
-    "Participacoes": 6
+    "Rating_Medio": 2009.0,
+    "Pontos_por_Torneio": 11.0,
+    "Maior_Pontuacao": 20,
+    "Menor_Ranking": 2,
+    "Participacoes": 5
   },
   {
     "Nick": "solanabitcoin",
@@ -1157,30 +1170,17 @@
     "Participacoes": 7
   },
   {
-    "Nick": "moleti65",
-    "Pontos": 53,
-    "Desempenho_Medio": 1609.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1636.0,
-    "Pontos_por_Torneio": 5.0,
-    "Maior_Pontuacao": 11,
-    "Menor_Ranking": 4,
-    "Participacoes": 10
-  },
-  {
-    "Nick": "Zangao",
+    "Nick": "StockNekinho",
     "Pontos": 51,
-    "Desempenho_Medio": 1768.0,
-    "podio_primeiro": 0,
+    "Desempenho_Medio": 2089.0,
+    "podio_primeiro": 2,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1692.0,
-    "Pontos_por_Torneio": 3.0,
-    "Maior_Pontuacao": 9,
-    "Menor_Ranking": 4,
-    "Participacoes": 15
+    "Rating_Medio": 2014.0,
+    "Pontos_por_Torneio": 17.0,
+    "Maior_Pontuacao": 27,
+    "Menor_Ranking": 1,
+    "Participacoes": 3
   },
   {
     "Nick": "HigorFPCastro",
@@ -1210,8 +1210,8 @@
   },
   {
     "Nick": "scalzibrunoinstagram",
-    "Pontos": 51,
-    "Desempenho_Medio": 1509.0,
+    "Pontos": 50,
+    "Desempenho_Medio": 1508.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
@@ -1219,33 +1219,20 @@
     "Pontos_por_Torneio": 1.0,
     "Maior_Pontuacao": 6,
     "Menor_Ranking": 9,
-    "Participacoes": 45
+    "Participacoes": 44
   },
   {
-    "Nick": "nelsonlopes",
-    "Pontos": 50,
-    "Desempenho_Medio": 1929.0,
+    "Nick": "Trachypogon",
+    "Pontos": 49,
+    "Desempenho_Medio": 1665.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1785.0,
-    "Pontos_por_Torneio": 2.0,
-    "Maior_Pontuacao": 8,
-    "Menor_Ranking": 5,
-    "Participacoes": 27
-  },
-  {
-    "Nick": "ThiagoLiberato",
-    "Pontos": 49,
-    "Desempenho_Medio": 2112.0,
-    "podio_primeiro": 1,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1944.0,
-    "Pontos_por_Torneio": 10.0,
-    "Maior_Pontuacao": 21,
-    "Menor_Ranking": 1,
-    "Participacoes": 5
+    "podio_terceiro": 1,
+    "Rating_Medio": 1725.0,
+    "Pontos_por_Torneio": 4.0,
+    "Maior_Pontuacao": 12,
+    "Menor_Ranking": 3,
+    "Participacoes": 14
   },
   {
     "Nick": "jpessoa409",
@@ -1287,19 +1274,6 @@
     "Participacoes": 5
   },
   {
-    "Nick": "vitorkalangoo",
-    "Pontos": 43,
-    "Desempenho_Medio": 2126.0,
-    "podio_primeiro": 1,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 2254.0,
-    "Pontos_por_Torneio": 11.0,
-    "Maior_Pontuacao": 24,
-    "Menor_Ranking": 1,
-    "Participacoes": 4
-  },
-  {
     "Nick": "NBmacovi",
     "Pontos": 43,
     "Desempenho_Medio": 2103.0,
@@ -1326,6 +1300,32 @@
     "Participacoes": 5
   },
   {
+    "Nick": "nelsonlopes",
+    "Pontos": 42,
+    "Desempenho_Medio": 1912.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1780.0,
+    "Pontos_por_Torneio": 2.0,
+    "Maior_Pontuacao": 4,
+    "Menor_Ranking": 5,
+    "Participacoes": 28
+  },
+  {
+    "Nick": "Zangao",
+    "Pontos": 42,
+    "Desempenho_Medio": 1771.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1692.0,
+    "Pontos_por_Torneio": 3.0,
+    "Maior_Pontuacao": 8,
+    "Menor_Ranking": 4,
+    "Participacoes": 14
+  },
+  {
     "Nick": "KingSolomon64",
     "Pontos": 42,
     "Desempenho_Medio": 1744.0,
@@ -1350,19 +1350,6 @@
     "Maior_Pontuacao": 18,
     "Menor_Ranking": 1,
     "Participacoes": 6
-  },
-  {
-    "Nick": "arthurxadrez2024",
-    "Pontos": 41,
-    "Desempenho_Medio": 1527.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1510.0,
-    "Pontos_por_Torneio": 3.0,
-    "Maior_Pontuacao": 6,
-    "Menor_Ranking": 8,
-    "Participacoes": 13
   },
   {
     "Nick": "CamposJE",
@@ -1406,15 +1393,15 @@
   {
     "Nick": "ccaso10",
     "Pontos": 40,
-    "Desempenho_Medio": 1581.0,
+    "Desempenho_Medio": 1594.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1735.0,
+    "Rating_Medio": 1731.0,
     "Pontos_por_Torneio": 2.0,
     "Maior_Pontuacao": 12,
     "Menor_Ranking": 5,
-    "Participacoes": 18
+    "Participacoes": 17
   },
   {
     "Nick": "Chessmachin3",
@@ -1432,11 +1419,11 @@
   {
     "Nick": "D4P4z",
     "Pontos": 38,
-    "Desempenho_Medio": 2047.0,
-    "podio_primeiro": 2,
-    "podio_segundo": 0,
+    "Desempenho_Medio": 1995.0,
+    "podio_primeiro": 1,
+    "podio_segundo": 1,
     "podio_terceiro": 0,
-    "Rating_Medio": 2079.0,
+    "Rating_Medio": 2067.0,
     "Pontos_por_Torneio": 8.0,
     "Maior_Pontuacao": 16,
     "Menor_Ranking": 1,
@@ -1453,6 +1440,32 @@
     "Pontos_por_Torneio": 6.0,
     "Maior_Pontuacao": 16,
     "Menor_Ranking": 2,
+    "Participacoes": 6
+  },
+  {
+    "Nick": "RodrigoBonora",
+    "Pontos": 37,
+    "Desempenho_Medio": 2106.0,
+    "podio_primeiro": 1,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1928.0,
+    "Pontos_por_Torneio": 9.0,
+    "Maior_Pontuacao": 19,
+    "Menor_Ranking": 1,
+    "Participacoes": 4
+  },
+  {
+    "Nick": "Mikhailtaldonordeste",
+    "Pontos": 36,
+    "Desempenho_Medio": 1749.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 2020.0,
+    "Pontos_por_Torneio": 6.0,
+    "Maior_Pontuacao": 12,
+    "Menor_Ranking": 4,
     "Participacoes": 6
   },
   {
@@ -1495,30 +1508,43 @@
     "Participacoes": 4
   },
   {
-    "Nick": "vassily_capivarov",
+    "Nick": "Darth_Vader_LMX",
     "Pontos": 34,
-    "Desempenho_Medio": 1796.0,
+    "Desempenho_Medio": 1579.0,
     "podio_primeiro": 0,
-    "podio_segundo": 1,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1913.0,
-    "Pontos_por_Torneio": 4.0,
-    "Maior_Pontuacao": 12,
-    "Menor_Ranking": 2,
-    "Participacoes": 9
+    "podio_segundo": 0,
+    "podio_terceiro": 1,
+    "Rating_Medio": 1862.0,
+    "Pontos_por_Torneio": 3.0,
+    "Maior_Pontuacao": 8,
+    "Menor_Ranking": 3,
+    "Participacoes": 13
   },
   {
-    "Nick": "Heraclito1976",
+    "Nick": "arthurxadrez2024",
     "Pontos": 33,
-    "Desempenho_Medio": 1621.0,
+    "Desempenho_Medio": 1532.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1754.0,
-    "Pontos_por_Torneio": 2.0,
-    "Maior_Pontuacao": 7,
-    "Menor_Ranking": 6,
-    "Participacoes": 14
+    "Rating_Medio": 1515.0,
+    "Pontos_por_Torneio": 3.0,
+    "Maior_Pontuacao": 6,
+    "Menor_Ranking": 8,
+    "Participacoes": 11
+  },
+  {
+    "Nick": "vitorkalangoo",
+    "Pontos": 32,
+    "Desempenho_Medio": 2216.0,
+    "podio_primeiro": 1,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 2257.0,
+    "Pontos_por_Torneio": 11.0,
+    "Maior_Pontuacao": 24,
+    "Menor_Ranking": 1,
+    "Participacoes": 3
   },
   {
     "Nick": "nibrchess",
@@ -1532,19 +1558,6 @@
     "Maior_Pontuacao": 23,
     "Menor_Ranking": 1,
     "Participacoes": 2
-  },
-  {
-    "Nick": "gleidsoncbm",
-    "Pontos": 32,
-    "Desempenho_Medio": 1748.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1868.0,
-    "Pontos_por_Torneio": 5.0,
-    "Maior_Pontuacao": 8,
-    "Menor_Ranking": 7,
-    "Participacoes": 6
   },
   {
     "Nick": "Brunomarcal",
@@ -1579,11 +1592,11 @@
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1686.0,
+    "Rating_Medio": 1687.0,
     "Pontos_por_Torneio": 3.0,
     "Maior_Pontuacao": 11,
     "Menor_Ranking": 4,
-    "Participacoes": 11
+    "Participacoes": 10
   },
   {
     "Nick": "Emelina1",
@@ -1625,6 +1638,32 @@
     "Participacoes": 3
   },
   {
+    "Nick": "Heraclito1976",
+    "Pontos": 30,
+    "Desempenho_Medio": 1608.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1754.0,
+    "Pontos_por_Torneio": 2.0,
+    "Maior_Pontuacao": 6,
+    "Menor_Ranking": 6,
+    "Participacoes": 14
+  },
+  {
+    "Nick": "Bergamo",
+    "Pontos": 29,
+    "Desempenho_Medio": 2086.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 1,
+    "podio_terceiro": 0,
+    "Rating_Medio": 2174.0,
+    "Pontos_por_Torneio": 14.0,
+    "Maior_Pontuacao": 24,
+    "Menor_Ranking": 2,
+    "Participacoes": 2
+  },
+  {
     "Nick": "Capivara-diplomado",
     "Pontos": 29,
     "Desempenho_Medio": 1984.0,
@@ -1636,19 +1675,6 @@
     "Maior_Pontuacao": 8,
     "Menor_Ranking": 5,
     "Participacoes": 8
-  },
-  {
-    "Nick": "vouperdertodas",
-    "Pontos": 29,
-    "Desempenho_Medio": 1938.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1811.0,
-    "Pontos_por_Torneio": 1.0,
-    "Maior_Pontuacao": 4,
-    "Menor_Ranking": 8,
-    "Participacoes": 27
   },
   {
     "Nick": "MarcosMiguelgm7",
@@ -1664,17 +1690,17 @@
     "Participacoes": 8
   },
   {
-    "Nick": "Trachypogon",
-    "Pontos": 29,
-    "Desempenho_Medio": 1577.0,
+    "Nick": "Leominduin",
+    "Pontos": 27,
+    "Desempenho_Medio": 2151.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1719.0,
-    "Pontos_por_Torneio": 2.0,
-    "Maior_Pontuacao": 8,
-    "Menor_Ranking": 6,
-    "Participacoes": 12
+    "podio_terceiro": 1,
+    "Rating_Medio": 2096.0,
+    "Pontos_por_Torneio": 9.0,
+    "Maior_Pontuacao": 15,
+    "Menor_Ranking": 3,
+    "Participacoes": 3
   },
   {
     "Nick": "SAINT_GESSE_GOMEZ",
@@ -1690,61 +1716,61 @@
     "Participacoes": 2
   },
   {
-    "Nick": "Joilson15",
-    "Pontos": 25,
-    "Desempenho_Medio": 2038.0,
+    "Nick": "vouperdertodas",
+    "Pontos": 27,
+    "Desempenho_Medio": 1893.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1923.0,
-    "Pontos_por_Torneio": 6.0,
-    "Maior_Pontuacao": 10,
-    "Menor_Ranking": 6,
-    "Participacoes": 4
+    "Rating_Medio": 1812.0,
+    "Pontos_por_Torneio": 1.0,
+    "Maior_Pontuacao": 4,
+    "Menor_Ranking": 8,
+    "Participacoes": 26
   },
   {
-    "Nick": "Mikhailtaldonordeste",
-    "Pontos": 25,
-    "Desempenho_Medio": 1821.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 2030.0,
-    "Pontos_por_Torneio": 6.0,
-    "Maior_Pontuacao": 12,
-    "Menor_Ranking": 4,
-    "Participacoes": 4
-  },
-  {
-    "Nick": "DavidStriker44",
-    "Pontos": 24,
-    "Desempenho_Medio": 2002.0,
+    "Nick": "vassily_capivarov",
+    "Pontos": 26,
+    "Desempenho_Medio": 1810.0,
     "podio_primeiro": 0,
     "podio_segundo": 1,
     "podio_terceiro": 0,
-    "Rating_Medio": 1944.0,
-    "Pontos_por_Torneio": 8.0,
-    "Maior_Pontuacao": 15,
+    "Rating_Medio": 1914.0,
+    "Pontos_por_Torneio": 3.0,
+    "Maior_Pontuacao": 12,
     "Menor_Ranking": 2,
-    "Participacoes": 3
+    "Participacoes": 8
+  },
+  {
+    "Nick": "kasparuimov",
+    "Pontos": 26,
+    "Desempenho_Medio": 1578.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1590.0,
+    "Pontos_por_Torneio": 4.0,
+    "Maior_Pontuacao": 8,
+    "Menor_Ranking": 9,
+    "Participacoes": 7
   },
   {
     "Nick": "DouglasOliveira45",
     "Pontos": 24,
-    "Desempenho_Medio": 1966.0,
+    "Desempenho_Medio": 2088.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1779.0,
-    "Pontos_por_Torneio": 3.0,
+    "Rating_Medio": 1777.0,
+    "Pontos_por_Torneio": 4.0,
     "Maior_Pontuacao": 8,
     "Menor_Ranking": 7,
-    "Participacoes": 7
+    "Participacoes": 6
   },
   {
     "Nick": "Raditura",
     "Pontos": 24,
-    "Desempenho_Medio": 1763.0,
+    "Desempenho_Medio": 1802.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
@@ -1752,20 +1778,7 @@
     "Pontos_por_Torneio": 2.0,
     "Maior_Pontuacao": 8,
     "Menor_Ranking": 9,
-    "Participacoes": 12
-  },
-  {
-    "Nick": "kasparuimov",
-    "Pontos": 24,
-    "Desempenho_Medio": 1609.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1598.0,
-    "Pontos_por_Torneio": 4.0,
-    "Maior_Pontuacao": 8,
-    "Menor_Ranking": 9,
-    "Participacoes": 6
+    "Participacoes": 11
   },
   {
     "Nick": "AnderMuniz",
@@ -1800,11 +1813,11 @@
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1710.0,
+    "Rating_Medio": 1713.0,
     "Pontos_por_Torneio": 2.0,
     "Maior_Pontuacao": 6,
     "Menor_Ranking": 7,
-    "Participacoes": 10
+    "Participacoes": 9
   },
   {
     "Nick": "CNJEduardo",
@@ -1818,6 +1831,19 @@
     "Maior_Pontuacao": 8,
     "Menor_Ranking": 7,
     "Participacoes": 8
+  },
+  {
+    "Nick": "tininho58",
+    "Pontos": 22,
+    "Desempenho_Medio": 1742.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1664.0,
+    "Pontos_por_Torneio": 4.0,
+    "Maior_Pontuacao": 10,
+    "Menor_Ranking": 6,
+    "Participacoes": 6
   },
   {
     "Nick": "Raffa29",
@@ -1835,15 +1861,15 @@
   {
     "Nick": "gilbertomenegatti",
     "Pontos": 22,
-    "Desempenho_Medio": 1581.0,
+    "Desempenho_Medio": 1531.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1576.0,
+    "Rating_Medio": 1581.0,
     "Pontos_por_Torneio": 2.0,
     "Maior_Pontuacao": 5,
     "Menor_Ranking": 10,
-    "Participacoes": 11
+    "Participacoes": 12
   },
   {
     "Nick": "Peixinho38",
@@ -1859,17 +1885,56 @@
     "Participacoes": 1
   },
   {
-    "Nick": "lucianotrigo2022",
+    "Nick": "gsiv18van",
     "Pontos": 21,
-    "Desempenho_Medio": 1706.0,
+    "Desempenho_Medio": 1531.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1743.0,
-    "Pontos_por_Torneio": 3.0,
-    "Maior_Pontuacao": 6,
-    "Menor_Ranking": 7,
-    "Participacoes": 8
+    "Rating_Medio": 1645.0,
+    "Pontos_por_Torneio": 4.0,
+    "Maior_Pontuacao": 7,
+    "Menor_Ranking": 9,
+    "Participacoes": 6
+  },
+  {
+    "Nick": "Tigre_do_Sertao",
+    "Pontos": 20,
+    "Desempenho_Medio": 2188.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 1,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1978.0,
+    "Pontos_por_Torneio": 20.0,
+    "Maior_Pontuacao": 20,
+    "Menor_Ranking": 2,
+    "Participacoes": 1
+  },
+  {
+    "Nick": "Joilson15",
+    "Pontos": 20,
+    "Desempenho_Medio": 2111.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1922.0,
+    "Pontos_por_Torneio": 5.0,
+    "Maior_Pontuacao": 8,
+    "Menor_Ranking": 6,
+    "Participacoes": 4
+  },
+  {
+    "Nick": "Neumann1978",
+    "Pontos": 20,
+    "Desempenho_Medio": 1849.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 1,
+    "Rating_Medio": 1813.0,
+    "Pontos_por_Torneio": 7.0,
+    "Maior_Pontuacao": 12,
+    "Menor_Ranking": 3,
+    "Participacoes": 3
   },
   {
     "Nick": "UlissesMoschen",
@@ -1898,6 +1963,19 @@
     "Participacoes": 3
   },
   {
+    "Nick": "Macaco-loco-XBA",
+    "Pontos": 20,
+    "Desempenho_Medio": 1647.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1884.0,
+    "Pontos_por_Torneio": 2.0,
+    "Maior_Pontuacao": 6,
+    "Menor_Ranking": 4,
+    "Participacoes": 9
+  },
+  {
     "Nick": "lucena2007",
     "Pontos": 19,
     "Desempenho_Medio": 1917.0,
@@ -1911,30 +1989,43 @@
     "Participacoes": 7
   },
   {
-    "Nick": "LEOBENGO",
+    "Nick": "FabianoElord",
     "Pontos": 19,
-    "Desempenho_Medio": 1798.0,
-    "podio_primeiro": 1,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1981.0,
-    "Pontos_por_Torneio": 5.0,
-    "Maior_Pontuacao": 16,
-    "Menor_Ranking": 1,
-    "Participacoes": 4
-  },
-  {
-    "Nick": "RodrigoBonora",
-    "Pontos": 18,
-    "Desempenho_Medio": 2042.0,
+    "Desempenho_Medio": 1451.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1903.0,
-    "Pontos_por_Torneio": 9.0,
-    "Maior_Pontuacao": 10,
-    "Menor_Ranking": 4,
-    "Participacoes": 2
+    "Rating_Medio": 1426.0,
+    "Pontos_por_Torneio": 2.0,
+    "Maior_Pontuacao": 6,
+    "Menor_Ranking": 9,
+    "Participacoes": 10
+  },
+  {
+    "Nick": "Edsongomes",
+    "Pontos": 18,
+    "Desempenho_Medio": 1848.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1930.0,
+    "Pontos_por_Torneio": 3.0,
+    "Maior_Pontuacao": 7,
+    "Menor_Ranking": 6,
+    "Participacoes": 7
+  },
+  {
+    "Nick": "fandrade",
+    "Pontos": 18,
+    "Desempenho_Medio": 1686.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1774.0,
+    "Pontos_por_Torneio": 2.0,
+    "Maior_Pontuacao": 5,
+    "Menor_Ranking": 9,
+    "Participacoes": 10
   },
   {
     "Nick": "AlexRevolledo",
@@ -1963,30 +2054,17 @@
     "Participacoes": 8
   },
   {
-    "Nick": "FabianoElord",
-    "Pontos": 17,
-    "Desempenho_Medio": 1434.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1417.0,
-    "Pontos_por_Torneio": 2.0,
-    "Maior_Pontuacao": 6,
-    "Menor_Ranking": 9,
-    "Participacoes": 9
-  },
-  {
-    "Nick": "Echo79",
+    "Nick": "LEOBENGO",
     "Pontos": 16,
-    "Desempenho_Medio": 1896.0,
-    "podio_primeiro": 0,
+    "Desempenho_Medio": 1833.0,
+    "podio_primeiro": 1,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1908.0,
-    "Pontos_por_Torneio": 3.0,
-    "Maior_Pontuacao": 10,
-    "Menor_Ranking": 4,
-    "Participacoes": 5
+    "Rating_Medio": 1976.0,
+    "Pontos_por_Torneio": 5.0,
+    "Maior_Pontuacao": 16,
+    "Menor_Ranking": 1,
+    "Participacoes": 3
   },
   {
     "Nick": "JESSY_ABASSOY",
@@ -2015,32 +2093,6 @@
     "Participacoes": 8
   },
   {
-    "Nick": "Macaco-loco-XBA",
-    "Pontos": 16,
-    "Desempenho_Medio": 1596.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1876.0,
-    "Pontos_por_Torneio": 2.0,
-    "Maior_Pontuacao": 4,
-    "Menor_Ranking": 11,
-    "Participacoes": 10
-  },
-  {
-    "Nick": "wilsom7",
-    "Pontos": 16,
-    "Desempenho_Medio": 1574.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1880.0,
-    "Pontos_por_Torneio": 3.0,
-    "Maior_Pontuacao": 9,
-    "Menor_Ranking": 6,
-    "Participacoes": 6
-  },
-  {
     "Nick": "Saize",
     "Pontos": 15,
     "Desempenho_Medio": 2073.0,
@@ -2052,6 +2104,19 @@
     "Maior_Pontuacao": 15,
     "Menor_Ranking": 3,
     "Participacoes": 2
+  },
+  {
+    "Nick": "DavidStriker44",
+    "Pontos": 15,
+    "Desempenho_Medio": 2004.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 1,
+    "podio_terceiro": 0,
+    "Rating_Medio": 2014.0,
+    "Pontos_por_Torneio": 15.0,
+    "Maior_Pontuacao": 15,
+    "Menor_Ranking": 2,
+    "Participacoes": 1
   },
   {
     "Nick": "edercorreia2016",
@@ -2067,30 +2132,17 @@
     "Participacoes": 1
   },
   {
-    "Nick": "Joseano",
+    "Nick": "lucianotrigo2022",
     "Pontos": 15,
-    "Desempenho_Medio": 1762.0,
+    "Desempenho_Medio": 1693.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1806.0,
+    "Rating_Medio": 1743.0,
     "Pontos_por_Torneio": 2.0,
     "Maior_Pontuacao": 4,
-    "Menor_Ranking": 9,
+    "Menor_Ranking": 10,
     "Participacoes": 7
-  },
-  {
-    "Nick": "fandrade",
-    "Pontos": 15,
-    "Desempenho_Medio": 1700.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1777.0,
-    "Pontos_por_Torneio": 2.0,
-    "Maior_Pontuacao": 5,
-    "Menor_Ranking": 9,
-    "Participacoes": 9
   },
   {
     "Nick": "mmessias19",
@@ -2132,30 +2184,30 @@
     "Participacoes": 1
   },
   {
-    "Nick": "Neumann1978",
+    "Nick": "tico67",
     "Pontos": 14,
-    "Desempenho_Medio": 1910.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 1,
-    "Rating_Medio": 1815.0,
-    "Pontos_por_Torneio": 7.0,
-    "Maior_Pontuacao": 12,
-    "Menor_Ranking": 3,
-    "Participacoes": 2
-  },
-  {
-    "Nick": "Edsongomes",
-    "Pontos": 14,
-    "Desempenho_Medio": 1798.0,
+    "Desempenho_Medio": 1732.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1924.0,
-    "Pontos_por_Torneio": 2.0,
-    "Maior_Pontuacao": 7,
-    "Menor_Ranking": 6,
-    "Participacoes": 6
+    "Rating_Medio": 1741.0,
+    "Pontos_por_Torneio": 3.0,
+    "Maior_Pontuacao": 10,
+    "Menor_Ranking": 4,
+    "Participacoes": 5
+  },
+  {
+    "Nick": "gunnarkj",
+    "Pontos": 13,
+    "Desempenho_Medio": 2250.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1866.0,
+    "Pontos_por_Torneio": 3.0,
+    "Maior_Pontuacao": 4,
+    "Menor_Ranking": 10,
+    "Participacoes": 5
   },
   {
     "Nick": "CarniworA",
@@ -2171,6 +2223,32 @@
     "Participacoes": 1
   },
   {
+    "Nick": "bootstrap_devil",
+    "Pontos": 13,
+    "Desempenho_Medio": 1861.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1687.0,
+    "Pontos_por_Torneio": 4.0,
+    "Maior_Pontuacao": 8,
+    "Menor_Ranking": 9,
+    "Participacoes": 3
+  },
+  {
+    "Nick": "Joseano",
+    "Pontos": 13,
+    "Desempenho_Medio": 1847.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1809.0,
+    "Pontos_por_Torneio": 3.0,
+    "Maior_Pontuacao": 4,
+    "Menor_Ranking": 9,
+    "Participacoes": 5
+  },
+  {
     "Nick": "RickVeteris",
     "Pontos": 13,
     "Desempenho_Medio": 1694.0,
@@ -2182,19 +2260,6 @@
     "Maior_Pontuacao": 5,
     "Menor_Ranking": 13,
     "Participacoes": 6
-  },
-  {
-    "Nick": "MEUFILHODINO",
-    "Pontos": 12,
-    "Desempenho_Medio": 2425.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 1,
-    "podio_terceiro": 0,
-    "Rating_Medio": 2244.0,
-    "Pontos_por_Torneio": 12.0,
-    "Maior_Pontuacao": 12,
-    "Menor_Ranking": 2,
-    "Participacoes": 1
   },
   {
     "Nick": "ATLAS21",
@@ -2314,6 +2379,19 @@
     "Participacoes": 5
   },
   {
+    "Nick": "Echo79",
+    "Pontos": 12,
+    "Desempenho_Medio": 1897.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1916.0,
+    "Pontos_por_Torneio": 3.0,
+    "Maior_Pontuacao": 10,
+    "Menor_Ranking": 4,
+    "Participacoes": 4
+  },
+  {
     "Nick": "Papaxibemano",
     "Pontos": 12,
     "Desempenho_Medio": 1777.0,
@@ -2325,19 +2403,6 @@
     "Maior_Pontuacao": 12,
     "Menor_Ranking": 4,
     "Participacoes": 4
-  },
-  {
-    "Nick": "tininho58",
-    "Pontos": 12,
-    "Desempenho_Medio": 1691.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1659.0,
-    "Pontos_por_Torneio": 2.0,
-    "Maior_Pontuacao": 4,
-    "Menor_Ranking": 9,
-    "Participacoes": 5
   },
   {
     "Nick": "betobastos",
@@ -2470,15 +2535,15 @@
     "Participacoes": 2
   },
   {
-    "Nick": "gsiv18van",
-    "Pontos": 11,
-    "Desempenho_Medio": 1486.0,
+    "Nick": "AVICII_TW",
+    "Pontos": 10,
+    "Desempenho_Medio": 2349.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1646.0,
-    "Pontos_por_Torneio": 3.0,
-    "Maior_Pontuacao": 7,
+    "Rating_Medio": 1905.0,
+    "Pontos_por_Torneio": 2.0,
+    "Maior_Pontuacao": 4,
     "Menor_Ranking": 10,
     "Participacoes": 4
   },
@@ -2493,19 +2558,6 @@
     "Pontos_por_Torneio": 10.0,
     "Maior_Pontuacao": 10,
     "Menor_Ranking": 5,
-    "Participacoes": 1
-  },
-  {
-    "Nick": "Hunter04",
-    "Pontos": 10,
-    "Desempenho_Medio": 2035.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 2010.0,
-    "Pontos_por_Torneio": 8.0,
-    "Maior_Pontuacao": 8,
-    "Menor_Ranking": 6,
     "Participacoes": 1
   },
   {
@@ -2528,10 +2580,23 @@
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 2014.0,
-    "Pontos_por_Torneio": 5.0,
+    "Rating_Medio": 2005.0,
+    "Pontos_por_Torneio": 10.0,
     "Maior_Pontuacao": 10,
     "Menor_Ranking": 5,
+    "Participacoes": 1
+  },
+  {
+    "Nick": "samurai27",
+    "Pontos": 10,
+    "Desempenho_Medio": 1877.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1774.0,
+    "Pontos_por_Torneio": 5.0,
+    "Maior_Pontuacao": 6,
+    "Menor_Ranking": 12,
     "Participacoes": 2
   },
   {
@@ -2546,32 +2611,6 @@
     "Maior_Pontuacao": 10,
     "Menor_Ranking": 7,
     "Participacoes": 1
-  },
-  {
-    "Nick": "CapaPletaXD1",
-    "Pontos": 10,
-    "Desempenho_Medio": 1791.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1547.0,
-    "Pontos_por_Torneio": 10.0,
-    "Maior_Pontuacao": 10,
-    "Menor_Ranking": 9,
-    "Participacoes": 1
-  },
-  {
-    "Nick": "samurai27",
-    "Pontos": 10,
-    "Desempenho_Medio": 1696.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1756.0,
-    "Pontos_por_Torneio": 3.0,
-    "Maior_Pontuacao": 6,
-    "Menor_Ranking": 12,
-    "Participacoes": 3
   },
   {
     "Nick": "kiliamCHANAQUILCA",
@@ -2639,19 +2678,6 @@
     "Participacoes": 2
   },
   {
-    "Nick": "Holanda58",
-    "Pontos": 9,
-    "Desempenho_Medio": 1688.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1876.0,
-    "Pontos_por_Torneio": 3.0,
-    "Maior_Pontuacao": 4,
-    "Menor_Ranking": 9,
-    "Participacoes": 3
-  },
-  {
     "Nick": "perna-de-tres",
     "Pontos": 8,
     "Desempenho_Medio": 2357.0,
@@ -2663,32 +2689,6 @@
     "Maior_Pontuacao": 8,
     "Menor_Ranking": 4,
     "Participacoes": 1
-  },
-  {
-    "Nick": "Leominduin",
-    "Pontos": 8,
-    "Desempenho_Medio": 2228.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 2089.0,
-    "Pontos_por_Torneio": 8.0,
-    "Maior_Pontuacao": 8,
-    "Menor_Ranking": 8,
-    "Participacoes": 1
-  },
-  {
-    "Nick": "Andrembi",
-    "Pontos": 8,
-    "Desempenho_Medio": 2197.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 2033.0,
-    "Pontos_por_Torneio": 4.0,
-    "Maior_Pontuacao": 4,
-    "Menor_Ranking": 10,
-    "Participacoes": 2
   },
   {
     "Nick": "Atom_Rezeiluj",
@@ -2795,6 +2795,19 @@
     "Participacoes": 2
   },
   {
+    "Nick": "kemerovsky",
+    "Pontos": 8,
+    "Desempenho_Medio": 1730.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1702.0,
+    "Pontos_por_Torneio": 3.0,
+    "Maior_Pontuacao": 8,
+    "Menor_Ranking": 11,
+    "Participacoes": 3
+  },
+  {
     "Nick": "waltercampos",
     "Pontos": 8,
     "Desempenho_Medio": 1696.0,
@@ -2873,6 +2886,19 @@
     "Participacoes": 1
   },
   {
+    "Nick": "Holanda58",
+    "Pontos": 7,
+    "Desempenho_Medio": 1744.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1882.0,
+    "Pontos_por_Torneio": 4.0,
+    "Maior_Pontuacao": 4,
+    "Menor_Ranking": 9,
+    "Participacoes": 2
+  },
+  {
     "Nick": "FRACOQUEBATE_JMC86",
     "Pontos": 7,
     "Desempenho_Medio": 1617.0,
@@ -2897,19 +2923,6 @@
     "Maior_Pontuacao": 5,
     "Menor_Ranking": 19,
     "Participacoes": 4
-  },
-  {
-    "Nick": "AVICII_TW",
-    "Pontos": 6,
-    "Desempenho_Medio": 2328.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1894.0,
-    "Pontos_por_Torneio": 2.0,
-    "Maior_Pontuacao": 2,
-    "Menor_Ranking": 10,
-    "Participacoes": 3
   },
   {
     "Nick": "attackonly",
@@ -3068,19 +3081,6 @@
     "Participacoes": 3
   },
   {
-    "Nick": "ECerruti",
-    "Pontos": 6,
-    "Desempenho_Medio": 1376.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1529.0,
-    "Pontos_por_Torneio": 1.0,
-    "Maior_Pontuacao": 3,
-    "Menor_Ranking": 12,
-    "Participacoes": 7
-  },
-  {
     "Nick": "kleberdomus",
     "Pontos": 5,
     "Desempenho_Medio": 2173.0,
@@ -3100,24 +3100,11 @@
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1989.0,
+    "Rating_Medio": 1991.0,
     "Pontos_por_Torneio": 2.0,
     "Maior_Pontuacao": 3,
     "Menor_Ranking": 14,
-    "Participacoes": 3
-  },
-  {
-    "Nick": "Bergamo",
-    "Pontos": 5,
-    "Desempenho_Medio": 2015.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 2192.0,
-    "Pontos_por_Torneio": 5.0,
-    "Maior_Pontuacao": 5,
-    "Menor_Ranking": 12,
-    "Participacoes": 1
+    "Participacoes": 2
   },
   {
     "Nick": "Dany_Sombrio",
@@ -3157,19 +3144,6 @@
     "Maior_Pontuacao": 5,
     "Menor_Ranking": 9,
     "Participacoes": 1
-  },
-  {
-    "Nick": "bootstrap_devil",
-    "Pontos": 5,
-    "Desempenho_Medio": 1662.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1652.0,
-    "Pontos_por_Torneio": 2.0,
-    "Maior_Pontuacao": 4,
-    "Menor_Ranking": 14,
-    "Participacoes": 2
   },
   {
     "Nick": "MindPhylos",
@@ -3224,6 +3198,19 @@
     "Participacoes": 2
   },
   {
+    "Nick": "juniordahora",
+    "Pontos": 5,
+    "Desempenho_Medio": 1520.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1528.0,
+    "Pontos_por_Torneio": 2.0,
+    "Maior_Pontuacao": 5,
+    "Menor_Ranking": 15,
+    "Participacoes": 2
+  },
+  {
     "Nick": "Brasil5hero",
     "Pontos": 5,
     "Desempenho_Medio": 1465.0,
@@ -3235,6 +3222,19 @@
     "Maior_Pontuacao": 4,
     "Menor_Ranking": 10,
     "Participacoes": 3
+  },
+  {
+    "Nick": "ECerruti",
+    "Pontos": 5,
+    "Desempenho_Medio": 1377.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1521.0,
+    "Pontos_por_Torneio": 1.0,
+    "Maior_Pontuacao": 3,
+    "Menor_Ranking": 12,
+    "Participacoes": 5
   },
   {
     "Nick": "Cantalicio",
@@ -3250,30 +3250,17 @@
     "Participacoes": 1
   },
   {
-    "Nick": "gunnarkj",
-    "Pontos": 4,
-    "Desempenho_Medio": 2296.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1820.0,
-    "Pontos_por_Torneio": 2.0,
-    "Maior_Pontuacao": 2,
-    "Menor_Ranking": 11,
-    "Participacoes": 2
-  },
-  {
     "Nick": "renanreis",
     "Pontos": 4,
     "Desempenho_Medio": 2240.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 2304.0,
-    "Pontos_por_Torneio": 2.0,
+    "Rating_Medio": 2296.0,
+    "Pontos_por_Torneio": 4.0,
     "Maior_Pontuacao": 4,
     "Menor_Ranking": 12,
-    "Participacoes": 2
+    "Participacoes": 1
   },
   {
     "Nick": "maicon_novaiguacu",
@@ -3432,6 +3419,19 @@
     "Participacoes": 2
   },
   {
+    "Nick": "Andrembi",
+    "Pontos": 4,
+    "Desempenho_Medio": 1747.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 2007.0,
+    "Pontos_por_Torneio": 2.0,
+    "Maior_Pontuacao": 4,
+    "Menor_Ranking": 14,
+    "Participacoes": 2
+  },
+  {
     "Nick": "JonatanRichard",
     "Pontos": 4,
     "Desempenho_Medio": 1699.0,
@@ -3445,29 +3445,16 @@
     "Participacoes": 1
   },
   {
-    "Nick": "tico67",
+    "Nick": "Gagalu",
     "Pontos": 4,
-    "Desempenho_Medio": 1695.0,
+    "Desempenho_Medio": 1699.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1746.0,
-    "Pontos_por_Torneio": 1.0,
-    "Maior_Pontuacao": 2,
-    "Menor_Ranking": 19,
-    "Participacoes": 3
-  },
-  {
-    "Nick": "izaquiel95",
-    "Pontos": 4,
-    "Desempenho_Medio": 1654.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1813.0,
+    "Rating_Medio": 1797.0,
     "Pontos_por_Torneio": 4.0,
     "Maior_Pontuacao": 4,
-    "Menor_Ranking": 12,
+    "Menor_Ranking": 13,
     "Participacoes": 1
   },
   {
@@ -3538,28 +3525,15 @@
   {
     "Nick": "HELIMELGAA",
     "Pontos": 4,
-    "Desempenho_Medio": 1387.0,
+    "Desempenho_Medio": 1414.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1767.0,
+    "Rating_Medio": 1755.0,
     "Pontos_por_Torneio": 1.0,
     "Maior_Pontuacao": 4,
     "Menor_Ranking": 15,
-    "Participacoes": 4
-  },
-  {
-    "Nick": "Re_alves",
-    "Pontos": 4,
-    "Desempenho_Medio": 1385.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1238.0,
-    "Pontos_por_Torneio": 1.0,
-    "Maior_Pontuacao": 4,
-    "Menor_Ranking": 10,
-    "Participacoes": 6
+    "Participacoes": 3
   },
   {
     "Nick": "gabrielarekcert",
@@ -3585,19 +3559,6 @@
     "Pontos_por_Torneio": 3.0,
     "Maior_Pontuacao": 3,
     "Menor_Ranking": 13,
-    "Participacoes": 1
-  },
-  {
-    "Nick": "birinhajr",
-    "Pontos": 3,
-    "Desempenho_Medio": 2295.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 2044.0,
-    "Pontos_por_Torneio": 3.0,
-    "Maior_Pontuacao": 3,
-    "Menor_Ranking": 17,
     "Participacoes": 1
   },
   {
@@ -3692,6 +3653,32 @@
     "Participacoes": 1
   },
   {
+    "Nick": "birinhajr",
+    "Pontos": 3,
+    "Desempenho_Medio": 1688.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 2047.0,
+    "Pontos_por_Torneio": 1.0,
+    "Maior_Pontuacao": 3,
+    "Menor_Ranking": 17,
+    "Participacoes": 3
+  },
+  {
+    "Nick": "viriato20232024",
+    "Pontos": 3,
+    "Desempenho_Medio": 1549.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1879.0,
+    "Pontos_por_Torneio": 3.0,
+    "Maior_Pontuacao": 3,
+    "Menor_Ranking": 13,
+    "Participacoes": 1
+  },
+  {
     "Nick": "RSAragao",
     "Pontos": 2,
     "Desempenho_Medio": 2475.0,
@@ -3770,19 +3757,6 @@
     "Participacoes": 1
   },
   {
-    "Nick": "capipagua",
-    "Pontos": 2,
-    "Desempenho_Medio": 2185.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 2050.0,
-    "Pontos_por_Torneio": 2.0,
-    "Maior_Pontuacao": 2,
-    "Menor_Ranking": 14,
-    "Participacoes": 1
-  },
-  {
     "Nick": "PlanetPlato3",
     "Pontos": 2,
     "Desempenho_Medio": 2164.0,
@@ -3809,17 +3783,17 @@
     "Participacoes": 1
   },
   {
-    "Nick": "dickvigarista13",
+    "Nick": "wllndr",
     "Pontos": 2,
-    "Desempenho_Medio": 1894.0,
+    "Desempenho_Medio": 1868.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1930.0,
-    "Pontos_por_Torneio": 1.0,
+    "Rating_Medio": 1509.0,
+    "Pontos_por_Torneio": 0.0,
     "Maior_Pontuacao": 2,
-    "Menor_Ranking": 13,
-    "Participacoes": 2
+    "Menor_Ranking": 12,
+    "Participacoes": 4
   },
   {
     "Nick": "Ysmylov10",
@@ -3855,10 +3829,10 @@
     "podio_segundo": 0,
     "podio_terceiro": 0,
     "Rating_Medio": 1384.0,
-    "Pontos_por_Torneio": 2.0,
+    "Pontos_por_Torneio": 1.0,
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 17,
-    "Participacoes": 1
+    "Participacoes": 2
   },
   {
     "Nick": "lulucaninde",
@@ -3880,11 +3854,11 @@
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1747.0,
-    "Pontos_por_Torneio": 2.0,
+    "Rating_Medio": 1750.0,
+    "Pontos_por_Torneio": 1.0,
     "Maior_Pontuacao": 2,
-    "Menor_Ranking": 18,
-    "Participacoes": 1
+    "Menor_Ranking": 14,
+    "Participacoes": 2
   },
   {
     "Nick": "Barquero33",
@@ -4004,19 +3978,6 @@
     "Participacoes": 1
   },
   {
-    "Nick": "AndersonBalieiro",
-    "Pontos": 2,
-    "Desempenho_Medio": 1526.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1546.0,
-    "Pontos_por_Torneio": 2.0,
-    "Maior_Pontuacao": 2,
-    "Menor_Ranking": 17,
-    "Participacoes": 1
-  },
-  {
     "Nick": "sacodepancadas",
     "Pontos": 2,
     "Desempenho_Medio": 1519.0,
@@ -4082,6 +4043,19 @@
     "Participacoes": 8
   },
   {
+    "Nick": "Alcideasantana",
+    "Pontos": 2,
+    "Desempenho_Medio": 1436.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1479.0,
+    "Pontos_por_Torneio": 1.0,
+    "Maior_Pontuacao": 2,
+    "Menor_Ranking": 17,
+    "Participacoes": 2
+  },
+  {
     "Nick": "MoskaRed",
     "Pontos": 2,
     "Desempenho_Medio": 1434.0,
@@ -4136,11 +4110,11 @@
   {
     "Nick": "cris-alcantara",
     "Pontos": 2,
-    "Desempenho_Medio": 1232.0,
+    "Desempenho_Medio": 1230.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1121.0,
+    "Rating_Medio": 1098.0,
     "Pontos_por_Torneio": 0.0,
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 16,
@@ -4225,17 +4199,30 @@
     "Participacoes": 4
   },
   {
-    "Nick": "jucyfilho007",
+    "Nick": "Ly_Neck",
     "Pontos": 1,
-    "Desempenho_Medio": 1389.0,
+    "Desempenho_Medio": 1442.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1215.0,
+    "Rating_Medio": 1752.0,
+    "Pontos_por_Torneio": 0.0,
+    "Maior_Pontuacao": 1,
+    "Menor_Ranking": 16,
+    "Participacoes": 2
+  },
+  {
+    "Nick": "jucyfilho007",
+    "Pontos": 1,
+    "Desempenho_Medio": 1380.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1214.0,
     "Pontos_por_Torneio": 0.0,
     "Maior_Pontuacao": 1,
     "Menor_Ranking": 21,
-    "Participacoes": 3
+    "Participacoes": 4
   },
   {
     "Nick": "f_donath",
@@ -4290,6 +4277,19 @@
     "Participacoes": 1
   },
   {
+    "Nick": "Gualter_Xpga",
+    "Pontos": 0,
+    "Desempenho_Medio": 1475.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 2023.0,
+    "Pontos_por_Torneio": 0.0,
+    "Maior_Pontuacao": 0,
+    "Menor_Ranking": 14,
+    "Participacoes": 2
+  },
+  {
     "Nick": "CabecadeKubo",
     "Pontos": 0,
     "Desempenho_Medio": 1473.0,
@@ -4303,17 +4303,30 @@
     "Participacoes": 2
   },
   {
-    "Nick": "Gualter_Xpga",
+    "Nick": "vinilipe",
     "Pontos": 0,
-    "Desempenho_Medio": 1469.0,
+    "Desempenho_Medio": 1468.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1978.0,
+    "Rating_Medio": 1440.0,
     "Pontos_por_Torneio": 0.0,
     "Maior_Pontuacao": 0,
-    "Menor_Ranking": 14,
-    "Participacoes": 2
+    "Menor_Ranking": 21,
+    "Participacoes": 1
+  },
+  {
+    "Nick": "wilsom7",
+    "Pontos": 0,
+    "Desempenho_Medio": 1447.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1865.0,
+    "Pontos_por_Torneio": 0.0,
+    "Maior_Pontuacao": 0,
+    "Menor_Ranking": 20,
+    "Participacoes": 3
   },
   {
     "Nick": "ramatavio1",
@@ -4362,19 +4375,6 @@
     "podio_segundo": 0,
     "podio_terceiro": 0,
     "Rating_Medio": 1546.0,
-    "Pontos_por_Torneio": 0.0,
-    "Maior_Pontuacao": 0,
-    "Menor_Ranking": 17,
-    "Participacoes": 1
-  },
-  {
-    "Nick": "Alcideasantana",
-    "Pontos": 0,
-    "Desempenho_Medio": 1391.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1472.0,
     "Pontos_por_Torneio": 0.0,
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 17,
@@ -4459,6 +4459,19 @@
     "Participacoes": 1
   },
   {
+    "Nick": "Re_alves",
+    "Pontos": 0,
+    "Desempenho_Medio": 1335.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1228.0,
+    "Pontos_por_Torneio": 0.0,
+    "Maior_Pontuacao": 0,
+    "Menor_Ranking": 16,
+    "Participacoes": 5
+  },
+  {
     "Nick": "Star-Chess-Lider",
     "Pontos": 0,
     "Desempenho_Medio": 1335.0,
@@ -4472,19 +4485,6 @@
     "Participacoes": 1
   },
   {
-    "Nick": "wllndr",
-    "Pontos": 0,
-    "Desempenho_Medio": 1332.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1513.0,
-    "Pontos_por_Torneio": 0.0,
-    "Maior_Pontuacao": 0,
-    "Menor_Ranking": 12,
-    "Participacoes": 5
-  },
-  {
     "Nick": "ivo83",
     "Pontos": 0,
     "Desempenho_Medio": 1331.0,
@@ -4496,19 +4496,6 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 21,
     "Participacoes": 1
-  },
-  {
-    "Nick": "vinilipe",
-    "Pontos": 0,
-    "Desempenho_Medio": 1330.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1392.0,
-    "Pontos_por_Torneio": 0.0,
-    "Maior_Pontuacao": 0,
-    "Menor_Ranking": 19,
-    "Participacoes": 2
   },
   {
     "Nick": "tiagomoraes999",
@@ -4608,11 +4595,11 @@
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1490.0,
+    "Rating_Medio": 1494.0,
     "Pontos_por_Torneio": 0.0,
     "Maior_Pontuacao": 0,
-    "Menor_Ranking": 27,
-    "Participacoes": 1
+    "Menor_Ranking": 20,
+    "Participacoes": 2
   },
   {
     "Nick": "IgnacioSM_ARG",
@@ -4667,19 +4654,6 @@
     "Participacoes": 1
   },
   {
-    "Nick": "juniordahora",
-    "Pontos": 0,
-    "Desempenho_Medio": 1144.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1493.0,
-    "Pontos_por_Torneio": 0.0,
-    "Maior_Pontuacao": 0,
-    "Menor_Ranking": 22,
-    "Participacoes": 1
-  },
-  {
     "Nick": "jeffedavid01",
     "Pontos": 0,
     "Desempenho_Medio": 991.0,
@@ -4691,6 +4665,19 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 20,
     "Participacoes": 2
+  },
+  {
+    "Nick": "Nandomga",
+    "Pontos": 0,
+    "Desempenho_Medio": null,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 2244.0,
+    "Pontos_por_Torneio": 0.0,
+    "Maior_Pontuacao": 0,
+    "Menor_Ranking": 17,
+    "Participacoes": 1
   },
   {
     "Nick": "Luishoracio0000",
@@ -4758,6 +4745,19 @@
     "Participacoes": 1
   },
   {
+    "Nick": "dickvigarista13",
+    "Pontos": 0,
+    "Desempenho_Medio": null,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 2019.0,
+    "Pontos_por_Torneio": 0.0,
+    "Maior_Pontuacao": 0,
+    "Menor_Ranking": 19,
+    "Participacoes": 1
+  },
+  {
     "Nick": "Peluncur16",
     "Pontos": 0,
     "Desempenho_Medio": null,
@@ -4784,6 +4784,19 @@
     "Participacoes": 1
   },
   {
+    "Nick": "Bonora_Chess",
+    "Pontos": 0,
+    "Desempenho_Medio": null,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1979.0,
+    "Pontos_por_Torneio": 0.0,
+    "Maior_Pontuacao": 0,
+    "Menor_Ranking": 18,
+    "Participacoes": 1
+  },
+  {
     "Nick": "Danilochess0",
     "Pontos": 0,
     "Desempenho_Medio": null,
@@ -4797,6 +4810,19 @@
     "Participacoes": 1
   },
   {
+    "Nick": "yurislandy85",
+    "Pontos": 0,
+    "Desempenho_Medio": null,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1902.0,
+    "Pontos_por_Torneio": 0.0,
+    "Maior_Pontuacao": 0,
+    "Menor_Ranking": 19,
+    "Participacoes": 1
+  },
+  {
     "Nick": "chessfox7654",
     "Pontos": 0,
     "Desempenho_Medio": null,
@@ -4807,19 +4833,6 @@
     "Pontos_por_Torneio": 0.0,
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 23,
-    "Participacoes": 1
-  },
-  {
-    "Nick": "gaelitonieto77",
-    "Pontos": 0,
-    "Desempenho_Medio": null,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1871.0,
-    "Pontos_por_Torneio": 0.0,
-    "Maior_Pontuacao": 0,
-    "Menor_Ranking": 12,
     "Participacoes": 1
   },
   {
@@ -4927,19 +4940,6 @@
     "Participacoes": 1
   },
   {
-    "Nick": "kemerovsky",
-    "Pontos": 0,
-    "Desempenho_Medio": null,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1702.0,
-    "Pontos_por_Torneio": 0.0,
-    "Maior_Pontuacao": 0,
-    "Menor_Ranking": 13,
-    "Participacoes": 4
-  },
-  {
     "Nick": "Nunes6",
     "Pontos": 0,
     "Desempenho_Medio": null,
@@ -4992,16 +4992,16 @@
     "Participacoes": 1
   },
   {
-    "Nick": "Peon-68",
+    "Nick": "GutoXL",
     "Pontos": 0,
     "Desempenho_Medio": null,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1620.0,
+    "Rating_Medio": 1591.0,
     "Pontos_por_Torneio": 0.0,
     "Maior_Pontuacao": 0,
-    "Menor_Ranking": 13,
+    "Menor_Ranking": 17,
     "Participacoes": 1
   },
   {
