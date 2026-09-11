@@ -34,25 +34,24 @@ import requests
 # ============================================================
 # CONFIGURAÇÃO
 # ============================================================
+# ============================================================
+# CONFIGURAÇÃO
+# ============================================================
 
-TEAM_ID = "itaberabao"
+TEAM_ID = "salentchess"
 
 # Primeiro torneio considerado.
-START_TIMESTAMP_MS = int(
-    datetime(2025, 9, 7, 0, 0, tzinfo=timezone.utc).timestamp() * 1000
-)
+START_TIMESTAMP_MS = 1755563400000
 
 # None = considerar até o momento da execução.
-# Isso permite que o ranking continue sendo atualizado diariamente.
 END_TIMESTAMP_MS = None
 
 EXCLUDED_TOURNAMENTS = {"WOE0IJur"}
 
 NAME_PATTERN = re.compile(
-    r"JUDIT|POLGAR",
+    r"SLT JUDIT POLGÁR|SLT ESPECIAL|JUDIT|POLGAR",
     re.IGNORECASE
 )
-
 
 # ============================================================
 # SUBSTITUIÇÃO DE NOMES
