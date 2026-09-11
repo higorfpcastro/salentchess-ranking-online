@@ -253,34 +253,53 @@ function renderCards() {
    INTERVALO DOS DADOS
    ============================================================ */
 
+
 function renderInterval() {
 
-  const element =
-    document.querySelector("#interval");
+  const element = document.querySelector("#interval");
 
+  if (!element) {
+    return;
+  }
 
-  if (
-    !status.interval_start ||
-    !status.interval_end
-  ) {
+  let start = status.interval_start;
+  let end = status.interval_end;
+
+  // Se o status.json não tiver o intervalo,
+  // calcula usando os torneios presentes em torneios.json.
+  if (!start || !end) {
+
+    const dates = torneios
+      .map(t => t.startsAt)
+      .filter(Boolean)
+      .map(value => new Date(value))
+      .filter(date => !Number.isNaN(date.getTime()));
+
+    if (dates.length > 0) {
+
+      const minTime = Math.min(
+        ...dates.map(date => date.getTime())
+      );
+
+      const maxTime = Math.max(
+        ...dates.map(date => date.getTime())
+      );
+
+      start = new Date(minTime).toISOString();
+      end = new Date(maxTime).toISOString();
+    }
+  }
+
+  if (!start || !end) {
 
     element.textContent =
       "Período dos dados: —";
 
     return;
-
   }
 
-
-  const start =
-    dateOnly(status.interval_start);
-
-  const end =
-    dateOnly(status.interval_end);
-
-
   element.textContent =
-    `Período dos dados: ${start} a ${end}`;
+    `Período dos dados: ${dateOnly(start)} a ${dateOnly(end)}`;
 }
 
 
