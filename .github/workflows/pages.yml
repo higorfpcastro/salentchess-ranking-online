@@ -1,4 +1,4 @@
-name: Publicar GitHub Pages
+name: Publicar SalentChess
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
 
   workflow_run:
     workflows:
-      - "Atualizar ranking Itaberabão"
+      - "Atualizar ranking SalentChess"
     types:
       - completed
 
@@ -19,7 +19,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages
+  group: pages-salentchess
   cancel-in-progress: true
 
 jobs:
@@ -31,7 +31,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-
       - name: Checkout repositório
         uses: actions/checkout@v4
         with:
@@ -43,7 +42,7 @@ jobs:
       - name: Preparar artefato do site
         uses: actions/upload-pages-artifact@v4
         with:
-          path: site
+          path: itaberabao-ranking/site
 
       - name: Publicar no GitHub Pages
         uses: actions/deploy-pages@v4
