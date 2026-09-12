@@ -1,168 +1,184 @@
 [
   {
     "Nick": "fumecador",
-    "Pontos": 1652,
-    "Desempenho_Medio": 1839.0,
-    "podio_primeiro": 2,
+    "Pontos": 1764,
+    "Desempenho_Medio": 1843.0,
+    "podio_primeiro": 4,
     "podio_segundo": 11,
-    "podio_terceiro": 26,
-    "Rating_Medio": 1868.0,
+    "podio_terceiro": 24,
+    "Rating_Medio": 1869.0,
     "Pontos_por_Torneio": 7.0,
-    "Maior_Pontuacao": 18,
+    "Maior_Pontuacao": 20,
     "Menor_Ranking": 1,
-    "Participacoes": 236,
+    "Participacoes": 253,
     "Posicao": 1,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Movimento": 0.0,
+    "Movimento_Texto": "—"
   },
   {
     "Nick": "LevyRodrigues",
-    "Pontos": 1447,
-    "Desempenho_Medio": 1778.0,
+    "Pontos": 1594,
+    "Desempenho_Medio": 1783.0,
     "podio_primeiro": 11,
-    "podio_segundo": 20,
-    "podio_terceiro": 17,
+    "podio_segundo": 23,
+    "podio_terceiro": 18,
     "Rating_Medio": 1853.0,
     "Pontos_por_Torneio": 8.0,
     "Maior_Pontuacao": 30,
     "Menor_Ranking": 1,
-    "Participacoes": 183,
+    "Participacoes": 200,
     "Posicao": 2,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Movimento": 0.0,
+    "Movimento_Texto": "—"
   },
   {
     "Nick": "j_erry",
-    "Pontos": 1346,
-    "Desempenho_Medio": 1907.0,
-    "podio_primeiro": 11,
+    "Pontos": 1429,
+    "Desempenho_Medio": 1897.0,
+    "podio_primeiro": 13,
     "podio_segundo": 16,
-    "podio_terceiro": 19,
-    "Rating_Medio": 1957.0,
+    "podio_terceiro": 18,
+    "Rating_Medio": 1956.0,
     "Pontos_por_Torneio": 8.0,
-    "Maior_Pontuacao": 27,
+    "Maior_Pontuacao": 31,
     "Menor_Ranking": 1,
-    "Participacoes": 175,
+    "Participacoes": 185,
     "Posicao": 3,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Movimento": 0.0,
+    "Movimento_Texto": "—"
   },
   {
     "Nick": "Gilbertooliveira78",
-    "Pontos": 1206,
-    "Desempenho_Medio": 1808.0,
+    "Pontos": 1267,
+    "Desempenho_Medio": 1807.0,
     "podio_primeiro": 4,
-    "podio_segundo": 11,
+    "podio_segundo": 12,
     "podio_terceiro": 8,
-    "Rating_Medio": 1809.0,
+    "Rating_Medio": 1812.0,
     "Pontos_por_Torneio": 6.0,
     "Maior_Pontuacao": 24,
     "Menor_Ranking": 1,
-    "Participacoes": 194,
+    "Participacoes": 207,
     "Posicao": 4,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Movimento": 0.0,
+    "Movimento_Texto": "—"
   },
   {
     "Nick": "Numsei01",
-    "Pontos": 1141,
-    "Desempenho_Medio": 1766.0,
+    "Pontos": 1224,
+    "Desempenho_Medio": 1776.0,
     "podio_primeiro": 7,
-    "podio_segundo": 7,
+    "podio_segundo": 8,
     "podio_terceiro": 7,
     "Rating_Medio": 1854.0,
     "Pontos_por_Torneio": 5.0,
     "Maior_Pontuacao": 22,
     "Menor_Ranking": 1,
-    "Participacoes": 223,
+    "Participacoes": 239,
     "Posicao": 5,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Movimento": 0.0,
+    "Movimento_Texto": "—"
   },
   {
     "Nick": "buscapato33",
-    "Pontos": 1134,
+    "Pontos": 1219,
     "Desempenho_Medio": 1988.0,
-    "podio_primeiro": 28,
+    "podio_primeiro": 29,
     "podio_segundo": 11,
     "podio_terceiro": 7,
-    "Rating_Medio": 2057.0,
+    "Rating_Medio": 2059.0,
     "Pontos_por_Torneio": 11.0,
     "Maior_Pontuacao": 34,
     "Menor_Ranking": 1,
-    "Participacoes": 107,
+    "Participacoes": 116,
     "Posicao": 6,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Movimento": 0.0,
+    "Movimento_Texto": "—"
   },
   {
     "Nick": "ELEFANTE19",
-    "Pontos": 1122,
-    "Desempenho_Medio": 1832.0,
-    "podio_primeiro": 13,
-    "podio_segundo": 12,
+    "Pontos": 1218,
+    "Desempenho_Medio": 1831.0,
+    "podio_primeiro": 14,
+    "podio_segundo": 14,
     "podio_terceiro": 7,
-    "Rating_Medio": 1847.0,
+    "Rating_Medio": 1844.0,
     "Pontos_por_Torneio": 10.0,
     "Maior_Pontuacao": 29,
     "Menor_Ranking": 1,
-    "Participacoes": 112,
+    "Participacoes": 120,
     "Posicao": 7,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Movimento": 0.0,
+    "Movimento_Texto": "—"
   },
   {
     "Nick": "MATEMATICO",
-    "Pontos": 846,
-    "Desempenho_Medio": 1892.0,
+    "Pontos": 930,
+    "Desempenho_Medio": 1897.0,
     "podio_primeiro": 4,
-    "podio_segundo": 5,
-    "podio_terceiro": 5,
+    "podio_segundo": 7,
+    "podio_terceiro": 7,
     "Rating_Medio": 1882.0,
     "Pontos_por_Torneio": 6.0,
     "Maior_Pontuacao": 20,
     "Menor_Ranking": 1,
-    "Participacoes": 138,
+    "Participacoes": 145,
     "Posicao": 8,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Movimento": 0.0,
+    "Movimento_Texto": "—"
   },
   {
     "Nick": "VicenTeChes",
-    "Pontos": 727,
-    "Desempenho_Medio": 1714.0,
+    "Pontos": 768,
+    "Desempenho_Medio": 1717.0,
     "podio_primeiro": 1,
     "podio_segundo": 0,
     "podio_terceiro": 4,
-    "Rating_Medio": 1689.0,
+    "Rating_Medio": 1690.0,
     "Pontos_por_Torneio": 3.0,
     "Maior_Pontuacao": 12,
     "Menor_Ranking": 1,
-    "Participacoes": 210,
+    "Participacoes": 224,
     "Posicao": 9,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Movimento": 0.0,
+    "Movimento_Texto": "—"
   },
   {
     "Nick": "rolandobrazil",
-    "Pontos": 625,
-    "Desempenho_Medio": 1773.0,
+    "Pontos": 661,
+    "Desempenho_Medio": 1784.0,
     "podio_primeiro": 4,
     "podio_segundo": 6,
-    "podio_terceiro": 4,
+    "podio_terceiro": 5,
     "Rating_Medio": 1815.0,
     "Pontos_por_Torneio": 5.0,
     "Maior_Pontuacao": 20,
     "Menor_Ranking": 1,
-    "Participacoes": 133,
+    "Participacoes": 139,
     "Posicao": 10,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Movimento": 0.0,
+    "Movimento_Texto": "—"
+  },
+  {
+    "Nick": "F4bioSo4res",
+    "Pontos": 647,
+    "Desempenho_Medio": 1959.0,
+    "podio_primeiro": 1,
+    "podio_segundo": 6,
+    "podio_terceiro": 10,
+    "Rating_Medio": 1977.0,
+    "Pontos_por_Torneio": 7.0,
+    "Maior_Pontuacao": 22,
+    "Menor_Ranking": 1,
+    "Participacoes": 99,
+    "Posicao": 11,
+    "Movimento": 1.0,
+    "Movimento_Texto": "↑ 1"
   },
   {
     "Nick": "Leonilson",
-    "Pontos": 593,
-    "Desempenho_Medio": 1829.0,
+    "Pontos": 629,
+    "Desempenho_Medio": 1824.0,
     "podio_primeiro": 3,
     "podio_segundo": 3,
     "podio_terceiro": 0,
@@ -170,218 +186,250 @@
     "Pontos_por_Torneio": 5.0,
     "Maior_Pontuacao": 25,
     "Menor_Ranking": 1,
-    "Participacoes": 124,
-    "Posicao": 11,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "F4bioSo4res",
-    "Pontos": 584,
-    "Desempenho_Medio": 1955.0,
-    "podio_primeiro": 1,
-    "podio_segundo": 5,
-    "podio_terceiro": 8,
-    "Rating_Medio": 1976.0,
-    "Pontos_por_Torneio": 6.0,
-    "Maior_Pontuacao": 22,
-    "Menor_Ranking": 1,
-    "Participacoes": 92,
+    "Participacoes": 135,
     "Posicao": 12,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Movimento": -1.0,
+    "Movimento_Texto": "↓ 1"
   },
   {
     "Nick": "Thunder2021",
-    "Pontos": 564,
-    "Desempenho_Medio": 2001.0,
-    "podio_primeiro": 5,
+    "Pontos": 610,
+    "Desempenho_Medio": 1987.0,
+    "podio_primeiro": 6,
     "podio_segundo": 8,
-    "podio_terceiro": 4,
-    "Rating_Medio": 1934.0,
-    "Pontos_por_Torneio": 9.0,
+    "podio_terceiro": 5,
+    "Rating_Medio": 1939.0,
+    "Pontos_por_Torneio": 10.0,
     "Maior_Pontuacao": 24,
     "Menor_Ranking": 1,
-    "Participacoes": 60,
+    "Participacoes": 64,
     "Posicao": 13,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "Stormy-ChessWorld",
-    "Pontos": 540,
-    "Desempenho_Medio": 2000.0,
-    "podio_primeiro": 13,
-    "podio_segundo": 6,
-    "podio_terceiro": 5,
-    "Rating_Medio": 2014.0,
-    "Pontos_por_Torneio": 14.0,
-    "Maior_Pontuacao": 27,
-    "Menor_Ranking": 1,
-    "Participacoes": 38,
-    "Posicao": 14,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Movimento": 0.0,
+    "Movimento_Texto": "—"
   },
   {
     "Nick": "P3rsa",
-    "Pontos": 534,
-    "Desempenho_Medio": 1926.0,
-    "podio_primeiro": 4,
-    "podio_segundo": 8,
+    "Pontos": 584,
+    "Desempenho_Medio": 1935.0,
+    "podio_primeiro": 5,
+    "podio_segundo": 9,
     "podio_terceiro": 9,
     "Rating_Medio": 2001.0,
     "Pontos_por_Torneio": 10.0,
     "Maior_Pontuacao": 28,
     "Menor_Ranking": 1,
-    "Participacoes": 53,
+    "Participacoes": 58,
+    "Posicao": 14,
+    "Movimento": 1.0,
+    "Movimento_Texto": "↑ 1"
+  },
+  {
+    "Nick": "Stormy-ChessWorld",
+    "Pontos": 557,
+    "Desempenho_Medio": 1997.0,
+    "podio_primeiro": 13,
+    "podio_segundo": 6,
+    "podio_terceiro": 5,
+    "Rating_Medio": 2011.0,
+    "Pontos_por_Torneio": 14.0,
+    "Maior_Pontuacao": 27,
+    "Menor_Ranking": 1,
+    "Participacoes": 40,
     "Posicao": 15,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Movimento": -1.0,
+    "Movimento_Texto": "↓ 1"
   },
   {
     "Nick": "filhosdavelha",
-    "Pontos": 457,
-    "Desempenho_Medio": 2039.0,
-    "podio_primeiro": 4,
-    "podio_segundo": 6,
-    "podio_terceiro": 4,
-    "Rating_Medio": 2000.0,
-    "Pontos_por_Torneio": 6.0,
+    "Pontos": 554,
+    "Desempenho_Medio": 2054.0,
+    "podio_primeiro": 6,
+    "podio_segundo": 7,
+    "podio_terceiro": 6,
+    "Rating_Medio": 2001.0,
+    "Pontos_por_Torneio": 7.0,
     "Maior_Pontuacao": 24,
     "Menor_Ranking": 1,
-    "Participacoes": 73,
+    "Participacoes": 82,
     "Posicao": 16,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Movimento": 0.0,
+    "Movimento_Texto": "—"
   },
   {
     "Nick": "liki",
-    "Pontos": 449,
-    "Desempenho_Medio": 1596.0,
+    "Pontos": 497,
+    "Desempenho_Medio": 1599.0,
     "podio_primeiro": 2,
     "podio_segundo": 1,
-    "podio_terceiro": 7,
+    "podio_terceiro": 8,
     "Rating_Medio": 1689.0,
     "Pontos_por_Torneio": 4.0,
     "Maior_Pontuacao": 19,
     "Menor_Ranking": 1,
-    "Participacoes": 122,
+    "Participacoes": 133,
     "Posicao": 17,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "douglas27",
-    "Pontos": 421,
-    "Desempenho_Medio": 1830.0,
-    "podio_primeiro": 2,
-    "podio_segundo": 1,
-    "podio_terceiro": 5,
-    "Rating_Medio": 1869.0,
-    "Pontos_por_Torneio": 6.0,
-    "Maior_Pontuacao": 16,
-    "Menor_Ranking": 1,
-    "Participacoes": 72,
-    "Posicao": 18,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "Entrenador3talentos",
-    "Pontos": 415,
-    "Desempenho_Medio": 2180.0,
-    "podio_primeiro": 9,
-    "podio_segundo": 5,
-    "podio_terceiro": 4,
-    "Rating_Medio": 2157.0,
-    "Pontos_por_Torneio": 11.0,
-    "Maior_Pontuacao": 29,
-    "Menor_Ranking": 1,
-    "Participacoes": 39,
-    "Posicao": 19,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Movimento": 0.0,
+    "Movimento_Texto": "—"
   },
   {
     "Nick": "schettert",
-    "Pontos": 401,
-    "Desempenho_Medio": 1846.0,
-    "podio_primeiro": 5,
+    "Pontos": 470,
+    "Desempenho_Medio": 1857.0,
+    "podio_primeiro": 7,
     "podio_segundo": 5,
     "podio_terceiro": 4,
-    "Rating_Medio": 1901.0,
-    "Pontos_por_Torneio": 6.0,
-    "Maior_Pontuacao": 20,
+    "Rating_Medio": 1904.0,
+    "Pontos_por_Torneio": 7.0,
+    "Maior_Pontuacao": 24,
     "Menor_Ranking": 1,
-    "Participacoes": 62,
-    "Posicao": 20,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Participacoes": 70,
+    "Posicao": 18,
+    "Movimento": 2.0,
+    "Movimento_Texto": "↑ 2"
+  },
+  {
+    "Nick": "douglas27",
+    "Pontos": 441,
+    "Desempenho_Medio": 1822.0,
+    "podio_primeiro": 2,
+    "podio_segundo": 1,
+    "podio_terceiro": 5,
+    "Rating_Medio": 1868.0,
+    "Pontos_por_Torneio": 6.0,
+    "Maior_Pontuacao": 16,
+    "Menor_Ranking": 1,
+    "Participacoes": 79,
+    "Posicao": 19,
+    "Movimento": -1.0,
+    "Movimento_Texto": "↓ 1"
   },
   {
     "Nick": "Phernando39",
-    "Pontos": 392,
-    "Desempenho_Medio": 1790.0,
+    "Pontos": 430,
+    "Desempenho_Medio": 1796.0,
     "podio_primeiro": 1,
     "podio_segundo": 0,
     "podio_terceiro": 2,
-    "Rating_Medio": 1807.0,
+    "Rating_Medio": 1808.0,
     "Pontos_por_Torneio": 4.0,
     "Maior_Pontuacao": 16,
     "Menor_Ranking": 1,
-    "Participacoes": 106,
+    "Participacoes": 118,
+    "Posicao": 20,
+    "Movimento": 1.0,
+    "Movimento_Texto": "↑ 1"
+  },
+  {
+    "Nick": "Entrenador3talentos",
+    "Pontos": 425,
+    "Desempenho_Medio": 2185.0,
+    "podio_primeiro": 9,
+    "podio_segundo": 6,
+    "podio_terceiro": 4,
+    "Rating_Medio": 2156.0,
+    "Pontos_por_Torneio": 11.0,
+    "Maior_Pontuacao": 29,
+    "Menor_Ranking": 1,
+    "Participacoes": 40,
     "Posicao": 21,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "OXXENTE",
-    "Pontos": 342,
-    "Desempenho_Medio": 2029.0,
+    "Pontos": 339,
+    "Desempenho_Medio": 2028.0,
     "podio_primeiro": 3,
     "podio_segundo": 3,
     "podio_terceiro": 4,
-    "Rating_Medio": 1979.0,
+    "Rating_Medio": 1980.0,
     "Pontos_por_Torneio": 6.0,
     "Maior_Pontuacao": 20,
     "Menor_Ranking": 1,
     "Participacoes": 60,
     "Posicao": 22,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Movimento": 0.0,
+    "Movimento_Texto": "—"
   },
   {
     "Nick": "Canal_Chessveja",
-    "Pontos": 325,
-    "Desempenho_Medio": 2071.0,
+    "Pontos": 334,
+    "Desempenho_Medio": 2064.0,
     "podio_primeiro": 4,
     "podio_segundo": 5,
-    "podio_terceiro": 3,
-    "Rating_Medio": 2027.0,
+    "podio_terceiro": 4,
+    "Rating_Medio": 2026.0,
     "Pontos_por_Torneio": 10.0,
     "Maior_Pontuacao": 24,
     "Menor_Ranking": 1,
-    "Participacoes": 33,
+    "Participacoes": 34,
     "Posicao": 23,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Movimento": 0.0,
+    "Movimento_Texto": "—"
+  },
+  {
+    "Nick": "Braziljr1",
+    "Pontos": 328,
+    "Desempenho_Medio": 1850.0,
+    "podio_primeiro": 3,
+    "podio_segundo": 2,
+    "podio_terceiro": 4,
+    "Rating_Medio": 1912.0,
+    "Pontos_por_Torneio": 9.0,
+    "Maior_Pontuacao": 27,
+    "Menor_Ranking": 1,
+    "Participacoes": 35,
+    "Posicao": 24,
+    "Movimento": 7.0,
+    "Movimento_Texto": "↑ 7"
+  },
+  {
+    "Nick": "Dan2016",
+    "Pontos": 307,
+    "Desempenho_Medio": 1609.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 2,
+    "Rating_Medio": 1577.0,
+    "Pontos_por_Torneio": 4.0,
+    "Maior_Pontuacao": 13,
+    "Menor_Ranking": 3,
+    "Participacoes": 83,
+    "Posicao": 25,
+    "Movimento": 3.0,
+    "Movimento_Texto": "↑ 3"
   },
   {
     "Nick": "wandoitz",
-    "Pontos": 295,
-    "Desempenho_Medio": 1747.0,
+    "Pontos": 304,
+    "Desempenho_Medio": 1744.0,
     "podio_primeiro": 1,
     "podio_segundo": 3,
     "podio_terceiro": 3,
-    "Rating_Medio": 1820.0,
+    "Rating_Medio": 1819.0,
     "Pontos_por_Torneio": 5.0,
     "Maior_Pontuacao": 23,
     "Menor_Ranking": 1,
-    "Participacoes": 56,
-    "Posicao": 24,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Participacoes": 58,
+    "Posicao": 26,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
+  },
+  {
+    "Nick": "Bali16",
+    "Pontos": 301,
+    "Desempenho_Medio": 1868.0,
+    "podio_primeiro": 6,
+    "podio_segundo": 2,
+    "podio_terceiro": 3,
+    "Rating_Medio": 1964.0,
+    "Pontos_por_Torneio": 8.0,
+    "Maior_Pontuacao": 28,
+    "Menor_Ranking": 1,
+    "Participacoes": 37,
+    "Posicao": 27,
+    "Movimento": 2.0,
+    "Movimento_Texto": "↑ 2"
   },
   {
     "Nick": "Joao_Moreira52",
@@ -395,9 +443,9 @@
     "Maior_Pontuacao": 24,
     "Menor_Ranking": 1,
     "Participacoes": 36,
-    "Posicao": 25,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 28,
+    "Movimento": -3.0,
+    "Movimento_Texto": "↓ 3"
   },
   {
     "Nick": "Tonystar111",
@@ -411,125 +459,93 @@
     "Maior_Pontuacao": 44,
     "Menor_Ranking": 1,
     "Participacoes": 17,
-    "Posicao": 26,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 29,
+    "Movimento": -3.0,
+    "Movimento_Texto": "↓ 3"
   },
   {
     "Nick": "Deepsky1",
-    "Pontos": 270,
-    "Desempenho_Medio": 2018.0,
+    "Pontos": 282,
+    "Desempenho_Medio": 2025.0,
     "podio_primeiro": 4,
     "podio_segundo": 1,
     "podio_terceiro": 5,
-    "Rating_Medio": 1973.0,
+    "Rating_Medio": 1972.0,
     "Pontos_por_Torneio": 9.0,
     "Maior_Pontuacao": 20,
     "Menor_Ranking": 1,
-    "Participacoes": 31,
-    "Posicao": 27,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "Dan2016",
-    "Pontos": 269,
-    "Desempenho_Medio": 1624.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 2,
-    "Rating_Medio": 1585.0,
-    "Pontos_por_Torneio": 4.0,
-    "Maior_Pontuacao": 13,
-    "Menor_Ranking": 3,
-    "Participacoes": 69,
-    "Posicao": 28,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "Bali16",
-    "Pontos": 264,
-    "Desempenho_Medio": 1864.0,
-    "podio_primeiro": 6,
-    "podio_segundo": 1,
-    "podio_terceiro": 2,
-    "Rating_Medio": 1963.0,
-    "Pontos_por_Torneio": 8.0,
-    "Maior_Pontuacao": 28,
-    "Menor_Ranking": 1,
-    "Participacoes": 34,
-    "Posicao": 29,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Participacoes": 33,
+    "Posicao": 30,
+    "Movimento": -3.0,
+    "Movimento_Texto": "↓ 3"
   },
   {
     "Nick": "Balzabouth",
-    "Pontos": 263,
+    "Pontos": 280,
     "Desempenho_Medio": 1844.0,
     "podio_primeiro": 2,
     "podio_segundo": 1,
     "podio_terceiro": 2,
-    "Rating_Medio": 1827.0,
+    "Rating_Medio": 1831.0,
     "Pontos_por_Torneio": 5.0,
     "Maior_Pontuacao": 25,
     "Menor_Ranking": 1,
-    "Participacoes": 53,
-    "Posicao": 30,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "Braziljr1",
-    "Pontos": 263,
-    "Desempenho_Medio": 1828.0,
-    "podio_primeiro": 3,
-    "podio_segundo": 1,
-    "podio_terceiro": 2,
-    "Rating_Medio": 1903.0,
-    "Pontos_por_Torneio": 9.0,
-    "Maior_Pontuacao": 27,
-    "Menor_Ranking": 1,
-    "Participacoes": 29,
+    "Participacoes": 55,
     "Posicao": 31,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Movimento": -1.0,
+    "Movimento_Texto": "↓ 1"
   },
   {
     "Nick": "birigicatabamba",
-    "Pontos": 256,
-    "Desempenho_Medio": 1871.0,
+    "Pontos": 278,
+    "Desempenho_Medio": 1886.0,
     "podio_primeiro": 1,
     "podio_segundo": 3,
-    "podio_terceiro": 1,
-    "Rating_Medio": 2001.0,
+    "podio_terceiro": 2,
+    "Rating_Medio": 2002.0,
     "Pontos_por_Torneio": 4.0,
     "Maior_Pontuacao": 24,
     "Menor_Ranking": 1,
-    "Participacoes": 58,
+    "Participacoes": 62,
     "Posicao": 32,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Movimento": 0.0,
+    "Movimento_Texto": "—"
   },
   {
     "Nick": "aprendizscuto",
-    "Pontos": 246,
-    "Desempenho_Medio": 1574.0,
+    "Pontos": 258,
+    "Desempenho_Medio": 1563.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1623.0,
+    "Rating_Medio": 1624.0,
     "Pontos_por_Torneio": 2.0,
     "Maior_Pontuacao": 12,
     "Menor_Ranking": 4,
-    "Participacoes": 121,
+    "Participacoes": 128,
     "Posicao": 33,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Movimento": 0.0,
+    "Movimento_Texto": "—"
+  },
+  {
+    "Nick": "EdsonFaustino",
+    "Pontos": 257,
+    "Desempenho_Medio": 1807.0,
+    "podio_primeiro": 2,
+    "podio_segundo": 2,
+    "podio_terceiro": 4,
+    "Rating_Medio": 1913.0,
+    "Pontos_por_Torneio": 3.0,
+    "Maior_Pontuacao": 17,
+    "Menor_Ranking": 1,
+    "Participacoes": 81,
+    "Posicao": 34,
+    "Movimento": 1.0,
+    "Movimento_Texto": "↑ 1"
   },
   {
     "Nick": "monstercofee",
-    "Pontos": 243,
+    "Pontos": 255,
     "Desempenho_Medio": 1755.0,
     "podio_primeiro": 1,
     "podio_segundo": 0,
@@ -538,31 +554,63 @@
     "Pontos_por_Torneio": 6.0,
     "Maior_Pontuacao": 20,
     "Menor_Ranking": 1,
-    "Participacoes": 39,
-    "Posicao": 34,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Participacoes": 41,
+    "Posicao": 35,
+    "Movimento": -1.0,
+    "Movimento_Texto": "↓ 1"
   },
   {
-    "Nick": "EdsonFaustino",
-    "Pontos": 241,
-    "Desempenho_Medio": 1811.0,
-    "podio_primeiro": 2,
-    "podio_segundo": 2,
-    "podio_terceiro": 3,
-    "Rating_Medio": 1912.0,
-    "Pontos_por_Torneio": 3.0,
-    "Maior_Pontuacao": 17,
+    "Nick": "windsonmama25",
+    "Pontos": 251,
+    "Desempenho_Medio": 2101.0,
+    "podio_primeiro": 5,
+    "podio_segundo": 3,
+    "podio_terceiro": 4,
+    "Rating_Medio": 1994.0,
+    "Pontos_por_Torneio": 11.0,
+    "Maior_Pontuacao": 22,
     "Menor_Ranking": 1,
-    "Participacoes": 75,
-    "Posicao": 35,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Participacoes": 23,
+    "Posicao": 36,
+    "Movimento": 5.0,
+    "Movimento_Texto": "↑ 5"
+  },
+  {
+    "Nick": "tablasnomasbusco",
+    "Pontos": 238,
+    "Desempenho_Medio": 1933.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 3,
+    "podio_terceiro": 1,
+    "Rating_Medio": 1907.0,
+    "Pontos_por_Torneio": 4.0,
+    "Maior_Pontuacao": 14,
+    "Menor_Ranking": 2,
+    "Participacoes": 53,
+    "Posicao": 37,
+    "Movimento": 0.0,
+    "Movimento_Texto": "—"
+  },
+  {
+    "Nick": "Ceara_mn",
+    "Pontos": 237,
+    "Desempenho_Medio": 1972.0,
+    "podio_primeiro": 5,
+    "podio_segundo": 1,
+    "podio_terceiro": 3,
+    "Rating_Medio": 2130.0,
+    "Pontos_por_Torneio": 9.0,
+    "Maior_Pontuacao": 29,
+    "Menor_Ranking": 1,
+    "Participacoes": 27,
+    "Posicao": 38,
+    "Movimento": 8.0,
+    "Movimento_Texto": "↑ 8"
   },
   {
     "Nick": "capapreta999",
-    "Pontos": 227,
-    "Desempenho_Medio": 1996.0,
+    "Pontos": 235,
+    "Desempenho_Medio": 1987.0,
     "podio_primeiro": 2,
     "podio_segundo": 2,
     "podio_terceiro": 3,
@@ -570,42 +618,74 @@
     "Pontos_por_Torneio": 8.0,
     "Maior_Pontuacao": 20,
     "Menor_Ranking": 1,
-    "Participacoes": 28,
-    "Posicao": 36,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Participacoes": 29,
+    "Posicao": 39,
+    "Movimento": -3.0,
+    "Movimento_Texto": "↓ 3"
   },
   {
-    "Nick": "tablasnomasbusco",
+    "Nick": "Ricardo_75",
     "Pontos": 218,
     "Desempenho_Medio": 1917.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 3,
+    "podio_primeiro": 1,
+    "podio_segundo": 2,
     "podio_terceiro": 1,
-    "Rating_Medio": 1909.0,
-    "Pontos_por_Torneio": 4.0,
-    "Maior_Pontuacao": 14,
-    "Menor_Ranking": 2,
-    "Participacoes": 51,
-    "Posicao": 37,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Rating_Medio": 1871.0,
+    "Pontos_por_Torneio": 6.0,
+    "Maior_Pontuacao": 19,
+    "Menor_Ranking": 1,
+    "Participacoes": 37,
+    "Posicao": 40,
+    "Movimento": 3.0,
+    "Movimento_Texto": "↑ 3"
   },
   {
-    "Nick": "Farofa_de_Bacon",
-    "Pontos": 208,
-    "Desempenho_Medio": 2143.0,
-    "podio_primeiro": 5,
-    "podio_segundo": 2,
-    "podio_terceiro": 2,
-    "Rating_Medio": 2006.0,
-    "Pontos_por_Torneio": 11.0,
-    "Maior_Pontuacao": 22,
+    "Nick": "Jeronimo81",
+    "Pontos": 217,
+    "Desempenho_Medio": 1776.0,
+    "podio_primeiro": 1,
+    "podio_segundo": 3,
+    "podio_terceiro": 1,
+    "Rating_Medio": 1870.0,
+    "Pontos_por_Torneio": 8.0,
+    "Maior_Pontuacao": 25,
     "Menor_Ranking": 1,
-    "Participacoes": 19,
-    "Posicao": 38,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Participacoes": 27,
+    "Posicao": 41,
+    "Movimento": -1.0,
+    "Movimento_Texto": "↓ 1"
+  },
+  {
+    "Nick": "Vitor_Hugo_moreira",
+    "Pontos": 213,
+    "Desempenho_Medio": 1798.0,
+    "podio_primeiro": 1,
+    "podio_segundo": 0,
+    "podio_terceiro": 3,
+    "Rating_Medio": 1784.0,
+    "Pontos_por_Torneio": 6.0,
+    "Maior_Pontuacao": 18,
+    "Menor_Ranking": 1,
+    "Participacoes": 37,
+    "Posicao": 42,
+    "Movimento": 8.0,
+    "Movimento_Texto": "↑ 8"
+  },
+  {
+    "Nick": "EduVasco",
+    "Pontos": 211,
+    "Desempenho_Medio": 1986.0,
+    "podio_primeiro": 1,
+    "podio_segundo": 3,
+    "podio_terceiro": 2,
+    "Rating_Medio": 1901.0,
+    "Pontos_por_Torneio": 7.0,
+    "Maior_Pontuacao": 20,
+    "Menor_Ranking": 1,
+    "Participacoes": 32,
+    "Posicao": 43,
+    "Movimento": -1.0,
+    "Movimento_Texto": "↓ 1"
   },
   {
     "Nick": "GESSE_GZN",
@@ -619,153 +699,121 @@
     "Maior_Pontuacao": 26,
     "Menor_Ranking": 1,
     "Participacoes": 15,
-    "Posicao": 39,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "Jeronimo81",
-    "Pontos": 208,
-    "Desempenho_Medio": 1770.0,
-    "podio_primeiro": 1,
-    "podio_segundo": 3,
-    "podio_terceiro": 1,
-    "Rating_Medio": 1870.0,
-    "Pontos_por_Torneio": 8.0,
-    "Maior_Pontuacao": 25,
-    "Menor_Ranking": 1,
-    "Participacoes": 26,
-    "Posicao": 40,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "windsonmama25",
-    "Pontos": 203,
-    "Desempenho_Medio": 2088.0,
-    "podio_primeiro": 3,
-    "podio_segundo": 3,
-    "podio_terceiro": 4,
-    "Rating_Medio": 1987.0,
-    "Pontos_por_Torneio": 10.0,
-    "Maior_Pontuacao": 20,
-    "Menor_Ranking": 1,
-    "Participacoes": 20,
-    "Posicao": 41,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "EduVasco",
-    "Pontos": 194,
-    "Desempenho_Medio": 1996.0,
-    "podio_primeiro": 1,
-    "podio_segundo": 3,
-    "podio_terceiro": 2,
-    "Rating_Medio": 1900.0,
-    "Pontos_por_Torneio": 7.0,
-    "Maior_Pontuacao": 20,
-    "Menor_Ranking": 1,
-    "Participacoes": 28,
-    "Posicao": 42,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "Ricardo_75",
-    "Pontos": 191,
-    "Desempenho_Medio": 1929.0,
-    "podio_primeiro": 1,
-    "podio_segundo": 2,
-    "podio_terceiro": 1,
-    "Rating_Medio": 1876.0,
-    "Pontos_por_Torneio": 6.0,
-    "Maior_Pontuacao": 19,
-    "Menor_Ranking": 1,
-    "Participacoes": 32,
-    "Posicao": 43,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 44,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
   },
   {
     "Nick": "Marquinhosantonio",
-    "Pontos": 191,
-    "Desempenho_Medio": 1848.0,
+    "Pontos": 207,
+    "Desempenho_Medio": 1852.0,
     "podio_primeiro": 4,
-    "podio_segundo": 1,
+    "podio_segundo": 2,
     "podio_terceiro": 0,
-    "Rating_Medio": 1960.0,
+    "Rating_Medio": 1961.0,
     "Pontos_por_Torneio": 7.0,
     "Maior_Pontuacao": 22,
     "Menor_Ranking": 1,
-    "Participacoes": 28,
-    "Posicao": 44,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "adrianojosepereira3",
-    "Pontos": 182,
-    "Desempenho_Medio": 1946.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 3,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1941.0,
-    "Pontos_por_Torneio": 10.0,
-    "Maior_Pontuacao": 20,
-    "Menor_Ranking": 2,
-    "Participacoes": 19,
+    "Participacoes": 29,
     "Posicao": 45,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Movimento": -1.0,
+    "Movimento_Texto": "↓ 1"
   },
   {
-    "Nick": "Ceara_mn",
-    "Pontos": 181,
-    "Desempenho_Medio": 1955.0,
-    "podio_primeiro": 4,
-    "podio_segundo": 1,
-    "podio_terceiro": 1,
-    "Rating_Medio": 2144.0,
-    "Pontos_por_Torneio": 10.0,
-    "Maior_Pontuacao": 29,
-    "Menor_Ranking": 1,
-    "Participacoes": 19,
-    "Posicao": 46,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "imnotcarlsen",
-    "Pontos": 171,
-    "Desempenho_Medio": 2267.0,
+    "Nick": "Farofa_de_Bacon",
+    "Pontos": 191,
+    "Desempenho_Medio": 2142.0,
     "podio_primeiro": 4,
     "podio_segundo": 2,
     "podio_terceiro": 2,
-    "Rating_Medio": 2177.0,
-    "Pontos_por_Torneio": 17.0,
-    "Maior_Pontuacao": 23,
+    "Rating_Medio": 2014.0,
+    "Pontos_por_Torneio": 11.0,
+    "Maior_Pontuacao": 22,
     "Menor_Ranking": 1,
-    "Participacoes": 10,
+    "Participacoes": 17,
+    "Posicao": 46,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
+  },
+  {
+    "Nick": "adrianojosepereira3",
+    "Pontos": 190,
+    "Desempenho_Medio": 1926.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 3,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1937.0,
+    "Pontos_por_Torneio": 9.0,
+    "Maior_Pontuacao": 20,
+    "Menor_Ranking": 2,
+    "Participacoes": 22,
     "Posicao": 47,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "Charllos",
-    "Pontos": 166,
-    "Desempenho_Medio": 1629.0,
+    "Pontos": 173,
+    "Desempenho_Medio": 1606.0,
     "podio_primeiro": 1,
     "podio_segundo": 2,
     "podio_terceiro": 3,
-    "Rating_Medio": 1795.0,
+    "Rating_Medio": 1796.0,
     "Pontos_por_Torneio": 4.0,
     "Maior_Pontuacao": 20,
     "Menor_Ranking": 1,
-    "Participacoes": 44,
+    "Participacoes": 49,
     "Posicao": 48,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Movimento": 0.0,
+    "Movimento_Texto": "—"
+  },
+  {
+    "Nick": "carlosmaia",
+    "Pontos": 166,
+    "Desempenho_Medio": 1967.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 2,
+    "podio_terceiro": 2,
+    "Rating_Medio": 1958.0,
+    "Pontos_por_Torneio": 6.0,
+    "Maior_Pontuacao": 15,
+    "Menor_Ranking": 2,
+    "Participacoes": 27,
+    "Posicao": 49,
+    "Movimento": 2.0,
+    "Movimento_Texto": "↑ 2"
+  },
+  {
+    "Nick": "imnotcarlsen",
+    "Pontos": 164,
+    "Desempenho_Medio": 2226.0,
+    "podio_primeiro": 3,
+    "podio_segundo": 2,
+    "podio_terceiro": 3,
+    "Rating_Medio": 2165.0,
+    "Pontos_por_Torneio": 15.0,
+    "Maior_Pontuacao": 23,
+    "Menor_Ranking": 1,
+    "Participacoes": 11,
+    "Posicao": 50,
+    "Movimento": -3.0,
+    "Movimento_Texto": "↓ 3"
+  },
+  {
+    "Nick": "joseRkasparov",
+    "Pontos": 164,
+    "Desempenho_Medio": 1977.0,
+    "podio_primeiro": 1,
+    "podio_segundo": 2,
+    "podio_terceiro": 2,
+    "Rating_Medio": 1957.0,
+    "Pontos_por_Torneio": 10.0,
+    "Maior_Pontuacao": 20,
+    "Menor_Ranking": 1,
+    "Participacoes": 17,
+    "Posicao": 51,
+    "Movimento": 1.0,
+    "Movimento_Texto": "↑ 1"
   },
   {
     "Nick": "reidapatolandia",
@@ -779,57 +827,41 @@
     "Maior_Pontuacao": 24,
     "Menor_Ranking": 1,
     "Participacoes": 11,
-    "Posicao": 49,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "Vitor_Hugo_moreira",
-    "Pontos": 159,
-    "Desempenho_Medio": 1832.0,
-    "podio_primeiro": 1,
-    "podio_segundo": 0,
-    "podio_terceiro": 3,
-    "Rating_Medio": 1786.0,
-    "Pontos_por_Torneio": 6.0,
-    "Maior_Pontuacao": 18,
-    "Menor_Ranking": 1,
-    "Participacoes": 26,
-    "Posicao": 50,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "carlosmaia",
-    "Pontos": 157,
-    "Desempenho_Medio": 1950.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 2,
-    "podio_terceiro": 2,
-    "Rating_Medio": 1958.0,
-    "Pontos_por_Torneio": 6.0,
-    "Maior_Pontuacao": 15,
-    "Menor_Ranking": 2,
-    "Participacoes": 27,
-    "Posicao": 51,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "joseRkasparov",
-    "Pontos": 144,
-    "Desempenho_Medio": 1972.0,
-    "podio_primeiro": 1,
-    "podio_segundo": 1,
-    "podio_terceiro": 2,
-    "Rating_Medio": 1954.0,
-    "Pontos_por_Torneio": 10.0,
-    "Maior_Pontuacao": 20,
-    "Menor_Ranking": 1,
-    "Participacoes": 15,
     "Posicao": 52,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Movimento": -3.0,
+    "Movimento_Texto": "↓ 3"
+  },
+  {
+    "Nick": "Ambroagem",
+    "Pontos": 149,
+    "Desempenho_Medio": 1790.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 1,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1724.0,
+    "Pontos_por_Torneio": 4.0,
+    "Maior_Pontuacao": 12,
+    "Menor_Ranking": 2,
+    "Participacoes": 34,
+    "Posicao": 53,
+    "Movimento": 1.0,
+    "Movimento_Texto": "↑ 1"
+  },
+  {
+    "Nick": "ProfessorCHESSVEJA",
+    "Pontos": 148,
+    "Desempenho_Medio": 2035.0,
+    "podio_primeiro": 2,
+    "podio_segundo": 2,
+    "podio_terceiro": 3,
+    "Rating_Medio": 2006.0,
+    "Pontos_por_Torneio": 12.0,
+    "Maior_Pontuacao": 31,
+    "Menor_Ranking": 1,
+    "Participacoes": 12,
+    "Posicao": 54,
+    "Movimento": 6.0,
+    "Movimento_Texto": "↑ 6"
   },
   {
     "Nick": "rodbon",
@@ -843,57 +875,57 @@
     "Maior_Pontuacao": 16,
     "Menor_Ranking": 2,
     "Participacoes": 18,
-    "Posicao": 53,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "Ambroagem",
-    "Pontos": 141,
-    "Desempenho_Medio": 1782.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 1,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1726.0,
-    "Pontos_por_Torneio": 5.0,
-    "Maior_Pontuacao": 12,
-    "Menor_Ranking": 2,
-    "Participacoes": 31,
-    "Posicao": 54,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 55,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "Alexandre_Santos_007",
-    "Pontos": 135,
-    "Desempenho_Medio": 1703.0,
+    "Pontos": 139,
+    "Desempenho_Medio": 1701.0,
     "podio_primeiro": 0,
     "podio_segundo": 1,
     "podio_terceiro": 2,
-    "Rating_Medio": 1815.0,
-    "Pontos_por_Torneio": 5.0,
+    "Rating_Medio": 1817.0,
+    "Pontos_por_Torneio": 4.0,
     "Maior_Pontuacao": 13,
     "Menor_Ranking": 2,
-    "Participacoes": 29,
-    "Posicao": 55,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Participacoes": 31,
+    "Posicao": 56,
+    "Movimento": -1.0,
+    "Movimento_Texto": "↓ 1"
   },
   {
-    "Nick": "Fabio-castaneda",
-    "Pontos": 133,
-    "Desempenho_Medio": 2057.0,
+    "Nick": "W_09",
+    "Pontos": 129,
+    "Desempenho_Medio": 1839.0,
     "podio_primeiro": 0,
-    "podio_segundo": 3,
-    "podio_terceiro": 2,
-    "Rating_Medio": 2112.0,
-    "Pontos_por_Torneio": 7.0,
-    "Maior_Pontuacao": 16,
+    "podio_segundo": 1,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1837.0,
+    "Pontos_por_Torneio": 4.0,
+    "Maior_Pontuacao": 12,
     "Menor_Ranking": 2,
-    "Participacoes": 20,
-    "Posicao": 56,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Participacoes": 32,
+    "Posicao": 57,
+    "Movimento": 11.0,
+    "Movimento_Texto": "↑ 11"
+  },
+  {
+    "Nick": "Causas1",
+    "Pontos": 129,
+    "Desempenho_Medio": 1682.0,
+    "podio_primeiro": 1,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1828.0,
+    "Pontos_por_Torneio": 2.0,
+    "Maior_Pontuacao": 20,
+    "Menor_Ranking": 1,
+    "Participacoes": 68,
+    "Posicao": 58,
+    "Movimento": 1.0,
+    "Movimento_Texto": "↑ 1"
   },
   {
     "Nick": "BonoraChess",
@@ -907,14 +939,14 @@
     "Maior_Pontuacao": 20,
     "Menor_Ranking": 1,
     "Participacoes": 17,
-    "Posicao": 57,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 59,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "fraquinhoprachuchu",
-    "Pontos": 122,
-    "Desempenho_Medio": 1940.0,
+    "Pontos": 124,
+    "Desempenho_Medio": 1910.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
@@ -922,42 +954,42 @@
     "Pontos_por_Torneio": 2.0,
     "Maior_Pontuacao": 5,
     "Menor_Ranking": 6,
-    "Participacoes": 75,
-    "Posicao": 58,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "Causas1",
-    "Pontos": 119,
-    "Desempenho_Medio": 1678.0,
-    "podio_primeiro": 1,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1829.0,
-    "Pontos_por_Torneio": 2.0,
-    "Maior_Pontuacao": 20,
-    "Menor_Ranking": 1,
-    "Participacoes": 65,
-    "Posicao": 59,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "ProfessorCHESSVEJA",
-    "Pontos": 117,
-    "Desempenho_Medio": 2012.0,
-    "podio_primeiro": 1,
-    "podio_segundo": 2,
-    "podio_terceiro": 3,
-    "Rating_Medio": 2002.0,
-    "Pontos_por_Torneio": 11.0,
-    "Maior_Pontuacao": 18,
-    "Menor_Ranking": 1,
-    "Participacoes": 11,
+    "Participacoes": 79,
     "Posicao": 60,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
+  },
+  {
+    "Nick": "Fabio-castaneda",
+    "Pontos": 117,
+    "Desempenho_Medio": 2045.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 2,
+    "podio_terceiro": 2,
+    "Rating_Medio": 2113.0,
+    "Pontos_por_Torneio": 6.0,
+    "Maior_Pontuacao": 12,
+    "Menor_Ranking": 2,
+    "Participacoes": 19,
+    "Posicao": 61,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
+  },
+  {
+    "Nick": "OmiCapivara",
+    "Pontos": 116,
+    "Desempenho_Medio": 2069.0,
+    "podio_primeiro": 3,
+    "podio_segundo": 2,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1999.0,
+    "Pontos_por_Torneio": 19.0,
+    "Maior_Pontuacao": 31,
+    "Menor_Ranking": 1,
+    "Participacoes": 6,
+    "Posicao": 62,
+    "Movimento": 10.0,
+    "Movimento_Texto": "↑ 10"
   },
   {
     "Nick": "HALion_222",
@@ -971,9 +1003,25 @@
     "Maior_Pontuacao": 17,
     "Menor_Ranking": 1,
     "Participacoes": 14,
-    "Posicao": 61,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 63,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
+  },
+  {
+    "Nick": "MoorSoldaten",
+    "Pontos": 111,
+    "Desempenho_Medio": 2321.0,
+    "podio_primeiro": 2,
+    "podio_segundo": 0,
+    "podio_terceiro": 1,
+    "Rating_Medio": 2350.0,
+    "Pontos_por_Torneio": 5.0,
+    "Maior_Pontuacao": 23,
+    "Menor_Ranking": 1,
+    "Participacoes": 22,
+    "Posicao": 64,
+    "Movimento": 1.0,
+    "Movimento_Texto": "↑ 1"
   },
   {
     "Nick": "MorphyAgain",
@@ -987,9 +1035,25 @@
     "Maior_Pontuacao": 13,
     "Menor_Ranking": 1,
     "Participacoes": 27,
-    "Posicao": 62,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 65,
+    "Movimento": -3.0,
+    "Movimento_Texto": "↓ 3"
+  },
+  {
+    "Nick": "VultoSSA",
+    "Pontos": 110,
+    "Desempenho_Medio": 1761.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1821.0,
+    "Pontos_por_Torneio": 4.0,
+    "Maior_Pontuacao": 12,
+    "Menor_Ranking": 5,
+    "Participacoes": 27,
+    "Posicao": 66,
+    "Movimento": 0.0,
+    "Movimento_Texto": "—"
   },
   {
     "Nick": "StockNekinho",
@@ -1003,9 +1067,9 @@
     "Maior_Pontuacao": 27,
     "Menor_Ranking": 1,
     "Participacoes": 6,
-    "Posicao": 63,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 67,
+    "Movimento": -4.0,
+    "Movimento_Texto": "↓ 4"
   },
   {
     "Nick": "XadrezDinelly",
@@ -1019,89 +1083,57 @@
     "Maior_Pontuacao": 20,
     "Menor_Ranking": 1,
     "Participacoes": 18,
-    "Posicao": 64,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 68,
+    "Movimento": -4.0,
+    "Movimento_Texto": "↓ 4"
   },
   {
-    "Nick": "MoorSoldaten",
-    "Pontos": 107,
-    "Desempenho_Medio": 2320.0,
-    "podio_primeiro": 2,
-    "podio_segundo": 0,
-    "podio_terceiro": 1,
-    "Rating_Medio": 2352.0,
-    "Pontos_por_Torneio": 5.0,
-    "Maior_Pontuacao": 23,
-    "Menor_Ranking": 1,
-    "Participacoes": 21,
-    "Posicao": 65,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "VultoSSA",
-    "Pontos": 99,
-    "Desempenho_Medio": 1758.0,
-    "podio_primeiro": 0,
+    "Nick": "RicardoLLopes",
+    "Pontos": 106,
+    "Desempenho_Medio": 1704.0,
+    "podio_primeiro": 1,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1814.0,
+    "Rating_Medio": 1903.0,
     "Pontos_por_Torneio": 4.0,
-    "Maior_Pontuacao": 12,
-    "Menor_Ranking": 5,
-    "Participacoes": 24,
-    "Posicao": 66,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Maior_Pontuacao": 16,
+    "Menor_Ranking": 1,
+    "Participacoes": 29,
+    "Posicao": 69,
+    "Movimento": 2.0,
+    "Movimento_Texto": "↑ 2"
   },
   {
     "Nick": "ThiagoLiberato",
-    "Pontos": 97,
-    "Desempenho_Medio": 2068.0,
+    "Pontos": 99,
+    "Desempenho_Medio": 2101.0,
     "podio_primeiro": 1,
     "podio_segundo": 1,
     "podio_terceiro": 1,
-    "Rating_Medio": 1963.0,
-    "Pontos_por_Torneio": 12.0,
+    "Rating_Medio": 1953.0,
+    "Pontos_por_Torneio": 11.0,
     "Maior_Pontuacao": 21,
     "Menor_Ranking": 1,
-    "Participacoes": 8,
-    "Posicao": 67,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "W_09",
-    "Pontos": 96,
-    "Desempenho_Medio": 1821.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1839.0,
-    "Pontos_por_Torneio": 4.0,
-    "Maior_Pontuacao": 10,
-    "Menor_Ranking": 4,
-    "Participacoes": 27,
-    "Posicao": 68,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Participacoes": 9,
+    "Posicao": 70,
+    "Movimento": -3.0,
+    "Movimento_Texto": "↓ 3"
   },
   {
     "Nick": "carevchess",
-    "Pontos": 93,
-    "Desempenho_Medio": 1890.0,
+    "Pontos": 99,
+    "Desempenho_Medio": 1853.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1899.0,
-    "Pontos_por_Torneio": 8.0,
+    "Rating_Medio": 1886.0,
+    "Pontos_por_Torneio": 7.0,
     "Maior_Pontuacao": 12,
     "Menor_Ranking": 4,
-    "Participacoes": 12,
-    "Posicao": 69,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Participacoes": 14,
+    "Posicao": 71,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "Cassaco0800",
@@ -1115,57 +1147,89 @@
     "Maior_Pontuacao": 22,
     "Menor_Ranking": 1,
     "Participacoes": 11,
-    "Posicao": 70,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 72,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
-    "Nick": "RicardoLLopes",
+    "Nick": "Minino_Do_Mate25",
     "Pontos": 89,
-    "Desempenho_Medio": 1688.0,
-    "podio_primeiro": 1,
+    "Desempenho_Medio": 1598.0,
+    "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1905.0,
-    "Pontos_por_Torneio": 4.0,
-    "Maior_Pontuacao": 16,
-    "Menor_Ranking": 1,
-    "Participacoes": 25,
-    "Posicao": 71,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Rating_Medio": 1646.0,
+    "Pontos_por_Torneio": 2.0,
+    "Maior_Pontuacao": 10,
+    "Menor_Ranking": 6,
+    "Participacoes": 40,
+    "Posicao": 73,
+    "Movimento": 3.0,
+    "Movimento_Texto": "↑ 3"
   },
   {
-    "Nick": "OmiCapivara",
+    "Nick": "DiscipuloDoNekinho38",
     "Pontos": 85,
-    "Desempenho_Medio": 2046.0,
-    "podio_primeiro": 2,
-    "podio_segundo": 2,
+    "Desempenho_Medio": 1951.0,
+    "podio_primeiro": 3,
+    "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 2002.0,
+    "Rating_Medio": 2030.0,
     "Pontos_por_Torneio": 17.0,
-    "Maior_Pontuacao": 21,
+    "Maior_Pontuacao": 27,
     "Menor_Ranking": 1,
     "Participacoes": 5,
-    "Posicao": 72,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 74,
+    "Movimento": 10.0,
+    "Movimento_Texto": "↑ 10"
   },
   {
     "Nick": "Gabrimes13",
     "Pontos": 84,
-    "Desempenho_Medio": 1614.0,
+    "Desempenho_Medio": 1605.0,
     "podio_primeiro": 0,
     "podio_segundo": 2,
     "podio_terceiro": 0,
-    "Rating_Medio": 1695.0,
+    "Rating_Medio": 1693.0,
     "Pontos_por_Torneio": 3.0,
     "Maior_Pontuacao": 13,
     "Menor_Ranking": 2,
-    "Participacoes": 28,
-    "Posicao": 73,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Participacoes": 29,
+    "Posicao": 75,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
+  },
+  {
+    "Nick": "engenheirochess",
+    "Pontos": 80,
+    "Desempenho_Medio": 1618.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1756.0,
+    "Pontos_por_Torneio": 3.0,
+    "Maior_Pontuacao": 16,
+    "Menor_Ranking": 4,
+    "Participacoes": 24,
+    "Posicao": 76,
+    "Movimento": 9.0,
+    "Movimento_Texto": "↑ 9"
+  },
+  {
+    "Nick": "Luzardo1Braga2Ramos3",
+    "Pontos": 79,
+    "Desempenho_Medio": 1922.0,
+    "podio_primeiro": 1,
+    "podio_segundo": 2,
+    "podio_terceiro": 0,
+    "Rating_Medio": 2018.0,
+    "Pontos_por_Torneio": 10.0,
+    "Maior_Pontuacao": 21,
+    "Menor_Ranking": 1,
+    "Participacoes": 8,
+    "Posicao": 77,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "malonepracinha",
@@ -1179,41 +1243,25 @@
     "Maior_Pontuacao": 16,
     "Menor_Ranking": 1,
     "Participacoes": 11,
-    "Posicao": 74,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 78,
+    "Movimento": -4.0,
+    "Movimento_Texto": "↓ 4"
   },
   {
-    "Nick": "Luzardo1Braga2Ramos3",
+    "Nick": "moleti65",
     "Pontos": 78,
-    "Desempenho_Medio": 1890.0,
-    "podio_primeiro": 1,
-    "podio_segundo": 2,
-    "podio_terceiro": 0,
-    "Rating_Medio": 2025.0,
-    "Pontos_por_Torneio": 10.0,
-    "Maior_Pontuacao": 21,
-    "Menor_Ranking": 1,
-    "Participacoes": 8,
-    "Posicao": 75,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "Minino_Do_Mate25",
-    "Pontos": 77,
-    "Desempenho_Medio": 1592.0,
+    "Desempenho_Medio": 1629.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1649.0,
-    "Pontos_por_Torneio": 2.0,
-    "Maior_Pontuacao": 10,
-    "Menor_Ranking": 6,
-    "Participacoes": 34,
-    "Posicao": 76,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Rating_Medio": 1629.0,
+    "Pontos_por_Torneio": 6.0,
+    "Maior_Pontuacao": 12,
+    "Menor_Ranking": 4,
+    "Participacoes": 14,
+    "Posicao": 79,
+    "Movimento": 1.0,
+    "Movimento_Texto": "↑ 1"
   },
   {
     "Nick": "EspancadordeMoises",
@@ -1227,9 +1275,9 @@
     "Maior_Pontuacao": 16,
     "Menor_Ranking": 1,
     "Participacoes": 8,
-    "Posicao": 77,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 80,
+    "Movimento": -3.0,
+    "Movimento_Texto": "↓ 3"
   },
   {
     "Nick": "ST0RMY",
@@ -1243,9 +1291,9 @@
     "Maior_Pontuacao": 27,
     "Menor_Ranking": 1,
     "Participacoes": 4,
-    "Posicao": 78,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 81,
+    "Movimento": -3.0,
+    "Movimento_Texto": "↓ 3"
   },
   {
     "Nick": "KaueJr",
@@ -1259,25 +1307,41 @@
     "Maior_Pontuacao": 18,
     "Menor_Ranking": 2,
     "Participacoes": 16,
-    "Posicao": 79,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 82,
+    "Movimento": -3.0,
+    "Movimento_Texto": "↓ 3"
   },
   {
-    "Nick": "moleti65",
+    "Nick": "risoca",
     "Pontos": 70,
-    "Desempenho_Medio": 1640.0,
+    "Desempenho_Medio": 1736.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
+    "podio_terceiro": 1,
+    "Rating_Medio": 1893.0,
+    "Pontos_por_Torneio": 3.0,
+    "Maior_Pontuacao": 15,
+    "Menor_Ranking": 3,
+    "Participacoes": 25,
+    "Posicao": 83,
+    "Movimento": 3.0,
+    "Movimento_Texto": "↑ 3"
+  },
+  {
+    "Nick": "Botvinik1961",
+    "Pontos": 69,
+    "Desempenho_Medio": 1504.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 1,
     "podio_terceiro": 0,
-    "Rating_Medio": 1623.0,
-    "Pontos_por_Torneio": 6.0,
-    "Maior_Pontuacao": 12,
-    "Menor_Ranking": 4,
-    "Participacoes": 12,
-    "Posicao": 80,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Rating_Medio": 1669.0,
+    "Pontos_por_Torneio": 2.0,
+    "Maior_Pontuacao": 14,
+    "Menor_Ranking": 2,
+    "Participacoes": 39,
+    "Posicao": 84,
+    "Movimento": 17.0,
+    "Movimento_Texto": "↑ 17"
   },
   {
     "Nick": "gleidsoncbm",
@@ -1291,9 +1355,9 @@
     "Maior_Pontuacao": 12,
     "Menor_Ranking": 4,
     "Participacoes": 10,
-    "Posicao": 81,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 85,
+    "Movimento": -4.0,
+    "Movimento_Texto": "↓ 4"
   },
   {
     "Nick": "RicardovskyBR",
@@ -1307,73 +1371,25 @@
     "Maior_Pontuacao": 18,
     "Menor_Ranking": 1,
     "Participacoes": 6,
-    "Posicao": 82,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "zenildosilva",
-    "Pontos": 65,
-    "Desempenho_Medio": 1931.0,
-    "podio_primeiro": 1,
-    "podio_segundo": 1,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1975.0,
-    "Pontos_por_Torneio": 5.0,
-    "Maior_Pontuacao": 21,
-    "Menor_Ranking": 1,
-    "Participacoes": 14,
-    "Posicao": 83,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "DiscipuloDoNekinho38",
-    "Pontos": 64,
-    "Desempenho_Medio": 1904.0,
-    "podio_primeiro": 2,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 2047.0,
-    "Pontos_por_Torneio": 16.0,
-    "Maior_Pontuacao": 27,
-    "Menor_Ranking": 1,
-    "Participacoes": 4,
-    "Posicao": 84,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "engenheirochess",
-    "Pontos": 62,
-    "Desempenho_Medio": 1576.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1757.0,
-    "Pontos_por_Torneio": 3.0,
-    "Maior_Pontuacao": 16,
-    "Menor_Ranking": 4,
-    "Participacoes": 19,
-    "Posicao": 85,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "risoca",
-    "Pontos": 60,
-    "Desempenho_Medio": 1742.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 1,
-    "Rating_Medio": 1901.0,
-    "Pontos_por_Torneio": 3.0,
-    "Maior_Pontuacao": 15,
-    "Menor_Ranking": 3,
-    "Participacoes": 22,
     "Posicao": 86,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Movimento": -4.0,
+    "Movimento_Texto": "↓ 4"
+  },
+  {
+    "Nick": "ideias",
+    "Pontos": 65,
+    "Desempenho_Medio": 2099.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 2,
+    "podio_terceiro": 0,
+    "Rating_Medio": 2012.0,
+    "Pontos_por_Torneio": 11.0,
+    "Maior_Pontuacao": 20,
+    "Menor_Ranking": 2,
+    "Participacoes": 6,
+    "Posicao": 87,
+    "Movimento": 2.0,
+    "Movimento_Texto": "↑ 2"
   },
   {
     "Nick": "oNekinho38",
@@ -1387,9 +1403,25 @@
     "Maior_Pontuacao": 8,
     "Menor_Ranking": 6,
     "Participacoes": 15,
-    "Posicao": 87,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 88,
+    "Movimento": -1.0,
+    "Movimento_Texto": "↓ 1"
+  },
+  {
+    "Nick": "zenildosilva",
+    "Pontos": 59,
+    "Desempenho_Medio": 1884.0,
+    "podio_primeiro": 1,
+    "podio_segundo": 1,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1973.0,
+    "Pontos_por_Torneio": 5.0,
+    "Maior_Pontuacao": 21,
+    "Menor_Ranking": 1,
+    "Participacoes": 12,
+    "Posicao": 89,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
   },
   {
     "Nick": "neycaetano_ubatuba1",
@@ -1403,78 +1435,110 @@
     "Maior_Pontuacao": 9,
     "Menor_Ranking": 6,
     "Participacoes": 18,
-    "Posicao": 88,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "ideias",
-    "Pontos": 56,
-    "Desempenho_Medio": 2083.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 2,
-    "podio_terceiro": 0,
-    "Rating_Medio": 2009.0,
-    "Pontos_por_Torneio": 11.0,
-    "Maior_Pontuacao": 20,
-    "Menor_Ranking": 2,
-    "Participacoes": 5,
-    "Posicao": 89,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 90,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "nelsonlopes",
-    "Pontos": 54,
-    "Desempenho_Medio": 1940.0,
+    "Pontos": 56,
+    "Desempenho_Medio": 1915.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1782.0,
+    "Rating_Medio": 1781.0,
     "Pontos_por_Torneio": 2.0,
     "Maior_Pontuacao": 8,
     "Menor_Ranking": 5,
-    "Participacoes": 30,
-    "Posicao": 90,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Participacoes": 32,
+    "Posicao": 91,
+    "Movimento": -1.0,
+    "Movimento_Texto": "↓ 1"
+  },
+  {
+    "Nick": "Darth_Vader_LMX",
+    "Pontos": 56,
+    "Desempenho_Medio": 1646.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 2,
+    "Rating_Medio": 1864.0,
+    "Pontos_por_Torneio": 4.0,
+    "Maior_Pontuacao": 11,
+    "Menor_Ranking": 3,
+    "Participacoes": 16,
+    "Posicao": 92,
+    "Movimento": 2.0,
+    "Movimento_Texto": "↑ 2"
   },
   {
     "Nick": "solanabitcoin",
     "Pontos": 53,
-    "Desempenho_Medio": 1762.0,
+    "Desempenho_Medio": 1709.0,
     "podio_primeiro": 1,
     "podio_segundo": 1,
     "podio_terceiro": 0,
-    "Rating_Medio": 1751.0,
-    "Pontos_por_Torneio": 9.0,
+    "Rating_Medio": 1764.0,
+    "Pontos_por_Torneio": 8.0,
     "Maior_Pontuacao": 24,
     "Menor_Ranking": 1,
-    "Participacoes": 6,
-    "Posicao": 91,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Participacoes": 7,
+    "Posicao": 93,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "Zangao",
     "Pontos": 51,
-    "Desempenho_Medio": 1819.0,
+    "Desempenho_Medio": 1768.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1694.0,
-    "Pontos_por_Torneio": 4.0,
+    "Rating_Medio": 1692.0,
+    "Pontos_por_Torneio": 3.0,
     "Maior_Pontuacao": 9,
     "Menor_Ranking": 4,
-    "Participacoes": 13,
-    "Posicao": 92,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Participacoes": 15,
+    "Posicao": 94,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
+  },
+  {
+    "Nick": "HigorFPCastro",
+    "Pontos": 51,
+    "Desempenho_Medio": 1760.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 1,
+    "Rating_Medio": 1800.0,
+    "Pontos_por_Torneio": 2.0,
+    "Maior_Pontuacao": 14,
+    "Menor_Ranking": 3,
+    "Participacoes": 25,
+    "Posicao": 95,
+    "Movimento": 18.0,
+    "Movimento_Texto": "↑ 18"
+  },
+  {
+    "Nick": "kerlson",
+    "Pontos": 51,
+    "Desempenho_Medio": 1710.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 1,
+    "Rating_Medio": 1748.0,
+    "Pontos_por_Torneio": 5.0,
+    "Maior_Pontuacao": 10,
+    "Menor_Ranking": 3,
+    "Participacoes": 10,
+    "Posicao": 96,
+    "Movimento": 47.0,
+    "Movimento_Texto": "↑ 47"
   },
   {
     "Nick": "scalzibrunoinstagram",
     "Pontos": 51,
-    "Desempenho_Medio": 1513.0,
+    "Desempenho_Medio": 1509.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
@@ -1482,26 +1546,26 @@
     "Pontos_por_Torneio": 1.0,
     "Maior_Pontuacao": 6,
     "Menor_Ranking": 9,
-    "Participacoes": 42,
-    "Posicao": 93,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Participacoes": 45,
+    "Posicao": 97,
+    "Movimento": -4.0,
+    "Movimento_Texto": "↓ 4"
   },
   {
-    "Nick": "Darth_Vader_LMX",
-    "Pontos": 50,
+    "Nick": "Trachypogon",
+    "Pontos": 49,
     "Desempenho_Medio": 1665.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
-    "podio_terceiro": 2,
-    "Rating_Medio": 1867.0,
+    "podio_terceiro": 1,
+    "Rating_Medio": 1725.0,
     "Pontos_por_Torneio": 4.0,
-    "Maior_Pontuacao": 11,
+    "Maior_Pontuacao": 12,
     "Menor_Ranking": 3,
     "Participacoes": 14,
-    "Posicao": 94,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 98,
+    "Movimento": 1.0,
+    "Movimento_Texto": "↑ 1"
   },
   {
     "Nick": "jpessoa409",
@@ -1515,9 +1579,25 @@
     "Maior_Pontuacao": 16,
     "Menor_Ranking": 2,
     "Participacoes": 6,
-    "Posicao": 95,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 99,
+    "Movimento": -4.0,
+    "Movimento_Texto": "↓ 4"
+  },
+  {
+    "Nick": "gutooliver",
+    "Pontos": 47,
+    "Desempenho_Medio": 1800.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1732.0,
+    "Pontos_por_Torneio": 3.0,
+    "Maior_Pontuacao": 8,
+    "Menor_Ranking": 4,
+    "Participacoes": 14,
+    "Posicao": 100,
+    "Movimento": 11.0,
+    "Movimento_Texto": "↑ 11"
   },
   {
     "Nick": "Deris3",
@@ -1531,9 +1611,25 @@
     "Maior_Pontuacao": 13,
     "Menor_Ranking": 2,
     "Participacoes": 5,
-    "Posicao": 96,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 101,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
+  },
+  {
+    "Nick": "vitorkalangoo",
+    "Pontos": 43,
+    "Desempenho_Medio": 2126.0,
+    "podio_primeiro": 1,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 2254.0,
+    "Pontos_por_Torneio": 11.0,
+    "Maior_Pontuacao": 24,
+    "Menor_Ranking": 1,
+    "Participacoes": 4,
+    "Posicao": 102,
+    "Movimento": 15.0,
+    "Movimento_Texto": "↑ 15"
   },
   {
     "Nick": "NBmacovi",
@@ -1547,9 +1643,41 @@
     "Maior_Pontuacao": 24,
     "Menor_Ranking": 1,
     "Participacoes": 3,
-    "Posicao": 97,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 103,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
+  },
+  {
+    "Nick": "Hou_yfan",
+    "Pontos": 43,
+    "Desempenho_Medio": 1848.0,
+    "podio_primeiro": 1,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1938.0,
+    "Pontos_por_Torneio": 9.0,
+    "Maior_Pontuacao": 19,
+    "Menor_Ranking": 1,
+    "Participacoes": 5,
+    "Posicao": 104,
+    "Movimento": 21.0,
+    "Movimento_Texto": "↑ 21"
+  },
+  {
+    "Nick": "KingSolomon64",
+    "Pontos": 42,
+    "Desempenho_Medio": 1744.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 1,
+    "Rating_Medio": 1994.0,
+    "Pontos_por_Torneio": 7.0,
+    "Maior_Pontuacao": 16,
+    "Menor_Ranking": 3,
+    "Participacoes": 6,
+    "Posicao": 105,
+    "Movimento": 1.0,
+    "Movimento_Texto": "↑ 1"
   },
   {
     "Nick": "GESSE_GMZ",
@@ -1563,25 +1691,9 @@
     "Maior_Pontuacao": 18,
     "Menor_Ranking": 1,
     "Participacoes": 6,
-    "Posicao": 98,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "Trachypogon",
-    "Pontos": 41,
-    "Desempenho_Medio": 1650.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 1,
-    "Rating_Medio": 1729.0,
-    "Pontos_por_Torneio": 3.0,
-    "Maior_Pontuacao": 12,
-    "Menor_Ranking": 3,
-    "Participacoes": 13,
-    "Posicao": 99,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 106,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "arthurxadrez2024",
@@ -1595,25 +1707,9 @@
     "Maior_Pontuacao": 6,
     "Menor_Ranking": 8,
     "Participacoes": 13,
-    "Posicao": 100,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "Botvinik1961",
-    "Pontos": 41,
-    "Desempenho_Medio": 1472.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1667.0,
-    "Pontos_por_Torneio": 1.0,
-    "Maior_Pontuacao": 8,
-    "Menor_Ranking": 6,
-    "Participacoes": 34,
-    "Posicao": 101,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 107,
+    "Movimento": -7.0,
+    "Movimento_Texto": "↓ 7"
   },
   {
     "Nick": "CamposJE",
@@ -1627,9 +1723,9 @@
     "Maior_Pontuacao": 16,
     "Menor_Ranking": 2,
     "Participacoes": 6,
-    "Posicao": 102,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 108,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
   },
   {
     "Nick": "Sr_PaulMorphy",
@@ -1643,9 +1739,9 @@
     "Maior_Pontuacao": 24,
     "Menor_Ranking": 2,
     "Participacoes": 4,
-    "Posicao": 103,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 109,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
   },
   {
     "Nick": "Dionisius",
@@ -1659,41 +1755,25 @@
     "Maior_Pontuacao": 21,
     "Menor_Ranking": 1,
     "Participacoes": 6,
-    "Posicao": 104,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 110,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
   },
   {
     "Nick": "ccaso10",
     "Pontos": 40,
-    "Desempenho_Medio": 1611.0,
+    "Desempenho_Medio": 1612.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1740.0,
+    "Rating_Medio": 1728.0,
     "Pontos_por_Torneio": 2.0,
     "Maior_Pontuacao": 12,
     "Menor_Ranking": 5,
     "Participacoes": 16,
-    "Posicao": 105,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "KingSolomon64",
-    "Pontos": 39,
-    "Desempenho_Medio": 1800.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 1,
-    "Rating_Medio": 1996.0,
-    "Pontos_por_Torneio": 8.0,
-    "Maior_Pontuacao": 16,
-    "Menor_Ranking": 3,
-    "Participacoes": 5,
-    "Posicao": 106,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 111,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
   },
   {
     "Nick": "Chessmachin3",
@@ -1707,25 +1787,57 @@
     "Maior_Pontuacao": 20,
     "Menor_Ranking": 1,
     "Participacoes": 2,
-    "Posicao": 107,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 112,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
   },
   {
     "Nick": "D4P4z",
     "Pontos": 38,
-    "Desempenho_Medio": 1995.0,
-    "podio_primeiro": 1,
-    "podio_segundo": 1,
+    "Desempenho_Medio": 2047.0,
+    "podio_primeiro": 2,
+    "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 2067.0,
+    "Rating_Medio": 2079.0,
     "Pontos_por_Torneio": 8.0,
     "Maior_Pontuacao": 16,
     "Menor_Ranking": 1,
     "Participacoes": 5,
-    "Posicao": 108,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 113,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
+  },
+  {
+    "Nick": "Mestre-Demas",
+    "Pontos": 38,
+    "Desempenho_Medio": 1826.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 1,
+    "podio_terceiro": 0,
+    "Rating_Medio": 2036.0,
+    "Pontos_por_Torneio": 6.0,
+    "Maior_Pontuacao": 16,
+    "Menor_Ranking": 2,
+    "Participacoes": 6,
+    "Posicao": 114,
+    "Movimento": -4.0,
+    "Movimento_Texto": "↓ 4"
+  },
+  {
+    "Nick": "Mikhailtaldonordeste",
+    "Pontos": 38,
+    "Desempenho_Medio": 1775.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 2034.0,
+    "Pontos_por_Torneio": 5.0,
+    "Maior_Pontuacao": 12,
+    "Menor_Ranking": 4,
+    "Participacoes": 7,
+    "Posicao": 115,
+    "Movimento": -3.0,
+    "Movimento_Texto": "↓ 3"
   },
   {
     "Nick": "RodrigoBonora",
@@ -1739,73 +1851,57 @@
     "Maior_Pontuacao": 19,
     "Menor_Ranking": 1,
     "Participacoes": 4,
-    "Posicao": 109,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 116,
+    "Movimento": -7.0,
+    "Movimento_Texto": "↓ 7"
   },
   {
-    "Nick": "Mestre-Demas",
-    "Pontos": 36,
-    "Desempenho_Medio": 1888.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 1,
-    "podio_terceiro": 0,
-    "Rating_Medio": 2044.0,
-    "Pontos_por_Torneio": 7.0,
-    "Maior_Pontuacao": 16,
-    "Menor_Ranking": 2,
-    "Participacoes": 5,
-    "Posicao": 110,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "gutooliver",
-    "Pontos": 36,
-    "Desempenho_Medio": 1819.0,
+    "Nick": "Joilson15",
+    "Pontos": 37,
+    "Desempenho_Medio": 2037.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1740.0,
-    "Pontos_por_Torneio": 3.0,
-    "Maior_Pontuacao": 8,
-    "Menor_Ranking": 4,
-    "Participacoes": 11,
-    "Posicao": 111,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "Mikhailtaldonordeste",
-    "Pontos": 36,
-    "Desempenho_Medio": 1749.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 2020.0,
+    "Rating_Medio": 1927.0,
     "Pontos_por_Torneio": 6.0,
-    "Maior_Pontuacao": 12,
-    "Menor_Ranking": 4,
+    "Maior_Pontuacao": 10,
+    "Menor_Ranking": 5,
     "Participacoes": 6,
-    "Posicao": 112,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 117,
+    "Movimento": 11.0,
+    "Movimento_Texto": "↑ 11"
   },
   {
-    "Nick": "HigorFPCastro",
-    "Pontos": 35,
-    "Desempenho_Medio": 1772.0,
+    "Nick": "Heraclito1976",
+    "Pontos": 37,
+    "Desempenho_Medio": 1626.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1799.0,
+    "Rating_Medio": 1749.0,
     "Pontos_por_Torneio": 2.0,
-    "Maior_Pontuacao": 4,
-    "Menor_Ranking": 9,
-    "Participacoes": 22,
-    "Posicao": 113,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Maior_Pontuacao": 7,
+    "Menor_Ranking": 6,
+    "Participacoes": 15,
+    "Posicao": 118,
+    "Movimento": 17.0,
+    "Movimento_Texto": "↑ 17"
+  },
+  {
+    "Nick": "luandson",
+    "Pontos": 35,
+    "Desempenho_Medio": 1966.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 2014.0,
+    "Pontos_por_Torneio": 4.0,
+    "Maior_Pontuacao": 8,
+    "Menor_Ranking": 7,
+    "Participacoes": 9,
+    "Posicao": 119,
+    "Movimento": 10.0,
+    "Movimento_Texto": "↑ 10"
   },
   {
     "Nick": "Maluco_do_natal",
@@ -1819,9 +1915,9 @@
     "Maior_Pontuacao": 10,
     "Menor_Ranking": 2,
     "Participacoes": 5,
-    "Posicao": 114,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 120,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
   },
   {
     "Nick": "Erickchess10",
@@ -1835,9 +1931,9 @@
     "Maior_Pontuacao": 24,
     "Menor_Ranking": 1,
     "Participacoes": 4,
-    "Posicao": 115,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 121,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
   },
   {
     "Nick": "vassily_capivarov",
@@ -1851,25 +1947,9 @@
     "Maior_Pontuacao": 12,
     "Menor_Ranking": 2,
     "Participacoes": 9,
-    "Posicao": 116,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "vitorkalangoo",
-    "Pontos": 32,
-    "Desempenho_Medio": 2216.0,
-    "podio_primeiro": 1,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 2257.0,
-    "Pontos_por_Torneio": 11.0,
-    "Maior_Pontuacao": 24,
-    "Menor_Ranking": 1,
-    "Participacoes": 3,
-    "Posicao": 117,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 122,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
   },
   {
     "Nick": "nibrchess",
@@ -1883,9 +1963,9 @@
     "Maior_Pontuacao": 23,
     "Menor_Ranking": 1,
     "Participacoes": 2,
-    "Posicao": 118,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 123,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
   },
   {
     "Nick": "Brunomarcal",
@@ -1899,9 +1979,9 @@
     "Maior_Pontuacao": 8,
     "Menor_Ranking": 5,
     "Participacoes": 9,
-    "Posicao": 119,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 124,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
   },
   {
     "Nick": "Krowndsy_francesa",
@@ -1915,9 +1995,41 @@
     "Maior_Pontuacao": 9,
     "Menor_Ranking": 4,
     "Participacoes": 7,
-    "Posicao": 120,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 125,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
+  },
+  {
+    "Nick": "daniel-peraza",
+    "Pontos": 31,
+    "Desempenho_Medio": 1697.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1686.0,
+    "Pontos_por_Torneio": 3.0,
+    "Maior_Pontuacao": 11,
+    "Menor_Ranking": 4,
+    "Participacoes": 11,
+    "Posicao": 126,
+    "Movimento": 23.0,
+    "Movimento_Texto": "↑ 23"
+  },
+  {
+    "Nick": "Emelina1",
+    "Pontos": 31,
+    "Desempenho_Medio": 1666.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1850.0,
+    "Pontos_por_Torneio": 3.0,
+    "Maior_Pontuacao": 8,
+    "Menor_Ranking": 5,
+    "Participacoes": 9,
+    "Posicao": 127,
+    "Movimento": 38.0,
+    "Movimento_Texto": "↑ 38"
   },
   {
     "Nick": "batolsai",
@@ -1931,9 +2043,9 @@
     "Maior_Pontuacao": 28,
     "Menor_Ranking": 1,
     "Participacoes": 1,
-    "Posicao": 121,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 128,
+    "Movimento": -7.0,
+    "Movimento_Texto": "↓ 7"
   },
   {
     "Nick": "Grillito",
@@ -1947,9 +2059,9 @@
     "Maior_Pontuacao": 24,
     "Menor_Ranking": 1,
     "Participacoes": 3,
-    "Posicao": 122,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 129,
+    "Movimento": -7.0,
+    "Movimento_Texto": "↓ 7"
   },
   {
     "Nick": "Bergamo",
@@ -1963,9 +2075,9 @@
     "Maior_Pontuacao": 24,
     "Menor_Ranking": 2,
     "Participacoes": 2,
-    "Posicao": 123,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 130,
+    "Movimento": -7.0,
+    "Movimento_Texto": "↓ 7"
   },
   {
     "Nick": "Capivara-diplomado",
@@ -1979,25 +2091,25 @@
     "Maior_Pontuacao": 8,
     "Menor_Ranking": 5,
     "Participacoes": 8,
-    "Posicao": 124,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 131,
+    "Movimento": -7.0,
+    "Movimento_Texto": "↓ 7"
   },
   {
-    "Nick": "Hou_yfan",
+    "Nick": "vouperdertodas",
     "Pontos": 29,
-    "Desempenho_Medio": 1772.0,
-    "podio_primeiro": 1,
+    "Desempenho_Medio": 1919.0,
+    "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1950.0,
-    "Pontos_por_Torneio": 10.0,
-    "Maior_Pontuacao": 19,
-    "Menor_Ranking": 1,
-    "Participacoes": 3,
-    "Posicao": 125,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Rating_Medio": 1811.0,
+    "Pontos_por_Torneio": 1.0,
+    "Maior_Pontuacao": 4,
+    "Menor_Ranking": 8,
+    "Participacoes": 28,
+    "Posicao": 132,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "MarcosMiguelgm7",
@@ -2011,9 +2123,9 @@
     "Maior_Pontuacao": 13,
     "Menor_Ranking": 2,
     "Participacoes": 8,
-    "Posicao": 126,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 133,
+    "Movimento": -7.0,
+    "Movimento_Texto": "↓ 7"
   },
   {
     "Nick": "Leominduin",
@@ -2027,57 +2139,25 @@
     "Maior_Pontuacao": 15,
     "Menor_Ranking": 3,
     "Participacoes": 3,
-    "Posicao": 127,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 134,
+    "Movimento": -7.0,
+    "Movimento_Texto": "↓ 7"
   },
   {
-    "Nick": "Joilson15",
+    "Nick": "SAINT_GESSE_GOMEZ",
     "Pontos": 27,
-    "Desempenho_Medio": 2093.0,
-    "podio_primeiro": 0,
+    "Desempenho_Medio": 1946.0,
+    "podio_primeiro": 1,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1927.0,
-    "Pontos_por_Torneio": 5.0,
-    "Maior_Pontuacao": 8,
-    "Menor_Ranking": 5,
-    "Participacoes": 5,
-    "Posicao": 128,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "luandson",
-    "Pontos": 27,
-    "Desempenho_Medio": 1966.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 2007.0,
-    "Pontos_por_Torneio": 3.0,
-    "Maior_Pontuacao": 8,
-    "Menor_Ranking": 7,
-    "Participacoes": 8,
-    "Posicao": 129,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "vouperdertodas",
-    "Pontos": 27,
-    "Desempenho_Medio": 1893.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1812.0,
-    "Pontos_por_Torneio": 1.0,
-    "Maior_Pontuacao": 4,
-    "Menor_Ranking": 8,
-    "Participacoes": 27,
-    "Posicao": 130,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Rating_Medio": 2000.0,
+    "Pontos_por_Torneio": 14.0,
+    "Maior_Pontuacao": 18,
+    "Menor_Ranking": 1,
+    "Participacoes": 2,
+    "Posicao": 135,
+    "Movimento": 70.0,
+    "Movimento_Texto": "↑ 70"
   },
   {
     "Nick": "kasparuimov",
@@ -2091,9 +2171,9 @@
     "Maior_Pontuacao": 8,
     "Menor_Ranking": 9,
     "Participacoes": 7,
-    "Posicao": 131,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 136,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
   },
   {
     "Nick": "DavidStriker44",
@@ -2107,9 +2187,9 @@
     "Maior_Pontuacao": 15,
     "Menor_Ranking": 2,
     "Participacoes": 3,
-    "Posicao": 132,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 137,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
   },
   {
     "Nick": "DouglasOliveira45",
@@ -2123,9 +2203,41 @@
     "Maior_Pontuacao": 8,
     "Menor_Ranking": 7,
     "Participacoes": 7,
-    "Posicao": 133,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 138,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
+  },
+  {
+    "Nick": "GC22_2_0",
+    "Pontos": 24,
+    "Desempenho_Medio": 1861.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1711.0,
+    "Pontos_por_Torneio": 2.0,
+    "Maior_Pontuacao": 6,
+    "Menor_Ranking": 7,
+    "Participacoes": 11,
+    "Posicao": 139,
+    "Movimento": 15.0,
+    "Movimento_Texto": "↑ 15"
+  },
+  {
+    "Nick": "Raditura",
+    "Pontos": 24,
+    "Desempenho_Medio": 1763.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1916.0,
+    "Pontos_por_Torneio": 2.0,
+    "Maior_Pontuacao": 8,
+    "Menor_Ranking": 9,
+    "Participacoes": 12,
+    "Posicao": 140,
+    "Movimento": 2.0,
+    "Movimento_Texto": "↑ 2"
   },
   {
     "Nick": "AnderMuniz",
@@ -2139,25 +2251,9 @@
     "Maior_Pontuacao": 15,
     "Menor_Ranking": 3,
     "Participacoes": 12,
-    "Posicao": 134,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "Heraclito1976",
-    "Pontos": 24,
-    "Desempenho_Medio": 1591.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1730.0,
-    "Pontos_por_Torneio": 2.0,
-    "Maior_Pontuacao": 6,
-    "Menor_Ranking": 6,
-    "Participacoes": 11,
-    "Posicao": 135,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 141,
+    "Movimento": -7.0,
+    "Movimento_Texto": "↓ 7"
   },
   {
     "Nick": "UNCHIA",
@@ -2171,9 +2267,9 @@
     "Maior_Pontuacao": 20,
     "Menor_Ranking": 1,
     "Participacoes": 3,
-    "Posicao": 136,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 142,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
   },
   {
     "Nick": "CNJEduardo",
@@ -2187,9 +2283,9 @@
     "Maior_Pontuacao": 8,
     "Menor_Ranking": 7,
     "Participacoes": 8,
-    "Posicao": 137,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 143,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
   },
   {
     "Nick": "tininho58",
@@ -2203,25 +2299,9 @@
     "Maior_Pontuacao": 10,
     "Menor_Ranking": 6,
     "Participacoes": 6,
-    "Posicao": 138,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "Macaco-loco-XBA",
-    "Pontos": 22,
-    "Desempenho_Medio": 1676.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1886.0,
-    "Pontos_por_Torneio": 2.0,
-    "Maior_Pontuacao": 6,
-    "Menor_Ranking": 4,
-    "Participacoes": 9,
-    "Posicao": 139,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 144,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
   },
   {
     "Nick": "Raffa29",
@@ -2235,9 +2315,41 @@
     "Maior_Pontuacao": 12,
     "Menor_Ranking": 1,
     "Participacoes": 7,
-    "Posicao": 140,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 145,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
+  },
+  {
+    "Nick": "Macaco-loco-XBA",
+    "Pontos": 22,
+    "Desempenho_Medio": 1636.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1886.0,
+    "Pontos_por_Torneio": 2.0,
+    "Maior_Pontuacao": 6,
+    "Menor_Ranking": 4,
+    "Participacoes": 11,
+    "Posicao": 146,
+    "Movimento": -7.0,
+    "Movimento_Texto": "↓ 7"
+  },
+  {
+    "Nick": "gilbertomenegatti",
+    "Pontos": 22,
+    "Desempenho_Medio": 1531.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1581.0,
+    "Pontos_por_Torneio": 2.0,
+    "Maior_Pontuacao": 5,
+    "Menor_Ranking": 10,
+    "Participacoes": 12,
+    "Posicao": 147,
+    "Movimento": 9.0,
+    "Movimento_Texto": "↑ 9"
   },
   {
     "Nick": "Peixinho38",
@@ -2251,41 +2363,25 @@
     "Maior_Pontuacao": 21,
     "Menor_Ranking": 1,
     "Participacoes": 1,
-    "Posicao": 141,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 148,
+    "Movimento": -7.0,
+    "Movimento_Texto": "↓ 7"
   },
   {
-    "Nick": "Raditura",
+    "Nick": "lucianotrigo2022",
     "Pontos": 21,
-    "Desempenho_Medio": 1765.0,
+    "Desempenho_Medio": 1706.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1914.0,
-    "Pontos_por_Torneio": 2.0,
-    "Maior_Pontuacao": 8,
-    "Menor_Ranking": 9,
-    "Participacoes": 11,
-    "Posicao": 142,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "kerlson",
-    "Pontos": 21,
-    "Desempenho_Medio": 1616.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1742.0,
-    "Pontos_por_Torneio": 4.0,
-    "Maior_Pontuacao": 7,
-    "Menor_Ranking": 8,
-    "Participacoes": 5,
-    "Posicao": 143,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Rating_Medio": 1743.0,
+    "Pontos_por_Torneio": 3.0,
+    "Maior_Pontuacao": 6,
+    "Menor_Ranking": 7,
+    "Participacoes": 8,
+    "Posicao": 149,
+    "Movimento": 6.0,
+    "Movimento_Texto": "↑ 6"
   },
   {
     "Nick": "gsiv18van",
@@ -2299,9 +2395,9 @@
     "Maior_Pontuacao": 7,
     "Menor_Ranking": 9,
     "Participacoes": 6,
-    "Posicao": 144,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 150,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
   },
   {
     "Nick": "Tigre_do_Sertao",
@@ -2315,9 +2411,9 @@
     "Maior_Pontuacao": 20,
     "Menor_Ranking": 2,
     "Participacoes": 1,
-    "Posicao": 145,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 151,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
   },
   {
     "Nick": "Neumann1978",
@@ -2331,25 +2427,9 @@
     "Maior_Pontuacao": 12,
     "Menor_Ranking": 3,
     "Participacoes": 3,
-    "Posicao": 146,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "ljohnnson",
-    "Pontos": 20,
-    "Desempenho_Medio": 1846.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1790.0,
-    "Pontos_por_Torneio": 10.0,
-    "Maior_Pontuacao": 13,
-    "Menor_Ranking": 5,
-    "Participacoes": 2,
-    "Posicao": 147,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 152,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
   },
   {
     "Nick": "UlissesMoschen",
@@ -2363,25 +2443,25 @@
     "Maior_Pontuacao": 10,
     "Menor_Ranking": 5,
     "Participacoes": 7,
-    "Posicao": 148,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 153,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
   },
   {
-    "Nick": "daniel-peraza",
+    "Nick": "ljohnnson",
     "Pontos": 20,
-    "Desempenho_Medio": 1654.0,
+    "Desempenho_Medio": 1708.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1679.0,
-    "Pontos_por_Torneio": 2.0,
-    "Maior_Pontuacao": 4,
-    "Menor_Ranking": 10,
-    "Participacoes": 10,
-    "Posicao": 149,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Rating_Medio": 1829.0,
+    "Pontos_por_Torneio": 7.0,
+    "Maior_Pontuacao": 13,
+    "Menor_Ranking": 5,
+    "Participacoes": 3,
+    "Posicao": 154,
+    "Movimento": -7.0,
+    "Movimento_Texto": "↓ 7"
   },
   {
     "Nick": "lucena2007",
@@ -2395,9 +2475,9 @@
     "Maior_Pontuacao": 8,
     "Menor_Ranking": 6,
     "Participacoes": 7,
-    "Posicao": 150,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 155,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
   },
   {
     "Nick": "LEOBENGO",
@@ -2411,9 +2491,9 @@
     "Maior_Pontuacao": 16,
     "Menor_Ranking": 1,
     "Participacoes": 4,
-    "Posicao": 151,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 156,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
   },
   {
     "Nick": "FabianoElord",
@@ -2427,9 +2507,9 @@
     "Maior_Pontuacao": 6,
     "Menor_Ranking": 9,
     "Participacoes": 10,
-    "Posicao": 152,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 157,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
   },
   {
     "Nick": "Edsongomes",
@@ -2443,73 +2523,73 @@
     "Maior_Pontuacao": 7,
     "Menor_Ranking": 6,
     "Participacoes": 7,
-    "Posicao": 153,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 158,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
   },
   {
-    "Nick": "GC22_2_0",
+    "Nick": "fandrade",
     "Pontos": 18,
-    "Desempenho_Medio": 1797.0,
+    "Desempenho_Medio": 1686.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1701.0,
-    "Pontos_por_Torneio": 2.0,
-    "Maior_Pontuacao": 6,
-    "Menor_Ranking": 7,
-    "Participacoes": 9,
-    "Posicao": 154,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "lucianotrigo2022",
-    "Pontos": 18,
-    "Desempenho_Medio": 1704.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1744.0,
-    "Pontos_por_Torneio": 3.0,
-    "Maior_Pontuacao": 6,
-    "Menor_Ranking": 7,
-    "Participacoes": 7,
-    "Posicao": 155,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "gilbertomenegatti",
-    "Pontos": 18,
-    "Desempenho_Medio": 1513.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1583.0,
+    "Rating_Medio": 1774.0,
     "Pontos_por_Torneio": 2.0,
     "Maior_Pontuacao": 5,
-    "Menor_Ranking": 10,
-    "Participacoes": 11,
-    "Posicao": 156,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Menor_Ranking": 9,
+    "Participacoes": 10,
+    "Posicao": 159,
+    "Movimento": 2.0,
+    "Movimento_Texto": "↑ 2"
+  },
+  {
+    "Nick": "AlexRevolledo",
+    "Pontos": 17,
+    "Desempenho_Medio": 1740.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 2087.0,
+    "Pontos_por_Torneio": 3.0,
+    "Maior_Pontuacao": 11,
+    "Menor_Ranking": 5,
+    "Participacoes": 6,
+    "Posicao": 160,
+    "Movimento": 81.0,
+    "Movimento_Texto": "↑ 81"
   },
   {
     "Nick": "jdcronos",
     "Pontos": 17,
-    "Desempenho_Medio": 1597.0,
+    "Desempenho_Medio": 1577.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1542.0,
+    "Rating_Medio": 1552.0,
     "Pontos_por_Torneio": 2.0,
     "Maior_Pontuacao": 4,
     "Menor_Ranking": 9,
-    "Participacoes": 8,
-    "Posicao": 157,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Participacoes": 9,
+    "Posicao": 161,
+    "Movimento": -4.0,
+    "Movimento_Texto": "↓ 4"
+  },
+  {
+    "Nick": "perna-de-tres",
+    "Pontos": 16,
+    "Desempenho_Medio": 2376.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 2094.0,
+    "Pontos_por_Torneio": 8.0,
+    "Maior_Pontuacao": 8,
+    "Menor_Ranking": 4,
+    "Participacoes": 2,
+    "Posicao": 162,
+    "Movimento": 46.0,
+    "Movimento_Texto": "↑ 46"
   },
   {
     "Nick": "Echo79",
@@ -2523,25 +2603,9 @@
     "Maior_Pontuacao": 10,
     "Menor_Ranking": 4,
     "Participacoes": 5,
-    "Posicao": 158,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "JESSY_ABASSOY",
-    "Pontos": 16,
-    "Desempenho_Medio": 1758.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1998.0,
-    "Pontos_por_Torneio": 5.0,
-    "Maior_Pontuacao": 9,
-    "Menor_Ranking": 7,
-    "Participacoes": 3,
-    "Posicao": 159,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 163,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
   },
   {
     "Nick": "lll_King_of_evil_lll",
@@ -2555,25 +2619,9 @@
     "Maior_Pontuacao": 5,
     "Menor_Ranking": 10,
     "Participacoes": 8,
-    "Posicao": 160,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "fandrade",
-    "Pontos": 16,
-    "Desempenho_Medio": 1674.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1775.0,
-    "Pontos_por_Torneio": 2.0,
-    "Maior_Pontuacao": 5,
-    "Menor_Ranking": 9,
-    "Participacoes": 8,
-    "Posicao": 161,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 164,
+    "Movimento": -4.0,
+    "Movimento_Texto": "↓ 4"
   },
   {
     "Nick": "wilsom7",
@@ -2587,9 +2635,9 @@
     "Maior_Pontuacao": 9,
     "Menor_Ranking": 6,
     "Participacoes": 6,
-    "Posicao": 162,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 165,
+    "Movimento": -3.0,
+    "Movimento_Texto": "↓ 3"
   },
   {
     "Nick": "Saize",
@@ -2598,14 +2646,14 @@
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 1,
-    "Rating_Medio": 1928.0,
-    "Pontos_por_Torneio": 15.0,
+    "Rating_Medio": 1932.0,
+    "Pontos_por_Torneio": 8.0,
     "Maior_Pontuacao": 15,
     "Menor_Ranking": 3,
-    "Participacoes": 1,
-    "Posicao": 163,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Participacoes": 2,
+    "Posicao": 166,
+    "Movimento": -3.0,
+    "Movimento_Texto": "↓ 3"
   },
   {
     "Nick": "edercorreia2016",
@@ -2619,25 +2667,25 @@
     "Maior_Pontuacao": 15,
     "Menor_Ranking": 4,
     "Participacoes": 1,
-    "Posicao": 164,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 167,
+    "Movimento": -3.0,
+    "Movimento_Texto": "↓ 3"
   },
   {
-    "Nick": "Emelina1",
+    "Nick": "Joseano",
     "Pontos": 15,
-    "Desempenho_Medio": 1612.0,
+    "Desempenho_Medio": 1762.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1856.0,
+    "Rating_Medio": 1806.0,
     "Pontos_por_Torneio": 2.0,
-    "Maior_Pontuacao": 6,
-    "Menor_Ranking": 10,
+    "Maior_Pontuacao": 4,
+    "Menor_Ranking": 9,
     "Participacoes": 7,
-    "Posicao": 165,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 168,
+    "Movimento": 13.0,
+    "Movimento_Texto": "↑ 13"
   },
   {
     "Nick": "mmessias19",
@@ -2651,9 +2699,9 @@
     "Maior_Pontuacao": 4,
     "Menor_Ranking": 7,
     "Participacoes": 5,
-    "Posicao": 166,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 169,
+    "Movimento": -3.0,
+    "Movimento_Texto": "↓ 3"
   },
   {
     "Nick": "the-chemist",
@@ -2667,9 +2715,9 @@
     "Maior_Pontuacao": 14,
     "Menor_Ranking": 5,
     "Participacoes": 1,
-    "Posicao": 167,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 170,
+    "Movimento": -3.0,
+    "Movimento_Texto": "↓ 3"
   },
   {
     "Nick": "Mitsuki1929",
@@ -2683,9 +2731,25 @@
     "Maior_Pontuacao": 14,
     "Menor_Ranking": 2,
     "Participacoes": 1,
-    "Posicao": 168,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 171,
+    "Movimento": -3.0,
+    "Movimento_Texto": "↓ 3"
+  },
+  {
+    "Nick": "tico67",
+    "Pontos": 14,
+    "Desempenho_Medio": 1732.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1741.0,
+    "Pontos_por_Torneio": 3.0,
+    "Maior_Pontuacao": 10,
+    "Menor_Ranking": 4,
+    "Participacoes": 5,
+    "Posicao": 172,
+    "Movimento": 10.0,
+    "Movimento_Texto": "↑ 10"
   },
   {
     "Nick": "CarniworA",
@@ -2699,7 +2763,55 @@
     "Maior_Pontuacao": 13,
     "Menor_Ranking": 4,
     "Participacoes": 1,
-    "Posicao": 169,
+    "Posicao": 173,
+    "Movimento": -4.0,
+    "Movimento_Texto": "↓ 4"
+  },
+  {
+    "Nick": "bootstrap_devil",
+    "Pontos": 13,
+    "Desempenho_Medio": 1861.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1687.0,
+    "Pontos_por_Torneio": 4.0,
+    "Maior_Pontuacao": 8,
+    "Menor_Ranking": 9,
+    "Participacoes": 3,
+    "Posicao": 174,
+    "Movimento": 4.0,
+    "Movimento_Texto": "↑ 4"
+  },
+  {
+    "Nick": "RickVeteris",
+    "Pontos": 13,
+    "Desempenho_Medio": 1694.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1533.0,
+    "Pontos_por_Torneio": 2.0,
+    "Maior_Pontuacao": 5,
+    "Menor_Ranking": 13,
+    "Participacoes": 6,
+    "Posicao": 175,
+    "Movimento": 24.0,
+    "Movimento_Texto": "↑ 24"
+  },
+  {
+    "Nick": "MEUFILHODINO",
+    "Pontos": 12,
+    "Desempenho_Medio": 2425.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 1,
+    "podio_terceiro": 0,
+    "Rating_Medio": 2244.0,
+    "Pontos_por_Torneio": 12.0,
+    "Maior_Pontuacao": 12,
+    "Menor_Ranking": 2,
+    "Participacoes": 1,
+    "Posicao": 176,
     "Movimento": null,
     "Movimento_Texto": "NOVO"
   },
@@ -2715,9 +2827,9 @@
     "Maior_Pontuacao": 12,
     "Menor_Ranking": 3,
     "Participacoes": 1,
-    "Posicao": 170,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 177,
+    "Movimento": -7.0,
+    "Movimento_Texto": "↓ 7"
   },
   {
     "Nick": "Ildhanny",
@@ -2731,9 +2843,9 @@
     "Maior_Pontuacao": 8,
     "Menor_Ranking": 7,
     "Participacoes": 2,
-    "Posicao": 171,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 178,
+    "Movimento": -7.0,
+    "Movimento_Texto": "↓ 7"
   },
   {
     "Nick": "PJatoba",
@@ -2747,9 +2859,9 @@
     "Maior_Pontuacao": 12,
     "Menor_Ranking": 4,
     "Participacoes": 1,
-    "Posicao": 172,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 179,
+    "Movimento": -7.0,
+    "Movimento_Texto": "↓ 7"
   },
   {
     "Nick": "caipiraochess",
@@ -2763,9 +2875,9 @@
     "Maior_Pontuacao": 12,
     "Menor_Ranking": 4,
     "Participacoes": 1,
-    "Posicao": 173,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 180,
+    "Movimento": -7.0,
+    "Movimento_Texto": "↓ 7"
   },
   {
     "Nick": "GilsonRosa",
@@ -2779,9 +2891,9 @@
     "Maior_Pontuacao": 12,
     "Menor_Ranking": 3,
     "Participacoes": 1,
-    "Posicao": 174,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 181,
+    "Movimento": -7.0,
+    "Movimento_Texto": "↓ 7"
   },
   {
     "Nick": "Juan_HerreraM",
@@ -2795,9 +2907,9 @@
     "Maior_Pontuacao": 8,
     "Menor_Ranking": 6,
     "Participacoes": 2,
-    "Posicao": 175,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 182,
+    "Movimento": -7.0,
+    "Movimento_Texto": "↓ 7"
   },
   {
     "Nick": "Espinosa44",
@@ -2811,9 +2923,9 @@
     "Maior_Pontuacao": 12,
     "Menor_Ranking": 3,
     "Participacoes": 1,
-    "Posicao": 176,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 183,
+    "Movimento": -7.0,
+    "Movimento_Texto": "↓ 7"
   },
   {
     "Nick": "Lipao1984",
@@ -2827,25 +2939,9 @@
     "Maior_Pontuacao": 12,
     "Menor_Ranking": 4,
     "Participacoes": 1,
-    "Posicao": 177,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "bootstrap_devil",
-    "Pontos": 12,
-    "Desempenho_Medio": 1940.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1662.0,
-    "Pontos_por_Torneio": 6.0,
-    "Maior_Pontuacao": 8,
-    "Menor_Ranking": 9,
-    "Participacoes": 2,
-    "Posicao": 178,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 184,
+    "Movimento": -7.0,
+    "Movimento_Texto": "↓ 7"
   },
   {
     "Nick": "LojadoJaquesBr",
@@ -2859,9 +2955,9 @@
     "Maior_Pontuacao": 6,
     "Menor_Ranking": 4,
     "Participacoes": 5,
-    "Posicao": 179,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 185,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
   },
   {
     "Nick": "Papaxibemano",
@@ -2875,41 +2971,9 @@
     "Maior_Pontuacao": 12,
     "Menor_Ranking": 4,
     "Participacoes": 4,
-    "Posicao": 180,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "Joseano",
-    "Pontos": 12,
-    "Desempenho_Medio": 1748.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1807.0,
-    "Pontos_por_Torneio": 2.0,
-    "Maior_Pontuacao": 4,
-    "Menor_Ranking": 9,
-    "Participacoes": 6,
-    "Posicao": 181,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "tico67",
-    "Pontos": 12,
-    "Desempenho_Medio": 1628.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1748.0,
-    "Pontos_por_Torneio": 3.0,
-    "Maior_Pontuacao": 10,
-    "Menor_Ranking": 4,
-    "Participacoes": 4,
-    "Posicao": 182,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 186,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
   },
   {
     "Nick": "betobastos",
@@ -2923,9 +2987,9 @@
     "Maior_Pontuacao": 10,
     "Menor_Ranking": 7,
     "Participacoes": 4,
-    "Posicao": 183,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 187,
+    "Movimento": -4.0,
+    "Movimento_Texto": "↓ 4"
   },
   {
     "Nick": "Ramirez2311",
@@ -2939,23 +3003,39 @@
     "Maior_Pontuacao": 3,
     "Menor_Ranking": 12,
     "Participacoes": 8,
-    "Posicao": 184,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 188,
+    "Movimento": -4.0,
+    "Movimento_Texto": "↓ 4"
   },
   {
     "Nick": "e81-e82-e83",
     "Pontos": 12,
-    "Desempenho_Medio": 1496.0,
+    "Desempenho_Medio": 1488.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1683.0,
+    "Rating_Medio": 1687.0,
     "Pontos_por_Torneio": 1.0,
     "Maior_Pontuacao": 4,
     "Menor_Ranking": 9,
-    "Participacoes": 9,
-    "Posicao": 185,
+    "Participacoes": 10,
+    "Posicao": 189,
+    "Movimento": -4.0,
+    "Movimento_Texto": "↓ 4"
+  },
+  {
+    "Nick": "pamelaBruno",
+    "Pontos": 11,
+    "Desempenho_Medio": 2298.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 2133.0,
+    "Pontos_por_Torneio": 11.0,
+    "Maior_Pontuacao": 11,
+    "Menor_Ranking": 5,
+    "Participacoes": 1,
+    "Posicao": 190,
     "Movimento": null,
     "Movimento_Texto": "NOVO"
   },
@@ -2971,9 +3051,9 @@
     "Maior_Pontuacao": 8,
     "Menor_Ranking": 6,
     "Participacoes": 3,
-    "Posicao": 186,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 191,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
   },
   {
     "Nick": "Nick12344",
@@ -2987,9 +3067,9 @@
     "Maior_Pontuacao": 11,
     "Menor_Ranking": 3,
     "Participacoes": 1,
-    "Posicao": 187,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 192,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
   },
   {
     "Nick": "SAT_BATURITE_SAT",
@@ -3003,9 +3083,9 @@
     "Maior_Pontuacao": 11,
     "Menor_Ranking": 4,
     "Participacoes": 1,
-    "Posicao": 188,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 193,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
   },
   {
     "Nick": "luskinha_do_xadrez",
@@ -3019,9 +3099,9 @@
     "Maior_Pontuacao": 7,
     "Menor_Ranking": 6,
     "Participacoes": 2,
-    "Posicao": 189,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 194,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
   },
   {
     "Nick": "danger-perigo",
@@ -3035,9 +3115,9 @@
     "Maior_Pontuacao": 7,
     "Menor_Ranking": 10,
     "Participacoes": 1,
-    "Posicao": 190,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 195,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
   },
   {
     "Nick": "Aderbaldo",
@@ -3051,9 +3131,25 @@
     "Maior_Pontuacao": 11,
     "Menor_Ranking": 7,
     "Participacoes": 2,
-    "Posicao": 191,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 196,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
+  },
+  {
+    "Nick": "AVICII_TW",
+    "Pontos": 10,
+    "Desempenho_Medio": 2349.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1905.0,
+    "Pontos_por_Torneio": 2.0,
+    "Maior_Pontuacao": 4,
+    "Menor_Ranking": 10,
+    "Participacoes": 4,
+    "Posicao": 197,
+    "Movimento": 12.0,
+    "Movimento_Texto": "↑ 12"
   },
   {
     "Nick": "BergamoVH",
@@ -3067,9 +3163,9 @@
     "Maior_Pontuacao": 10,
     "Menor_Ranking": 5,
     "Participacoes": 1,
-    "Posicao": 192,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 198,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
   },
   {
     "Nick": "Hunter04",
@@ -3083,9 +3179,9 @@
     "Maior_Pontuacao": 8,
     "Menor_Ranking": 6,
     "Participacoes": 1,
-    "Posicao": 193,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 199,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
   },
   {
     "Nick": "Evercito",
@@ -3099,9 +3195,9 @@
     "Maior_Pontuacao": 10,
     "Menor_Ranking": 3,
     "Participacoes": 1,
-    "Posicao": 194,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 200,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
   },
   {
     "Nick": "GESSE_GNS",
@@ -3115,9 +3211,9 @@
     "Maior_Pontuacao": 10,
     "Menor_Ranking": 5,
     "Participacoes": 2,
-    "Posicao": 195,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 201,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
   },
   {
     "Nick": "GaldineuGaldinei",
@@ -3131,9 +3227,25 @@
     "Maior_Pontuacao": 10,
     "Menor_Ranking": 7,
     "Participacoes": 1,
-    "Posicao": 196,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 202,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
+  },
+  {
+    "Nick": "JESSY_ABASSOY",
+    "Pontos": 10,
+    "Desempenho_Medio": 1812.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1985.0,
+    "Pontos_por_Torneio": 3.0,
+    "Maior_Pontuacao": 9,
+    "Menor_Ranking": 8,
+    "Participacoes": 3,
+    "Posicao": 203,
+    "Movimento": -44.0,
+    "Movimento_Texto": "↓ 44"
   },
   {
     "Nick": "CapaPletaXD1",
@@ -3147,9 +3259,9 @@
     "Maior_Pontuacao": 10,
     "Menor_Ranking": 9,
     "Participacoes": 1,
-    "Posicao": 197,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 204,
+    "Movimento": -7.0,
+    "Movimento_Texto": "↓ 7"
   },
   {
     "Nick": "samurai27",
@@ -3163,25 +3275,9 @@
     "Maior_Pontuacao": 6,
     "Menor_Ranking": 12,
     "Participacoes": 3,
-    "Posicao": 198,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "RickVeteris",
-    "Pontos": 10,
-    "Desempenho_Medio": 1678.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1522.0,
-    "Pontos_por_Torneio": 2.0,
-    "Maior_Pontuacao": 5,
-    "Menor_Ranking": 13,
-    "Participacoes": 5,
-    "Posicao": 199,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 205,
+    "Movimento": -7.0,
+    "Movimento_Texto": "↓ 7"
   },
   {
     "Nick": "kiliamCHANAQUILCA",
@@ -3195,9 +3291,9 @@
     "Maior_Pontuacao": 4,
     "Menor_Ranking": 14,
     "Participacoes": 7,
-    "Posicao": 200,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 206,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
   },
   {
     "Nick": "Brasil5hero",
@@ -3211,25 +3307,9 @@
     "Maior_Pontuacao": 5,
     "Menor_Ranking": 10,
     "Participacoes": 4,
-    "Posicao": 201,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "gunnarkj",
-    "Pontos": 9,
-    "Desempenho_Medio": 2297.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1858.0,
-    "Pontos_por_Torneio": 2.0,
-    "Maior_Pontuacao": 3,
-    "Menor_Ranking": 10,
-    "Participacoes": 4,
-    "Posicao": 202,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 207,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
   },
   {
     "Nick": "wilchess1979",
@@ -3243,41 +3323,9 @@
     "Maior_Pontuacao": 9,
     "Menor_Ranking": 3,
     "Participacoes": 1,
-    "Posicao": 203,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "Denisov27",
-    "Pontos": 9,
-    "Desempenho_Medio": 2000.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1928.0,
-    "Pontos_por_Torneio": 4.0,
-    "Maior_Pontuacao": 6,
-    "Menor_Ranking": 4,
-    "Participacoes": 2,
-    "Posicao": 204,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "SAINT_GESSE_GOMEZ",
-    "Pontos": 9,
-    "Desempenho_Medio": 1846.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1966.0,
-    "Pontos_por_Torneio": 9.0,
-    "Maior_Pontuacao": 9,
-    "Menor_Ranking": 5,
-    "Participacoes": 1,
-    "Posicao": 205,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 208,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
   },
   {
     "Nick": "guigafmoraes",
@@ -3291,9 +3339,9 @@
     "Maior_Pontuacao": 9,
     "Menor_Ranking": 5,
     "Participacoes": 3,
-    "Posicao": 206,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 209,
+    "Movimento": -3.0,
+    "Movimento_Texto": "↓ 3"
   },
   {
     "Nick": "Magia-Negra",
@@ -3307,41 +3355,25 @@
     "Maior_Pontuacao": 5,
     "Menor_Ranking": 5,
     "Participacoes": 2,
-    "Posicao": 207,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 210,
+    "Movimento": -3.0,
+    "Movimento_Texto": "↓ 3"
   },
   {
-    "Nick": "perna-de-tres",
-    "Pontos": 8,
-    "Desempenho_Medio": 2357.0,
+    "Nick": "Holanda58",
+    "Pontos": 9,
+    "Desempenho_Medio": 1688.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 2098.0,
-    "Pontos_por_Torneio": 8.0,
-    "Maior_Pontuacao": 8,
-    "Menor_Ranking": 4,
-    "Participacoes": 1,
-    "Posicao": 208,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "AVICII_TW",
-    "Pontos": 8,
-    "Desempenho_Medio": 2313.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1899.0,
+    "Rating_Medio": 1876.0,
     "Pontos_por_Torneio": 3.0,
     "Maior_Pontuacao": 4,
-    "Menor_Ranking": 10,
+    "Menor_Ranking": 9,
     "Participacoes": 3,
-    "Posicao": 209,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 211,
+    "Movimento": 15.0,
+    "Movimento_Texto": "↑ 15"
   },
   {
     "Nick": "Atom_Rezeiluj",
@@ -3355,9 +3387,9 @@
     "Maior_Pontuacao": 8,
     "Menor_Ranking": 6,
     "Participacoes": 1,
-    "Posicao": 210,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 212,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "Xerifechess",
@@ -3371,9 +3403,9 @@
     "Maior_Pontuacao": 8,
     "Menor_Ranking": 4,
     "Participacoes": 2,
-    "Posicao": 211,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 213,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "Viandro",
@@ -3387,9 +3419,9 @@
     "Maior_Pontuacao": 8,
     "Menor_Ranking": 8,
     "Participacoes": 1,
-    "Posicao": 212,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 214,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "GdosSantos",
@@ -3403,9 +3435,9 @@
     "Maior_Pontuacao": 8,
     "Menor_Ranking": 6,
     "Participacoes": 2,
-    "Posicao": 213,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 215,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "fosforoazul",
@@ -3419,9 +3451,9 @@
     "Maior_Pontuacao": 8,
     "Menor_Ranking": 8,
     "Participacoes": 1,
-    "Posicao": 214,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 216,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "fernando38",
@@ -3435,9 +3467,9 @@
     "Maior_Pontuacao": 8,
     "Menor_Ranking": 6,
     "Participacoes": 1,
-    "Posicao": 215,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 217,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "Andrembi",
@@ -3451,9 +3483,9 @@
     "Maior_Pontuacao": 4,
     "Menor_Ranking": 10,
     "Participacoes": 3,
-    "Posicao": 216,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 218,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "ioga",
@@ -3467,9 +3499,9 @@
     "Maior_Pontuacao": 8,
     "Menor_Ranking": 7,
     "Participacoes": 1,
-    "Posicao": 217,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 219,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "Vagnertavares83",
@@ -3483,9 +3515,9 @@
     "Maior_Pontuacao": 4,
     "Menor_Ranking": 14,
     "Participacoes": 2,
-    "Posicao": 218,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 220,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "kemerovsky",
@@ -3494,14 +3526,14 @@
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1696.0,
-    "Pontos_por_Torneio": 4.0,
+    "Rating_Medio": 1702.0,
+    "Pontos_por_Torneio": 2.0,
     "Maior_Pontuacao": 8,
     "Menor_Ranking": 11,
-    "Participacoes": 2,
-    "Posicao": 219,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Participacoes": 4,
+    "Posicao": 221,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "waltercampos",
@@ -3515,25 +3547,25 @@
     "Maior_Pontuacao": 5,
     "Menor_Ranking": 14,
     "Participacoes": 3,
-    "Posicao": 220,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 222,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "Fmessias",
     "Pontos": 8,
-    "Desempenho_Medio": 1613.0,
+    "Desempenho_Medio": 1536.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1717.0,
-    "Pontos_por_Torneio": 3.0,
+    "Rating_Medio": 1720.0,
+    "Pontos_por_Torneio": 2.0,
     "Maior_Pontuacao": 6,
     "Menor_Ranking": 6,
-    "Participacoes": 3,
-    "Posicao": 221,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Participacoes": 4,
+    "Posicao": 223,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "odlavireoada",
@@ -3547,9 +3579,9 @@
     "Maior_Pontuacao": 8,
     "Menor_Ranking": 7,
     "Participacoes": 2,
-    "Posicao": 222,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 224,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "GUINDASTE",
@@ -3563,9 +3595,9 @@
     "Maior_Pontuacao": 4,
     "Menor_Ranking": 11,
     "Participacoes": 2,
-    "Posicao": 223,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 225,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "lukazz10",
@@ -3579,9 +3611,9 @@
     "Maior_Pontuacao": 7,
     "Menor_Ranking": 10,
     "Participacoes": 1,
-    "Posicao": 224,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 226,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "SupremerIzael",
@@ -3595,25 +3627,9 @@
     "Maior_Pontuacao": 7,
     "Menor_Ranking": 9,
     "Participacoes": 1,
-    "Posicao": 225,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "Holanda58",
-    "Pontos": 7,
-    "Desempenho_Medio": 1744.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1882.0,
-    "Pontos_por_Torneio": 4.0,
-    "Maior_Pontuacao": 4,
-    "Menor_Ranking": 9,
-    "Participacoes": 2,
-    "Posicao": 226,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 227,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "birinhajr",
@@ -3627,9 +3643,9 @@
     "Maior_Pontuacao": 4,
     "Menor_Ranking": 12,
     "Participacoes": 4,
-    "Posicao": 227,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 228,
+    "Movimento": -1.0,
+    "Movimento_Texto": "↓ 1"
   },
   {
     "Nick": "FRACOQUEBATE_JMC86",
@@ -3643,25 +3659,25 @@
     "Maior_Pontuacao": 7,
     "Menor_Ranking": 9,
     "Participacoes": 2,
-    "Posicao": 228,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 229,
+    "Movimento": -1.0,
+    "Movimento_Texto": "↓ 1"
   },
   {
     "Nick": "vivoangelo",
     "Pontos": 7,
-    "Desempenho_Medio": 1488.0,
+    "Desempenho_Medio": 1452.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1534.0,
+    "Rating_Medio": 1538.0,
     "Pontos_por_Torneio": 2.0,
     "Maior_Pontuacao": 5,
     "Menor_Ranking": 19,
-    "Participacoes": 3,
-    "Posicao": 229,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Participacoes": 4,
+    "Posicao": 230,
+    "Movimento": -1.0,
+    "Movimento_Texto": "↓ 1"
   },
   {
     "Nick": "attackonly",
@@ -3675,9 +3691,25 @@
     "Maior_Pontuacao": 6,
     "Menor_Ranking": 6,
     "Participacoes": 1,
-    "Posicao": 230,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 231,
+    "Movimento": -1.0,
+    "Movimento_Texto": "↓ 1"
+  },
+  {
+    "Nick": "Denisov27",
+    "Pontos": 6,
+    "Desempenho_Medio": 2226.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1963.0,
+    "Pontos_por_Torneio": 6.0,
+    "Maior_Pontuacao": 6,
+    "Menor_Ranking": 4,
+    "Participacoes": 1,
+    "Posicao": 232,
+    "Movimento": -28.0,
+    "Movimento_Texto": "↓ 28"
   },
   {
     "Nick": "MarcusMorato",
@@ -3691,9 +3723,9 @@
     "Maior_Pontuacao": 6,
     "Menor_Ranking": 8,
     "Participacoes": 1,
-    "Posicao": 231,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 233,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "Ismael1984",
@@ -3707,9 +3739,9 @@
     "Maior_Pontuacao": 6,
     "Menor_Ranking": 11,
     "Participacoes": 1,
-    "Posicao": 232,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 234,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "motacta30",
@@ -3723,9 +3755,9 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 12,
     "Participacoes": 1,
-    "Posicao": 233,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 235,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "Chesspsico",
@@ -3739,9 +3771,9 @@
     "Maior_Pontuacao": 6,
     "Menor_Ranking": 5,
     "Participacoes": 1,
-    "Posicao": 234,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 236,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "WanderMnz",
@@ -3755,9 +3787,9 @@
     "Maior_Pontuacao": 6,
     "Menor_Ranking": 6,
     "Participacoes": 2,
-    "Posicao": 235,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 237,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "Cicrao30",
@@ -3771,9 +3803,9 @@
     "Maior_Pontuacao": 6,
     "Menor_Ranking": 8,
     "Participacoes": 1,
-    "Posicao": 236,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 238,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "Xadrez-de-Capivara",
@@ -3787,9 +3819,9 @@
     "Maior_Pontuacao": 6,
     "Menor_Ranking": 7,
     "Participacoes": 1,
-    "Posicao": 237,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 239,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "Marcelao",
@@ -3803,9 +3835,9 @@
     "Maior_Pontuacao": 4,
     "Menor_Ranking": 14,
     "Participacoes": 2,
-    "Posicao": 238,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 240,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "Meujael020",
@@ -3819,9 +3851,9 @@
     "Maior_Pontuacao": 6,
     "Menor_Ranking": 8,
     "Participacoes": 2,
-    "Posicao": 239,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 241,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "kreitoss",
@@ -3835,25 +3867,9 @@
     "Maior_Pontuacao": 4,
     "Menor_Ranking": 10,
     "Participacoes": 7,
-    "Posicao": 240,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "AlexRevolledo",
-    "Pontos": 6,
-    "Desempenho_Medio": 1582.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 2092.0,
-    "Pontos_por_Torneio": 1.0,
-    "Maior_Pontuacao": 6,
-    "Menor_Ranking": 10,
-    "Participacoes": 5,
-    "Posicao": 241,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 242,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "Freitasjr",
@@ -3867,9 +3883,9 @@
     "Maior_Pontuacao": 6,
     "Menor_Ranking": 10,
     "Participacoes": 3,
-    "Posicao": 242,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 243,
+    "Movimento": -1.0,
+    "Movimento_Texto": "↓ 1"
   },
   {
     "Nick": "ECerruti",
@@ -3883,9 +3899,9 @@
     "Maior_Pontuacao": 3,
     "Menor_Ranking": 12,
     "Participacoes": 7,
-    "Posicao": 243,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 244,
+    "Movimento": -1.0,
+    "Movimento_Texto": "↓ 1"
   },
   {
     "Nick": "kleberdomus",
@@ -3899,9 +3915,9 @@
     "Maior_Pontuacao": 5,
     "Menor_Ranking": 13,
     "Participacoes": 1,
-    "Posicao": 244,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 245,
+    "Movimento": -1.0,
+    "Movimento_Texto": "↓ 1"
   },
   {
     "Nick": "chicov",
@@ -3915,7 +3931,23 @@
     "Maior_Pontuacao": 3,
     "Menor_Ranking": 14,
     "Participacoes": 3,
-    "Posicao": 245,
+    "Posicao": 246,
+    "Movimento": -1.0,
+    "Movimento_Texto": "↓ 1"
+  },
+  {
+    "Nick": "Dany_Sombrio",
+    "Pontos": 5,
+    "Desempenho_Medio": 1970.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 2005.0,
+    "Pontos_por_Torneio": 5.0,
+    "Maior_Pontuacao": 5,
+    "Menor_Ranking": 14,
+    "Participacoes": 1,
+    "Posicao": 247,
     "Movimento": null,
     "Movimento_Texto": "NOVO"
   },
@@ -3931,9 +3963,9 @@
     "Maior_Pontuacao": 5,
     "Menor_Ranking": 12,
     "Participacoes": 1,
-    "Posicao": 246,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 248,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "Gita",
@@ -3947,9 +3979,9 @@
     "Maior_Pontuacao": 5,
     "Menor_Ranking": 9,
     "Participacoes": 1,
-    "Posicao": 247,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 249,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "MindPhylos",
@@ -3963,9 +3995,9 @@
     "Maior_Pontuacao": 3,
     "Menor_Ranking": 13,
     "Participacoes": 4,
-    "Posicao": 248,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 250,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "Aapp21dpk",
@@ -3979,9 +4011,9 @@
     "Maior_Pontuacao": 5,
     "Menor_Ranking": 18,
     "Participacoes": 1,
-    "Posicao": 249,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 251,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "mestreperigo",
@@ -3995,9 +4027,9 @@
     "Maior_Pontuacao": 5,
     "Menor_Ranking": 7,
     "Participacoes": 3,
-    "Posicao": 250,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 252,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "maria66",
@@ -4011,9 +4043,9 @@
     "Maior_Pontuacao": 5,
     "Menor_Ranking": 18,
     "Participacoes": 2,
-    "Posicao": 251,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 253,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "juniordahora",
@@ -4027,9 +4059,9 @@
     "Maior_Pontuacao": 5,
     "Menor_Ranking": 15,
     "Participacoes": 2,
-    "Posicao": 252,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 254,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
   },
   {
     "Nick": "Cantalicio",
@@ -4043,9 +4075,25 @@
     "Maior_Pontuacao": 4,
     "Menor_Ranking": 11,
     "Participacoes": 1,
-    "Posicao": 253,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 255,
+    "Movimento": -2.0,
+    "Movimento_Texto": "↓ 2"
+  },
+  {
+    "Nick": "gunnarkj",
+    "Pontos": 4,
+    "Desempenho_Medio": 2296.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1820.0,
+    "Pontos_por_Torneio": 2.0,
+    "Maior_Pontuacao": 2,
+    "Menor_Ranking": 11,
+    "Participacoes": 2,
+    "Posicao": 256,
+    "Movimento": -54.0,
+    "Movimento_Texto": "↓ 54"
   },
   {
     "Nick": "renanreis",
@@ -4059,9 +4107,9 @@
     "Maior_Pontuacao": 4,
     "Menor_Ranking": 12,
     "Participacoes": 2,
-    "Posicao": 254,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 257,
+    "Movimento": -3.0,
+    "Movimento_Texto": "↓ 3"
   },
   {
     "Nick": "maicon_novaiguacu",
@@ -4075,7 +4123,23 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 14,
     "Participacoes": 3,
-    "Posicao": 255,
+    "Posicao": 258,
+    "Movimento": -3.0,
+    "Movimento_Texto": "↓ 3"
+  },
+  {
+    "Nick": "Ironfla",
+    "Pontos": 4,
+    "Desempenho_Medio": 2121.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1972.0,
+    "Pontos_por_Torneio": 4.0,
+    "Maior_Pontuacao": 4,
+    "Menor_Ranking": 8,
+    "Participacoes": 1,
+    "Posicao": 259,
     "Movimento": null,
     "Movimento_Texto": "NOVO"
   },
@@ -4091,9 +4155,9 @@
     "Maior_Pontuacao": 4,
     "Menor_Ranking": 16,
     "Participacoes": 1,
-    "Posicao": 256,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 260,
+    "Movimento": -4.0,
+    "Movimento_Texto": "↓ 4"
   },
   {
     "Nick": "detonador",
@@ -4107,9 +4171,9 @@
     "Maior_Pontuacao": 4,
     "Menor_Ranking": 7,
     "Participacoes": 1,
-    "Posicao": 257,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 261,
+    "Movimento": -4.0,
+    "Movimento_Texto": "↓ 4"
   },
   {
     "Nick": "EdsonMito25",
@@ -4123,9 +4187,9 @@
     "Maior_Pontuacao": 4,
     "Menor_Ranking": 9,
     "Participacoes": 1,
-    "Posicao": 258,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 262,
+    "Movimento": -4.0,
+    "Movimento_Texto": "↓ 4"
   },
   {
     "Nick": "CryodracoAntarcticus",
@@ -4139,9 +4203,9 @@
     "Maior_Pontuacao": 4,
     "Menor_Ranking": 11,
     "Participacoes": 1,
-    "Posicao": 259,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 263,
+    "Movimento": -4.0,
+    "Movimento_Texto": "↓ 4"
   },
   {
     "Nick": "elCastigador13",
@@ -4155,9 +4219,9 @@
     "Maior_Pontuacao": 4,
     "Menor_Ranking": 12,
     "Participacoes": 1,
-    "Posicao": 260,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 264,
+    "Movimento": -4.0,
+    "Movimento_Texto": "↓ 4"
   },
   {
     "Nick": "rocato",
@@ -4171,9 +4235,25 @@
     "Maior_Pontuacao": 4,
     "Menor_Ranking": 9,
     "Participacoes": 1,
-    "Posicao": 261,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 265,
+    "Movimento": -4.0,
+    "Movimento_Texto": "↓ 4"
+  },
+  {
+    "Nick": "JOAOmendesdias",
+    "Pontos": 4,
+    "Desempenho_Medio": 1847.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1867.0,
+    "Pontos_por_Torneio": 2.0,
+    "Maior_Pontuacao": 4,
+    "Menor_Ranking": 12,
+    "Participacoes": 2,
+    "Posicao": 266,
+    "Movimento": 99.0,
+    "Movimento_Texto": "↑ 99"
   },
   {
     "Nick": "pablotote77",
@@ -4187,9 +4267,9 @@
     "Maior_Pontuacao": 4,
     "Menor_Ranking": 11,
     "Participacoes": 1,
-    "Posicao": 262,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 267,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
   },
   {
     "Nick": "ElIngenieri",
@@ -4198,14 +4278,14 @@
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1312.0,
-    "Pontos_por_Torneio": 2.0,
+    "Rating_Medio": 1287.0,
+    "Pontos_por_Torneio": 1.0,
     "Maior_Pontuacao": 4,
     "Menor_Ranking": 10,
-    "Participacoes": 2,
-    "Posicao": 263,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Participacoes": 3,
+    "Posicao": 268,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
   },
   {
     "Nick": "Merleau-Ponty-Eidos",
@@ -4219,9 +4299,9 @@
     "Maior_Pontuacao": 4,
     "Menor_Ranking": 8,
     "Participacoes": 2,
-    "Posicao": 264,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 269,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
   },
   {
     "Nick": "JonatanRichard",
@@ -4235,9 +4315,9 @@
     "Maior_Pontuacao": 4,
     "Menor_Ranking": 15,
     "Participacoes": 1,
-    "Posicao": 265,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 270,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
   },
   {
     "Nick": "Gagalu",
@@ -4251,9 +4331,9 @@
     "Maior_Pontuacao": 4,
     "Menor_Ranking": 13,
     "Participacoes": 1,
-    "Posicao": 266,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 271,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
   },
   {
     "Nick": "izaquiel95",
@@ -4267,25 +4347,9 @@
     "Maior_Pontuacao": 4,
     "Menor_Ranking": 12,
     "Participacoes": 1,
-    "Posicao": 267,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "adrianosampaioBR",
-    "Pontos": 4,
-    "Desempenho_Medio": 1638.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1593.0,
-    "Pontos_por_Torneio": 1.0,
-    "Maior_Pontuacao": 2,
-    "Menor_Ranking": 9,
-    "Participacoes": 5,
-    "Posicao": 268,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 272,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
   },
   {
     "Nick": "daminha",
@@ -4299,9 +4363,25 @@
     "Maior_Pontuacao": 4,
     "Menor_Ranking": 13,
     "Participacoes": 1,
-    "Posicao": 269,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 273,
+    "Movimento": -4.0,
+    "Movimento_Texto": "↓ 4"
+  },
+  {
+    "Nick": "adrianosampaioBR",
+    "Pontos": 4,
+    "Desempenho_Medio": 1608.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1591.0,
+    "Pontos_por_Torneio": 1.0,
+    "Maior_Pontuacao": 2,
+    "Menor_Ranking": 9,
+    "Participacoes": 6,
+    "Posicao": 274,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
   },
   {
     "Nick": "Franzeder",
@@ -4315,9 +4395,9 @@
     "Maior_Pontuacao": 4,
     "Menor_Ranking": 12,
     "Participacoes": 3,
-    "Posicao": 270,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 275,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
   },
   {
     "Nick": "LuanaFarmacia30",
@@ -4331,9 +4411,9 @@
     "Maior_Pontuacao": 4,
     "Menor_Ranking": 17,
     "Participacoes": 3,
-    "Posicao": 271,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 276,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
   },
   {
     "Nick": "TinoBeto",
@@ -4347,25 +4427,9 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 13,
     "Participacoes": 3,
-    "Posicao": 272,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "Re_alves",
-    "Pontos": 4,
-    "Desempenho_Medio": 1402.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1240.0,
-    "Pontos_por_Torneio": 1.0,
-    "Maior_Pontuacao": 4,
-    "Menor_Ranking": 10,
-    "Participacoes": 5,
-    "Posicao": 273,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 277,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
   },
   {
     "Nick": "HELIMELGAA",
@@ -4379,9 +4443,25 @@
     "Maior_Pontuacao": 4,
     "Menor_Ranking": 15,
     "Participacoes": 4,
-    "Posicao": 274,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 278,
+    "Movimento": -4.0,
+    "Movimento_Texto": "↓ 4"
+  },
+  {
+    "Nick": "Re_alves",
+    "Pontos": 4,
+    "Desempenho_Medio": 1385.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1238.0,
+    "Pontos_por_Torneio": 1.0,
+    "Maior_Pontuacao": 4,
+    "Menor_Ranking": 10,
+    "Participacoes": 6,
+    "Posicao": 279,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
   },
   {
     "Nick": "gabrielarekcert",
@@ -4395,9 +4475,9 @@
     "Maior_Pontuacao": 4,
     "Menor_Ranking": 12,
     "Participacoes": 1,
-    "Posicao": 275,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 280,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
   },
   {
     "Nick": "Cirov",
@@ -4411,9 +4491,9 @@
     "Maior_Pontuacao": 3,
     "Menor_Ranking": 13,
     "Participacoes": 1,
-    "Posicao": 276,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 281,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
   },
   {
     "Nick": "O_Aluno",
@@ -4427,9 +4507,9 @@
     "Maior_Pontuacao": 3,
     "Menor_Ranking": 12,
     "Participacoes": 1,
-    "Posicao": 277,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 282,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
   },
   {
     "Nick": "EdOmar246",
@@ -4443,9 +4523,9 @@
     "Maior_Pontuacao": 3,
     "Menor_Ranking": 10,
     "Participacoes": 2,
-    "Posicao": 278,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 283,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
   },
   {
     "Nick": "Renatochess",
@@ -4459,9 +4539,9 @@
     "Maior_Pontuacao": 3,
     "Menor_Ranking": 15,
     "Participacoes": 1,
-    "Posicao": 279,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 284,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
   },
   {
     "Nick": "NerDBodyBuilDeR",
@@ -4475,7 +4555,23 @@
     "Maior_Pontuacao": 3,
     "Menor_Ranking": 10,
     "Participacoes": 2,
-    "Posicao": 280,
+    "Posicao": 285,
+    "Movimento": -5.0,
+    "Movimento_Texto": "↓ 5"
+  },
+  {
+    "Nick": "battybaskoi",
+    "Pontos": 3,
+    "Desempenho_Medio": 1896.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1823.0,
+    "Pontos_por_Torneio": 3.0,
+    "Maior_Pontuacao": 3,
+    "Menor_Ranking": 15,
+    "Participacoes": 1,
+    "Posicao": 286,
     "Movimento": null,
     "Movimento_Texto": "NOVO"
   },
@@ -4491,9 +4587,9 @@
     "Maior_Pontuacao": 3,
     "Menor_Ranking": 16,
     "Participacoes": 1,
-    "Posicao": 281,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 287,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
   },
   {
     "Nick": "louisfelipelaussacjr",
@@ -4507,9 +4603,9 @@
     "Maior_Pontuacao": 3,
     "Menor_Ranking": 17,
     "Participacoes": 1,
-    "Posicao": 282,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 288,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
   },
   {
     "Nick": "RSAragao",
@@ -4523,9 +4619,9 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 14,
     "Participacoes": 2,
-    "Posicao": 283,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 289,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
   },
   {
     "Nick": "WLRSosa",
@@ -4539,9 +4635,9 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 11,
     "Participacoes": 1,
-    "Posicao": 284,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 290,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
   },
   {
     "Nick": "Ozymandias_Realista",
@@ -4555,9 +4651,9 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 15,
     "Participacoes": 1,
-    "Posicao": 285,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 291,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
   },
   {
     "Nick": "NicoPereira",
@@ -4571,9 +4667,9 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 17,
     "Participacoes": 3,
-    "Posicao": 286,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 292,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
   },
   {
     "Nick": "BlusRS",
@@ -4587,9 +4683,9 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 19,
     "Participacoes": 1,
-    "Posicao": 287,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 293,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
   },
   {
     "Nick": "jpss3000",
@@ -4603,7 +4699,23 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 15,
     "Participacoes": 1,
-    "Posicao": 288,
+    "Posicao": 294,
+    "Movimento": -6.0,
+    "Movimento_Texto": "↓ 6"
+  },
+  {
+    "Nick": "capipagua",
+    "Pontos": 2,
+    "Desempenho_Medio": 2185.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 2050.0,
+    "Pontos_por_Torneio": 2.0,
+    "Maior_Pontuacao": 2,
+    "Menor_Ranking": 14,
+    "Participacoes": 1,
+    "Posicao": 295,
     "Movimento": null,
     "Movimento_Texto": "NOVO"
   },
@@ -4619,7 +4731,23 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 16,
     "Participacoes": 1,
-    "Posicao": 289,
+    "Posicao": 296,
+    "Movimento": -7.0,
+    "Movimento_Texto": "↓ 7"
+  },
+  {
+    "Nick": "yociel0385",
+    "Pontos": 2,
+    "Desempenho_Medio": 1956.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 2135.0,
+    "Pontos_por_Torneio": 2.0,
+    "Maior_Pontuacao": 2,
+    "Menor_Ranking": 21,
+    "Participacoes": 1,
+    "Posicao": 297,
     "Movimento": null,
     "Movimento_Texto": "NOVO"
   },
@@ -4635,25 +4763,9 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 13,
     "Participacoes": 2,
-    "Posicao": 290,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "wllndr",
-    "Pontos": 2,
-    "Desempenho_Medio": 1868.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1509.0,
-    "Pontos_por_Torneio": 0.0,
-    "Maior_Pontuacao": 2,
-    "Menor_Ranking": 12,
-    "Participacoes": 4,
-    "Posicao": 291,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 298,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "Ysmylov10",
@@ -4667,9 +4779,9 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 11,
     "Participacoes": 1,
-    "Posicao": 292,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 299,
+    "Movimento": -7.0,
+    "Movimento_Texto": "↓ 7"
   },
   {
     "Nick": "gilvancav",
@@ -4683,9 +4795,9 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 19,
     "Participacoes": 1,
-    "Posicao": 293,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 300,
+    "Movimento": -7.0,
+    "Movimento_Texto": "↓ 7"
   },
   {
     "Nick": "ericambrosiokkk",
@@ -4699,9 +4811,9 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 17,
     "Participacoes": 2,
-    "Posicao": 294,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 301,
+    "Movimento": -7.0,
+    "Movimento_Texto": "↓ 7"
   },
   {
     "Nick": "lulucaninde",
@@ -4715,9 +4827,9 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 17,
     "Participacoes": 1,
-    "Posicao": 295,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 302,
+    "Movimento": -7.0,
+    "Movimento_Texto": "↓ 7"
   },
   {
     "Nick": "Ashletth",
@@ -4731,9 +4843,9 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 14,
     "Participacoes": 2,
-    "Posicao": 296,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 303,
+    "Movimento": -7.0,
+    "Movimento_Texto": "↓ 7"
   },
   {
     "Nick": "Barquero33",
@@ -4747,7 +4859,23 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 11,
     "Participacoes": 1,
-    "Posicao": 297,
+    "Posicao": 304,
+    "Movimento": -7.0,
+    "Movimento_Texto": "↓ 7"
+  },
+  {
+    "Nick": "thiagorangel93",
+    "Pontos": 2,
+    "Desempenho_Medio": 1728.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1725.0,
+    "Pontos_por_Torneio": 2.0,
+    "Maior_Pontuacao": 2,
+    "Menor_Ranking": 16,
+    "Participacoes": 1,
+    "Posicao": 305,
     "Movimento": null,
     "Movimento_Texto": "NOVO"
   },
@@ -4763,9 +4891,9 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 21,
     "Participacoes": 1,
-    "Posicao": 298,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 306,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "ventiladordecastigo",
@@ -4779,9 +4907,9 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 17,
     "Participacoes": 1,
-    "Posicao": 299,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 307,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "evermatto",
@@ -4795,9 +4923,9 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 13,
     "Participacoes": 3,
-    "Posicao": 300,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 308,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "Gabchess",
@@ -4811,9 +4939,9 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 14,
     "Participacoes": 3,
-    "Posicao": 301,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 309,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "Brayan67",
@@ -4827,9 +4955,9 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 25,
     "Participacoes": 1,
-    "Posicao": 302,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 310,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "ganderner1",
@@ -4843,9 +4971,9 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 14,
     "Participacoes": 1,
-    "Posicao": 303,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 311,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "Patrick-Morais",
@@ -4859,9 +4987,9 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 19,
     "Participacoes": 1,
-    "Posicao": 304,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 312,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "AndersonBalieiro",
@@ -4875,9 +5003,9 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 17,
     "Participacoes": 1,
-    "Posicao": 305,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 313,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "sacodepancadas",
@@ -4891,9 +5019,9 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 19,
     "Participacoes": 1,
-    "Posicao": 306,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 314,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "mcbcosta",
@@ -4907,9 +5035,9 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 14,
     "Participacoes": 1,
-    "Posicao": 307,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 315,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "chesleylopes",
@@ -4923,25 +5051,9 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 21,
     "Participacoes": 1,
-    "Posicao": 308,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "Miozinho",
-    "Pontos": 2,
-    "Desempenho_Medio": 1477.0,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1578.0,
-    "Pontos_por_Torneio": 0.0,
-    "Maior_Pontuacao": 2,
-    "Menor_Ranking": 15,
-    "Participacoes": 5,
-    "Posicao": 309,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 316,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "gu1lhermeeee",
@@ -4955,9 +5067,25 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 15,
     "Participacoes": 3,
-    "Posicao": 310,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 317,
+    "Movimento": -7.0,
+    "Movimento_Texto": "↓ 7"
+  },
+  {
+    "Nick": "Miozinho",
+    "Pontos": 2,
+    "Desempenho_Medio": 1446.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1576.0,
+    "Pontos_por_Torneio": 0.0,
+    "Maior_Pontuacao": 2,
+    "Menor_Ranking": 15,
+    "Participacoes": 8,
+    "Posicao": 318,
+    "Movimento": -9.0,
+    "Movimento_Texto": "↓ 9"
   },
   {
     "Nick": "Alcideasantana",
@@ -4971,9 +5099,9 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 17,
     "Participacoes": 2,
-    "Posicao": 311,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 319,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "MoskaRed",
@@ -4987,9 +5115,9 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 20,
     "Participacoes": 2,
-    "Posicao": 312,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 320,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "Lenira",
@@ -5003,9 +5131,9 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 17,
     "Participacoes": 2,
-    "Posicao": 313,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 321,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "Maluci40028922",
@@ -5019,9 +5147,9 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 14,
     "Participacoes": 2,
-    "Posicao": 314,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 322,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "zeuswilliam",
@@ -5035,9 +5163,9 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 18,
     "Participacoes": 3,
-    "Posicao": 315,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 323,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "cris-alcantara",
@@ -5051,9 +5179,9 @@
     "Maior_Pontuacao": 2,
     "Menor_Ranking": 16,
     "Participacoes": 12,
-    "Posicao": 316,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 324,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "thelastqueen",
@@ -5067,9 +5195,9 @@
     "Maior_Pontuacao": 1,
     "Menor_Ranking": 16,
     "Participacoes": 1,
-    "Posicao": 317,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 325,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "NoryReis",
@@ -5083,9 +5211,9 @@
     "Maior_Pontuacao": 1,
     "Menor_Ranking": 19,
     "Participacoes": 2,
-    "Posicao": 318,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 326,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "Dema4619",
@@ -5099,9 +5227,9 @@
     "Maior_Pontuacao": 1,
     "Menor_Ranking": 13,
     "Participacoes": 1,
-    "Posicao": 319,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 327,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "Ciadoxadrez-YT-Class",
@@ -5115,9 +5243,9 @@
     "Maior_Pontuacao": 1,
     "Menor_Ranking": 26,
     "Participacoes": 1,
-    "Posicao": 320,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 328,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "EMMANUELGM",
@@ -5131,9 +5259,9 @@
     "Maior_Pontuacao": 1,
     "Menor_Ranking": 20,
     "Participacoes": 1,
-    "Posicao": 321,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 329,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "hugo2006ofc",
@@ -5147,9 +5275,9 @@
     "Maior_Pontuacao": 1,
     "Menor_Ranking": 17,
     "Participacoes": 4,
-    "Posicao": 322,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 330,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "Ly_Neck",
@@ -5163,14 +5291,14 @@
     "Maior_Pontuacao": 1,
     "Menor_Ranking": 16,
     "Participacoes": 2,
-    "Posicao": 323,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 331,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "jucyfilho007",
     "Pontos": 1,
-    "Desempenho_Medio": 1382.0,
+    "Desempenho_Medio": 1380.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
@@ -5178,10 +5306,10 @@
     "Pontos_por_Torneio": 0.0,
     "Maior_Pontuacao": 1,
     "Menor_Ranking": 21,
-    "Participacoes": 2,
-    "Posicao": 324,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Participacoes": 4,
+    "Posicao": 332,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "f_donath",
@@ -5195,9 +5323,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 23,
     "Participacoes": 1,
-    "Posicao": 325,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 333,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "JOPB",
@@ -5211,9 +5339,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 23,
     "Participacoes": 1,
-    "Posicao": 326,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 334,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "jocsjunior",
@@ -5227,23 +5355,23 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 23,
     "Participacoes": 1,
-    "Posicao": 327,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 335,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
-    "Nick": "Gualter_Xpga",
+    "Nick": "DUDU_BRITO",
     "Pontos": 0,
-    "Desempenho_Medio": 1475.0,
+    "Desempenho_Medio": 1476.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 2023.0,
+    "Rating_Medio": 2031.0,
     "Pontos_por_Torneio": 0.0,
     "Maior_Pontuacao": 0,
-    "Menor_Ranking": 14,
-    "Participacoes": 2,
-    "Posicao": 328,
+    "Menor_Ranking": 22,
+    "Participacoes": 1,
+    "Posicao": 336,
     "Movimento": null,
     "Movimento_Texto": "NOVO"
   },
@@ -5259,9 +5387,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 18,
     "Participacoes": 2,
-    "Posicao": 329,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 337,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "ramatavio1",
@@ -5275,9 +5403,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 24,
     "Participacoes": 2,
-    "Posicao": 330,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 338,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "lukdimarco",
@@ -5291,9 +5419,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 19,
     "Participacoes": 1,
-    "Posicao": 331,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 339,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "chess_STM",
@@ -5307,9 +5435,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 22,
     "Participacoes": 1,
-    "Posicao": 332,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 340,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "JFrancisco",
@@ -5323,9 +5451,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 17,
     "Participacoes": 1,
-    "Posicao": 333,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 341,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "Luca456A",
@@ -5339,9 +5467,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 20,
     "Participacoes": 3,
-    "Posicao": 334,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 342,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "eli9A",
@@ -5355,9 +5483,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 14,
     "Participacoes": 1,
-    "Posicao": 335,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 343,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "msvdo",
@@ -5371,9 +5499,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 22,
     "Participacoes": 1,
-    "Posicao": 336,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 344,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "Pank-San",
@@ -5387,9 +5515,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 23,
     "Participacoes": 1,
-    "Posicao": 337,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 345,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "Fabricio_Ferreira",
@@ -5403,9 +5531,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 27,
     "Participacoes": 1,
-    "Posicao": 338,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 346,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "bentehejui",
@@ -5419,9 +5547,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 24,
     "Participacoes": 1,
-    "Posicao": 339,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 347,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
   },
   {
     "Nick": "saulo_triei",
@@ -5435,9 +5563,41 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 19,
     "Participacoes": 1,
-    "Posicao": 340,
+    "Posicao": 348,
+    "Movimento": -8.0,
+    "Movimento_Texto": "↓ 8"
+  },
+  {
+    "Nick": "Star-Chess-Lider",
+    "Pontos": 0,
+    "Desempenho_Medio": 1335.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1883.0,
+    "Pontos_por_Torneio": 0.0,
+    "Maior_Pontuacao": 0,
+    "Menor_Ranking": 26,
+    "Participacoes": 1,
+    "Posicao": 349,
     "Movimento": null,
     "Movimento_Texto": "NOVO"
+  },
+  {
+    "Nick": "wllndr",
+    "Pontos": 0,
+    "Desempenho_Medio": 1332.0,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1513.0,
+    "Pontos_por_Torneio": 0.0,
+    "Maior_Pontuacao": 0,
+    "Menor_Ranking": 12,
+    "Participacoes": 5,
+    "Posicao": 350,
+    "Movimento": -59.0,
+    "Movimento_Texto": "↓ 59"
   },
   {
     "Nick": "ivo83",
@@ -5451,9 +5611,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 21,
     "Participacoes": 1,
-    "Posicao": 341,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 351,
+    "Movimento": -10.0,
+    "Movimento_Texto": "↓ 10"
   },
   {
     "Nick": "vinilipe",
@@ -5467,9 +5627,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 19,
     "Participacoes": 2,
-    "Posicao": 342,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 352,
+    "Movimento": -10.0,
+    "Movimento_Texto": "↓ 10"
   },
   {
     "Nick": "tiagomoraes999",
@@ -5483,9 +5643,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 18,
     "Participacoes": 2,
-    "Posicao": 343,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 353,
+    "Movimento": -10.0,
+    "Movimento_Texto": "↓ 10"
   },
   {
     "Nick": "CleytonMaia",
@@ -5499,9 +5659,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 22,
     "Participacoes": 1,
-    "Posicao": 344,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 354,
+    "Movimento": -10.0,
+    "Movimento_Texto": "↓ 10"
   },
   {
     "Nick": "DaviPinheiro38",
@@ -5515,9 +5675,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 25,
     "Participacoes": 1,
-    "Posicao": 345,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 355,
+    "Movimento": -10.0,
+    "Movimento_Texto": "↓ 10"
   },
   {
     "Nick": "leandroxf",
@@ -5531,9 +5691,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 24,
     "Participacoes": 1,
-    "Posicao": 346,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 356,
+    "Movimento": -10.0,
+    "Movimento_Texto": "↓ 10"
   },
   {
     "Nick": "Fukushima1234567",
@@ -5547,9 +5707,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 16,
     "Participacoes": 1,
-    "Posicao": 347,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 357,
+    "Movimento": -10.0,
+    "Movimento_Texto": "↓ 10"
   },
   {
     "Nick": "mj_mario523",
@@ -5563,9 +5723,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 26,
     "Participacoes": 1,
-    "Posicao": 348,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 358,
+    "Movimento": -10.0,
+    "Movimento_Texto": "↓ 10"
   },
   {
     "Nick": "MateAmargoArgentino",
@@ -5579,9 +5739,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 25,
     "Participacoes": 1,
-    "Posicao": 349,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 359,
+    "Movimento": -10.0,
+    "Movimento_Texto": "↓ 10"
   },
   {
     "Nick": "IgnacioSM_ARG",
@@ -5595,9 +5755,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 23,
     "Participacoes": 1,
-    "Posicao": 350,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 360,
+    "Movimento": -10.0,
+    "Movimento_Texto": "↓ 10"
   },
   {
     "Nick": "magal100",
@@ -5611,9 +5771,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 24,
     "Participacoes": 1,
-    "Posicao": 351,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 361,
+    "Movimento": -10.0,
+    "Movimento_Texto": "↓ 10"
   },
   {
     "Nick": "jcforni",
@@ -5627,9 +5787,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 24,
     "Participacoes": 1,
-    "Posicao": 352,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 362,
+    "Movimento": -10.0,
+    "Movimento_Texto": "↓ 10"
   },
   {
     "Nick": "LuisValle1604",
@@ -5643,9 +5803,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 24,
     "Participacoes": 1,
-    "Posicao": 353,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 363,
+    "Movimento": -10.0,
+    "Movimento_Texto": "↓ 10"
   },
   {
     "Nick": "jeffedavid01",
@@ -5659,9 +5819,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 20,
     "Participacoes": 2,
-    "Posicao": 354,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 364,
+    "Movimento": -10.0,
+    "Movimento_Texto": "↓ 10"
   },
   {
     "Nick": "Nandomga",
@@ -5675,9 +5835,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 17,
     "Participacoes": 1,
-    "Posicao": 355,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 365,
+    "Movimento": -10.0,
+    "Movimento_Texto": "↓ 10"
   },
   {
     "Nick": "Luishoracio0000",
@@ -5691,9 +5851,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 19,
     "Participacoes": 1,
-    "Posicao": 356,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 366,
+    "Movimento": -10.0,
+    "Movimento_Texto": "↓ 10"
   },
   {
     "Nick": "xYami",
@@ -5707,9 +5867,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 18,
     "Participacoes": 1,
-    "Posicao": 357,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 367,
+    "Movimento": -10.0,
+    "Movimento_Texto": "↓ 10"
   },
   {
     "Nick": "One_Capi",
@@ -5723,7 +5883,23 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 8,
     "Participacoes": 1,
-    "Posicao": 358,
+    "Posicao": 368,
+    "Movimento": -10.0,
+    "Movimento_Texto": "↓ 10"
+  },
+  {
+    "Nick": "LUISANGELSALGADO2",
+    "Pontos": 0,
+    "Desempenho_Medio": null,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 2059.0,
+    "Pontos_por_Torneio": 0.0,
+    "Maior_Pontuacao": 0,
+    "Menor_Ranking": 20,
+    "Participacoes": 1,
+    "Posicao": 369,
     "Movimento": null,
     "Movimento_Texto": "NOVO"
   },
@@ -5739,9 +5915,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 21,
     "Participacoes": 1,
-    "Posicao": 359,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 370,
+    "Movimento": -11.0,
+    "Movimento_Texto": "↓ 11"
   },
   {
     "Nick": "Peluncur16",
@@ -5755,9 +5931,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 15,
     "Participacoes": 1,
-    "Posicao": 360,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 371,
+    "Movimento": -11.0,
+    "Movimento_Texto": "↓ 11"
   },
   {
     "Nick": "Walterchess33",
@@ -5771,9 +5947,25 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 19,
     "Participacoes": 1,
-    "Posicao": 361,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 372,
+    "Movimento": -11.0,
+    "Movimento_Texto": "↓ 11"
+  },
+  {
+    "Nick": "Gualter_Xpga",
+    "Pontos": 0,
+    "Desempenho_Medio": null,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1997.0,
+    "Pontos_por_Torneio": 0.0,
+    "Maior_Pontuacao": 0,
+    "Menor_Ranking": 14,
+    "Participacoes": 1,
+    "Posicao": 373,
+    "Movimento": -45.0,
+    "Movimento_Texto": "↓ 45"
   },
   {
     "Nick": "Bonora_Chess",
@@ -5787,9 +5979,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 18,
     "Participacoes": 1,
-    "Posicao": 362,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 374,
+    "Movimento": -12.0,
+    "Movimento_Texto": "↓ 12"
   },
   {
     "Nick": "Danilochess0",
@@ -5803,9 +5995,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 15,
     "Participacoes": 1,
-    "Posicao": 363,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 375,
+    "Movimento": -12.0,
+    "Movimento_Texto": "↓ 12"
   },
   {
     "Nick": "yurislandy85",
@@ -5819,25 +6011,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 19,
     "Participacoes": 1,
-    "Posicao": 364,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
-  },
-  {
-    "Nick": "JOAOmendesdias",
-    "Pontos": 0,
-    "Desempenho_Medio": null,
-    "podio_primeiro": 0,
-    "podio_segundo": 0,
-    "podio_terceiro": 0,
-    "Rating_Medio": 1884.0,
-    "Pontos_por_Torneio": 0.0,
-    "Maior_Pontuacao": 0,
-    "Menor_Ranking": 20,
-    "Participacoes": 1,
-    "Posicao": 365,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 376,
+    "Movimento": -12.0,
+    "Movimento_Texto": "↓ 12"
   },
   {
     "Nick": "chessfox7654",
@@ -5851,7 +6027,23 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 23,
     "Participacoes": 1,
-    "Posicao": 366,
+    "Posicao": 377,
+    "Movimento": -11.0,
+    "Movimento_Texto": "↓ 11"
+  },
+  {
+    "Nick": "gaelitonieto77",
+    "Pontos": 0,
+    "Desempenho_Medio": null,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1871.0,
+    "Pontos_por_Torneio": 0.0,
+    "Maior_Pontuacao": 0,
+    "Menor_Ranking": 12,
+    "Participacoes": 1,
+    "Posicao": 378,
     "Movimento": null,
     "Movimento_Texto": "NOVO"
   },
@@ -5867,9 +6059,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 21,
     "Participacoes": 1,
-    "Posicao": 367,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 379,
+    "Movimento": -12.0,
+    "Movimento_Texto": "↓ 12"
   },
   {
     "Nick": "Douglasjesus500",
@@ -5883,9 +6075,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 17,
     "Participacoes": 1,
-    "Posicao": 368,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 380,
+    "Movimento": -12.0,
+    "Movimento_Texto": "↓ 12"
   },
   {
     "Nick": "Horacio-080506",
@@ -5899,9 +6091,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 14,
     "Participacoes": 1,
-    "Posicao": 369,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 381,
+    "Movimento": -12.0,
+    "Movimento_Texto": "↓ 12"
   },
   {
     "Nick": "X-3100",
@@ -5915,9 +6107,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 22,
     "Participacoes": 1,
-    "Posicao": 370,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 382,
+    "Movimento": -12.0,
+    "Movimento_Texto": "↓ 12"
   },
   {
     "Nick": "soneca2017",
@@ -5931,7 +6123,23 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 19,
     "Participacoes": 1,
-    "Posicao": 371,
+    "Posicao": 383,
+    "Movimento": -12.0,
+    "Movimento_Texto": "↓ 12"
+  },
+  {
+    "Nick": "enxadrismo",
+    "Pontos": 0,
+    "Desempenho_Medio": null,
+    "podio_primeiro": 0,
+    "podio_segundo": 0,
+    "podio_terceiro": 0,
+    "Rating_Medio": 1765.0,
+    "Pontos_por_Torneio": 0.0,
+    "Maior_Pontuacao": 0,
+    "Menor_Ranking": 18,
+    "Participacoes": 1,
+    "Posicao": 384,
     "Movimento": null,
     "Movimento_Texto": "NOVO"
   },
@@ -5947,9 +6155,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 16,
     "Participacoes": 1,
-    "Posicao": 372,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 385,
+    "Movimento": -13.0,
+    "Movimento_Texto": "↓ 13"
   },
   {
     "Nick": "Yadvendra-Shahi",
@@ -5963,9 +6171,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 19,
     "Participacoes": 1,
-    "Posicao": 373,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 386,
+    "Movimento": -13.0,
+    "Movimento_Texto": "↓ 13"
   },
   {
     "Nick": "Nunes6",
@@ -5979,9 +6187,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 29,
     "Participacoes": 1,
-    "Posicao": 374,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 387,
+    "Movimento": -13.0,
+    "Movimento_Texto": "↓ 13"
   },
   {
     "Nick": "Cowboy202021",
@@ -5995,9 +6203,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 12,
     "Participacoes": 1,
-    "Posicao": 375,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 388,
+    "Movimento": -13.0,
+    "Movimento_Texto": "↓ 13"
   },
   {
     "Nick": "ChiadasRD",
@@ -6011,9 +6219,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 21,
     "Participacoes": 1,
-    "Posicao": 376,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 389,
+    "Movimento": -13.0,
+    "Movimento_Texto": "↓ 13"
   },
   {
     "Nick": "Jhonmarcos",
@@ -6027,23 +6235,23 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 19,
     "Participacoes": 1,
-    "Posicao": 377,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 390,
+    "Movimento": -13.0,
+    "Movimento_Texto": "↓ 13"
   },
   {
-    "Nick": "GutoXL",
+    "Nick": "Peon-68",
     "Pontos": 0,
     "Desempenho_Medio": null,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1591.0,
+    "Rating_Medio": 1620.0,
     "Pontos_por_Torneio": 0.0,
     "Maior_Pontuacao": 0,
-    "Menor_Ranking": 17,
+    "Menor_Ranking": 13,
     "Participacoes": 1,
-    "Posicao": 378,
+    "Posicao": 391,
     "Movimento": null,
     "Movimento_Texto": "NOVO"
   },
@@ -6059,9 +6267,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 21,
     "Participacoes": 1,
-    "Posicao": 379,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 392,
+    "Movimento": -13.0,
+    "Movimento_Texto": "↓ 13"
   },
   {
     "Nick": "Natanna",
@@ -6075,9 +6283,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 19,
     "Participacoes": 1,
-    "Posicao": 380,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 393,
+    "Movimento": -13.0,
+    "Movimento_Texto": "↓ 13"
   },
   {
     "Nick": "Pelucca",
@@ -6091,9 +6299,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 25,
     "Participacoes": 1,
-    "Posicao": 381,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 394,
+    "Movimento": -13.0,
+    "Movimento_Texto": "↓ 13"
   },
   {
     "Nick": "gagomago",
@@ -6107,9 +6315,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 22,
     "Participacoes": 1,
-    "Posicao": 382,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 395,
+    "Movimento": -13.0,
+    "Movimento_Texto": "↓ 13"
   },
   {
     "Nick": "Fabio_Assuncao",
@@ -6123,9 +6331,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 22,
     "Participacoes": 1,
-    "Posicao": 383,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 396,
+    "Movimento": -13.0,
+    "Movimento_Texto": "↓ 13"
   },
   {
     "Nick": "Hicoflavio",
@@ -6137,11 +6345,11 @@
     "Rating_Medio": 1187.0,
     "Pontos_por_Torneio": 0.0,
     "Maior_Pontuacao": 0,
-    "Menor_Ranking": 29,
-    "Participacoes": 1,
-    "Posicao": 384,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Menor_Ranking": 22,
+    "Participacoes": 2,
+    "Posicao": 397,
+    "Movimento": -13.0,
+    "Movimento_Texto": "↓ 13"
   },
   {
     "Nick": "west_hunter",
@@ -6155,9 +6363,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 21,
     "Participacoes": 1,
-    "Posicao": 385,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 398,
+    "Movimento": -13.0,
+    "Movimento_Texto": "↓ 13"
   },
   {
     "Nick": "PROFRENATOVITORELI",
@@ -6171,9 +6379,9 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 23,
     "Participacoes": 1,
-    "Posicao": 386,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 399,
+    "Movimento": -13.0,
+    "Movimento_Texto": "↓ 13"
   },
   {
     "Nick": "juanluispardo",
@@ -6187,8 +6395,8 @@
     "Maior_Pontuacao": 0,
     "Menor_Ranking": 23,
     "Participacoes": 1,
-    "Posicao": 387,
-    "Movimento": null,
-    "Movimento_Texto": "NOVO"
+    "Posicao": 400,
+    "Movimento": -13.0,
+    "Movimento_Texto": "↓ 13"
   }
 ]
