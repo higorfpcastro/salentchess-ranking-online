@@ -63,7 +63,7 @@ TEAM_ID = "salentchess"
 #
 # ------------------------------------------------------------
 
-START_DATE = "19/08/2025"
+START_DATE = "01/01/2026"
 END_DATE = None
 
 
@@ -95,7 +95,7 @@ END_DATE = None
 #
 # ------------------------------------------------------------
 
-INCLUDED_WEEKDAYS = [0, 1, 2, 3, 4]
+INCLUDED_WEEKDAYS = [0, 1, 2, 3, 4, 5, 6]
 
 WEEKDAY_NAMES = [
     "segunda-feira",
