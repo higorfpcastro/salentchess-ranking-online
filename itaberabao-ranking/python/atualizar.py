@@ -97,6 +97,15 @@ END_DATE = None
 
 INCLUDED_WEEKDAYS = [0, 1, 2, 3, 4]
 
+WEEKDAY_NAMES = [
+    "segunda-feira",
+    "terça-feira",
+    "quarta-feira",
+    "quinta-feira",
+    "sexta-feira",
+    "sábado",
+    "domingo",
+]
 
 '''
 # ============================================================
@@ -1333,4 +1342,31 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+
+    dias_config = ", ".join(
+        WEEKDAY_NAMES[d] for d in INCLUDED_WEEKDAYS
+    )
+
+    periodo_inicio = START_DATE or "sem limite"
+    periodo_fim = END_DATE or "até hoje"
+
+    print("\n" + "=" * 60)
+    print("CONFIGURAÇÃO DOS TORNEIOS")
+    print("=" * 60)
+    print(f"Período: {periodo_inicio} → {periodo_fim}")
+    print(f"Dias considerados: {dias_config}")
+    print("=" * 60 + "\n")
+
+    start_ms = date_to_timestamp_ms(
+        START_DATE
+    )
+
+    end_ms = date_to_timestamp_ms(
+        END_DATE,
+        end_of_day=True
+    )
+
+    tournaments = get_team_tournaments(
+        start_ms=start_ms,
+        end_ms=end_ms
+    )
