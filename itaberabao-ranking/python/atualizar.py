@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Atualização automática do ranking Itaberabão.
+Atualização automática do ranking Salentchess.
 
 Fluxo:
 Lichess API
