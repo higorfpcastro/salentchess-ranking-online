@@ -1,4 +1,4 @@
-# Ranking Itaberabão — automático e gratuito
+# Ranking SalentChess — automático e gratuito
 
 Este projeto transforma o programa `Torneio_Diario_Itaberabao_v11.py` em uma aplicação que pode rodar automaticamente no GitHub:
 
