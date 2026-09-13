@@ -2,7 +2,7 @@ name: Atualizar ranking SalentChess
 
 on:
   schedule:
-    - cron: '55 15 * * *'  # 11h30 Brasília (UTC-3)
+    - cron: '00 16 * * *'  # 11h30 Brasília (UTC-3)
 
   workflow_dispatch:
 
