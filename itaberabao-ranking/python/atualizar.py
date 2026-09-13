@@ -24,6 +24,7 @@ import json
 import math
 import re
 from datetime import datetime, timezone
+from zoneinfo import ZoneInfo
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
@@ -35,6 +36,70 @@ import requests
 # CONFIGURAÇÃO
 # ============================================================
 # ============================================================
+# CONFIGURAÇÃO DOS TORNEIOS CONSIDERADOS
+# ============================================================
+
+TEAM_ID = "salentchess"
+
+# ------------------------------------------------------------
+# INTERVALO DE DATAS
+# ------------------------------------------------------------
+#
+# Formato: "DD/MM/AAAA"
+#
+# START_DATE = início do período
+# END_DATE   = final do período
+#
+# Use None quando não quiser estabelecer um limite.
+#
+# Exemplos:
+#
+# START_DATE = "19/08/2025"
+# END_DATE = None
+#
+# significa:
+# considerar torneios a partir de 19/08/2025
+# até o momento da execução.
+#
+# ------------------------------------------------------------
+
+START_DATE = "19/08/2025"
+END_DATE = None
+
+
+# ------------------------------------------------------------
+# DIAS DA SEMANA CONSIDERADOS
+# ------------------------------------------------------------
+#
+# 0 = segunda-feira
+# 1 = terça-feira
+# 2 = quarta-feira
+# 3 = quinta-feira
+# 4 = sexta-feira
+# 5 = sábado
+# 6 = domingo
+#
+# Exemplos:
+#
+# Segunda a sexta:
+# [0, 1, 2, 3, 4]
+#
+# Apenas terça e quinta:
+# [1, 3]
+#
+# Segunda, quarta e sexta:
+# [0, 2, 4]
+#
+# Todos os dias:
+# [0, 1, 2, 3, 4, 5, 6]
+#
+# ------------------------------------------------------------
+
+INCLUDED_WEEKDAYS = [0, 1, 2, 3, 4]
+
+
+'''
+# ============================================================
 # CONFIGURAÇÃO
 # ============================================================
 
@@ -45,6 +110,8 @@ START_TIMESTAMP_MS = 1755563400000
 
 # None = considerar até o momento da execução.
 END_TIMESTAMP_MS = None
+'''
+
 
 EXCLUDED_TOURNAMENTS = {"WOE0IJur"}
 
@@ -135,6 +202,40 @@ SESSION.headers.update({
 # ============================================================
 # UTILIDADES
 # ============================================================
+
+BR_TZ = ZoneInfo("America/Sao_Paulo")
+
+
+def date_to_timestamp_ms(date_str, end_of_day=False):
+    """
+    Converte uma data no formato DD/MM/AAAA
+    para timestamp Unix em milissegundos.
+
+    A data é interpretada no horário de Brasília.
+    """
+
+    if date_str is None:
+        return None
+
+    dt = datetime.strptime(
+        date_str,
+        "%d/%m/%Y"
+    ).replace(
+        tzinfo=BR_TZ
+    )
+
+    if end_of_day:
+        dt = dt.replace(
+            hour=23,
+            minute=59,
+            second=59,
+            microsecond=999000
+        )
+
+    return int(
+        dt.timestamp() * 1000
+    )
+
 
 def save_json(filename: str, obj) -> None:
     """
@@ -323,17 +424,28 @@ def get_team_tournaments(start_ms=None, end_ms=None):
     # Data/hora
     # --------------------------------------------------------
 
+    # --------------------------------------------------------
+    # Data/hora
+    # --------------------------------------------------------
+    
     df["startsAt_dt"] = pd.to_datetime(
         df["startsAt"],
         unit="ms",
         utc=True
     )
-
-    # Apenas segunda a sexta.
+    
+    # Converte para o horário de Brasília.
+    df["startsAt_brt"] = df["startsAt_dt"].dt.tz_convert(
+        BR_TZ
+    )
+    
+    # Filtra pelos dias da semana escolhidos na configuração.
     df = df[
-        ~df["startsAt_dt"].dt.dayofweek.isin([5, 6])
+        df["startsAt_brt"].dt.dayofweek.isin(
+            INCLUDED_WEEKDAYS
+        )
     ].copy()
-
+    
     # --------------------------------------------------------
     # Exclusões
     # --------------------------------------------------------
@@ -1037,11 +1149,21 @@ def main():
         "Consultando torneios do Itaberabão..."
     )
 
-    tournaments = get_team_tournaments(
-        start_ms=START_TIMESTAMP_MS,
-        end_ms=END_TIMESTAMP_MS
+    start_ms = date_to_timestamp_ms(
+    START_DATE
     )
-
+    
+    end_ms = date_to_timestamp_ms(
+        END_DATE,
+        end_of_day=True
+    )
+    
+    tournaments = get_team_tournaments(
+        start_ms=start_ms,
+        end_ms=end_ms
+    )
+        
+    
     print(
         f"Torneios selecionados: "
         f"{len(tournaments)}"
