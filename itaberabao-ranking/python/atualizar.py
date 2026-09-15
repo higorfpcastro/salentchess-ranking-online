@@ -30,7 +30,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import pandas as pd
 import requests
-
+import time
 
 # ============================================================
 # CONFIGURAÇÃO
@@ -479,12 +479,8 @@ def get_team_tournaments(start_ms=None, end_ms=None):
 # LICHESS — RESULTADOS
 # ============================================================
 
-def fetch_tournament_results(tournament_id: str):
-
-    url = (
-        f"https://lichess.org/api/tournament/"
-        f"{tournament_id}/results"
-    )
+def fetch_tournament_results(tournament_id: str, max_attempts: int = 4):
+    url = f"https://lichess.org/api/tournament/{tournament_id}/results"
 
     params = {
         "rank": "true",
@@ -496,98 +492,189 @@ def fetch_tournament_results(tournament_id: str):
         "team": "true",
     }
 
-    response = SESSION.get(
-        url,
-        headers={
-            "Accept": "application/x-ndjson"
-        },
-        params=params,
-        timeout=60,
-    )
-
-    response.raise_for_status()
-
-    rows = []
-
-    for line in response.text.splitlines():
-        if line.strip():
-            rows.append(json.loads(line))
-
     wanted = [
         "username",
         "rating",
         "score",
         "performance",
-        "rank"
+        "rank",
     ]
 
-    data = []
+    for attempt in range(1, max_attempts + 1):
 
-    for row in rows:
+        try:
+            response = SESSION.get(
+                url,
+                headers={"Accept": "application/x-ndjson"},
+                params=params,
+                timeout=60,
+            )
 
-        data.append({
-            "username": row.get("username"),
-            "rating": row.get("rating"),
-            "score": row.get("score"),
-            "performance": row.get("performance"),
-            "rank": row.get("rank"),
-        })
+            # Limite de requisições da API do Lichess
+            if response.status_code == 429:
 
-    return pd.DataFrame(
-        data,
-        columns=wanted
+                retry_after = response.headers.get("Retry-After")
+
+                try:
+                    wait_seconds = int(retry_after)
+                except (TypeError, ValueError):
+                    wait_seconds = 60
+
+                # O Lichess recomenda aguardar pelo menos 1 minuto
+                wait_seconds = max(wait_seconds, 60)
+
+                if attempt < max_attempts:
+                    print(
+                        f"429 no torneio {tournament_id}. "
+                        f"Tentativa {attempt}/{max_attempts}. "
+                        f"Aguardando {wait_seconds} segundos..."
+                    )
+
+                    time.sleep(wait_seconds)
+                    continue
+
+                raise RuntimeError(
+                    f"API do Lichess retornou HTTP 429 após "
+                    f"{max_attempts} tentativas."
+                )
+
+            response.raise_for_status()
+
+            rows = []
+
+            for line in response.text.splitlines():
+                if line.strip():
+                    rows.append(json.loads(line))
+
+            data = []
+
+            for row in rows:
+                data.append({
+                    "username": row.get("username"),
+                    "rating": row.get("rating"),
+                    "score": row.get("score"),
+                    "performance": row.get("performance"),
+                    "rank": row.get("rank"),
+                })
+
+            df = pd.DataFrame(data, columns=wanted)
+
+            # Um torneio encerrado deve possuir participantes.
+            # Se a API retornar vazio, tratamos como erro para
+            # evitar publicar um ranking incompleto.
+            if df.empty:
+                raise RuntimeError(
+                    f"A API retornou 0 participantes para o torneio "
+                    f"{tournament_id}."
+                )
+
+            return df
+
+        except Exception as exc:
+
+            if attempt >= max_attempts:
+                raise RuntimeError(
+                    f"Falha ao obter resultados do torneio "
+                    f"{tournament_id} após {max_attempts} tentativas: {exc}"
+                ) from exc
+
+            # Para erros diferentes de 429, usamos espera progressiva:
+            # 10 s, 20 s, 40 s...
+            wait_seconds = 10 * (2 ** (attempt - 1))
+
+            print(
+                f"Erro no torneio {tournament_id}: {exc}. "
+                f"Tentativa {attempt}/{max_attempts}. "
+                f"Aguardando {wait_seconds} segundos..."
+            )
+
+            time.sleep(wait_seconds)
+
+    raise RuntimeError(
+        f"Não foi possível obter os resultados do torneio {tournament_id}."
     )
 
 
-def download_all_results(tournaments):
 
+def download_all_results(tournaments):
     results = {}
 
     if tournaments.empty:
         return results
 
-    with ThreadPoolExecutor(
-        max_workers=4
-    ) as executor:
+    failed = []
 
-        futures = {
-            executor.submit(
-                fetch_tournament_results,
-                tid
-            ): tid
-            for tid in tournaments["id"].tolist()
-        }
+    tournament_ids = tournaments["id"].tolist()
 
-        for future in as_completed(futures):
+    print(
+        f"Iniciando download dos resultados de "
+        f"{len(tournament_ids)} torneios..."
+    )
 
-            tid = futures[future]
+    # IMPORTANTE:
+    # Os torneios são processados um por vez.
+    # Isso evita as 4 requisições simultâneas que existiam
+    # anteriormente e reduz a possibilidade de HTTP 429.
+    for i, tid in enumerate(tournament_ids, start=1):
 
-            try:
+        print(
+            f"[{i}/{len(tournament_ids)}] "
+            f"Baixando resultados do torneio {tid}..."
+        )
 
-                results[tid] = future.result()
+        try:
+            results[tid] = fetch_tournament_results(tid)
 
-                print(
-                    f"OK: resultados {tid}"
-                )
+            print(
+                f"OK: resultados {tid} "
+                f"({len(results[tid])} participantes)"
+            )
 
-            except Exception as exc:
+            # Pequena pausa entre requisições.
+            # Além de deixar as requisições sequenciais,
+            # ajuda a reduzir a pressão sobre a API.
+            if i < len(tournament_ids):
+                time.sleep(1)
 
-                print(
-                    f"ERRO no torneio {tid}: {exc}"
-                )
+        except Exception as exc:
 
-                results[tid] = pd.DataFrame(
-                    columns=[
-                        "username",
-                        "rating",
-                        "score",
-                        "performance",
-                        "rank"
-                    ]
-                )
+            print(
+                f"ERRO no torneio {tid}: {exc}"
+            )
+
+            failed.append((tid, str(exc)))
+
+    # NÃO permite gerar um ranking parcial.
+    if failed:
+
+        mensagem = "\n".join(
+            f"- {tid}: {erro}"
+            for tid, erro in failed
+        )
+
+        raise RuntimeError(
+            "\n"
+            "==================================================\n"
+            "ERRO: NÃO FOI POSSÍVEL OBTER TODOS OS RESULTADOS\n"
+            "==================================================\n"
+            f"Total de torneios selecionados: {len(tournament_ids)}\n"
+            f"Torneios obtidos com sucesso: {len(results)}\n"
+            f"Torneios com erro: {len(failed)}\n"
+            "\n"
+            "O ranking NÃO será atualizado para evitar a publicação "
+            "de dados incompletos.\n"
+            "\n"
+            "Torneios com erro:\n"
+            f"{mensagem}\n"
+            "=================================================="
+        )
+
+    print(
+        f"Download concluído: {len(results)}/{len(tournament_ids)} "
+        f"torneios processados com sucesso."
+    )
 
     return results
-
 
 # ============================================================
 # PARTICIPAÇÕES
