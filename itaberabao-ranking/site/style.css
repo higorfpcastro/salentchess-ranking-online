@@ -383,9 +383,18 @@ tbody tr {
 }
 
 
-tbody tr:hover {
+#ranking tbody tr:nth-child(odd) {
+  background: var(--surface);
+}
 
-  background: var(--accent-soft);
+#ranking tbody tr:nth-child(even) {
+  background: var(--surface-2);
+}
+
+
+#ranking tbody tr:hover {
+
+  background: var(--accent-soft) !important;
 
   cursor: pointer;
 }
