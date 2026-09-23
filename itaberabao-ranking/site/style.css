@@ -412,14 +412,6 @@ tbody tr:hover {
   color: var(--text);
 }
 
-
-#ranking tbody tr:nth-child(odd) {
-  background: var(--surface);
-}
-
-#ranking tbody tr:nth-child(even) {
-  background: var(--surface-2);
-}
 /* ============================================================
    MOVIMENTO DO RANKING
    ============================================================ */
