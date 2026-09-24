@@ -348,6 +348,7 @@ function renderRanking(filter = "") {
       <td class="podium-third">
         ${fmt(player.podio_terceiro)}
       </td>
+      
       <td>
         ${fmt(player.Rating_Medio)}
       </td>
