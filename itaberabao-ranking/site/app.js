@@ -2,6 +2,54 @@
    RANKING ITABERABÃO
    ============================================================ */
 
+/* ------------------------------------------------------------
+   AVATARES DOS JOGADORES
+   ------------------------------------------------------------ */
+const playerAvatars = {
+  "Aprendiz17": "avatars/Aprendiz17.png",
+  "higorfpcastro": "avatars/higorfpcastro.jpg"
+};
+
+function getPlayerAvatar(username) {
+  if (username && playerAvatars[username]) {
+    return playerAvatars[username];
+  }
+  return "https://lichess1.org/assets/images/placeholder.avatar.png";
+}
+
+/* ------------------------------------------------------------
+   MODAL DE ZOOM DO AVATAR
+   ------------------------------------------------------------ */
+function openAvatarModal(imgSrc, username) {
+  const modal = document.querySelector("#avatar-modal");
+  const modalImg = document.querySelector("#avatar-modal-img");
+  const modalCaption = document.querySelector("#avatar-modal-caption");
+
+  if (modal && modalImg && modalCaption) {
+    modalImg.src = imgSrc;
+    modalCaption.textContent = username;
+    modal.classList.remove("hidden");
+  }
+}
+
+function initAvatarModalEvents() {
+  const modal = document.querySelector("#avatar-modal");
+  const closeBtn = document.querySelector("#avatar-modal-close");
+
+  if (closeBtn) {
+    closeBtn.addEventListener("click", () => modal.classList.add("hidden"));
+  }
+
+  if (modal) {
+    modal.addEventListener("click", event => {
+      if (event.target === modal) modal.classList.add("hidden");
+    });
+  }
+}
+
+/* ------------------------------------------------------------
+   VARIÁVEIS GLOBAIS
+   ------------------------------------------------------------ */
 const DATA = "";
 
 let ranking = [];
@@ -20,13 +68,10 @@ let positionChart = null;
    ============================================================ */
 
 async function loadJSON(file) {
-
   const response = await fetch(DATA + file);
 
   if (!response.ok) {
-
     throw new Error(`Falha ao carregar ${file}`);
-
   }
 
   return response.json();
@@ -38,76 +83,51 @@ async function loadJSON(file) {
    ============================================================ */
 
 function fmt(value, digits = 0) {
-
   if (
     value === null ||
     value === undefined ||
     Number.isNaN(Number(value))
   ) {
-
     return "—";
-
   }
 
   return Number(value).toLocaleString("pt-BR", {
-
     maximumFractionDigits: digits,
-
     minimumFractionDigits: digits
-
   });
 }
 
-
 function dateFmt(value) {
-
   if (!value) {
-
     return "—";
-
   }
 
   const date = new Date(value);
 
   if (Number.isNaN(date.getTime())) {
-
     return "—";
-
   }
 
   return new Intl.DateTimeFormat("pt-BR", {
-
     dateStyle: "short",
-
     timeStyle: "short"
-
   }).format(date);
-
 }
 
-
 function dateOnly(value) {
-
   if (!value) {
-
     return "—";
-
   }
 
   const date = new Date(value);
 
   if (Number.isNaN(date.getTime())) {
-
     return "—";
-
   }
 
   return new Intl.DateTimeFormat("pt-BR", {
-
     dateStyle: "short"
-
   }).format(date);
-
 }
 
 
@@ -116,23 +136,15 @@ function dateOnly(value) {
    ============================================================ */
 
 function escapeHTML(value) {
-
   if (value === null || value === undefined) {
-
     return "";
-
   }
 
   return String(value)
-
     .replaceAll("&", "&amp;")
-
     .replaceAll("<", "&lt;")
-
     .replaceAll(">", "&gt;")
-
     .replaceAll('"', "&quot;")
-
     .replaceAll("'", "&#039;");
 }
 
@@ -142,47 +154,38 @@ function escapeHTML(value) {
    ============================================================ */
 
 function movementHTML(player) {
-
   const text = player.Movimento_Texto;
 
   if (!text || text === "NOVO") {
-
     return `
       <span class="movement new">
         NOVO
       </span>
     `;
-
   }
 
   if (text === "—") {
-
     return `
       <span class="movement same">
         —
       </span>
     `;
-
   }
 
   if (text.startsWith("↑")) {
-
     return `
       <span class="movement up">
         ${escapeHTML(text)}
       </span>
     `;
-
   }
 
   if (text.startsWith("↓")) {
-
     return `
       <span class="movement down">
         ${escapeHTML(text)}
       </span>
     `;
-
   }
 
   return `
@@ -198,53 +201,39 @@ function movementHTML(player) {
    ============================================================ */
 
 function renderCards() {
-
   const updated = status.updated_at
     ? dateFmt(status.updated_at)
     : "—";
 
-
   const cards = [
-
     [
       "Jogadores",
       status.players ?? ranking.length
     ],
-
     [
       "Torneios",
       status.tournaments ?? tournaments.length
     ],
-
     [
       "Participações",
       status.participations ?? participations.length
     ],
-
     [
       "Atualizado",
       updated
     ]
-
   ];
 
-
   document.querySelector("#cards").innerHTML =
-
     cards.map(([label, value]) => `
-
       <div class="card">
-
         <span class="card-label">
           ${escapeHTML(label)}
         </span>
-
         <strong class="card-value">
           ${escapeHTML(value)}
         </strong>
-
       </div>
-
     `).join("");
 }
 
@@ -254,30 +243,23 @@ function renderCards() {
    ============================================================ */
 
 function renderInterval() {
-
   const element =
     document.querySelector("#interval");
-
 
   if (
     !status.interval_start ||
     !status.interval_end
   ) {
-
     element.textContent =
       "Período dos dados: —";
-
     return;
-
   }
-
 
   const start =
     dateOnly(status.interval_start);
 
   const end =
     dateOnly(status.interval_end);
-
 
   element.textContent =
     `Período dos dados: ${start} a ${end}`;
@@ -289,32 +271,24 @@ function renderInterval() {
    ============================================================ */
 
 function renderRanking(filter = "") {
-
   const query =
     filter.trim().toLowerCase();
 
-
   const rows =
     ranking.filter(player =>
-
       (player.Nick || "")
         .toLowerCase()
         .includes(query)
-
     );
-
 
   const tbody =
     document.querySelector("#ranking tbody");
 
-
   tbody.innerHTML = rows.map(player => `
-
     <tr
       data-player="${escapeHTML(player.Nick)}"
       title="Clique para visualizar o desempenho"
     >
-
       <td class="rank">
         ${fmt(player.Posicao)}
       </td>
@@ -324,7 +298,16 @@ function renderRanking(filter = "") {
       </td>
 
       <td class="player">
-        ${escapeHTML(player.Nick ?? "—")}
+        <div class="player-cell">
+          <img 
+            src="${getPlayerAvatar(player.Nick)}" 
+            alt="${escapeHTML(player.Nick ?? '')}" 
+            class="player-avatar"
+            onclick="event.stopPropagation(); openAvatarModal(this.src, '${escapeHTML(player.Nick ?? '')}')"
+            title="Clique para ampliar a foto"
+          >
+          <span>${escapeHTML(player.Nick ?? "—")}</span>
+        </div>
       </td>
 
       <td class="points-cell">
@@ -332,23 +315,23 @@ function renderRanking(filter = "") {
           ${fmt(player.Pontos)}
         </strong>
       </td>
-      
+
       <td>
         ${fmt(player.Desempenho_Medio)}
       </td>
-      
+
       <td class="podium-first">
         ${fmt(player.podio_primeiro)}
       </td>
-      
+
       <td class="podium-second">
         ${fmt(player.podio_segundo)}
       </td>
-      
+
       <td class="podium-third">
         ${fmt(player.podio_terceiro)}
       </td>
-      
+
       <td>
         ${fmt(player.Rating_Medio)}
       </td>
@@ -356,18 +339,13 @@ function renderRanking(filter = "") {
       <td>
         ${fmt(player.Participacoes)}
       </td>
-
     </tr>
-
   `).join("");
-
 
   tbody
     .querySelectorAll("tr")
     .forEach(row => {
-
       row.addEventListener("click", () => {
-
         const nick =
           row.dataset.player;
 
@@ -379,11 +357,8 @@ function renderRanking(filter = "") {
             behavior: "smooth",
             block: "start"
           });
-
       });
-
     });
-
 }
 
 
@@ -392,33 +367,35 @@ function renderRanking(filter = "") {
    ============================================================ */
 
 function renderWinners() {
-
   document.querySelector("#winners tbody").innerHTML =
-
     winners
       .slice(0, 20)
       .map((player, index) => `
-
         <tr>
-
           <td class="rank">
             ${index + 1}
           </td>
 
           <td class="player">
-            ${escapeHTML(player.vencedores ?? "—")}
+            <div class="player-cell">
+              <img 
+                src="${getPlayerAvatar(player.vencedores)}" 
+                alt="${escapeHTML(player.vencedores ?? '')}" 
+                class="player-avatar"
+                onclick="event.stopPropagation(); openAvatarModal(this.src, '${escapeHTML(player.vencedores ?? '')}')"
+              >
+              <span>${escapeHTML(player.vencedores ?? "—")}</span>
+            </div>
           </td>
 
           <td>
             ${fmt(player.vitorias)}
           </td>
 
-          <td>
+          <td class="points-cell">
             ${fmt(player.Pontos)}
           </td>
-
         </tr>
-
       `)
       .join("");
 }
@@ -429,32 +406,34 @@ function renderWinners() {
    ============================================================ */
 
 function renderCategories() {
-
   document.querySelector("#categories tbody").innerHTML =
-
     categories
       .map(player => `
-
         <tr>
-
           <td>
             ${escapeHTML(player.Categoria ?? "—")}
           </td>
 
           <td class="player">
-            ${escapeHTML(player.Nick ?? "—")}
+            <div class="player-cell">
+              <img 
+                src="${getPlayerAvatar(player.Nick)}" 
+                alt="${escapeHTML(player.Nick ?? '')}" 
+                class="player-avatar"
+                onclick="event.stopPropagation(); openAvatarModal(this.src, '${escapeHTML(player.Nick ?? '')}')"
+              >
+              <span>${escapeHTML(player.Nick ?? "—")}</span>
+            </div>
           </td>
 
           <td>
             ${fmt(player.Rating_Medio)}
           </td>
 
-          <td>
+          <td class="points-cell">
             ${fmt(player.Pontos)}
           </td>
-
         </tr>
-
       `)
       .join("");
 }
@@ -465,25 +444,18 @@ function renderCategories() {
    ============================================================ */
 
 function renderTournaments() {
-
   const recent = [...tournaments]
-
     .sort(
       (a, b) =>
         new Date(b.startsAt) -
         new Date(a.startsAt)
     )
-
     .slice(0, 30);
 
-
   document.querySelector("#tournaments tbody").innerHTML =
-
     recent
       .map(tournament => `
-
         <tr>
-
           <td>
             ${dateFmt(tournament.startsAt)}
           </td>
@@ -497,10 +469,8 @@ function renderTournaments() {
           </td>
 
           <td>
-
             ${
               tournament.url
-
                 ? `
                   <a
                     href="${escapeHTML(tournament.url)}"
@@ -510,14 +480,10 @@ function renderTournaments() {
                     Lichess ↗
                   </a>
                 `
-
                 : "—"
             }
-
           </td>
-
         </tr>
-
       `)
       .join("");
 }
@@ -528,41 +494,28 @@ function renderTournaments() {
    ============================================================ */
 
 function renderPlayerSelector() {
-
   const select =
     document.querySelector("#player-select");
-
 
   const current =
     select.value;
 
-
   select.innerHTML = `
-
     <option value="">
       Selecione um jogador...
     </option>
-
     ${
       ranking.map(player => `
-
         <option value="${escapeHTML(player.Nick)}">
-
           #${fmt(player.Posicao)}
           — ${escapeHTML(player.Nick)}
-
         </option>
-
       `).join("")
     }
-
   `;
 
-
   if (current) {
-
     select.value = current;
-
   }
 }
 
@@ -572,22 +525,15 @@ function renderPlayerSelector() {
    ============================================================ */
 
 function getPlayerParticipations(nick) {
-
   if (!nick) {
-
     return [];
-
   }
-
 
   const normalized =
     nick.trim().toLowerCase();
 
-
   return participations
-
     .filter(item => {
-
       const username =
         (
           item.username ??
@@ -599,9 +545,7 @@ function getPlayerParticipations(nick) {
         .toLowerCase();
 
       return username === normalized;
-
     })
-
     .sort(
       (a, b) =>
         new Date(a.startsAt) -
@@ -615,73 +559,54 @@ function getPlayerParticipations(nick) {
    ============================================================ */
 
 function selectPlayer(nick) {
-
   const select =
     document.querySelector("#player-select");
 
-
   select.value = nick;
 
-
   if (!nick) {
-
     showEmptyPlayer();
-
     return;
-
   }
-
 
   const player =
     ranking.find(
       p => p.Nick === nick
     );
 
-
   if (!player) {
-
     showEmptyPlayer();
-
     return;
-
   }
-
 
   const history =
     getPlayerParticipations(nick);
-
 
   renderPlayerSummary(
     player,
     history
   );
 
-
   renderPointsChart(
     player,
     history
   );
 
-
   renderPositionChart(
     history
   );
-
 
   renderParticipationsTable(
     history
   );
 
-
   document
     .querySelector("#player-empty")
     .classList.add("hidden");
 
-
   document
     .querySelector("#player-performance")
     .classList.remove("hidden");
-
 }
 
 
@@ -693,36 +618,40 @@ function renderPlayerSummary(
   player,
   history
 ) {
+  const avatarImg =
+    document.querySelector("#selected-player-avatar");
+
+  if (avatarImg) {
+    const avatarSrc = getPlayerAvatar(player.Nick);
+    avatarImg.src = avatarSrc;
+    avatarImg.alt = player.Nick ?? "Foto do jogador";
+    avatarImg.onclick = () => openAvatarModal(avatarSrc, player.Nick ?? "");
+  }
 
   document
     .querySelector("#selected-player-name")
     .textContent =
       player.Nick ?? "—";
 
-
   document
     .querySelector("#selected-player-position")
     .textContent =
       `#${fmt(player.Posicao)}`;
-
 
   document
     .querySelector("#player-participations")
     .textContent =
       fmt(player.Participacoes);
 
-
   document
     .querySelector("#player-points")
     .textContent =
       fmt(player.Pontos);
 
-
   document
     .querySelector("#player-ranking-position")
     .textContent =
       `#${fmt(player.Posicao)}`;
-
 
   document
     .querySelector("#player-points-average")
@@ -739,30 +668,20 @@ function renderPointsChart(
   player,
   history
 ) {
-
   const canvas =
     document.querySelector("#points-chart");
 
-
   if (pointsChart) {
-
     pointsChart.destroy();
-
     pointsChart = null;
-
   }
-
 
   if (!history.length) {
-
     return;
-
   }
-
 
   const labels =
     history.map(item => {
-
       const date =
         new Date(item.startsAt);
 
@@ -773,148 +692,79 @@ function renderPointsChart(
           month: "2-digit"
         }
       ).format(date);
-
     });
-
 
   const data =
     history.map(item =>
       Number(item.score ?? 0)
     );
 
-
   const names =
     history.map(item =>
       item.tournament_name ?? "Torneio"
     );
 
-
   pointsChart = new Chart(canvas, {
-
     type: "line",
-
     data: {
-
       labels,
-
       datasets: [
-
         {
-
           label: "Pontos",
-
           data,
-
           borderWidth: 2,
-
           pointRadius: 4,
-
           pointHoverRadius: 6,
-
           tension: 0.25,
-
           fill: false
-
         }
-
       ]
-
     },
-
-
     options: {
-
       responsive: true,
-
       maintainAspectRatio: false,
-
-
       interaction: {
-
         mode: "index",
-
         intersect: false
-
       },
-
-
       plugins: {
-
         legend: {
-
           display: false
-
         },
-
-
         tooltip: {
-
           callbacks: {
-
             title: items => {
-
               const index =
                 items[0].dataIndex;
 
               return names[index];
-
             },
-
-
             label: context =>
-
               ` Pontos: ${fmt(context.raw)}`
-
           }
-
         }
-
       },
-
-
       scales: {
-
         x: {
-
           ticks: {
-
             color: "#9a9a9a"
-
           },
-
           grid: {
-
             color: "#3b3b3b"
-
           }
-
         },
-
-
         y: {
-
           beginAtZero: true,
-
           ticks: {
-
             color: "#9a9a9a"
-
           },
-
           grid: {
-
             color: "#3b3b3b"
-
           }
-
         }
-
       }
-
     }
-
   });
-
 }
 
 
@@ -923,30 +773,20 @@ function renderPointsChart(
    ============================================================ */
 
 function renderPositionChart(history) {
-
   const canvas =
     document.querySelector("#position-chart");
 
-
   if (positionChart) {
-
     positionChart.destroy();
-
     positionChart = null;
-
   }
-
 
   if (!history.length) {
-
     return;
-
   }
-
 
   const labels =
     history.map(item => {
-
       const date =
         new Date(item.startsAt);
 
@@ -957,21 +797,17 @@ function renderPositionChart(history) {
           month: "2-digit"
         }
       ).format(date);
-
     });
-
 
   const positions =
     history.map(item =>
       Number(item.rank ?? 0)
     );
 
-
   const names =
     history.map(item =>
       item.tournament_name ?? "Torneio"
     );
-
 
   const maxPosition =
     Math.max(
@@ -979,145 +815,75 @@ function renderPositionChart(history) {
       1
     );
 
-
   positionChart = new Chart(canvas, {
-
     type: "line",
-
     data: {
-
       labels,
-
       datasets: [
-
         {
-
           label: "Posição",
-
           data: positions,
-
           borderWidth: 2,
-
           pointRadius: 4,
-
           pointHoverRadius: 6,
-
           tension: 0.25,
-
           fill: false
-
         }
-
       ]
-
     },
-
-
     options: {
-
       responsive: true,
-
       maintainAspectRatio: false,
-
-
       interaction: {
-
         mode: "index",
-
         intersect: false
-
       },
-
-
       plugins: {
-
         legend: {
-
           display: false
-
         },
-
-
         tooltip: {
-
           callbacks: {
-
             title: items => {
-
               const index =
                 items[0].dataIndex;
 
               return names[index];
-
             },
-
-
             label: context =>
-
               ` Colocação: ${fmt(context.raw)}º`
-
           }
-
         }
-
       },
-
-
       scales: {
-
         x: {
-
           ticks: {
-
             color: "#9a9a9a"
-
           },
-
           grid: {
-
             color: "#3b3b3b"
-
           }
-
         },
-
-
         y: {
-
           reverse: true,
-
           min: 1,
-
           max: Math.max(
             maxPosition,
             5
           ),
-
           ticks: {
-
             color: "#9a9a9a",
-
             precision: 0,
-
             callback: value =>
               `${value}º`
-
           },
-
           grid: {
-
             color: "#3b3b3b"
-
           }
-
         }
-
       }
-
     }
-
   });
-
 }
 
 
@@ -1126,69 +892,46 @@ function renderPositionChart(history) {
    ============================================================ */
 
 function renderParticipationsTable(history) {
-
   const tbody =
     document.querySelector(
       "#participations-table tbody"
     );
 
-
   tbody.innerHTML = "";
 
-
   if (!history.length) {
-
     tbody.innerHTML = `
-
       <tr>
-
         <td colspan="7" class="muted">
-
           Nenhuma participação encontrada.
-
         </td>
-
       </tr>
-
     `;
-
     return;
-
   }
 
-
   tbody.innerHTML = history
-
     .slice()
-
     .reverse()
-
     .map(item => {
-
       const tournamentName =
         item.tournament_name ??
         "Torneio";
-
 
       const url =
         item.tournament_url ??
         item.url ??
         "";
 
-
       return `
-
         <tr>
-
           <td>
             ${dateOnly(item.startsAt)}
           </td>
 
           <td class="player">
-
             ${
               url
-
                 ? `
                   <a
                     href="${escapeHTML(url)}"
@@ -1198,10 +941,8 @@ function renderParticipationsTable(history) {
                     ${escapeHTML(tournamentName)}
                   </a>
                 `
-
                 : escapeHTML(tournamentName)
             }
-
           </td>
 
           <td>
@@ -1223,10 +964,8 @@ function renderParticipationsTable(history) {
           </td>
 
           <td>
-
             ${
               url
-
                 ? `
                   <a
                     href="${escapeHTML(url)}"
@@ -1236,18 +975,12 @@ function renderParticipationsTable(history) {
                     ↗
                   </a>
                 `
-
                 : ""
             }
-
           </td>
-
         </tr>
-
       `;
-
     })
-
     .join("");
 }
 
@@ -1257,34 +990,23 @@ function renderParticipationsTable(history) {
    ============================================================ */
 
 function showEmptyPlayer() {
-
   document
     .querySelector("#player-performance")
     .classList.add("hidden");
-
 
   document
     .querySelector("#player-empty")
     .classList.remove("hidden");
 
-
   if (pointsChart) {
-
     pointsChart.destroy();
-
     pointsChart = null;
-
   }
-
 
   if (positionChart) {
-
     positionChart.destroy();
-
     positionChart = null;
-
   }
-
 }
 
 
@@ -1297,25 +1019,20 @@ document
   .addEventListener(
     "input",
     event => {
-
       renderRanking(
         event.target.value
       );
-
     }
   );
-
 
 document
   .querySelector("#player-select")
   .addEventListener(
     "change",
     event => {
-
       selectPlayer(
         event.target.value
       );
-
     }
   );
 
@@ -1325,58 +1042,39 @@ document
    ============================================================ */
 
 async function init() {
-
   try {
-
     [
-
       ranking,
-
       winners,
-
       categories,
-
       tournaments,
-
       participations,
-
       status
-
     ] = await Promise.all([
-
       loadJSON("jogadores.json"),
-
       loadJSON("vencedores.json"),
-
       loadJSON("categorias.json"),
-
       loadJSON("torneios.json"),
-
       loadJSON("participacoes.json"),
-
       loadJSON("status.json")
-
     ]);
-
 
     /* -----------------------------------------
        Renderização
        ----------------------------------------- */
 
     renderCards();
-
     renderInterval();
-
     renderRanking();
-
     renderPlayerSelector();
-
     renderWinners();
-
     renderCategories();
-
     renderTournaments();
 
+    /* -----------------------------------------
+       Eventos de Modal
+       ----------------------------------------- */
+    initAvatarModalEvents();
 
     /* -----------------------------------------
        Status
@@ -1385,33 +1083,23 @@ async function init() {
     document
       .querySelector("#status")
       .textContent =
-
       status.updated_at
-
         ? `Última atualização: ${dateFmt(status.updated_at)}`
-
         : "Aguardando a primeira atualização automática.";
 
-
   } catch (error) {
-
     console.error(error);
-
 
     document
       .querySelector("#status")
       .textContent =
         "Não foi possível carregar os dados.";
 
-
     document
       .querySelector("#interval")
       .textContent =
         "Verifique os arquivos JSON e execute o workflow de atualização.";
-
   }
-
 }
-
 
 init();
