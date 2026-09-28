@@ -7,7 +7,9 @@
    ------------------------------------------------------------ */
 const playerAvatars = {
   "Aprendiz17": "avatars/Aprendiz17.png",
-  "HigorFPCastro": "avatars/HigorFPCastro.png"
+  "HigorFPCastro": "avatars/HigorFPCastro.png",
+   "CarlosElanha22-b": "avatars/CarlosElanha22-b.png",
+   "magal100": "avatars/magal100.png"
 };
 
 function getPlayerAvatar(username) {
