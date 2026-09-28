@@ -147,10 +147,19 @@
 
         <div class="player-heading">
 
-          <div>
-            <span class="player-label">Jogador</span>
-
-            <h3 id="selected-player-name">—</h3>
+          <div class="player-info-container" style="display: flex; align-items: center; gap: 1rem;">
+            <img 
+              id="selected-player-avatar" 
+              src="" 
+              alt="Avatar do jogador" 
+              class="player-avatar-large"
+              style="width: 56px; height: 56px; border-radius: 50%; object-fit: cover; cursor: pointer;"
+              title="Clique para ampliar a foto"
+            >
+            <div>
+              <span class="player-label">Jogador</span>
+              <h3 id="selected-player-name">—</h3>
+            </div>
           </div>
 
           <div id="selected-player-position" class="current-position">
@@ -442,6 +451,19 @@
     </div>
 
   </footer>
+
+
+  <!-- =========================================================
+       MODAL DE ZOOM DO AVATAR
+       ========================================================= -->
+
+  <div id="avatar-modal" class="modal hidden">
+    <div class="modal-content">
+      <span id="avatar-modal-close" class="modal-close">&times;</span>
+      <img id="avatar-modal-img" src="" alt="Avatar expandido">
+      <p id="avatar-modal-caption"></p>
+    </div>
+  </div>
 
 
   <script src="app.js"></script>
