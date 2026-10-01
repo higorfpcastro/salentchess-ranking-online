@@ -61565,5 +61565,137 @@
     "tournament_name": "1864º SLT JUDIT POLGÁR Arena",
     "startsAt": 1790802300000,
     "tournament_url": "https://lichess.org/tournament/hljSmYt3"
+  },
+  {
+    "username": "LevyRodrigues",
+    "rating": 1886,
+    "score": 15,
+    "performance": 2054.0,
+    "rank": 1,
+    "tournament_id": "q6oBxDiR",
+    "tournament_name": "1865º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1790888700000,
+    "tournament_url": "https://lichess.org/tournament/q6oBxDiR"
+  },
+  {
+    "username": "Thunder2021",
+    "rating": 1891,
+    "score": 10,
+    "performance": 2173.0,
+    "rank": 2,
+    "tournament_id": "q6oBxDiR",
+    "tournament_name": "1865º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1790888700000,
+    "tournament_url": "https://lichess.org/tournament/q6oBxDiR"
+  },
+  {
+    "username": "Marquinhosantonio",
+    "rating": 1883,
+    "score": 9,
+    "performance": 2096.0,
+    "rank": 3,
+    "tournament_id": "q6oBxDiR",
+    "tournament_name": "1865º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1790888700000,
+    "tournament_url": "https://lichess.org/tournament/q6oBxDiR"
+  },
+  {
+    "username": "monstercofee",
+    "rating": 1678,
+    "score": 5,
+    "performance": 1713.0,
+    "rank": 4,
+    "tournament_id": "q6oBxDiR",
+    "tournament_name": "1865º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1790888700000,
+    "tournament_url": "https://lichess.org/tournament/q6oBxDiR"
+  },
+  {
+    "username": "XadrezDinelly",
+    "rating": 2128,
+    "score": 4,
+    "performance": 1858.0,
+    "rank": 5,
+    "tournament_id": "q6oBxDiR",
+    "tournament_name": "1865º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1790888700000,
+    "tournament_url": "https://lichess.org/tournament/q6oBxDiR"
+  },
+  {
+    "username": "Leominduin",
+    "rating": 2100,
+    "score": 3,
+    "performance": 2096.0,
+    "rank": 6,
+    "tournament_id": "q6oBxDiR",
+    "tournament_name": "1865º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1790888700000,
+    "tournament_url": "https://lichess.org/tournament/q6oBxDiR"
+  },
+  {
+    "username": "Leonilson",
+    "rating": 1851,
+    "score": 2,
+    "performance": 2223.0,
+    "rank": 7,
+    "tournament_id": "q6oBxDiR",
+    "tournament_name": "1865º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1790888700000,
+    "tournament_url": "https://lichess.org/tournament/q6oBxDiR"
+  },
+  {
+    "username": "F4bioSo4res",
+    "rating": 1889,
+    "score": 2,
+    "performance": 1658.0,
+    "rank": 8,
+    "tournament_id": "q6oBxDiR",
+    "tournament_name": "1865º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1790888700000,
+    "tournament_url": "https://lichess.org/tournament/q6oBxDiR"
+  },
+  {
+    "username": "rolandobrazil",
+    "rating": 1805,
+    "score": 2,
+    "performance": 1601.0,
+    "rank": 9,
+    "tournament_id": "q6oBxDiR",
+    "tournament_name": "1865º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1790888700000,
+    "tournament_url": "https://lichess.org/tournament/q6oBxDiR"
+  },
+  {
+    "username": "Gilbertooliveira78",
+    "rating": 1717,
+    "score": 2,
+    "performance": 1498.0,
+    "rank": 10,
+    "tournament_id": "q6oBxDiR",
+    "tournament_name": "1865º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1790888700000,
+    "tournament_url": "https://lichess.org/tournament/q6oBxDiR"
+  },
+  {
+    "username": "nelsonlopes",
+    "rating": 1820,
+    "score": 0,
+    "performance": null,
+    "rank": 11,
+    "tournament_id": "q6oBxDiR",
+    "tournament_name": "1865º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1790888700000,
+    "tournament_url": "https://lichess.org/tournament/q6oBxDiR"
+  },
+  {
+    "username": "VicenTeChes",
+    "rating": 1605,
+    "score": 0,
+    "performance": 1176.0,
+    "rank": 12,
+    "tournament_id": "q6oBxDiR",
+    "tournament_name": "1865º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1790888700000,
+    "tournament_url": "https://lichess.org/tournament/q6oBxDiR"
   }
 ]
