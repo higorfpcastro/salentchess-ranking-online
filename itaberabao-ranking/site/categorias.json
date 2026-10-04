@@ -404,8 +404,8 @@
     "Menor_Ranking": 4,
     "Participacoes": 16,
     "Posicao": 95,
-    "Movimento": -1,
-    "Movimento_Texto": "↓ 1"
+    "Movimento": 0,
+    "Movimento_Texto": "—"
   },
   {
     "Categoria": "1500–1599",
@@ -591,8 +591,8 @@
     "Menor_Ranking": 5,
     "Participacoes": 54,
     "Posicao": 68,
-    "Movimento": 1,
-    "Movimento_Texto": "↑ 1"
+    "Movimento": 0,
+    "Movimento_Texto": "—"
   },
   {
     "Categoria": "1700–1799",
@@ -761,8 +761,8 @@
     "Menor_Ranking": 1,
     "Participacoes": 51,
     "Posicao": 17,
-    "Movimento": 2,
-    "Movimento_Texto": "↑ 2"
+    "Movimento": 0,
+    "Movimento_Texto": "—"
   },
   {
     "Categoria": "1900–1999",
@@ -778,8 +778,8 @@
     "Menor_Ranking": 1,
     "Participacoes": 83,
     "Posicao": 18,
-    "Movimento": -1,
-    "Movimento_Texto": "↓ 1"
+    "Movimento": 0,
+    "Movimento_Texto": "—"
   },
   {
     "Categoria": "2000–2099",
@@ -897,8 +897,8 @@
     "Menor_Ranking": 1,
     "Participacoes": 40,
     "Posicao": 30,
-    "Movimento": 1,
-    "Movimento_Texto": "↑ 1"
+    "Movimento": 0,
+    "Movimento_Texto": "—"
   },
   {
     "Categoria": "2100–2199",
@@ -948,8 +948,8 @@
     "Menor_Ranking": 1,
     "Participacoes": 7,
     "Posicao": 98,
-    "Movimento": -1,
-    "Movimento_Texto": "↓ 1"
+    "Movimento": 0,
+    "Movimento_Texto": "—"
   },
   {
     "Categoria": "2200–2299",
