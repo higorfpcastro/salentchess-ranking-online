@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-09T01:46:00.375608+00:00",
-  "duration_seconds": 497.35,
+  "updated_at": "2026-10-10T01:34:31.528187+00:00",
+  "duration_seconds": 498.74,
   "team": "salentchess",
-  "tournaments": 281,
-  "players": 368,
-  "participations": 5747,
+  "tournaments": 282,
+  "players": 369,
+  "participations": 5772,
   "interval_start": "2026-01-01T21:05:00.214000+00:00",
-  "interval_end": "2026-10-08T21:05:00+00:00",
+  "interval_end": "2026-10-09T21:05:00+00:00",
   "success": true
 }
