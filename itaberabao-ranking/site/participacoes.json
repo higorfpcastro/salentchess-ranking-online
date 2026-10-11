@@ -63490,5 +63490,126 @@
     "tournament_name": "1873º SLT JUDIT POLGÁR Arena",
     "startsAt": 1791579900000,
     "tournament_url": "https://lichess.org/tournament/V1vK9cfE"
+  },
+  {
+    "username": "MATEMATICO",
+    "rating": 1907,
+    "score": 12,
+    "performance": 2043.0,
+    "rank": 1,
+    "tournament_id": "Fa1hLSCH",
+    "tournament_name": "1874º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1791666300000,
+    "tournament_url": "https://lichess.org/tournament/Fa1hLSCH"
+  },
+  {
+    "username": "Leominduin",
+    "rating": 2075,
+    "score": 8,
+    "performance": 2419.0,
+    "rank": 2,
+    "tournament_id": "Fa1hLSCH",
+    "tournament_name": "1874º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1791666300000,
+    "tournament_url": "https://lichess.org/tournament/Fa1hLSCH"
+  },
+  {
+    "username": "Gilbertooliveira78",
+    "rating": 1783,
+    "score": 6,
+    "performance": 1937.0,
+    "rank": 3,
+    "tournament_id": "Fa1hLSCH",
+    "tournament_name": "1874º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1791666300000,
+    "tournament_url": "https://lichess.org/tournament/Fa1hLSCH"
+  },
+  {
+    "username": "Tigre_do_Sertao",
+    "rating": 1978,
+    "score": 4,
+    "performance": 1939.0,
+    "rank": 4,
+    "tournament_id": "Fa1hLSCH",
+    "tournament_name": "1874º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1791666300000,
+    "tournament_url": "https://lichess.org/tournament/Fa1hLSCH"
+  },
+  {
+    "username": "filhosdavelha",
+    "rating": 2028,
+    "score": 2,
+    "performance": 2301.0,
+    "rank": 5,
+    "tournament_id": "Fa1hLSCH",
+    "tournament_name": "1874º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1791666300000,
+    "tournament_url": "https://lichess.org/tournament/Fa1hLSCH"
+  },
+  {
+    "username": "adrianosampaioBR",
+    "rating": 1545,
+    "score": 0,
+    "performance": null,
+    "rank": 6,
+    "tournament_id": "Fa1hLSCH",
+    "tournament_name": "1874º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1791666300000,
+    "tournament_url": "https://lichess.org/tournament/Fa1hLSCH"
+  },
+  {
+    "username": "nelsonlopes",
+    "rating": 1799,
+    "score": 0,
+    "performance": 1526.0,
+    "rank": 7,
+    "tournament_id": "Fa1hLSCH",
+    "tournament_name": "1874º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1791666300000,
+    "tournament_url": "https://lichess.org/tournament/Fa1hLSCH"
+  },
+  {
+    "username": "Leonilson",
+    "rating": 1858,
+    "score": 0,
+    "performance": 1423.0,
+    "rank": 8,
+    "tournament_id": "Fa1hLSCH",
+    "tournament_name": "1874º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1791666300000,
+    "tournament_url": "https://lichess.org/tournament/Fa1hLSCH"
+  },
+  {
+    "username": "VicenTeChes",
+    "rating": 1611,
+    "score": 0,
+    "performance": 1404.0,
+    "rank": 9,
+    "tournament_id": "Fa1hLSCH",
+    "tournament_name": "1874º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1791666300000,
+    "tournament_url": "https://lichess.org/tournament/Fa1hLSCH"
+  },
+  {
+    "username": "liki",
+    "rating": 1700,
+    "score": 0,
+    "performance": 1402.0,
+    "rank": 10,
+    "tournament_id": "Fa1hLSCH",
+    "tournament_name": "1874º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1791666300000,
+    "tournament_url": "https://lichess.org/tournament/Fa1hLSCH"
+  },
+  {
+    "username": "scalzibrunoinstagram",
+    "rating": 1462,
+    "score": 0,
+    "performance": 1388.0,
+    "rank": 11,
+    "tournament_id": "Fa1hLSCH",
+    "tournament_name": "1874º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1791666300000,
+    "tournament_url": "https://lichess.org/tournament/Fa1hLSCH"
   }
 ]
