@@ -63611,5 +63611,93 @@
     "tournament_name": "1874º SLT JUDIT POLGÁR Arena",
     "startsAt": 1791666300000,
     "tournament_url": "https://lichess.org/tournament/Fa1hLSCH"
+  },
+  {
+    "username": "VicenTeChes",
+    "rating": 1629,
+    "score": 8,
+    "performance": 2282.0,
+    "rank": 1,
+    "tournament_id": "VdKiaPX2",
+    "tournament_name": "1875º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1791752700000,
+    "tournament_url": "https://lichess.org/tournament/VdKiaPX2"
+  },
+  {
+    "username": "EdsonFaustino",
+    "rating": 1862,
+    "score": 8,
+    "performance": 2033.0,
+    "rank": 2,
+    "tournament_id": "VdKiaPX2",
+    "tournament_name": "1875º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1791752700000,
+    "tournament_url": "https://lichess.org/tournament/VdKiaPX2"
+  },
+  {
+    "username": "Zebradozaire",
+    "rating": 1809,
+    "score": 5,
+    "performance": 1905.0,
+    "rank": 3,
+    "tournament_id": "VdKiaPX2",
+    "tournament_name": "1875º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1791752700000,
+    "tournament_url": "https://lichess.org/tournament/VdKiaPX2"
+  },
+  {
+    "username": "MATEMATICO",
+    "rating": 1892,
+    "score": 4,
+    "performance": 1672.0,
+    "rank": 4,
+    "tournament_id": "VdKiaPX2",
+    "tournament_name": "1875º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1791752700000,
+    "tournament_url": "https://lichess.org/tournament/VdKiaPX2"
+  },
+  {
+    "username": "monstercofee",
+    "rating": 1638,
+    "score": 2,
+    "performance": 1476.0,
+    "rank": 5,
+    "tournament_id": "VdKiaPX2",
+    "tournament_name": "1875º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1791752700000,
+    "tournament_url": "https://lichess.org/tournament/VdKiaPX2"
+  },
+  {
+    "username": "liki",
+    "rating": 1688,
+    "score": 2,
+    "performance": 1472.0,
+    "rank": 6,
+    "tournament_id": "VdKiaPX2",
+    "tournament_name": "1875º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1791752700000,
+    "tournament_url": "https://lichess.org/tournament/VdKiaPX2"
+  },
+  {
+    "username": "nelsonlopes",
+    "rating": 1810,
+    "score": 0,
+    "performance": null,
+    "rank": 7,
+    "tournament_id": "VdKiaPX2",
+    "tournament_name": "1875º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1791752700000,
+    "tournament_url": "https://lichess.org/tournament/VdKiaPX2"
+  },
+  {
+    "username": "adrianosampaioBR",
+    "rating": 1518,
+    "score": 0,
+    "performance": null,
+    "rank": 8,
+    "tournament_id": "VdKiaPX2",
+    "tournament_name": "1875º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1791752700000,
+    "tournament_url": "https://lichess.org/tournament/VdKiaPX2"
   }
 ]

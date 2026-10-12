@@ -29,9 +29,9 @@
     "Maior_Pontuacao": 29,
     "Menor_Ranking": 1,
     "Participacoes": 50,
-    "Posicao": 10,
-    "Movimento": 0,
-    "Movimento_Texto": "—"
+    "Posicao": 11,
+    "Movimento": -1,
+    "Movimento_Texto": "↓ 1"
   },
   {
     "vencedores": "LevyRodrigues",
@@ -257,8 +257,8 @@
   {
     "vencedores": "MATEMATICO",
     "vitorias": 5,
-    "Pontos": 905,
-    "Desempenho_Medio": 1908.0,
+    "Pontos": 909,
+    "Desempenho_Medio": 1907.0,
     "podio_primeiro": 5,
     "podio_segundo": 7,
     "podio_terceiro": 12,
@@ -266,7 +266,7 @@
     "Pontos_por_Torneio": 7.0,
     "Maior_Pontuacao": 20,
     "Menor_Ranking": 1,
-    "Participacoes": 131,
+    "Participacoes": 132,
     "Posicao": 7,
     "Movimento": 0,
     "Movimento_Texto": "—"
@@ -539,9 +539,9 @@
     "Maior_Pontuacao": 31,
     "Menor_Ranking": 1,
     "Participacoes": 6,
-    "Posicao": 61,
-    "Movimento": 0,
-    "Movimento_Texto": "—"
+    "Posicao": 62,
+    "Movimento": -1,
+    "Movimento_Texto": "↓ 1"
   },
   {
     "vencedores": "Gilbertooliveira78",
@@ -559,6 +559,23 @@
     "Posicao": 4,
     "Movimento": 0,
     "Movimento_Texto": "—"
+  },
+  {
+    "vencedores": "VicenTeChes",
+    "vitorias": 2,
+    "Pontos": 695,
+    "Desempenho_Medio": 1706.0,
+    "podio_primeiro": 2,
+    "podio_segundo": 0,
+    "podio_terceiro": 6,
+    "Rating_Medio": 1698.0,
+    "Pontos_por_Torneio": 3.0,
+    "Maior_Pontuacao": 12,
+    "Menor_Ranking": 1,
+    "Participacoes": 202,
+    "Posicao": 10,
+    "Movimento": 1,
+    "Movimento_Texto": "↑ 1"
   },
   {
     "vencedores": "douglas27",
@@ -597,8 +614,8 @@
   {
     "vencedores": "liki",
     "vitorias": 2,
-    "Pontos": 489,
-    "Desempenho_Medio": 1615.0,
+    "Pontos": 491,
+    "Desempenho_Medio": 1614.0,
     "podio_primeiro": 2,
     "podio_segundo": 2,
     "podio_terceiro": 8,
@@ -606,7 +623,7 @@
     "Pontos_por_Torneio": 4.0,
     "Maior_Pontuacao": 19,
     "Menor_Ranking": 1,
-    "Participacoes": 127,
+    "Participacoes": 128,
     "Posicao": 20,
     "Movimento": 0,
     "Movimento_Texto": "—"
@@ -765,35 +782,18 @@
     "Movimento_Texto": "—"
   },
   {
-    "vencedores": "VicenTeChes",
-    "vitorias": 1,
-    "Pontos": 687,
-    "Desempenho_Medio": 1703.0,
-    "podio_primeiro": 1,
-    "podio_segundo": 0,
-    "podio_terceiro": 6,
-    "Rating_Medio": 1698.0,
-    "Pontos_por_Torneio": 3.0,
-    "Maior_Pontuacao": 12,
-    "Menor_Ranking": 1,
-    "Participacoes": 201,
-    "Posicao": 11,
-    "Movimento": 0,
-    "Movimento_Texto": "—"
-  },
-  {
     "vencedores": "monstercofee",
     "vitorias": 1,
-    "Pontos": 355,
-    "Desempenho_Medio": 1720.0,
+    "Pontos": 357,
+    "Desempenho_Medio": 1716.0,
     "podio_primeiro": 1,
     "podio_segundo": 1,
     "podio_terceiro": 1,
-    "Rating_Medio": 1702.0,
-    "Pontos_por_Torneio": 6.0,
+    "Rating_Medio": 1701.0,
+    "Pontos_por_Torneio": 5.0,
     "Maior_Pontuacao": 20,
     "Menor_Ranking": 1,
-    "Participacoes": 64,
+    "Participacoes": 65,
     "Posicao": 27,
     "Movimento": 0,
     "Movimento_Texto": "—"
@@ -920,19 +920,19 @@
   {
     "vencedores": "EdsonFaustino",
     "vitorias": 1,
-    "Pontos": 111,
-    "Desempenho_Medio": 1790.0,
+    "Pontos": 119,
+    "Desempenho_Medio": 1797.0,
     "podio_primeiro": 1,
-    "podio_segundo": 1,
+    "podio_segundo": 2,
     "podio_terceiro": 1,
-    "Rating_Medio": 1899.0,
+    "Rating_Medio": 1898.0,
     "Pontos_por_Torneio": 3.0,
     "Maior_Pontuacao": 17,
     "Menor_Ranking": 1,
-    "Participacoes": 37,
-    "Posicao": 63,
-    "Movimento": 0,
-    "Movimento_Texto": "—"
+    "Participacoes": 38,
+    "Posicao": 61,
+    "Movimento": 2,
+    "Movimento_Texto": "↑ 2"
   },
   {
     "vencedores": "RicardoLLopes",
@@ -1067,8 +1067,8 @@
     "Menor_Ranking": 1,
     "Participacoes": 9,
     "Posicao": 82,
-    "Movimento": -1,
-    "Movimento_Texto": "↓ 1"
+    "Movimento": 0,
+    "Movimento_Texto": "—"
   },
   {
     "vencedores": "solanabitcoin",
