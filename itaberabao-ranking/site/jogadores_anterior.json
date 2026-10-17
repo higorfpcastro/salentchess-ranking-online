@@ -20,11 +20,11 @@
     "Posicao": 5
   },
   {
-    "Nick": "Numsei01",
+    "Nick": "MATEMATICO",
     "Posicao": 6
   },
   {
-    "Nick": "MATEMATICO",
+    "Nick": "Numsei01",
     "Posicao": 7
   },
   {
@@ -36,11 +36,11 @@
     "Posicao": 9
   },
   {
-    "Nick": "Stormy-ChessWorld",
+    "Nick": "VicenTeChes",
     "Posicao": 10
   },
   {
-    "Nick": "VicenTeChes",
+    "Nick": "Stormy-ChessWorld",
     "Posicao": 11
   },
   {
@@ -96,11 +96,11 @@
     "Posicao": 24
   },
   {
-    "Nick": "Bali16",
+    "Nick": "XadrezDinelly",
     "Posicao": 25
   },
   {
-    "Nick": "XadrezDinelly",
+    "Nick": "Bali16",
     "Posicao": 26
   },
   {
@@ -164,15 +164,15 @@
     "Posicao": 41
   },
   {
-    "Nick": "joseRkasparov",
+    "Nick": "moleti65",
     "Posicao": 42
   },
   {
-    "Nick": "Balzabouth",
+    "Nick": "joseRkasparov",
     "Posicao": 43
   },
   {
-    "Nick": "moleti65",
+    "Nick": "Balzabouth",
     "Posicao": 44
   },
   {
@@ -256,11 +256,11 @@
     "Posicao": 64
   },
   {
-    "Nick": "RicardoLLopes",
+    "Nick": "nelsonlopes",
     "Posicao": 65
   },
   {
-    "Nick": "nelsonlopes",
+    "Nick": "RicardoLLopes",
     "Posicao": 66
   },
   {
@@ -308,15 +308,15 @@
     "Posicao": 77
   },
   {
-    "Nick": "scalzibrunoinstagram",
+    "Nick": "Zangao",
     "Posicao": 78
   },
   {
-    "Nick": "Botvinik1961",
+    "Nick": "scalzibrunoinstagram",
     "Posicao": 79
   },
   {
-    "Nick": "Zangao",
+    "Nick": "Botvinik1961",
     "Posicao": 80
   },
   {
@@ -616,11 +616,11 @@
     "Posicao": 154
   },
   {
-    "Nick": "Papaxibemano",
+    "Nick": "Ramirez2311",
     "Posicao": 155
   },
   {
-    "Nick": "Ramirez2311",
+    "Nick": "Papaxibemano",
     "Posicao": 156
   },
   {
@@ -1468,23 +1468,27 @@
     "Posicao": 367
   },
   {
-    "Nick": "Jhonmarcos",
+    "Nick": "cassiuss",
     "Posicao": 368
   },
   {
-    "Nick": "RonaldFischer",
+    "Nick": "Jhonmarcos",
     "Posicao": 369
   },
   {
-    "Nick": "mauroDuartE",
+    "Nick": "RonaldFischer",
     "Posicao": 370
   },
   {
-    "Nick": "wllndr",
+    "Nick": "mauroDuartE",
     "Posicao": 371
   },
   {
-    "Nick": "west_hunter",
+    "Nick": "wllndr",
     "Posicao": 372
+  },
+  {
+    "Nick": "west_hunter",
+    "Posicao": 373
   }
 ]
