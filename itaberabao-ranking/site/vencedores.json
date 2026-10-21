@@ -36,16 +36,16 @@
   {
     "vencedores": "j_erry",
     "vitorias": 14,
-    "Pontos": 1246,
-    "Desempenho_Medio": 1860.0,
+    "Pontos": 1258,
+    "Desempenho_Medio": 1861.0,
     "podio_primeiro": 14,
     "podio_segundo": 12,
-    "podio_terceiro": 14,
+    "podio_terceiro": 15,
     "Rating_Medio": 1953.0,
     "Pontos_por_Torneio": 7.0,
     "Maior_Pontuacao": 31,
     "Menor_Ranking": 1,
-    "Participacoes": 171,
+    "Participacoes": 172,
     "Posicao": 3,
     "Movimento": 0,
     "Movimento_Texto": "—"
@@ -53,16 +53,16 @@
   {
     "vencedores": "LevyRodrigues",
     "vitorias": 13,
-    "Pontos": 1465,
+    "Pontos": 1481,
     "Desempenho_Medio": 1782.0,
     "podio_primeiro": 13,
-    "podio_segundo": 19,
+    "podio_segundo": 20,
     "podio_terceiro": 18,
     "Rating_Medio": 1851.0,
     "Pontos_por_Torneio": 8.0,
     "Maior_Pontuacao": 30,
     "Menor_Ranking": 1,
-    "Participacoes": 178,
+    "Participacoes": 179,
     "Posicao": 2,
     "Movimento": 0,
     "Movimento_Texto": "—"
@@ -155,16 +155,16 @@
   {
     "vencedores": "Thunder2021",
     "vitorias": 8,
-    "Pontos": 664,
-    "Desempenho_Medio": 1974.0,
+    "Pontos": 670,
+    "Desempenho_Medio": 1971.0,
     "podio_primeiro": 8,
     "podio_segundo": 11,
     "podio_terceiro": 5,
-    "Rating_Medio": 1928.0,
+    "Rating_Medio": 1927.0,
     "Pontos_por_Torneio": 9.0,
     "Maior_Pontuacao": 24,
     "Menor_Ranking": 1,
-    "Participacoes": 70,
+    "Participacoes": 71,
     "Posicao": 12,
     "Movimento": 0,
     "Movimento_Texto": "—"
@@ -172,16 +172,16 @@
   {
     "vencedores": "capapreta999",
     "vitorias": 8,
-    "Pontos": 531,
-    "Desempenho_Medio": 1991.0,
+    "Pontos": 533,
+    "Desempenho_Medio": 1997.0,
     "podio_primeiro": 8,
     "podio_segundo": 6,
     "podio_terceiro": 6,
-    "Rating_Medio": 1934.0,
-    "Pontos_por_Torneio": 9.0,
+    "Rating_Medio": 1935.0,
+    "Pontos_por_Torneio": 8.0,
     "Maior_Pontuacao": 22,
     "Menor_Ranking": 1,
-    "Participacoes": 62,
+    "Participacoes": 63,
     "Posicao": 18,
     "Movimento": 0,
     "Movimento_Texto": "—"
@@ -216,14 +216,14 @@
     "Maior_Pontuacao": 24,
     "Menor_Ranking": 1,
     "Participacoes": 73,
-    "Posicao": 23,
-    "Movimento": 0,
-    "Movimento_Texto": "—"
+    "Posicao": 24,
+    "Movimento": -1,
+    "Movimento_Texto": "↓ 1"
   },
   {
     "vencedores": "Braziljr1",
     "vitorias": 6,
-    "Pontos": 586,
+    "Pontos": 594,
     "Desempenho_Medio": 1856.0,
     "podio_primeiro": 6,
     "podio_segundo": 7,
@@ -232,10 +232,27 @@
     "Pontos_por_Torneio": 10.0,
     "Maior_Pontuacao": 27,
     "Menor_Ranking": 1,
-    "Participacoes": 58,
+    "Participacoes": 59,
     "Posicao": 17,
     "Movimento": 0,
     "Movimento_Texto": "—"
+  },
+  {
+    "vencedores": "XadrezDinelly",
+    "vitorias": 6,
+    "Pontos": 476,
+    "Desempenho_Medio": 2004.0,
+    "podio_primeiro": 6,
+    "podio_segundo": 5,
+    "podio_terceiro": 9,
+    "Rating_Medio": 2118.0,
+    "Pontos_por_Torneio": 9.0,
+    "Maior_Pontuacao": 28,
+    "Menor_Ranking": 1,
+    "Participacoes": 51,
+    "Posicao": 23,
+    "Movimento": 1,
+    "Movimento_Texto": "↑ 1"
   },
   {
     "vencedores": "Deepsky1",
@@ -257,7 +274,7 @@
   {
     "vencedores": "fumecador",
     "vitorias": 5,
-    "Pontos": 1636,
+    "Pontos": 1644,
     "Desempenho_Medio": 1843.0,
     "podio_primeiro": 5,
     "podio_segundo": 11,
@@ -266,7 +283,7 @@
     "Pontos_por_Torneio": 7.0,
     "Maior_Pontuacao": 18,
     "Menor_Ranking": 1,
-    "Participacoes": 242,
+    "Participacoes": 243,
     "Posicao": 1,
     "Movimento": 0,
     "Movimento_Texto": "—"
@@ -302,23 +319,6 @@
     "Menor_Ranking": 1,
     "Participacoes": 61,
     "Posicao": 15,
-    "Movimento": 0,
-    "Movimento_Texto": "—"
-  },
-  {
-    "vencedores": "XadrezDinelly",
-    "vitorias": 5,
-    "Pontos": 448,
-    "Desempenho_Medio": 1996.0,
-    "podio_primeiro": 5,
-    "podio_segundo": 5,
-    "podio_terceiro": 9,
-    "Rating_Medio": 2117.0,
-    "Pontos_por_Torneio": 9.0,
-    "Maior_Pontuacao": 24,
-    "Menor_Ranking": 1,
-    "Participacoes": 50,
-    "Posicao": 24,
     "Movimento": 0,
     "Movimento_Texto": "—"
   },
@@ -359,8 +359,8 @@
   {
     "vencedores": "rolandobrazil",
     "vitorias": 4,
-    "Pontos": 654,
-    "Desempenho_Medio": 1836.0,
+    "Pontos": 658,
+    "Desempenho_Medio": 1835.0,
     "podio_primeiro": 4,
     "podio_segundo": 7,
     "podio_terceiro": 3,
@@ -368,7 +368,7 @@
     "Pontos_por_Torneio": 6.0,
     "Maior_Pontuacao": 20,
     "Menor_Ranking": 1,
-    "Participacoes": 118,
+    "Participacoes": 119,
     "Posicao": 14,
     "Movimento": 0,
     "Movimento_Texto": "—"
@@ -421,8 +421,8 @@
     "Menor_Ranking": 1,
     "Participacoes": 7,
     "Posicao": 58,
-    "Movimento": -1,
-    "Movimento_Texto": "↓ 1"
+    "Movimento": 0,
+    "Movimento_Texto": "—"
   },
   {
     "vencedores": "DiscipuloDoNekinho38",
@@ -438,8 +438,8 @@
     "Menor_Ranking": 1,
     "Participacoes": 7,
     "Posicao": 60,
-    "Movimento": -1,
-    "Movimento_Texto": "↓ 1"
+    "Movimento": 0,
+    "Movimento_Texto": "—"
   },
   {
     "vencedores": "Numsei01",
@@ -523,8 +523,8 @@
     "Menor_Ranking": 1,
     "Participacoes": 8,
     "Posicao": 54,
-    "Movimento": 6,
-    "Movimento_Texto": "↑ 6"
+    "Movimento": 0,
+    "Movimento_Texto": "—"
   },
   {
     "vencedores": "OmiCapivara",
@@ -572,7 +572,7 @@
     "Pontos_por_Torneio": 3.0,
     "Maior_Pontuacao": 12,
     "Menor_Ranking": 1,
-    "Participacoes": 209,
+    "Participacoes": 210,
     "Posicao": 11,
     "Movimento": 0,
     "Movimento_Texto": "—"
@@ -595,6 +595,23 @@
     "Movimento_Texto": "—"
   },
   {
+    "vencedores": "liki",
+    "vitorias": 2,
+    "Pontos": 513,
+    "Desempenho_Medio": 1620.0,
+    "podio_primeiro": 2,
+    "podio_segundo": 2,
+    "podio_terceiro": 8,
+    "Rating_Medio": 1678.0,
+    "Pontos_por_Torneio": 4.0,
+    "Maior_Pontuacao": 19,
+    "Menor_Ranking": 1,
+    "Participacoes": 132,
+    "Posicao": 19,
+    "Movimento": 1,
+    "Movimento_Texto": "↑ 1"
+  },
+  {
     "vencedores": "F4bioSo4res",
     "vitorias": 2,
     "Pontos": 512,
@@ -607,26 +624,9 @@
     "Maior_Pontuacao": 22,
     "Menor_Ranking": 1,
     "Participacoes": 85,
-    "Posicao": 19,
-    "Movimento": 0,
-    "Movimento_Texto": "—"
-  },
-  {
-    "vencedores": "liki",
-    "vitorias": 2,
-    "Pontos": 507,
-    "Desempenho_Medio": 1619.0,
-    "podio_primeiro": 2,
-    "podio_segundo": 2,
-    "podio_terceiro": 8,
-    "Rating_Medio": 1678.0,
-    "Pontos_por_Torneio": 4.0,
-    "Maior_Pontuacao": 19,
-    "Menor_Ranking": 1,
-    "Participacoes": 131,
     "Posicao": 20,
-    "Movimento": 0,
-    "Movimento_Texto": "—"
+    "Movimento": -1,
+    "Movimento_Texto": "↓ 1"
   },
   {
     "vencedores": "Phernando39",
@@ -744,8 +744,8 @@
     "Menor_Ranking": 1,
     "Participacoes": 25,
     "Posicao": 57,
-    "Movimento": -1,
-    "Movimento_Texto": "↓ 1"
+    "Movimento": 0,
+    "Movimento_Texto": "—"
   },
   {
     "vencedores": "Hou_yfan",
@@ -965,8 +965,8 @@
     "Menor_Ranking": 1,
     "Participacoes": 28,
     "Posicao": 67,
-    "Movimento": 3,
-    "Movimento_Texto": "↑ 3"
+    "Movimento": 0,
+    "Movimento_Texto": "—"
   },
   {
     "vencedores": "Causas1",
@@ -982,8 +982,8 @@
     "Menor_Ranking": 1,
     "Participacoes": 59,
     "Posicao": 68,
-    "Movimento": -1,
-    "Movimento_Texto": "↓ 1"
+    "Movimento": 0,
+    "Movimento_Texto": "—"
   },
   {
     "vencedores": "HigorFPCastro",
@@ -1169,8 +1169,8 @@
     "Menor_Ranking": 1,
     "Participacoes": 8,
     "Posicao": 99,
-    "Movimento": -1,
-    "Movimento_Texto": "↓ 1"
+    "Movimento": 0,
+    "Movimento_Texto": "—"
   },
   {
     "vencedores": "NBmacovi",
@@ -1203,8 +1203,8 @@
     "Menor_Ranking": 1,
     "Participacoes": 4,
     "Posicao": 113,
-    "Movimento": -1,
-    "Movimento_Texto": "↓ 1"
+    "Movimento": 0,
+    "Movimento_Texto": "—"
   },
   {
     "vencedores": "Erickchess10",
@@ -1220,8 +1220,8 @@
     "Menor_Ranking": 1,
     "Participacoes": 4,
     "Posicao": 116,
-    "Movimento": -1,
-    "Movimento_Texto": "↓ 1"
+    "Movimento": 0,
+    "Movimento_Texto": "—"
   },
   {
     "vencedores": "nibrchess",
@@ -1237,8 +1237,8 @@
     "Menor_Ranking": 1,
     "Participacoes": 2,
     "Posicao": 121,
-    "Movimento": -1,
-    "Movimento_Texto": "↓ 1"
+    "Movimento": 0,
+    "Movimento_Texto": "—"
   },
   {
     "vencedores": "caipiraochess",

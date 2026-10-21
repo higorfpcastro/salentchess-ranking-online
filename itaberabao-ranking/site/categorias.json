@@ -302,8 +302,8 @@
     "Menor_Ranking": 6,
     "Participacoes": 17,
     "Posicao": 118,
-    "Movimento": -1,
-    "Movimento_Texto": "↓ 1"
+    "Movimento": 0,
+    "Movimento_Texto": "—"
   },
   {
     "Categoria": "1400–1499",
@@ -470,7 +470,7 @@
     "Pontos_por_Torneio": 3.0,
     "Maior_Pontuacao": 12,
     "Menor_Ranking": 1,
-    "Participacoes": 209,
+    "Participacoes": 210,
     "Posicao": 11,
     "Movimento": 0,
     "Movimento_Texto": "—"
@@ -478,8 +478,8 @@
   {
     "Categoria": "1600–1699",
     "Nick": "liki",
-    "Pontos": 507,
-    "Desempenho_Medio": 1619.0,
+    "Pontos": 513,
+    "Desempenho_Medio": 1620.0,
     "podio_primeiro": 2,
     "podio_segundo": 2,
     "podio_terceiro": 8,
@@ -487,10 +487,10 @@
     "Pontos_por_Torneio": 4.0,
     "Maior_Pontuacao": 19,
     "Menor_Ranking": 1,
-    "Participacoes": 131,
-    "Posicao": 20,
-    "Movimento": 0,
-    "Movimento_Texto": "—"
+    "Participacoes": 132,
+    "Posicao": 19,
+    "Movimento": 1,
+    "Movimento_Texto": "↑ 1"
   },
   {
     "Categoria": "1600–1699",
@@ -513,15 +513,15 @@
     "Categoria": "1600–1699",
     "Nick": "aprendizscuto",
     "Pontos": 245,
-    "Desempenho_Medio": 1559.0,
+    "Desempenho_Medio": 1557.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
-    "Rating_Medio": 1621.0,
+    "Rating_Medio": 1620.0,
     "Pontos_por_Torneio": 2.0,
     "Maior_Pontuacao": 12,
     "Menor_Ranking": 4,
-    "Participacoes": 127,
+    "Participacoes": 128,
     "Posicao": 39,
     "Movimento": 0,
     "Movimento_Texto": "—"
@@ -529,16 +529,16 @@
   {
     "Categoria": "1600–1699",
     "Nick": "moleti65",
-    "Pontos": 231,
-    "Desempenho_Medio": 1645.0,
+    "Pontos": 237,
+    "Desempenho_Medio": 1647.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 2,
-    "Rating_Medio": 1609.0,
+    "Rating_Medio": 1611.0,
     "Pontos_por_Torneio": 6.0,
     "Maior_Pontuacao": 12,
     "Menor_Ranking": 3,
-    "Participacoes": 42,
+    "Participacoes": 43,
     "Posicao": 41,
     "Movimento": 0,
     "Movimento_Texto": "—"
@@ -598,7 +598,7 @@
     "Categoria": "1700–1799",
     "Nick": "nelsonlopes",
     "Pontos": 102,
-    "Desempenho_Medio": 1883.0,
+    "Desempenho_Medio": 1871.0,
     "podio_primeiro": 0,
     "podio_segundo": 0,
     "podio_terceiro": 0,
@@ -606,7 +606,7 @@
     "Pontos_por_Torneio": 2.0,
     "Maior_Pontuacao": 8,
     "Menor_Ranking": 5,
-    "Participacoes": 64,
+    "Participacoes": 65,
     "Posicao": 65,
     "Movimento": 0,
     "Movimento_Texto": "—"
@@ -625,13 +625,13 @@
     "Menor_Ranking": 1,
     "Participacoes": 28,
     "Posicao": 67,
-    "Movimento": 3,
-    "Movimento_Texto": "↑ 3"
+    "Movimento": 0,
+    "Movimento_Texto": "—"
   },
   {
     "Categoria": "1800–1899",
     "Nick": "fumecador",
-    "Pontos": 1636,
+    "Pontos": 1644,
     "Desempenho_Medio": 1843.0,
     "podio_primeiro": 5,
     "podio_segundo": 11,
@@ -640,7 +640,7 @@
     "Pontos_por_Torneio": 7.0,
     "Maior_Pontuacao": 18,
     "Menor_Ranking": 1,
-    "Participacoes": 242,
+    "Participacoes": 243,
     "Posicao": 1,
     "Movimento": 0,
     "Movimento_Texto": "—"
@@ -648,16 +648,16 @@
   {
     "Categoria": "1800–1899",
     "Nick": "LevyRodrigues",
-    "Pontos": 1465,
+    "Pontos": 1481,
     "Desempenho_Medio": 1782.0,
     "podio_primeiro": 13,
-    "podio_segundo": 19,
+    "podio_segundo": 20,
     "podio_terceiro": 18,
     "Rating_Medio": 1851.0,
     "Pontos_por_Torneio": 8.0,
     "Maior_Pontuacao": 30,
     "Menor_Ranking": 1,
-    "Participacoes": 178,
+    "Participacoes": 179,
     "Posicao": 2,
     "Movimento": 0,
     "Movimento_Texto": "—"
@@ -716,16 +716,16 @@
   {
     "Categoria": "1900–1999",
     "Nick": "j_erry",
-    "Pontos": 1246,
-    "Desempenho_Medio": 1860.0,
+    "Pontos": 1258,
+    "Desempenho_Medio": 1861.0,
     "podio_primeiro": 14,
     "podio_segundo": 12,
-    "podio_terceiro": 14,
+    "podio_terceiro": 15,
     "Rating_Medio": 1953.0,
     "Pontos_por_Torneio": 7.0,
     "Maior_Pontuacao": 31,
     "Menor_Ranking": 1,
-    "Participacoes": 171,
+    "Participacoes": 172,
     "Posicao": 3,
     "Movimento": 0,
     "Movimento_Texto": "—"
@@ -767,16 +767,16 @@
   {
     "Categoria": "1900–1999",
     "Nick": "Thunder2021",
-    "Pontos": 664,
-    "Desempenho_Medio": 1974.0,
+    "Pontos": 670,
+    "Desempenho_Medio": 1971.0,
     "podio_primeiro": 8,
     "podio_segundo": 11,
     "podio_terceiro": 5,
-    "Rating_Medio": 1928.0,
+    "Rating_Medio": 1927.0,
     "Pontos_por_Torneio": 9.0,
     "Maior_Pontuacao": 24,
     "Menor_Ranking": 1,
-    "Participacoes": 70,
+    "Participacoes": 71,
     "Posicao": 12,
     "Movimento": 0,
     "Movimento_Texto": "—"
@@ -784,7 +784,7 @@
   {
     "Categoria": "1900–1999",
     "Nick": "Braziljr1",
-    "Pontos": 586,
+    "Pontos": 594,
     "Desempenho_Medio": 1856.0,
     "podio_primeiro": 6,
     "podio_segundo": 7,
@@ -793,7 +793,7 @@
     "Pontos_por_Torneio": 10.0,
     "Maior_Pontuacao": 27,
     "Menor_Ranking": 1,
-    "Participacoes": 58,
+    "Participacoes": 59,
     "Posicao": 17,
     "Movimento": 0,
     "Movimento_Texto": "—"
@@ -886,19 +886,19 @@
   {
     "Categoria": "2100–2199",
     "Nick": "XadrezDinelly",
-    "Pontos": 448,
-    "Desempenho_Medio": 1996.0,
-    "podio_primeiro": 5,
+    "Pontos": 476,
+    "Desempenho_Medio": 2004.0,
+    "podio_primeiro": 6,
     "podio_segundo": 5,
     "podio_terceiro": 9,
-    "Rating_Medio": 2117.0,
+    "Rating_Medio": 2118.0,
     "Pontos_por_Torneio": 9.0,
-    "Maior_Pontuacao": 24,
+    "Maior_Pontuacao": 28,
     "Menor_Ranking": 1,
-    "Participacoes": 50,
-    "Posicao": 24,
-    "Movimento": 0,
-    "Movimento_Texto": "—"
+    "Participacoes": 51,
+    "Posicao": 23,
+    "Movimento": 1,
+    "Movimento_Texto": "↑ 1"
   },
   {
     "Categoria": "2100–2199",
@@ -1016,8 +1016,8 @@
     "Menor_Ranking": 1,
     "Participacoes": 25,
     "Posicao": 57,
-    "Movimento": -1,
-    "Movimento_Texto": "↓ 1"
+    "Movimento": 0,
+    "Movimento_Texto": "—"
   },
   {
     "Categoria": "2300–2399",
@@ -1033,8 +1033,8 @@
     "Menor_Ranking": 1,
     "Participacoes": 4,
     "Posicao": 116,
-    "Movimento": -1,
-    "Movimento_Texto": "↓ 1"
+    "Movimento": 0,
+    "Movimento_Texto": "—"
   },
   {
     "Categoria": "2300–2399",
