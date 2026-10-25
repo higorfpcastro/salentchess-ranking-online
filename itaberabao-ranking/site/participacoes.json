@@ -66449,5 +66449,126 @@
     "tournament_name": "1888º SLT JUDIT POLGÁR Arena",
     "startsAt": 1792875900000,
     "tournament_url": "https://lichess.org/tournament/Sz3c8AAr"
+  },
+  {
+    "username": "capapreta999",
+    "rating": 1961,
+    "score": 12,
+    "performance": 2025.0,
+    "rank": 1,
+    "tournament_id": "e0GDhDYO",
+    "tournament_name": "1889º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1792963800000,
+    "tournament_url": "https://lichess.org/tournament/e0GDhDYO"
+  },
+  {
+    "username": "Vitor_Hugo_moreira",
+    "rating": 1848,
+    "score": 8,
+    "performance": 1975.0,
+    "rank": 2,
+    "tournament_id": "e0GDhDYO",
+    "tournament_name": "1889º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1792963800000,
+    "tournament_url": "https://lichess.org/tournament/e0GDhDYO"
+  },
+  {
+    "username": "filhosdavelha",
+    "rating": 1965,
+    "score": 2,
+    "performance": 2421.0,
+    "rank": 3,
+    "tournament_id": "e0GDhDYO",
+    "tournament_name": "1889º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1792963800000,
+    "tournament_url": "https://lichess.org/tournament/e0GDhDYO"
+  },
+  {
+    "username": "ThiagoLiberato",
+    "rating": 1916,
+    "score": 2,
+    "performance": 1794.0,
+    "rank": 4,
+    "tournament_id": "e0GDhDYO",
+    "tournament_name": "1889º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1792963800000,
+    "tournament_url": "https://lichess.org/tournament/e0GDhDYO"
+  },
+  {
+    "username": "XadrezDinelly",
+    "rating": 2068,
+    "score": 2,
+    "performance": 1767.0,
+    "rank": 5,
+    "tournament_id": "e0GDhDYO",
+    "tournament_name": "1889º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1792963800000,
+    "tournament_url": "https://lichess.org/tournament/e0GDhDYO"
+  },
+  {
+    "username": "aprendizscuto",
+    "rating": 1613,
+    "score": 2,
+    "performance": 1642.0,
+    "rank": 6,
+    "tournament_id": "e0GDhDYO",
+    "tournament_name": "1889º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1792963800000,
+    "tournament_url": "https://lichess.org/tournament/e0GDhDYO"
+  },
+  {
+    "username": "RickVeteris",
+    "rating": 1560,
+    "score": 2,
+    "performance": 1562.0,
+    "rank": 7,
+    "tournament_id": "e0GDhDYO",
+    "tournament_name": "1889º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1792963800000,
+    "tournament_url": "https://lichess.org/tournament/e0GDhDYO"
+  },
+  {
+    "username": "Jeronimo81",
+    "rating": 1888,
+    "score": 0,
+    "performance": null,
+    "rank": 8,
+    "tournament_id": "e0GDhDYO",
+    "tournament_name": "1889º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1792963800000,
+    "tournament_url": "https://lichess.org/tournament/e0GDhDYO"
+  },
+  {
+    "username": "LucasMBoy",
+    "rating": 1778,
+    "score": 0,
+    "performance": null,
+    "rank": 9,
+    "tournament_id": "e0GDhDYO",
+    "tournament_name": "1889º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1792963800000,
+    "tournament_url": "https://lichess.org/tournament/e0GDhDYO"
+  },
+  {
+    "username": "FabianoElord",
+    "rating": 1492,
+    "score": 0,
+    "performance": 1261.0,
+    "rank": 10,
+    "tournament_id": "e0GDhDYO",
+    "tournament_name": "1889º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1792963800000,
+    "tournament_url": "https://lichess.org/tournament/e0GDhDYO"
+  },
+  {
+    "username": "Re_alves",
+    "rating": 1207,
+    "score": 0,
+    "performance": 1113.0,
+    "rank": 11,
+    "tournament_id": "e0GDhDYO",
+    "tournament_name": "1889º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1792963800000,
+    "tournament_url": "https://lichess.org/tournament/e0GDhDYO"
   }
 ]
