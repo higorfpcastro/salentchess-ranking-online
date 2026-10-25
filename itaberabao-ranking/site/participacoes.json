@@ -66372,5 +66372,82 @@
     "tournament_name": "1887º SLT JUDIT POLGÁR Arena",
     "startsAt": 1792789500000,
     "tournament_url": "https://lichess.org/tournament/ZO9WaMOT"
+  },
+  {
+    "username": "Jeronimo81",
+    "rating": 1888,
+    "score": 11,
+    "performance": 2099.0,
+    "rank": 1,
+    "tournament_id": "Sz3c8AAr",
+    "tournament_name": "1888º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1792875900000,
+    "tournament_url": "https://lichess.org/tournament/Sz3c8AAr"
+  },
+  {
+    "username": "Braziljr1",
+    "rating": 1951,
+    "score": 11,
+    "performance": 1925.0,
+    "rank": 2,
+    "tournament_id": "Sz3c8AAr",
+    "tournament_name": "1888º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1792875900000,
+    "tournament_url": "https://lichess.org/tournament/Sz3c8AAr"
+  },
+  {
+    "username": "GESSE_GNS",
+    "rating": 1961,
+    "score": 9,
+    "performance": 2152.0,
+    "rank": 3,
+    "tournament_id": "Sz3c8AAr",
+    "tournament_name": "1888º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1792875900000,
+    "tournament_url": "https://lichess.org/tournament/Sz3c8AAr"
+  },
+  {
+    "username": "Stormy-ChessWorld",
+    "rating": 1893,
+    "score": 6,
+    "performance": 2052.0,
+    "rank": 4,
+    "tournament_id": "Sz3c8AAr",
+    "tournament_name": "1888º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1792875900000,
+    "tournament_url": "https://lichess.org/tournament/Sz3c8AAr"
+  },
+  {
+    "username": "XadrezDinelly",
+    "rating": 2095,
+    "score": 4,
+    "performance": 2047.0,
+    "rank": 5,
+    "tournament_id": "Sz3c8AAr",
+    "tournament_name": "1888º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1792875900000,
+    "tournament_url": "https://lichess.org/tournament/Sz3c8AAr"
+  },
+  {
+    "username": "fumecador",
+    "rating": 1801,
+    "score": 0,
+    "performance": 1471.0,
+    "rank": 6,
+    "tournament_id": "Sz3c8AAr",
+    "tournament_name": "1888º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1792875900000,
+    "tournament_url": "https://lichess.org/tournament/Sz3c8AAr"
+  },
+  {
+    "username": "ericambrosiokkk",
+    "rating": 1439,
+    "score": 0,
+    "performance": 1415.0,
+    "rank": 7,
+    "tournament_id": "Sz3c8AAr",
+    "tournament_name": "1888º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1792875900000,
+    "tournament_url": "https://lichess.org/tournament/Sz3c8AAr"
   }
 ]
