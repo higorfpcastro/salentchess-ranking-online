@@ -67824,5 +67824,104 @@
     "tournament_name": "1894º SLT JUDIT POLGÁR Arena",
     "startsAt": 1793480700000,
     "tournament_url": "https://lichess.org/tournament/LudDh0bu"
+  },
+  {
+    "username": "XadrezDinelly",
+    "rating": 2079,
+    "score": 10,
+    "performance": 2131.0,
+    "rank": 1,
+    "tournament_id": "HJQircB0",
+    "tournament_name": "1895º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1793567100000,
+    "tournament_url": "https://lichess.org/tournament/HJQircB0"
+  },
+  {
+    "username": "capapreta999",
+    "rating": 2023,
+    "score": 8,
+    "performance": 2082.0,
+    "rank": 2,
+    "tournament_id": "HJQircB0",
+    "tournament_name": "1895º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1793567100000,
+    "tournament_url": "https://lichess.org/tournament/HJQircB0"
+  },
+  {
+    "username": "Leominduin",
+    "rating": 2096,
+    "score": 6,
+    "performance": 2285.0,
+    "rank": 3,
+    "tournament_id": "HJQircB0",
+    "tournament_name": "1895º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1793567100000,
+    "tournament_url": "https://lichess.org/tournament/HJQircB0"
+  },
+  {
+    "username": "fumecador",
+    "rating": 1874,
+    "score": 5,
+    "performance": 1895.0,
+    "rank": 4,
+    "tournament_id": "HJQircB0",
+    "tournament_name": "1895º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1793567100000,
+    "tournament_url": "https://lichess.org/tournament/HJQircB0"
+  },
+  {
+    "username": "rolandobrazil",
+    "rating": 1818,
+    "score": 4,
+    "performance": 1903.0,
+    "rank": 5,
+    "tournament_id": "HJQircB0",
+    "tournament_name": "1895º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1793567100000,
+    "tournament_url": "https://lichess.org/tournament/HJQircB0"
+  },
+  {
+    "username": "Braziljr1",
+    "rating": 1975,
+    "score": 3,
+    "performance": 1632.0,
+    "rank": 6,
+    "tournament_id": "HJQircB0",
+    "tournament_name": "1895º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1793567100000,
+    "tournament_url": "https://lichess.org/tournament/HJQircB0"
+  },
+  {
+    "username": "RicardoLLopes",
+    "rating": 1865,
+    "score": 2,
+    "performance": 2003.0,
+    "rank": 7,
+    "tournament_id": "HJQircB0",
+    "tournament_name": "1895º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1793567100000,
+    "tournament_url": "https://lichess.org/tournament/HJQircB0"
+  },
+  {
+    "username": "campeaodocais",
+    "rating": 1816,
+    "score": 0,
+    "performance": null,
+    "rank": 8,
+    "tournament_id": "HJQircB0",
+    "tournament_name": "1895º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1793567100000,
+    "tournament_url": "https://lichess.org/tournament/HJQircB0"
+  },
+  {
+    "username": "FabianoElord",
+    "rating": 1434,
+    "score": 0,
+    "performance": 1418.0,
+    "rank": 9,
+    "tournament_id": "HJQircB0",
+    "tournament_name": "1895º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1793567100000,
+    "tournament_url": "https://lichess.org/tournament/HJQircB0"
   }
 ]
