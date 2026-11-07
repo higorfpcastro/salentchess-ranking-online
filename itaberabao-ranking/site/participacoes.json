@@ -68869,5 +68869,181 @@
     "tournament_name": "1899º SLT JUDIT POLGÁR Arena",
     "startsAt": 1793912700000,
     "tournament_url": "https://lichess.org/tournament/vYDwjVU5"
+  },
+  {
+    "username": "capapreta999",
+    "rating": 2017,
+    "score": 24,
+    "performance": 2137.0,
+    "rank": 1,
+    "tournament_id": "yWNjNZea",
+    "tournament_name": "1900º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1793999100000,
+    "tournament_url": "https://lichess.org/tournament/yWNjNZea"
+  },
+  {
+    "username": "campeaodocais",
+    "rating": 1786,
+    "score": 18,
+    "performance": 2180.0,
+    "rank": 2,
+    "tournament_id": "yWNjNZea",
+    "tournament_name": "1900º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1793999100000,
+    "tournament_url": "https://lichess.org/tournament/yWNjNZea"
+  },
+  {
+    "username": "XadrezDinelly",
+    "rating": 2074,
+    "score": 17,
+    "performance": 2129.0,
+    "rank": 3,
+    "tournament_id": "yWNjNZea",
+    "tournament_name": "1900º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1793999100000,
+    "tournament_url": "https://lichess.org/tournament/yWNjNZea"
+  },
+  {
+    "username": "Gilbertooliveira78",
+    "rating": 1811,
+    "score": 12,
+    "performance": 2193.0,
+    "rank": 4,
+    "tournament_id": "yWNjNZea",
+    "tournament_name": "1900º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1793999100000,
+    "tournament_url": "https://lichess.org/tournament/yWNjNZea"
+  },
+  {
+    "username": "filhosdavelha",
+    "rating": 1993,
+    "score": 6,
+    "performance": 1874.0,
+    "rank": 5,
+    "tournament_id": "yWNjNZea",
+    "tournament_name": "1900º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1793999100000,
+    "tournament_url": "https://lichess.org/tournament/yWNjNZea"
+  },
+  {
+    "username": "j_erry",
+    "rating": 1931,
+    "score": 6,
+    "performance": 1835.0,
+    "rank": 6,
+    "tournament_id": "yWNjNZea",
+    "tournament_name": "1900º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1793999100000,
+    "tournament_url": "https://lichess.org/tournament/yWNjNZea"
+  },
+  {
+    "username": "ThiagoLiberato",
+    "rating": 1926,
+    "score": 5,
+    "performance": 2029.0,
+    "rank": 7,
+    "tournament_id": "yWNjNZea",
+    "tournament_name": "1900º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1793999100000,
+    "tournament_url": "https://lichess.org/tournament/yWNjNZea"
+  },
+  {
+    "username": "LevyRodrigues",
+    "rating": 1828,
+    "score": 5,
+    "performance": 1540.0,
+    "rank": 8,
+    "tournament_id": "yWNjNZea",
+    "tournament_name": "1900º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1793999100000,
+    "tournament_url": "https://lichess.org/tournament/yWNjNZea"
+  },
+  {
+    "username": "VicenTeChes",
+    "rating": 1668,
+    "score": 2,
+    "performance": 1916.0,
+    "rank": 9,
+    "tournament_id": "yWNjNZea",
+    "tournament_name": "1900º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1793999100000,
+    "tournament_url": "https://lichess.org/tournament/yWNjNZea"
+  },
+  {
+    "username": "rolandobrazil",
+    "rating": 1811,
+    "score": 2,
+    "performance": 1603.0,
+    "rank": 10,
+    "tournament_id": "yWNjNZea",
+    "tournament_name": "1900º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1793999100000,
+    "tournament_url": "https://lichess.org/tournament/yWNjNZea"
+  },
+  {
+    "username": "adrianosampaioBR",
+    "rating": 1536,
+    "score": 2,
+    "performance": 1559.0,
+    "rank": 11,
+    "tournament_id": "yWNjNZea",
+    "tournament_name": "1900º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1793999100000,
+    "tournament_url": "https://lichess.org/tournament/yWNjNZea"
+  },
+  {
+    "username": "fumecador",
+    "rating": 1866,
+    "score": 2,
+    "performance": 1519.0,
+    "rank": 12,
+    "tournament_id": "yWNjNZea",
+    "tournament_name": "1900º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1793999100000,
+    "tournament_url": "https://lichess.org/tournament/yWNjNZea"
+  },
+  {
+    "username": "aprendizscuto",
+    "rating": 1585,
+    "score": 0,
+    "performance": null,
+    "rank": 13,
+    "tournament_id": "yWNjNZea",
+    "tournament_name": "1900º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1793999100000,
+    "tournament_url": "https://lichess.org/tournament/yWNjNZea"
+  },
+  {
+    "username": "Nunes6",
+    "rating": 1785,
+    "score": 0,
+    "performance": 1504.0,
+    "rank": 14,
+    "tournament_id": "yWNjNZea",
+    "tournament_name": "1900º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1793999100000,
+    "tournament_url": "https://lichess.org/tournament/yWNjNZea"
+  },
+  {
+    "username": "Leonilson",
+    "rating": 1900,
+    "score": 0,
+    "performance": 1472.0,
+    "rank": 15,
+    "tournament_id": "yWNjNZea",
+    "tournament_name": "1900º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1793999100000,
+    "tournament_url": "https://lichess.org/tournament/yWNjNZea"
+  },
+  {
+    "username": "Cassaco0800",
+    "rating": 1890,
+    "score": 0,
+    "performance": 1442.0,
+    "rank": 16,
+    "tournament_id": "yWNjNZea",
+    "tournament_name": "1900º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1793999100000,
+    "tournament_url": "https://lichess.org/tournament/yWNjNZea"
   }
 ]
