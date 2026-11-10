@@ -69529,5 +69529,170 @@
     "tournament_name": "1902º SLT JUDIT POLGÁR Arena",
     "startsAt": 1794171900000,
     "tournament_url": "https://lichess.org/tournament/M0YTAS7I"
+  },
+  {
+    "username": "Jeronimo81",
+    "rating": 1890,
+    "score": 9,
+    "performance": 1824.0,
+    "rank": 1,
+    "tournament_id": "ds2RYGxf",
+    "tournament_name": "1903º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1794258300000,
+    "tournament_url": "https://lichess.org/tournament/ds2RYGxf"
+  },
+  {
+    "username": "XadrezDinelly",
+    "rating": 2002,
+    "score": 8,
+    "performance": 1963.0,
+    "rank": 2,
+    "tournament_id": "ds2RYGxf",
+    "tournament_name": "1903º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1794258300000,
+    "tournament_url": "https://lichess.org/tournament/ds2RYGxf"
+  },
+  {
+    "username": "Leonilson",
+    "rating": 1895,
+    "score": 8,
+    "performance": 1906.0,
+    "rank": 3,
+    "tournament_id": "ds2RYGxf",
+    "tournament_name": "1903º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1794258300000,
+    "tournament_url": "https://lichess.org/tournament/ds2RYGxf"
+  },
+  {
+    "username": "HELIMELGAA",
+    "rating": 1854,
+    "score": 8,
+    "performance": 1905.0,
+    "rank": 4,
+    "tournament_id": "ds2RYGxf",
+    "tournament_name": "1903º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1794258300000,
+    "tournament_url": "https://lichess.org/tournament/ds2RYGxf"
+  },
+  {
+    "username": "liki",
+    "rating": 1701,
+    "score": 6,
+    "performance": 1846.0,
+    "rank": 5,
+    "tournament_id": "ds2RYGxf",
+    "tournament_name": "1903º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1794258300000,
+    "tournament_url": "https://lichess.org/tournament/ds2RYGxf"
+  },
+  {
+    "username": "campeaodocais",
+    "rating": 1808,
+    "score": 4,
+    "performance": 1954.0,
+    "rank": 6,
+    "tournament_id": "ds2RYGxf",
+    "tournament_name": "1903º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1794258300000,
+    "tournament_url": "https://lichess.org/tournament/ds2RYGxf"
+  },
+  {
+    "username": "risoca",
+    "rating": 1904,
+    "score": 4,
+    "performance": 1894.0,
+    "rank": 7,
+    "tournament_id": "ds2RYGxf",
+    "tournament_name": "1903º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1794258300000,
+    "tournament_url": "https://lichess.org/tournament/ds2RYGxf"
+  },
+  {
+    "username": "aprendizscuto",
+    "rating": 1615,
+    "score": 4,
+    "performance": 1714.0,
+    "rank": 8,
+    "tournament_id": "ds2RYGxf",
+    "tournament_name": "1903º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1794258300000,
+    "tournament_url": "https://lichess.org/tournament/ds2RYGxf"
+  },
+  {
+    "username": "Ambroagem",
+    "rating": 1692,
+    "score": 4,
+    "performance": 1636.0,
+    "rank": 9,
+    "tournament_id": "ds2RYGxf",
+    "tournament_name": "1903º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1794258300000,
+    "tournament_url": "https://lichess.org/tournament/ds2RYGxf"
+  },
+  {
+    "username": "VicenTeChes",
+    "rating": 1669,
+    "score": 2,
+    "performance": 2405.0,
+    "rank": 10,
+    "tournament_id": "ds2RYGxf",
+    "tournament_name": "1903º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1794258300000,
+    "tournament_url": "https://lichess.org/tournament/ds2RYGxf"
+  },
+  {
+    "username": "Gilbertooliveira78",
+    "rating": 1782,
+    "score": 2,
+    "performance": 1545.0,
+    "rank": 11,
+    "tournament_id": "ds2RYGxf",
+    "tournament_name": "1903º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1794258300000,
+    "tournament_url": "https://lichess.org/tournament/ds2RYGxf"
+  },
+  {
+    "username": "RickVeteris",
+    "rating": 1594,
+    "score": 0,
+    "performance": null,
+    "rank": 12,
+    "tournament_id": "ds2RYGxf",
+    "tournament_name": "1903º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1794258300000,
+    "tournament_url": "https://lichess.org/tournament/ds2RYGxf"
+  },
+  {
+    "username": "Braziljr1",
+    "rating": 1929,
+    "score": 0,
+    "performance": 1396.0,
+    "rank": 13,
+    "tournament_id": "ds2RYGxf",
+    "tournament_name": "1903º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1794258300000,
+    "tournament_url": "https://lichess.org/tournament/ds2RYGxf"
+  },
+  {
+    "username": "FabianoElord",
+    "rating": 1426,
+    "score": 0,
+    "performance": 1390.0,
+    "rank": 14,
+    "tournament_id": "ds2RYGxf",
+    "tournament_name": "1903º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1794258300000,
+    "tournament_url": "https://lichess.org/tournament/ds2RYGxf"
+  },
+  {
+    "username": "daniel-peraza",
+    "rating": 1612,
+    "score": 0,
+    "performance": 1195.0,
+    "rank": 15,
+    "tournament_id": "ds2RYGxf",
+    "tournament_name": "1903º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1794258300000,
+    "tournament_url": "https://lichess.org/tournament/ds2RYGxf"
   }
 ]
