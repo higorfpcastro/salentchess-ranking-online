@@ -69914,5 +69914,148 @@
     "tournament_name": "1904º SLT JUDIT POLGÁR Arena",
     "startsAt": 1794344700000,
     "tournament_url": "https://lichess.org/tournament/1c9HhdPC"
+  },
+  {
+    "username": "Tonystar111",
+    "rating": 2035,
+    "score": 17,
+    "performance": 2079.0,
+    "rank": 1,
+    "tournament_id": "Vq3FXwR6",
+    "tournament_name": "1905º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1794431100000,
+    "tournament_url": "https://lichess.org/tournament/Vq3FXwR6"
+  },
+  {
+    "username": "capapreta999",
+    "rating": 2029,
+    "score": 12,
+    "performance": 2127.0,
+    "rank": 2,
+    "tournament_id": "Vq3FXwR6",
+    "tournament_name": "1905º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1794431100000,
+    "tournament_url": "https://lichess.org/tournament/Vq3FXwR6"
+  },
+  {
+    "username": "Jeronimo81",
+    "rating": 1904,
+    "score": 12,
+    "performance": 2081.0,
+    "rank": 3,
+    "tournament_id": "Vq3FXwR6",
+    "tournament_name": "1905º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1794431100000,
+    "tournament_url": "https://lichess.org/tournament/Vq3FXwR6"
+  },
+  {
+    "username": "XadrezDinelly",
+    "rating": 2032,
+    "score": 10,
+    "performance": 1971.0,
+    "rank": 4,
+    "tournament_id": "Vq3FXwR6",
+    "tournament_name": "1905º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1794431100000,
+    "tournament_url": "https://lichess.org/tournament/Vq3FXwR6"
+  },
+  {
+    "username": "LevyRodrigues",
+    "rating": 1866,
+    "score": 5,
+    "performance": 1807.0,
+    "rank": 5,
+    "tournament_id": "Vq3FXwR6",
+    "tournament_name": "1905º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1794431100000,
+    "tournament_url": "https://lichess.org/tournament/Vq3FXwR6"
+  },
+  {
+    "username": "Gilbertooliveira78",
+    "rating": 1780,
+    "score": 4,
+    "performance": 1899.0,
+    "rank": 6,
+    "tournament_id": "Vq3FXwR6",
+    "tournament_name": "1905º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1794431100000,
+    "tournament_url": "https://lichess.org/tournament/Vq3FXwR6"
+  },
+  {
+    "username": "EdOmar246",
+    "rating": 1924,
+    "score": 3,
+    "performance": 2419.0,
+    "rank": 7,
+    "tournament_id": "Vq3FXwR6",
+    "tournament_name": "1905º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1794431100000,
+    "tournament_url": "https://lichess.org/tournament/Vq3FXwR6"
+  },
+  {
+    "username": "Braziljr1",
+    "rating": 1913,
+    "score": 3,
+    "performance": 1701.0,
+    "rank": 8,
+    "tournament_id": "Vq3FXwR6",
+    "tournament_name": "1905º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1794431100000,
+    "tournament_url": "https://lichess.org/tournament/Vq3FXwR6"
+  },
+  {
+    "username": "liki",
+    "rating": 1705,
+    "score": 3,
+    "performance": 1551.0,
+    "rank": 9,
+    "tournament_id": "Vq3FXwR6",
+    "tournament_name": "1905º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1794431100000,
+    "tournament_url": "https://lichess.org/tournament/Vq3FXwR6"
+  },
+  {
+    "username": "daniel-peraza",
+    "rating": 1657,
+    "score": 2,
+    "performance": 2378.0,
+    "rank": 10,
+    "tournament_id": "Vq3FXwR6",
+    "tournament_name": "1905º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1794431100000,
+    "tournament_url": "https://lichess.org/tournament/Vq3FXwR6"
+  },
+  {
+    "username": "VicenTeChes",
+    "rating": 1651,
+    "score": 2,
+    "performance": 1547.0,
+    "rank": 11,
+    "tournament_id": "Vq3FXwR6",
+    "tournament_name": "1905º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1794431100000,
+    "tournament_url": "https://lichess.org/tournament/Vq3FXwR6"
+  },
+  {
+    "username": "Leonilson",
+    "rating": 1884,
+    "score": 0,
+    "performance": 1275.0,
+    "rank": 12,
+    "tournament_id": "Vq3FXwR6",
+    "tournament_name": "1905º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1794431100000,
+    "tournament_url": "https://lichess.org/tournament/Vq3FXwR6"
+  },
+  {
+    "username": "Darth_Vader_LMX",
+    "rating": 1793,
+    "score": 0,
+    "performance": 1272.0,
+    "rank": 13,
+    "tournament_id": "Vq3FXwR6",
+    "tournament_name": "1905º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1794431100000,
+    "tournament_url": "https://lichess.org/tournament/Vq3FXwR6"
   }
 ]
