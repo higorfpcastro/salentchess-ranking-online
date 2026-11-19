@@ -71267,5 +71267,192 @@
     "tournament_name": "1911º SLT JUDIT POLGÁR Arena",
     "startsAt": 1794949500000,
     "tournament_url": "https://lichess.org/tournament/XyNDH3jO"
+  },
+  {
+    "username": "j_erry",
+    "rating": 1925,
+    "score": 23,
+    "performance": 2096.0,
+    "rank": 1,
+    "tournament_id": "VRbwF0ro",
+    "tournament_name": "1912º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795035900000,
+    "tournament_url": "https://lichess.org/tournament/VRbwF0ro"
+  },
+  {
+    "username": "Jeronimo81",
+    "rating": 1843,
+    "score": 16,
+    "performance": 2310.0,
+    "rank": 2,
+    "tournament_id": "VRbwF0ro",
+    "tournament_name": "1912º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795035900000,
+    "tournament_url": "https://lichess.org/tournament/VRbwF0ro"
+  },
+  {
+    "username": "douglas27",
+    "rating": 1928,
+    "score": 16,
+    "performance": 2185.0,
+    "rank": 3,
+    "tournament_id": "VRbwF0ro",
+    "tournament_name": "1912º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795035900000,
+    "tournament_url": "https://lichess.org/tournament/VRbwF0ro"
+  },
+  {
+    "username": "LevyRodrigues",
+    "rating": 1921,
+    "score": 12,
+    "performance": 2122.0,
+    "rank": 4,
+    "tournament_id": "VRbwF0ro",
+    "tournament_name": "1912º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795035900000,
+    "tournament_url": "https://lichess.org/tournament/VRbwF0ro"
+  },
+  {
+    "username": "capapreta999",
+    "rating": 2020,
+    "score": 12,
+    "performance": 1960.0,
+    "rank": 5,
+    "tournament_id": "VRbwF0ro",
+    "tournament_name": "1912º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795035900000,
+    "tournament_url": "https://lichess.org/tournament/VRbwF0ro"
+  },
+  {
+    "username": "Fabio_Assuncao",
+    "rating": 1277,
+    "score": 8,
+    "performance": 1820.0,
+    "rank": 6,
+    "tournament_id": "VRbwF0ro",
+    "tournament_name": "1912º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795035900000,
+    "tournament_url": "https://lichess.org/tournament/VRbwF0ro"
+  },
+  {
+    "username": "buscapato33",
+    "rating": 2035,
+    "score": 6,
+    "performance": 1698.0,
+    "rank": 7,
+    "tournament_id": "VRbwF0ro",
+    "tournament_name": "1912º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795035900000,
+    "tournament_url": "https://lichess.org/tournament/VRbwF0ro"
+  },
+  {
+    "username": "moleti65",
+    "rating": 1630,
+    "score": 6,
+    "performance": 1676.0,
+    "rank": 8,
+    "tournament_id": "VRbwF0ro",
+    "tournament_name": "1912º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795035900000,
+    "tournament_url": "https://lichess.org/tournament/VRbwF0ro"
+  },
+  {
+    "username": "Ashletth",
+    "rating": 1757,
+    "score": 6,
+    "performance": 1515.0,
+    "rank": 9,
+    "tournament_id": "VRbwF0ro",
+    "tournament_name": "1912º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795035900000,
+    "tournament_url": "https://lichess.org/tournament/VRbwF0ro"
+  },
+  {
+    "username": "liki",
+    "rating": 1693,
+    "score": 5,
+    "performance": 1466.0,
+    "rank": 10,
+    "tournament_id": "VRbwF0ro",
+    "tournament_name": "1912º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795035900000,
+    "tournament_url": "https://lichess.org/tournament/VRbwF0ro"
+  },
+  {
+    "username": "XadrezDinelly",
+    "rating": 2148,
+    "score": 3,
+    "performance": 2193.0,
+    "rank": 11,
+    "tournament_id": "VRbwF0ro",
+    "tournament_name": "1912º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795035900000,
+    "tournament_url": "https://lichess.org/tournament/VRbwF0ro"
+  },
+  {
+    "username": "daniel-peraza",
+    "rating": 1544,
+    "score": 2,
+    "performance": 1845.0,
+    "rank": 12,
+    "tournament_id": "VRbwF0ro",
+    "tournament_name": "1912º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795035900000,
+    "tournament_url": "https://lichess.org/tournament/VRbwF0ro"
+  },
+  {
+    "username": "tiago_666",
+    "rating": 1258,
+    "score": 2,
+    "performance": 1650.0,
+    "rank": 13,
+    "tournament_id": "VRbwF0ro",
+    "tournament_name": "1912º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795035900000,
+    "tournament_url": "https://lichess.org/tournament/VRbwF0ro"
+  },
+  {
+    "username": "fumecador",
+    "rating": 1915,
+    "score": 2,
+    "performance": 1514.0,
+    "rank": 14,
+    "tournament_id": "VRbwF0ro",
+    "tournament_name": "1912º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795035900000,
+    "tournament_url": "https://lichess.org/tournament/VRbwF0ro"
+  },
+  {
+    "username": "Ambroagem",
+    "rating": 1676,
+    "score": 2,
+    "performance": 1426.0,
+    "rank": 15,
+    "tournament_id": "VRbwF0ro",
+    "tournament_name": "1912º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795035900000,
+    "tournament_url": "https://lichess.org/tournament/VRbwF0ro"
+  },
+  {
+    "username": "wandoitz",
+    "rating": 1880,
+    "score": 0,
+    "performance": 1343.0,
+    "rank": 16,
+    "tournament_id": "VRbwF0ro",
+    "tournament_name": "1912º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795035900000,
+    "tournament_url": "https://lichess.org/tournament/VRbwF0ro"
+  },
+  {
+    "username": "VicenTeChes",
+    "rating": 1597,
+    "score": 0,
+    "performance": 1248.0,
+    "rank": 17,
+    "tournament_id": "VRbwF0ro",
+    "tournament_name": "1912º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795035900000,
+    "tournament_url": "https://lichess.org/tournament/VRbwF0ro"
   }
 ]
