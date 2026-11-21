@@ -71696,5 +71696,192 @@
     "tournament_name": "1913º SLT JUDIT POLGÁR Arena",
     "startsAt": 1795122300000,
     "tournament_url": "https://lichess.org/tournament/BFQPBKA5"
+  },
+  {
+    "username": "Tonystar111",
+    "rating": 2030,
+    "score": 21,
+    "performance": 2168.0,
+    "rank": 1,
+    "tournament_id": "VsRIk54N",
+    "tournament_name": "1914º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795208700000,
+    "tournament_url": "https://lichess.org/tournament/VsRIk54N"
+  },
+  {
+    "username": "XadrezDinelly",
+    "rating": 2171,
+    "score": 14,
+    "performance": 2163.0,
+    "rank": 2,
+    "tournament_id": "VsRIk54N",
+    "tournament_name": "1914º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795208700000,
+    "tournament_url": "https://lichess.org/tournament/VsRIk54N"
+  },
+  {
+    "username": "buscapato33",
+    "rating": 2028,
+    "score": 11,
+    "performance": 1928.0,
+    "rank": 3,
+    "tournament_id": "VsRIk54N",
+    "tournament_name": "1914º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795208700000,
+    "tournament_url": "https://lichess.org/tournament/VsRIk54N"
+  },
+  {
+    "username": "j_erry",
+    "rating": 1903,
+    "score": 9,
+    "performance": 2048.0,
+    "rank": 4,
+    "tournament_id": "VsRIk54N",
+    "tournament_name": "1914º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795208700000,
+    "tournament_url": "https://lichess.org/tournament/VsRIk54N"
+  },
+  {
+    "username": "ccaso10",
+    "rating": 1894,
+    "score": 8,
+    "performance": 2054.0,
+    "rank": 5,
+    "tournament_id": "VsRIk54N",
+    "tournament_name": "1914º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795208700000,
+    "tournament_url": "https://lichess.org/tournament/VsRIk54N"
+  },
+  {
+    "username": "filhosdavelha",
+    "rating": 1985,
+    "score": 8,
+    "performance": 2031.0,
+    "rank": 6,
+    "tournament_id": "VsRIk54N",
+    "tournament_name": "1914º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795208700000,
+    "tournament_url": "https://lichess.org/tournament/VsRIk54N"
+  },
+  {
+    "username": "Gilbertooliveira78",
+    "rating": 1727,
+    "score": 6,
+    "performance": 1904.0,
+    "rank": 7,
+    "tournament_id": "VsRIk54N",
+    "tournament_name": "1914º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795208700000,
+    "tournament_url": "https://lichess.org/tournament/VsRIk54N"
+  },
+  {
+    "username": "LevyRodrigues",
+    "rating": 1870,
+    "score": 6,
+    "performance": 1674.0,
+    "rank": 8,
+    "tournament_id": "VsRIk54N",
+    "tournament_name": "1914º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795208700000,
+    "tournament_url": "https://lichess.org/tournament/VsRIk54N"
+  },
+  {
+    "username": "fumecador",
+    "rating": 1918,
+    "score": 4,
+    "performance": 1910.0,
+    "rank": 9,
+    "tournament_id": "VsRIk54N",
+    "tournament_name": "1914º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795208700000,
+    "tournament_url": "https://lichess.org/tournament/VsRIk54N"
+  },
+  {
+    "username": "malonepracinha",
+    "rating": 1827,
+    "score": 4,
+    "performance": 1788.0,
+    "rank": 10,
+    "tournament_id": "VsRIk54N",
+    "tournament_name": "1914º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795208700000,
+    "tournament_url": "https://lichess.org/tournament/VsRIk54N"
+  },
+  {
+    "username": "Joaquim_Pimentel",
+    "rating": 2044,
+    "score": 3,
+    "performance": 2680.0,
+    "rank": 11,
+    "tournament_id": "VsRIk54N",
+    "tournament_name": "1914º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795208700000,
+    "tournament_url": "https://lichess.org/tournament/VsRIk54N"
+  },
+  {
+    "username": "Ambroagem",
+    "rating": 1672,
+    "score": 2,
+    "performance": 1720.0,
+    "rank": 12,
+    "tournament_id": "VsRIk54N",
+    "tournament_name": "1914º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795208700000,
+    "tournament_url": "https://lichess.org/tournament/VsRIk54N"
+  },
+  {
+    "username": "Zangao",
+    "rating": 1690,
+    "score": 2,
+    "performance": 1667.0,
+    "rank": 13,
+    "tournament_id": "VsRIk54N",
+    "tournament_name": "1914º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795208700000,
+    "tournament_url": "https://lichess.org/tournament/VsRIk54N"
+  },
+  {
+    "username": "VicenTeChes",
+    "rating": 1598,
+    "score": 1,
+    "performance": 1402.0,
+    "rank": 14,
+    "tournament_id": "VsRIk54N",
+    "tournament_name": "1914º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795208700000,
+    "tournament_url": "https://lichess.org/tournament/VsRIk54N"
+  },
+  {
+    "username": "Braziljr1",
+    "rating": 1910,
+    "score": 0,
+    "performance": 1678.0,
+    "rank": 15,
+    "tournament_id": "VsRIk54N",
+    "tournament_name": "1914º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795208700000,
+    "tournament_url": "https://lichess.org/tournament/VsRIk54N"
+  },
+  {
+    "username": "RicardoLLopes",
+    "rating": 1940,
+    "score": 0,
+    "performance": 1213.0,
+    "rank": 16,
+    "tournament_id": "VsRIk54N",
+    "tournament_name": "1914º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795208700000,
+    "tournament_url": "https://lichess.org/tournament/VsRIk54N"
+  },
+  {
+    "username": "capapreta999",
+    "rating": 1998,
+    "score": 0,
+    "performance": 1165.0,
+    "rank": 17,
+    "tournament_id": "VsRIk54N",
+    "tournament_name": "1914º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795208700000,
+    "tournament_url": "https://lichess.org/tournament/VsRIk54N"
   }
 ]
