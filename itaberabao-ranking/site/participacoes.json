@@ -72048,5 +72048,126 @@
     "tournament_name": "1915º SLT JUDIT POLGÁR Arena",
     "startsAt": 1795295100000,
     "tournament_url": "https://lichess.org/tournament/nNxVONbu"
+  },
+  {
+    "username": "XadrezDinelly",
+    "rating": 2138,
+    "score": 17,
+    "performance": 2240.0,
+    "rank": 1,
+    "tournament_id": "XvtlECcZ",
+    "tournament_name": "1916º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795381500000,
+    "tournament_url": "https://lichess.org/tournament/XvtlECcZ"
+  },
+  {
+    "username": "Marquinhosantonio",
+    "rating": 1917,
+    "score": 13,
+    "performance": 2076.0,
+    "rank": 2,
+    "tournament_id": "XvtlECcZ",
+    "tournament_name": "1916º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795381500000,
+    "tournament_url": "https://lichess.org/tournament/XvtlECcZ"
+  },
+  {
+    "username": "O_Aluno",
+    "rating": 1994,
+    "score": 6,
+    "performance": 1923.0,
+    "rank": 3,
+    "tournament_id": "XvtlECcZ",
+    "tournament_name": "1916º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795381500000,
+    "tournament_url": "https://lichess.org/tournament/XvtlECcZ"
+  },
+  {
+    "username": "RicardoLLopes",
+    "rating": 1943,
+    "score": 5,
+    "performance": 2099.0,
+    "rank": 4,
+    "tournament_id": "XvtlECcZ",
+    "tournament_name": "1916º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795381500000,
+    "tournament_url": "https://lichess.org/tournament/XvtlECcZ"
+  },
+  {
+    "username": "fumecador",
+    "rating": 1923,
+    "score": 5,
+    "performance": 1911.0,
+    "rank": 5,
+    "tournament_id": "XvtlECcZ",
+    "tournament_name": "1916º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795381500000,
+    "tournament_url": "https://lichess.org/tournament/XvtlECcZ"
+  },
+  {
+    "username": "Gilbertooliveira78",
+    "rating": 1735,
+    "score": 2,
+    "performance": 1693.0,
+    "rank": 6,
+    "tournament_id": "XvtlECcZ",
+    "tournament_name": "1916º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795381500000,
+    "tournament_url": "https://lichess.org/tournament/XvtlECcZ"
+  },
+  {
+    "username": "VicenTeChes",
+    "rating": 1616,
+    "score": 2,
+    "performance": 1648.0,
+    "rank": 7,
+    "tournament_id": "XvtlECcZ",
+    "tournament_name": "1916º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795381500000,
+    "tournament_url": "https://lichess.org/tournament/XvtlECcZ"
+  },
+  {
+    "username": "MqRmI",
+    "rating": 2045,
+    "score": 0,
+    "performance": null,
+    "rank": 8,
+    "tournament_id": "XvtlECcZ",
+    "tournament_name": "1916º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795381500000,
+    "tournament_url": "https://lichess.org/tournament/XvtlECcZ"
+  },
+  {
+    "username": "Joseano",
+    "rating": 1795,
+    "score": 0,
+    "performance": 1527.0,
+    "rank": 9,
+    "tournament_id": "XvtlECcZ",
+    "tournament_name": "1916º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795381500000,
+    "tournament_url": "https://lichess.org/tournament/XvtlECcZ"
+  },
+  {
+    "username": "liki",
+    "rating": 1734,
+    "score": 0,
+    "performance": 1519.0,
+    "rank": 10,
+    "tournament_id": "XvtlECcZ",
+    "tournament_name": "1916º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795381500000,
+    "tournament_url": "https://lichess.org/tournament/XvtlECcZ"
+  },
+  {
+    "username": "RickVeteris",
+    "rating": 1615,
+    "score": 0,
+    "performance": 1303.0,
+    "rank": 11,
+    "tournament_id": "XvtlECcZ",
+    "tournament_name": "1916º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795381500000,
+    "tournament_url": "https://lichess.org/tournament/XvtlECcZ"
   }
 ]
