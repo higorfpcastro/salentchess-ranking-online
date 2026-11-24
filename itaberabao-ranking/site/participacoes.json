@@ -72169,5 +72169,159 @@
     "tournament_name": "1916º SLT JUDIT POLGÁR Arena",
     "startsAt": 1795381500000,
     "tournament_url": "https://lichess.org/tournament/XvtlECcZ"
+  },
+  {
+    "username": "Entrenador3talentos",
+    "rating": 2154,
+    "score": 14,
+    "performance": 2369.0,
+    "rank": 1,
+    "tournament_id": "q0EiWJl0",
+    "tournament_name": "1917º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795467900000,
+    "tournament_url": "https://lichess.org/tournament/q0EiWJl0"
+  },
+  {
+    "username": "filhosdavelha",
+    "rating": 2005,
+    "score": 12,
+    "performance": 2448.0,
+    "rank": 2,
+    "tournament_id": "q0EiWJl0",
+    "tournament_name": "1917º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795467900000,
+    "tournament_url": "https://lichess.org/tournament/q0EiWJl0"
+  },
+  {
+    "username": "XadrezDinelly",
+    "rating": 2116,
+    "score": 11,
+    "performance": 2233.0,
+    "rank": 3,
+    "tournament_id": "q0EiWJl0",
+    "tournament_name": "1917º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795467900000,
+    "tournament_url": "https://lichess.org/tournament/q0EiWJl0"
+  },
+  {
+    "username": "RicardoLLopes",
+    "rating": 1964,
+    "score": 11,
+    "performance": 1885.0,
+    "rank": 4,
+    "tournament_id": "q0EiWJl0",
+    "tournament_name": "1917º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795467900000,
+    "tournament_url": "https://lichess.org/tournament/q0EiWJl0"
+  },
+  {
+    "username": "liki",
+    "rating": 1760,
+    "score": 9,
+    "performance": 1810.0,
+    "rank": 5,
+    "tournament_id": "q0EiWJl0",
+    "tournament_name": "1917º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795467900000,
+    "tournament_url": "https://lichess.org/tournament/q0EiWJl0"
+  },
+  {
+    "username": "capapreta999",
+    "rating": 1993,
+    "score": 6,
+    "performance": 1935.0,
+    "rank": 6,
+    "tournament_id": "q0EiWJl0",
+    "tournament_name": "1917º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795467900000,
+    "tournament_url": "https://lichess.org/tournament/q0EiWJl0"
+  },
+  {
+    "username": "fumecador",
+    "rating": 1931,
+    "score": 6,
+    "performance": 1843.0,
+    "rank": 7,
+    "tournament_id": "q0EiWJl0",
+    "tournament_name": "1917º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795467900000,
+    "tournament_url": "https://lichess.org/tournament/q0EiWJl0"
+  },
+  {
+    "username": "Leonilson",
+    "rating": 1891,
+    "score": 4,
+    "performance": 2363.0,
+    "rank": 8,
+    "tournament_id": "q0EiWJl0",
+    "tournament_name": "1917º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795467900000,
+    "tournament_url": "https://lichess.org/tournament/q0EiWJl0"
+  },
+  {
+    "username": "Gilbertooliveira78",
+    "rating": 1750,
+    "score": 4,
+    "performance": 1720.0,
+    "rank": 9,
+    "tournament_id": "q0EiWJl0",
+    "tournament_name": "1917º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795467900000,
+    "tournament_url": "https://lichess.org/tournament/q0EiWJl0"
+  },
+  {
+    "username": "wandoitz",
+    "rating": 1891,
+    "score": 3,
+    "performance": 1629.0,
+    "rank": 10,
+    "tournament_id": "q0EiWJl0",
+    "tournament_name": "1917º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795467900000,
+    "tournament_url": "https://lichess.org/tournament/q0EiWJl0"
+  },
+  {
+    "username": "VicenTeChes",
+    "rating": 1607,
+    "score": 2,
+    "performance": 1647.0,
+    "rank": 11,
+    "tournament_id": "q0EiWJl0",
+    "tournament_name": "1917º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795467900000,
+    "tournament_url": "https://lichess.org/tournament/q0EiWJl0"
+  },
+  {
+    "username": "ELEFANTE19",
+    "rating": 1884,
+    "score": 2,
+    "performance": 1572.0,
+    "rank": 12,
+    "tournament_id": "q0EiWJl0",
+    "tournament_name": "1917º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795467900000,
+    "tournament_url": "https://lichess.org/tournament/q0EiWJl0"
+  },
+  {
+    "username": "daniel-peraza",
+    "rating": 1561,
+    "score": 0,
+    "performance": null,
+    "rank": 13,
+    "tournament_id": "q0EiWJl0",
+    "tournament_name": "1917º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795467900000,
+    "tournament_url": "https://lichess.org/tournament/q0EiWJl0"
+  },
+  {
+    "username": "Ashletth",
+    "rating": 1783,
+    "score": 0,
+    "performance": 1474.0,
+    "rank": 14,
+    "tournament_id": "q0EiWJl0",
+    "tournament_name": "1917º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795467900000,
+    "tournament_url": "https://lichess.org/tournament/q0EiWJl0"
   }
 ]
