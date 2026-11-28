@@ -72884,5 +72884,148 @@
     "tournament_name": "1920º SLT JUDIT POLGÁR Arena",
     "startsAt": 1795727100000,
     "tournament_url": "https://lichess.org/tournament/khgjIB3N"
+  },
+  {
+    "username": "PJatoba",
+    "rating": 2270,
+    "score": 20,
+    "performance": 2364.0,
+    "rank": 1,
+    "tournament_id": "Fh0QR9AI",
+    "tournament_name": "1921º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795813500000,
+    "tournament_url": "https://lichess.org/tournament/Fh0QR9AI"
+  },
+  {
+    "username": "Marquinhosantonio",
+    "rating": 1917,
+    "score": 16,
+    "performance": 2124.0,
+    "rank": 2,
+    "tournament_id": "Fh0QR9AI",
+    "tournament_name": "1921º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795813500000,
+    "tournament_url": "https://lichess.org/tournament/Fh0QR9AI"
+  },
+  {
+    "username": "Braziljr1",
+    "rating": 1893,
+    "score": 13,
+    "performance": 1905.0,
+    "rank": 3,
+    "tournament_id": "Fh0QR9AI",
+    "tournament_name": "1921º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795813500000,
+    "tournament_url": "https://lichess.org/tournament/Fh0QR9AI"
+  },
+  {
+    "username": "j_erry",
+    "rating": 1921,
+    "score": 10,
+    "performance": 2189.0,
+    "rank": 4,
+    "tournament_id": "Fh0QR9AI",
+    "tournament_name": "1921º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795813500000,
+    "tournament_url": "https://lichess.org/tournament/Fh0QR9AI"
+  },
+  {
+    "username": "VicenTeChes",
+    "rating": 1627,
+    "score": 8,
+    "performance": 2075.0,
+    "rank": 5,
+    "tournament_id": "Fh0QR9AI",
+    "tournament_name": "1921º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795813500000,
+    "tournament_url": "https://lichess.org/tournament/Fh0QR9AI"
+  },
+  {
+    "username": "LevyRodrigues",
+    "rating": 1866,
+    "score": 7,
+    "performance": 1562.0,
+    "rank": 6,
+    "tournament_id": "Fh0QR9AI",
+    "tournament_name": "1921º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795813500000,
+    "tournament_url": "https://lichess.org/tournament/Fh0QR9AI"
+  },
+  {
+    "username": "XadrezDinelly",
+    "rating": 2131,
+    "score": 6,
+    "performance": 1851.0,
+    "rank": 7,
+    "tournament_id": "Fh0QR9AI",
+    "tournament_name": "1921º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795813500000,
+    "tournament_url": "https://lichess.org/tournament/Fh0QR9AI"
+  },
+  {
+    "username": "Fabio_Assuncao",
+    "rating": 1150,
+    "score": 6,
+    "performance": 1798.0,
+    "rank": 8,
+    "tournament_id": "Fh0QR9AI",
+    "tournament_name": "1921º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795813500000,
+    "tournament_url": "https://lichess.org/tournament/Fh0QR9AI"
+  },
+  {
+    "username": "fumecador",
+    "rating": 1897,
+    "score": 5,
+    "performance": 1523.0,
+    "rank": 9,
+    "tournament_id": "Fh0QR9AI",
+    "tournament_name": "1921º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795813500000,
+    "tournament_url": "https://lichess.org/tournament/Fh0QR9AI"
+  },
+  {
+    "username": "douglas27",
+    "rating": 1907,
+    "score": 4,
+    "performance": 1751.0,
+    "rank": 10,
+    "tournament_id": "Fh0QR9AI",
+    "tournament_name": "1921º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795813500000,
+    "tournament_url": "https://lichess.org/tournament/Fh0QR9AI"
+  },
+  {
+    "username": "Gilbertooliveira78",
+    "rating": 1708,
+    "score": 3,
+    "performance": 1392.0,
+    "rank": 11,
+    "tournament_id": "Fh0QR9AI",
+    "tournament_name": "1921º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795813500000,
+    "tournament_url": "https://lichess.org/tournament/Fh0QR9AI"
+  },
+  {
+    "username": "Evercito",
+    "rating": 1796,
+    "score": 2,
+    "performance": 1825.0,
+    "rank": 12,
+    "tournament_id": "Fh0QR9AI",
+    "tournament_name": "1921º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795813500000,
+    "tournament_url": "https://lichess.org/tournament/Fh0QR9AI"
+  },
+  {
+    "username": "liki",
+    "rating": 1732,
+    "score": 2,
+    "performance": 1567.0,
+    "rank": 13,
+    "tournament_id": "Fh0QR9AI",
+    "tournament_name": "1921º SLT JUDIT POLGÁR Arena",
+    "startsAt": 1795813500000,
+    "tournament_url": "https://lichess.org/tournament/Fh0QR9AI"
   }
 ]
